@@ -1,0 +1,119 @@
+{
+  "seriesNumber": 1,
+  "title": "Convergence as Polycrisis Resilience",
+  "subtitle": "How Narrowing Development Gaps Can Reduce Humanity's Exposure to Interconnected Systemic Threats",
+  "type": "Research Report",
+  "datePublished": "2026-11-05",
+  "dateModified": "2026-11-05",
+  "doi": "10.6084/m9.figshare.34920174",
+  "repository": {
+    "name": "figshare",
+    "url": "https://figshare.com/articles/preprint/Convergence_as_Polycrisis_Resilience/34920174"
+  },
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "license": {
+    "name": "Creative Commons Attribution 4.0 International",
+    "shortName": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 36,
+  "language": "en",
+  "description": "Why the danger of today's polycrisis depends on unequal capacity to respond, and how economic, technological, environmental and human development convergence can reduce systemic vulnerability.",
+  "themes": ["Economic", "Technological", "Environmental", "Human Development"],
+  "keywords": [
+    "polycrisis",
+    "convergence",
+    "resilience",
+    "development",
+    "adaptation",
+    "systemic risk",
+    "adaptive capacity",
+    "disaster risk reduction",
+    "Convergence Resilience Dividend"
+  ],
+  "subjects": [
+    { "name": "Economic development policy", "scheme": "ANZSRC FoR", "code": "440703" },
+    { "name": "Political economy and social change", "scheme": "ANZSRC FoR", "code": "440404" },
+    { "name": "Risk policy", "scheme": "ANZSRC FoR", "code": "440711" },
+    { "name": "Climate change impacts and adaptation not elsewhere classified", "scheme": "ANZSRC FoR", "code": "410199" },
+    { "name": "Disaster and emergency management", "scheme": "ANZSRC FoR", "code": "350703" }
+  ],
+  "abstract": [
+    "<strong>Convergence as Polycrisis Resilience</strong> proposes that the danger posed by today's interconnected global crises is driven not only by the severity of threats themselves, but also by large disparities in humanity's capacity to respond to them. Drawing on evidence from development, disaster risk, health, infrastructure, and technology, the report argues that economic, technological, environmental, and human development convergence can reduce systemic vulnerability by narrowing capability gaps in areas such as energy, health care, digital access, water systems, and institutional capacity. The central proposition is that accelerating sustainable convergence should be understood not merely as a development objective, but as a long-term resilience strategy capable of strengthening adaptive capacity and improving human survivability across a wide range of risks.",
+    "The report introduces the concept of the <strong>Convergence Resilience Dividend</strong>, defined as the cumulative reduction in vulnerability and improvement in human capabilities associated with narrowing development disparities. Through analysis of global capability gaps, historical disaster case studies, and a stylized scenario exercise, it demonstrates how stronger capacities can transform identical hazards into vastly different outcomes. Evidence from Bangladesh's cyclone preparedness, Chile's earthquake resilience, and global trends in disaster mortality suggests that investments in survivability-enhancing capabilities can significantly reduce losses even before full economic convergence is achieved.",
+    "To operationalize the framework, the report identifies five primary pathways linking convergence to resilience: energy access, health systems, digital connectivity, water and infrastructure, and fiscal-institutional capacity. An illustrative model suggests that accelerated convergence could reduce relative vulnerability by approximately 25% by 2050 and 36% by 2100 compared with a baseline trajectory, though outcomes remain highly uncertain and dependent on assumptions regarding the relationship between development and vulnerability. The report concludes that while sustainable convergence cannot replace efforts to reduce hazards such as climate change and conflict, it represents a potentially significant complement to them by expanding humanity's collective ability to anticipate, absorb, and recover from systemic shocks."
+  ],
+  "coreProposition": "The global polycrisis is intensified not only by the existence of interconnected threats, but also by disparities in humanity's capacity to respond to them. Economic, technological, environmental, and human development convergence can reduce these disparities by expanding the resources, capabilities, and technologies available to populations and countries facing systemic risks.",
+  "keyFindings": [
+    { "title": "The capability gap is enormous.", "text": "About 4.6 billion people lack essential health services, 3.4 billion lack safe sanitation, and around 2 billion each lack clean cooking, safe drinking water and internet use." },
+    { "title": "Gaps turn hazards into disasters.", "text": "Lower-income countries have under half of disaster events but about two-thirds of the deaths. A magnitude 7.0 earthquake killed roughly 200,000 people in Haiti in 2010; one releasing 500 times more energy killed about 500 in Chile." },
+    { "title": "Capability can be built, and it works.", "text": "Bangladesh cut cyclone deaths from at least 300,000 (1970) to about 30 (2020) with warnings, shelters and trained volunteers, without first becoming rich." },
+    { "title": "Convergence is real but slow and uneven.", "text": "Poorer countries now tend to grow faster than richer ones, but at a pace that would take generations to close the gap. About two-thirds of the world's extreme poor live in Sub-Saharan Africa." },
+    { "title": "Five pathways link catching up to safety:", "text": "energy, health, digital access, water and infrastructure, and fiscal and institutional strength." },
+    { "title": "The Convergence Resilience Dividend", "text": "is the proposed measure of safety gained by narrowing gaps. An illustrative scenario suggests accelerated convergence could lower vulnerability by roughly 25% by 2050 and 36% by 2100, with wide uncertainty. It is a stylized exercise, not a forecast." }
+  ],
+  "bottomLine": "Accelerating sustainable convergence is more than an economic goal. It is a long-term strategy for reducing global vulnerability, strengthening adaptive capacity and improving human survivability, working alongside efforts to reduce the threats themselves.",
+  "contents": [
+    { "number": "1", "title": "Introduction: Same Storm, Different Outcomes", "description": "Why the ability to respond matters as much as the threat", "page": 4 },
+    { "number": "2", "title": "The Polycrisis and the Capacity Gap", "description": "How connected threats meet unequal defenses", "page": 6 },
+    { "number": "3", "title": "The Core Concept: Convergence as Resilience", "description": "What convergence means and how it makes people safer", "page": 8 },
+    { "number": "4", "title": "The Capability Gap in Numbers", "description": "Who lacks energy, health, water, internet and finance", "page": 11 },
+    { "number": "5", "title": "Lessons from Real Events", "description": "Haiti, Chile, Bangladesh and early warning", "page": 14 },
+    { "number": "6", "title": "Is Convergence Actually Happening?", "description": "Checking the evidence on catching up", "page": 17 },
+    { "number": "7", "title": "Five Pathways from Catching Up to Safety", "description": "Energy, health, digital, water and infrastructure, institutions", "page": 19 },
+    { "number": "8", "title": "The Development–Resilience Loop", "description": "Virtuous cycles, vulnerability traps and tipping points", "page": 22 },
+    { "number": "9", "title": "The Convergence Resilience Dividend", "description": "A proposed measure of the safety gained", "page": 24 },
+    { "number": "10", "title": "A Scenario Exercise", "description": "Baseline versus accelerated convergence, with uncertainty", "page": 26 },
+    { "number": "11", "title": "Limits, Risks and Caveats", "description": "What could go wrong with the idea", "page": 30 },
+    { "number": "12", "title": "Action Agenda and Conclusion", "description": "What governments, funders, firms and researchers can do", "page": 32 },
+    { "number": "", "title": "Glossary of Key Terms", "description": "Plain-language definitions", "page": 34 },
+    { "number": "", "title": "Sources and References", "description": "Numbered to match citations in the text", "page": 35 }
+  ],
+  "glossary": [
+    { "term": "Adaptive capacity", "definition": "The ability of people, communities and governments to prepare for, respond to and recover from shocks and to adjust over time." },
+    { "term": "Capability gap", "definition": "The difference between the services, technologies and resources available to different groups, such as access to electricity, health care or the internet." },
+    { "term": "Convergence", "definition": "The process by which lower-income places catch up with higher-income places in income, technology, environmental quality and human development." },
+    { "term": "Convergence Resilience Dividend", "definition": "The proposed H Heuristics measure of the cumulative reduction in systemic vulnerability and improvement in human development capabilities associated with narrowing development disparities." },
+    { "term": "Polycrisis", "definition": "A situation in which crises in multiple global systems are causally entangled, making each other worse and reducing humanity's prospects." },
+    { "term": "Resilience", "definition": "The ability to absorb shocks, keep functioning, recover and adapt." },
+    { "term": "Survivability", "definition": "In this report, the likelihood that people avoid preventable death and lasting harm when shocks occur." },
+    { "term": "Sustainable convergence", "definition": "Catching up that is low-carbon, nature-positive and inclusive and lasting." },
+    { "term": "Systemic risk", "definition": "Risk that spreads through connected systems so that a local shock can have wide effects." },
+    { "term": "Vulnerability", "definition": "How badly exposed people and systems are harmed by a hazard, based on their sensitivity and ability to cope." }
+  ],
+  "references": [
+    { "text": "Lawrence, M., Homer-Dixon, T., Janzwood, S., et al. (2024). Global polycrisis: the causal mechanisms of crisis entanglement. Global Sustainability.", "url": "https://doi.org/10.1017/sus.2024.1", "doi": "10.1017/sus.2024.1" },
+    { "text": "World Bank (2024). Poverty, Prosperity, and Planet Report 2024: Pathways Out of the Polycrisis.", "url": "https://openknowledge.worldbank.org/entities/publication/e789cf0e-816c-41ef-ad3a-471948f374ce/full" },
+    { "text": "Our World in Data (2025). Tracking how many people live on less than $3, $10, or $30 a day.", "url": "https://ourworldindata.org/tracking-how-many-people-live-on-less-than-3-10-or-30-a-day" },
+    { "text": "IEA, IRENA, UN Statistics Division, World Bank and WHO (2025). Tracking SDG 7: The Energy Progress Report 2025.", "url": "https://www.irena.org/Publications/2025/Jun/Tracking-SDG-7-The-Energy-Progress-Report-2025" },
+    { "text": "WHO and UNICEF Joint Monitoring Programme (2025). Progress on Household Drinking Water, Sanitation and Hygiene 2000–2024: Special Focus on Inequalities.", "url": "https://www.who.int/teams/environment-climate-change-and-health/water-sanitation-and-health/monitoring-and-evidence/wash-monitoring" },
+    { "text": "WHO and World Bank (2025). Universal Health Coverage Global Monitoring Report 2025 (news release, 6 December 2025).", "url": "https://www.who.int/news/item/06-12-2025-most-countries-make-progress-towards-universal-health-coverage-but-major-challenges-remain-who-world-bank-report-finds" },
+    { "text": "International Telecommunication Union (2025). Measuring Digital Development: Facts and Figures 2025.", "url": "https://www.itu.int/en/ITU-D/Statistics/Pages/facts/default.aspx" },
+    { "text": "UNEP (2025). Adaptation Gap Report 2025: Running on Empty.", "url": "https://www.unep.org/resources/adaptation-gap-report-2025" },
+    { "text": "CRED and UNISDR (2015). The Human Cost of Natural Disasters: A Global Perspective.", "url": "https://preparecenter.org/resource/the-human-cost-of-natural-disasters-a-global-perspective" },
+    { "text": "CRED (2025). 2024 Disasters in Numbers and EM-DAT annual report.", "url": "https://files.emdat.be/reports/2024_EMDAT_report.pdf" },
+    { "text": "Rentschler, J., Salhab, M. and Jafino, B. A. (2022). Flood exposure and poverty in 188 countries. Nature Communications.", "url": "https://doi.org/10.1038/s41467-022-30727-4", "doi": "10.1038/s41467-022-30727-4" },
+    { "text": "Kremer, M., Willis, J. and You, Y. (2022). Converging to Convergence. NBER Macroeconomics Annual 2021, vol. 36.", "url": "https://www.nber.org/books-and-chapters/nber-macroeconomics-annual-2021-volume-36/converging-convergence" },
+    { "text": "Florida International University, Extreme Events Institute. Haiti vs. Chile case study; and ScienceDaily (2011) on the 2010 earthquakes.", "url": "https://eei.fiu.edu/case_study/haiti-vs-chile/" },
+    { "text": "The Conversation (2020). Bangladesh has saved thousands of lives from a devastating cyclone; The Business Standard (2021). 50 years of cyclone preparedness.", "url": "https://theconversation.com/bangladesh-has-saved-thousands-of-lives-from-a-devastating-cyclone-heres-how-139903" },
+    { "text": "World Meteorological Organization (2025). Global Status of Multi-Hazard Early Warning Systems 2025.", "url": "https://wmo.int/publication-series/global-status-of-multi-hazard-early-warning-systems-2025" },
+    { "text": "UNDRR (2025). Global Assessment Report on Disaster Risk Reduction 2025: Resilience Pays.", "url": "https://www.preventionweb.net/news/billions-trillions-flagship-un-report-reveals-true-cost-disasters-and-how-reduce-them" },
+    { "text": "World Bank and GFDRR (2019). Lifelines: The Resilient Infrastructure Opportunity (press release).", "url": "https://unfccc.int/node/198157" },
+    { "text": "Ember (2025). Africa's solar imports surge 60%, giving the first evidence of a take-off in solar in Africa.", "url": "https://ember-energy.org/latest-updates/africas-solar-imports-surge-60-giving-the-first-evidence-of-a-take-off-in-solar-in-africa/" },
+    { "text": "WHO Global Health Observatory. SDG target 3.2: newborn and child mortality; UN IGME child mortality estimates.", "url": "https://www.who.int/data/gho/data/themes/topics/sdg-target-3_2-newborn-and-child-mortality" },
+    { "text": "IPCC (2022). Climate Change 2022: Impacts, Adaptation and Vulnerability, Working Group II contribution to the Sixth Assessment Report.", "url": "https://www.ipcc.ch/report/ar6/wg2/" },
+    { "text": "Rodin, J. (2014). The Resilience Dividend: Being Strong in a World Where Things Go Wrong. PublicAffairs." },
+    { "text": "University of Notre Dame Global Adaptation Initiative. ND-GAIN Country Index.", "url": "https://gain.nd.edu/" },
+    { "text": "Government of Pakistan, World Bank, UN and partners (2022). Pakistan Floods 2022: Post-Disaster Needs Assessment (UNDP press release, 28 October 2022).", "url": "https://www.undp.org/pakistan/press-releases/pdna-pakistan-floods" }
+  ]
+}

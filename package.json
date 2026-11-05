@@ -1,0 +1,13 @@
+{
+  "name": "polycrisis-resilience-platform",
+  "version": "1.0.0",
+  "private": true,
+  "description": "H Heuristics Polycrisis Resilience Series: static site for research reports with scholarly metadata.",
+  "type": "module",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "build": "node src/build.mjs",
+    "new": "node scripts/new-report.mjs",
+    "preview": "node src/build.mjs && npx --yes serve@14.2.4 dist -l 4321"
+  }
+}
