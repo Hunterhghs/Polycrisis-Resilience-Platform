@@ -20,7 +20,7 @@ Every push to `main` rebuilds and redeploys the site.
 
 **Set the site URL.** Canonical links, `citation_pdf_url`, the sitemap and the feed all need the
 public address. Edit `siteUrl` in `site.config.json` (default
-`https://polycrisis-resilience-platform.pages.dev`), or set a `SITE_URL` environment variable in the
+`https://polycrisisresilience.hheuristics.com`), or set a `SITE_URL` environment variable in the
 Cloudflare Pages project settings, which overrides the config file. Update it if you add a custom domain.
 
 ## Add a new report
