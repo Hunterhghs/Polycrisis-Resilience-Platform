@@ -1,0 +1,333 @@
+{
+  "seriesNumber": 2,
+  "title": "Polycrisis Resilience: Clean Transition",
+  "subtitle": "How cleaner energy, industry, transport, homes and farms can reduce interconnected risks and strengthen human survivability",
+  "type": "Research Report",
+  "datePublished": "2026-11-05",
+  "dateModified": "2026-11-05",
+  "doi": "10.5281/zenodo.23970492",
+  "repository": {
+    "name": "Zenodo",
+    "url": "https://zenodo.org/records/23970492"
+  },
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "license": {
+    "name": "Creative Commons Attribution 4.0 International",
+    "shortName": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 32,
+  "language": "en",
+  "description": "How cleaner energy, industry, transport, homes and farms can reduce interconnected risks, strengthen adaptive capacity and support long-term human survivability.",
+  "themes": [
+    "Energy",
+    "Industry",
+    "Transport",
+    "Household",
+    "Agriculture",
+    "Circular systems"
+  ],
+  "keywords": [
+    "polycrisis resilience",
+    "clean transition",
+    "energy transition",
+    "human survivability",
+    "climate change",
+    "air pollution",
+    "energy security",
+    "sustainable development",
+    "adaptive capacity",
+    "technological diffusion",
+    "economic convergence",
+    "clean energy",
+    "Clean Transition Resilience Dividend"
+  ],
+  "abstract": [
+    "The global clean transition is often framed as an environmental imperative, but its significance extends far beyond emissions reduction. This report examines the clean transition through the lens of Polycrisis Resilience, arguing that cleaner energy, industry, transportation, household systems, agriculture, and circular resource management can simultaneously reduce multiple interconnected risks while strengthening the adaptive capacities necessary for long-term human survivability. Rather than treating climate change, air pollution, energy insecurity, ecosystem degradation, economic vulnerability, and public health burdens as separate challenges, the report proposes that many share common drivers and can therefore be addressed through coordinated systemic transformation.",
+    "The report introduces the central H Heuristics proposition that accelerating the global clean transition can reduce interconnected environmental and socioeconomic risks while enhancing development, technological diffusion, and resilience. It develops a framework organized around six pillars: clean energy, clean industrialization, clean transportation, household energy and pollution reduction, clean agriculture and resource systems, and pollution prevention with circular systems. Together, these pillars illustrate how a single transition can generate multiple benefits across climate mitigation, public health, energy security, economic development, technological convergence, and human wellbeing.",
+    "Building on this framework, the report presents the concepts of multi-dimensional resilience, the <strong>Clean Transition Resilience Dividend</strong>, and a reinforcing feedback loop linking clean-technology adoption, environmental risk reduction, adaptive capacity, and broader resilience outcomes. It further explores how the transition can support economic convergence and technology diffusion in emerging economies, while highlighting barriers such as financing constraints, institutional weakness, and unequal access to capital. Scenario analysis suggests that the greatest resilience gains emerge when clean-transition policies are integrated with investments in adaptation, health, water security, institutional capacity, and human development.",
+    "The report concludes that the clean transition should be viewed not only as a strategy for decarbonization, but as a potential mechanism for reducing cascading and compounding crises across multiple domains. While acknowledging significant trade-offs involving critical minerals, affordability, land use, governance, and infrastructure, it argues that a well-designed and inclusive clean transition represents one of the most promising opportunities to increase resilience, reduce human suffering, and strengthen long-term societal survivability in an increasingly interconnected world."
+  ],
+  "coreProposition": "Accelerating the global clean transition can reduce interconnected environmental and socioeconomic risks while strengthening the development and adaptive capacities necessary for long-term human survivability.",
+  "keyFindings": [
+    {
+      "title": "The pressures are connected, and so are many of the solutions.",
+      "text": "Climate change, air pollution, water contamination, ecosystem loss, energy insecurity and economic vulnerability reinforce one another. Burning fossil fuels drives climate change and causes much of the outdoor air pollution linked to about 4.9 million deaths a year, while also tying countries to volatile fuel markets."
+    },
+    {
+      "title": "The transition is already well under way, but unevenly.",
+      "text": "In 2025 renewables generated slightly more of the world's electricity than coal for the first time, and about one in four new cars sold was electric. Yet about 655 million people still lack electricity, about 2 billion lack clean cooking, and Africa receives only about 2% of clean-energy investment."
+    },
+    {
+      "title": "Six pillars carry the transition:",
+      "text": "clean energy, clean industrialization, clean transportation, household energy and pollution reduction, clean agriculture and resource systems, and pollution prevention and circular systems. Each reduces several pressures at once."
+    },
+    {
+      "title": "One well-designed investment can pay off in seven ways.",
+      "text": "A solar-plus-storage and grid program can cut emissions and air pollution, power businesses, protect health, diversify energy supply, spread modern technology and support clinics and schools. This is multi-dimensional resilience, though no project delivers every benefit."
+    },
+    {
+      "title": "For emerging economies, the transition is a development strategy.",
+      "text": "The binding constraint is often the cost of capital, which the IEA finds is more than twice as high for clean projects in emerging and developing economies as in advanced ones."
+    },
+    {
+      "title": "Benefits can reinforce themselves.",
+      "text": "Cleaner air and cheaper energy improve health and productivity, which strengthen institutions and budgets, which can fund further clean investment. The same loop can run in reverse when pollution and energy poverty trap a country."
+    },
+    {
+      "title": "A broader measure is needed.",
+      "text": "The proposed Clean Transition Resilience Dividend adds climate, air, health, energy security, economic and resilience gains while removing double-counting. In a hypothetical illustration, gross benefits of 190 fall to 162 after overlap, against a program cost of 100."
+    },
+    {
+      "title": "Decarbonization alone is not enough.",
+      "text": "In a stylized model, an integrated scenario that pairs the clean transition with adaptation, health, water and institutions ends 2050 with a vulnerability index of 20, against 41 for acceleration alone and 87 for delay."
+    }
+  ],
+  "contents": [
+    {
+      "number": "",
+      "title": "About This Report",
+      "description": "Scope, how to read it, and evidence grades",
+      "page": 3
+    },
+    {
+      "number": "",
+      "title": "Executive Summary",
+      "description": "Central thesis, key numbers and principal findings",
+      "page": 4
+    },
+    {
+      "number": "1",
+      "title": "The Clean Transition as a Mechanism of Resilience",
+      "description": "",
+      "page": 6
+    },
+    {
+      "number": "2",
+      "title": "How Interacting Pressures Respond to One Transition",
+      "description": "",
+      "page": 9
+    },
+    {
+      "number": "3",
+      "title": "Where the Transition Stands Today",
+      "description": "",
+      "page": 11
+    },
+    {
+      "number": "4",
+      "title": "Six Pillars of Clean-Transition Resilience",
+      "description": "",
+      "page": 13
+    },
+    {
+      "number": "5",
+      "title": "Multi-Dimensional Resilience: One Investment, Many Benefits",
+      "description": "",
+      "page": 16
+    },
+    {
+      "number": "6",
+      "title": "Emerging Economies: Development, Convergence and Technology Diffusion",
+      "description": "",
+      "page": 18
+    },
+    {
+      "number": "7",
+      "title": "The Reinforcing Loop: From Clean Technology to Resilience and Back",
+      "description": "",
+      "page": 20
+    },
+    {
+      "number": "8",
+      "title": "Measuring the Clean Transition Resilience Dividend",
+      "description": "",
+      "page": 22
+    },
+    {
+      "number": "9",
+      "title": "Three Scenarios for the Clean Transition",
+      "description": "",
+      "page": 25
+    },
+    {
+      "number": "10",
+      "title": "Trade-offs, Critiques and Limits",
+      "description": "",
+      "page": 27
+    },
+    {
+      "number": "11",
+      "title": "Action Agenda, Research Questions and Conclusion",
+      "description": "",
+      "page": 29
+    },
+    {
+      "number": "",
+      "title": "Glossary",
+      "description": "",
+      "page": 31
+    },
+    {
+      "number": "",
+      "title": "References",
+      "description": "",
+      "page": 32
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Adaptive capacity",
+      "definition": "The ability of people, institutions and systems to adjust to changing conditions, take advantage of opportunities and cope with consequences."
+    },
+    {
+      "term": "Cascade",
+      "definition": "The spread of failure or stress from one system to others through dependencies."
+    },
+    {
+      "term": "Circular system",
+      "definition": "An economy or process that keeps materials in use through reuse, repair and recycling to reduce waste and the need for new raw materials."
+    },
+    {
+      "term": "Clean cooking",
+      "definition": "Cooking with fuels and stoves that produce little harmful smoke, such as electricity, gas, biogas and the cleanest improved stoves."
+    },
+    {
+      "term": "Clean transition",
+      "definition": "The shift from pollution-intensive and inefficient systems toward cleaner energy, industry, transportation, agriculture and infrastructure."
+    },
+    {
+      "term": "Clean Transition Resilience Dividend",
+      "definition": "The combined environmental, health, economic and systemic-risk benefits generated by moving to cleaner production and consumption systems (H Heuristics)."
+    },
+    {
+      "term": "Common driver",
+      "definition": "A single stress that affects several systems at the same time."
+    },
+    {
+      "term": "Convergence",
+      "definition": "The process by which lower-income economies narrow the gap in income, productivity and capability with wealthier ones."
+    },
+    {
+      "term": "Cost of capital",
+      "definition": "The minimum return investors require to fund a project. It is higher where risks, real or perceived, are higher."
+    },
+    {
+      "term": "Distributed energy",
+      "definition": "Small-scale energy systems located near where the energy is used, such as rooftop solar and mini-grids."
+    },
+    {
+      "term": "Double-counting",
+      "definition": "Counting the same benefit more than once, for example in both a health category and an economic category."
+    },
+    {
+      "term": "Feedback loop",
+      "definition": "A circular causal path in which an effect returns to influence its own cause, either reinforcing or dampening it."
+    },
+    {
+      "term": "Household air pollution",
+      "definition": "Harmful smoke and particles indoors, mainly from cooking and heating with solid fuels or kerosene."
+    },
+    {
+      "term": "Multi-dimensional resilience",
+      "definition": "Resilience gained when one intervention reduces risk across several categories at once."
+    },
+    {
+      "term": "PM2.5",
+      "definition": "Fine particles smaller than 2.5 micrometers that can enter the lungs and bloodstream and are linked to heart and lung disease."
+    },
+    {
+      "term": "Polycrisis",
+      "definition": "A condition in which crises in multiple systems become causally entangled in ways that worsen overall prospects."
+    },
+    {
+      "term": "Polycrisis Resilience",
+      "definition": "The capacity of individuals, communities, economies, institutions and interconnected systems to anticipate, withstand, adapt to, recover from and reduce the cascading and compounding effects of multiple interconnected crises (H Heuristics)."
+    },
+    {
+      "term": "Technology diffusion",
+      "definition": "The spread of a technology from its early adopters to wider users across places and income groups."
+    },
+    {
+      "term": "Weakest-link aggregation",
+      "definition": "A way of combining scores that penalizes low values, such as a geometric mean or a minimum."
+    }
+  ],
+  "references": [
+    {
+      "text": "Baldé, C.P., Kuehr, R., Yamamoto, T. et al. (2024). The Global E-waste Monitor 2024. Geneva and Bonn: International Telecommunication Union and United Nations Institute for Training and Research."
+    },
+    {
+      "text": "Crippa, M., Solazzo, E., Guizzardi, D., Monforti-Ferrario, F., Tubiello, F.N. and Leip, A. (2021). Food systems are responsible for a third of global anthropogenic GHG emissions. Nature Food, 2, 198–209."
+    },
+    {
+      "text": "Ember (2025). Global Electricity Review 2025. London: Ember."
+    },
+    {
+      "text": "Ember (2026). Global Electricity Review 2026. London: Ember."
+    },
+    {
+      "text": "Gerschenkron, A. (1962). Economic Backwardness in Historical Perspective. Cambridge, MA: Harvard University Press."
+    },
+    {
+      "text": "Health Effects Institute (2025). State of Global Air 2025. Boston, MA: HEI."
+    },
+    {
+      "text": "International Energy Agency (2024). Reducing the Cost of Capital: Strategies to Unlock Clean Energy Investment in Emerging and Developing Economies. Paris: IEA."
+    },
+    {
+      "text": "International Energy Agency (2025). World Energy Employment 2025. Paris: IEA."
+    },
+    {
+      "text": "International Energy Agency (2026). Global EV Outlook 2026. Paris: IEA."
+    },
+    {
+      "text": "International Energy Agency (2026). World Energy Investment 2026. Paris: IEA."
+    },
+    {
+      "text": "International Renewable Energy Agency (2026). Renewable Power Generation Costs in 2025. Abu Dhabi: IRENA."
+    },
+    {
+      "text": "Janzwood, S. and Homer-Dixon, T. (2022). What is a global polycrisis? And how is it different from a systemic risk? Cascade Institute Technical Paper 2022-4, version 1.1."
+    },
+    {
+      "text": "Kaza, S., Yao, L., Bhada-Tata, P. and Van Woerden, F. (2018). What a Waste 2.0: A Global Snapshot of Solid Waste Management to 2050. Washington, DC: World Bank."
+    },
+    {
+      "text": "Lawrence, M., Homer-Dixon, T., Janzwood, S., Rockström, J., Renn, O. and Donges, J.F. (2024). Global polycrisis: the causal mechanisms of crisis entanglement. Global Sustainability, 7, e6.",
+      "url": "https://doi.org/10.1017/sus.2024.1",
+      "doi": "10.1017/sus.2024.1"
+    },
+    {
+      "text": "Rodin, J. (2014). The Resilience Dividend: Being Strong in a World Where Things Go Wrong. PublicAffairs."
+    },
+    {
+      "text": "SEforALL, IEA, IRENA, UNSD, World Bank and WHO (2026). Tracking SDG 7: The Energy Progress Report 2026. Washington, DC: World Bank."
+    },
+    {
+      "text": "Steinert, J., Stenzel, F., Virkki, V., Wendt-Potthoff, K., Wunderling, N. and Rockström, J. (2025). Planetary Health Check 2025. Potsdam Institute for Climate Impact Research."
+    },
+    {
+      "text": "Tanner, T. et al. (2015). The Triple Dividend of Resilience: Realising Development Goals through the Multiple Benefits of Disaster Risk Management. Overseas Development Institute and Global Facility for Disaster Reduction and Recovery."
+    },
+    {
+      "text": "United Nations Conference on Trade and Development (2025). A World of Debt 2025. Geneva: UNCTAD."
+    },
+    {
+      "text": "United Nations Office for Disaster Risk Reduction (2025). Global Assessment Report on Disaster Risk Reduction 2025: Resilience Pays. Geneva: UNDRR."
+    },
+    {
+      "text": "World Meteorological Organization (2026). State of the Global Climate 2025. Geneva: WMO."
+    }
+  ]
+}

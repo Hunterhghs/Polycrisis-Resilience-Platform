@@ -68,7 +68,9 @@ export const apaAuthors = (authors) => {
   return list.slice(0, -1).join(', ') + ', & ' + list[list.length - 1];
 };
 
-export const fullTitle = (r) => (r.subtitle ? `${r.title}: ${r.subtitle}` : r.title);
+// Title used in citations and citation metadata. A title that already has a colon
+// ("Series: Topic") stands alone, matching how such reports cite themselves.
+export const fullTitle = (r) => (r.subtitle && !r.title.includes(':') ? `${r.title}: ${r.subtitle}` : r.title);
 
 export const seriesLabel = (r, site) =>
   r.seriesNumber ? `${site.series.shortName} No. ${r.seriesNumber}` : site.series.shortName;
