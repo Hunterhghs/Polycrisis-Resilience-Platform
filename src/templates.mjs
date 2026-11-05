@@ -30,6 +30,7 @@ export function heroLines() {
 
 const icon = {
   pdf: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12m0 0-5-5m5 5 5-5M5 21h14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>',
+  read: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M2 12s3.6-7 10-7 10 7 10 7-3.6 7-10 7S2 12 2 12Z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/><circle cx="12" cy="12" r="3" fill="none" stroke="currentColor" stroke-width="2"/></svg>',
   ext: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14 4h6v6m0-6L10 14M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>',
   copy: '<svg viewBox="0 0 24 24" aria-hidden="true"><rect x="9" y="9" width="11" height="11" rx="2" fill="none" stroke="currentColor" stroke-width="2"/><path d="M5 15V5a1 1 0 0 1 1-1h10" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>',
   rss: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 19h.01M5 12a7 7 0 0 1 7 7M5 5a14 14 0 0 1 14 14" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>',
@@ -303,11 +304,12 @@ export function reportPage(r, site, { prev, next } = {}) {
 
 <div class="container report-layout">
   <aside class="report-aside" aria-label="Report details">
-    <a class="cover" href="${esc(r.pdfPath)}" aria-label="Open the PDF">
+    <a class="cover" href="${esc(r.pdfPath)}" target="_blank" rel="noopener" aria-label="Open the PDF in a new tab">
       ${r.coverPath ? `<img src="${esc(r.coverPath)}" alt="Cover of ${esc(r.title)}" width="${r.coverWidth || 935}" height="${r.coverHeight || 1210}" loading="eager" decoding="async">` : ''}
     </a>
     <div class="actions">
-      <a class="btn btn-primary" href="${esc(r.pdfPath)}" download>${icon.pdf}<span>Download PDF</span><small>${esc(r.pdfSizeLabel)}</small></a>
+      <a class="btn btn-primary" href="${esc(r.pdfPath)}" target="_blank" rel="noopener">${icon.read}<span>Open PDF in browser</span></a>
+      <a class="btn" href="${esc(r.pdfPath)}" download>${icon.pdf}<span>Download PDF</span><small>${esc(r.pdfSizeLabel)}</small></a>
       ${r.doi ? `<a class="btn" href="${esc(doiUrl(r.doi))}">${icon.ext}<span>DOI landing page</span></a>` : ''}
       <a class="btn" href="#cite">${icon.copy}<span>Cite this report</span></a>
     </div>
@@ -336,8 +338,8 @@ export function reportPage(r, site, { prev, next } = {}) {
 
     ${r.contents?.length ? `<section id="contents">
       <h2>Contents</h2>
-      <ol class="contents">${r.contents.map((c) => `<li><a href="${esc(r.pdfPath)}#page=${c.page}"><span class="c-num">${esc(c.number)}</span><span class="c-text"><span class="c-title">${esc(c.title)}</span>${c.description ? `<span class="c-desc">${esc(c.description)}</span>` : ''}</span><span class="c-page">p.&nbsp;${c.page}</span></a></li>`).join('')}</ol>
-      <p class="muted small">Section links open the PDF at the corresponding page.</p>
+      <ol class="contents">${r.contents.map((c) => `<li><a href="${esc(r.pdfPath)}#page=${c.page}" target="_blank" rel="noopener"><span class="c-num">${esc(c.number)}</span><span class="c-text"><span class="c-title">${esc(c.title)}</span>${c.description ? `<span class="c-desc">${esc(c.description)}</span>` : ''}</span><span class="c-page">p.&nbsp;${c.page}</span></a></li>`).join('')}</ol>
+      <p class="muted small">Section links open the PDF at the corresponding page in a new tab.</p>
     </section>` : ''}
 
     ${r.glossary?.length ? `<section id="glossary">
@@ -401,7 +403,7 @@ function reportCard(r, { featured = false } = {}) {
     ${r.subtitle ? `<p class="card-sub">${esc(r.subtitle)}</p>` : ''}
     ${featured ? `<p class="card-desc">${esc(r.description)}</p>` : ''}
     <p class="card-meta">${esc(r.authors.map((a) => a.name).join(', '))}${r.doi ? ` · <span class="doi">doi:${esc(r.doi)}</span>` : ''}</p>
-    ${featured ? `<div class="card-actions"><a class="btn btn-primary" href="${esc(r.path)}"><span>Read the report</span></a><a class="btn" href="${esc(r.pdfPath)}">${icon.pdf}<span>PDF</span></a></div>` : ''}
+    ${featured ? `<div class="card-actions"><a class="btn btn-primary" href="${esc(r.path)}"><span>Read the report</span></a><a class="btn" href="${esc(r.pdfPath)}" target="_blank" rel="noopener">${icon.read}<span>Open PDF</span></a></div>` : ''}
   </div>
 </article>`;
 }
