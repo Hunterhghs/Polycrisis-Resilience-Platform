@@ -1,0 +1,471 @@
+{
+  "seriesNumber": 6,
+  "title": "Polycrisis Resilience: A Research Report",
+  "subtitle": "The capacity to withstand, adapt to, recover from and reduce vulnerability to multiple interacting and compounding crises",
+  "type": "Research Report",
+  "datePublished": "2026-11-06",
+  "dateModified": "2026-11-06",
+  "doi": "10.6084/m9.figshare.34937230",
+  "repository": {
+    "name": "figshare",
+    "url": "https://figshare.com/articles/preprint/Polycrisis_Resilience_The_capacity_to_withstand_adapt_to_recover_from_and_reduce_vulnerability_to_multiple_interacting_and_compounding_crises/34937230"
+  },
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "license": {
+    "name": "Creative Commons Attribution 4.0 International",
+    "shortName": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 38,
+  "language": "en",
+  "description": "Polycrisis Resilience in practice: eight essential functions, six scales, four failure patterns and five real cascades, from Winter Storm Uri to CrowdStrike.",
+  "themes": [
+    "Essential functions",
+    "Six scales",
+    "Five cascades",
+    "Seven objectives"
+  ],
+  "keywords": [
+    "polycrisis resilience",
+    "vulnerability reduction",
+    "systemic risk",
+    "cascading failures",
+    "compound crises",
+    "essential functions",
+    "critical infrastructure",
+    "buffers",
+    "adaptive capacity",
+    "Winter Storm Uri",
+    "Sri Lanka economic crisis",
+    "Pakistan floods",
+    "CrowdStrike outage"
+  ],
+  "subjects": [
+    {
+      "name": "Risk policy",
+      "scheme": "ANZSRC FoR",
+      "code": "440711"
+    },
+    {
+      "name": "Economic development policy",
+      "scheme": "ANZSRC FoR",
+      "code": "440703"
+    }
+  ],
+  "abstract": [
+    "<strong>Polycrisis Resilience</strong> is the capacity of individuals, communities, societies, economies, institutions, and interconnected systems to withstand, adapt to, recover from, and reduce vulnerability to multiple interacting and compounding crises. Developed as a framework for understanding resilience in an era of interconnected global risks, the concept shifts attention from recovery alone toward reducing the underlying vulnerabilities that make crises so damaging. The report argues that resilience is best understood as the ability to maintain essential functions, manage systemic disruptions, adapt to changing conditions, and strengthen long-term stability across multiple scales and hazard types.",
+    "Drawing on evidence from recent crises, including Winter Storm Uri in Texas, the global food and energy price shock of 2021-2023, the Pakistan floods, the Sri Lankan economic crisis, and the CrowdStrike outage, the report identifies recurring patterns that amplify systemic failures. These include depleted buffers, single points of failure, gradual erosion followed by sudden shocks, and policy responses that unintentionally worsen crises. The findings suggest that outcomes are often determined less by the severity of the shock itself than by the condition of systems before the crisis occurs, particularly the availability of reserves, redundancy, institutional capacity, and adaptive capabilities.",
+    "The report proposes a practical framework built around eight essential functions, six scales of resilience, four resilience capacities, and seven core objectives. These objectives include reducing vulnerability, strengthening development, accelerating technological diffusion, advancing the clean transition, promoting convergence, improving adaptive capacity, and strengthening long-term stability. Particular emphasis is placed on protecting critical dependencies such as energy and digital systems, building buffers before crises emerge, and pursuing investments that reduce vulnerability across multiple hazards simultaneously.",
+    "The central conclusion is that resilience should not be viewed simply as the ability to bounce back from disruption. Rather, it is the process of reducing the vulnerabilities that make crises so destructive in the first place. In a world increasingly characterized by cascading and interconnected risks, long-term resilience depends on strengthening the economic, technological, institutional, infrastructural, environmental, and human foundations that enable societies to withstand and adapt to future shocks."
+  ],
+  "coreProposition": "Resilience is not simply the ability to recover from crises. It is the ability to reduce the underlying vulnerabilities that make crises so damaging in the first place.",
+  "keyFindings": [
+    {
+      "title": "Crises now arrive together.",
+      "text": "Between 2020 and 2024 a pandemic, a Texas power failure, a canal blockage, a war, a global price shock, sovereign defaults, record floods and a software failure followed one another. Food prices peaked 67% above 2019 and European gas at 15.7 times."
+    },
+    {
+      "title": "The decisive variable is vulnerability, not only the hazard.",
+      "text": "The world death rate from disasters is about 96% lower than in 1900 to 1949 although recorded disasters have multiplied several times since 1970. What changed is the capacity of societies to absorb hazards."
+    },
+    {
+      "title": "Eight essential functions carry the rest.",
+      "text": "Energy and digital systems are the keystone dependencies: six of the other seven functions depend heavily on energy, and the digital layer is the second most depended-on. Food and health are the most exposed downstream."
+    },
+    {
+      "title": "Resilience has six scales and four recurring failure patterns.",
+      "text": "Gains at one scale can shift risk to another, as when export bans protected domestic markets and hurt importers. The patterns are depleted buffers, single points of failure, slow erosion followed by sudden shock, and responses that compound the crisis."
+    },
+    {
+      "title": "Buffers separated the countries that bent from those that broke.",
+      "text": "In 2022 Sri Lanka's reserves covered 1.1 months of imports and Pakistan's 1.4, against 7.0 for India. Sri Lanka's inflation averaged 49.7% and it defaulted. India's was 6.7%."
+    },
+    {
+      "title": "Prevention is under-financed relative to its returns.",
+      "text": "Estimates put returns to resilience investment between 2:1 and 10:1, yet developing-country adaptation finance was $26 billion in 2023 against an estimated need of $310 to 365 billion a year by 2035."
+    }
+  ],
+  "contents": [
+    {
+      "number": "",
+      "title": "About This Report",
+      "description": "",
+      "page": 3
+    },
+    {
+      "number": "",
+      "title": "Executive Summary",
+      "description": "The concept in one paragraph and principal findings",
+      "page": 4
+    },
+    {
+      "number": "1",
+      "title": "A World of Interacting Crises",
+      "description": "",
+      "page": 5
+    },
+    {
+      "number": "2",
+      "title": "Defining Polycrisis Resilience",
+      "description": "",
+      "page": 8
+    },
+    {
+      "number": "3",
+      "title": "From Recovery to Vulnerability Reduction",
+      "description": "",
+      "page": 11
+    },
+    {
+      "number": "4",
+      "title": "Essential Functions: What Must Keep Working",
+      "description": "",
+      "page": 15
+    },
+    {
+      "number": "5",
+      "title": "Six Scales of Resilience",
+      "description": "",
+      "page": 18
+    },
+    {
+      "number": "6",
+      "title": "How Crises Compound: Four Failure Patterns",
+      "description": "",
+      "page": 20
+    },
+    {
+      "number": "7",
+      "title": "Five Cascades Examined",
+      "description": "",
+      "page": 21
+    },
+    {
+      "number": "8",
+      "title": "What the Cases Teach",
+      "description": "",
+      "page": 25
+    },
+    {
+      "number": "9",
+      "title": "The Seven Core Objectives in Practice",
+      "description": "",
+      "page": 26
+    },
+    {
+      "number": "10",
+      "title": "The Economics of Prevention",
+      "description": "",
+      "page": 28
+    },
+    {
+      "number": "11",
+      "title": "Measuring Polycrisis Resilience",
+      "description": "",
+      "page": 30
+    },
+    {
+      "number": "12",
+      "title": "Trade-offs, Critiques and Limits",
+      "description": "",
+      "page": 32
+    },
+    {
+      "number": "13",
+      "title": "Strategic Priorities, Research Agenda and Conclusion",
+      "description": "",
+      "page": 33
+    },
+    {
+      "number": "",
+      "title": "Appendix: Data, Methods and Exhibits",
+      "description": "",
+      "page": 35
+    },
+    {
+      "number": "",
+      "title": "Glossary",
+      "description": "",
+      "page": 36
+    },
+    {
+      "number": "",
+      "title": "References",
+      "description": "",
+      "page": 37
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Adaptive capacity",
+      "definition": "The ability of people, institutions and systems to adjust to changing conditions, take advantage of opportunities and cope with consequences."
+    },
+    {
+      "term": "Buffer",
+      "definition": "A reserve, stock, margin or spare capacity that lets a system absorb a shock without failing, such as foreign-exchange reserves, fiscal space or backup power."
+    },
+    {
+      "term": "Cascade",
+      "definition": "The propagation of failure or stress from one system to others through dependencies."
+    },
+    {
+      "term": "Common driver",
+      "definition": "A single stress that affects several systems at the same time (Lawrence et al., 2024)."
+    },
+    {
+      "term": "Compound event",
+      "definition": "A combination of drivers or hazards that together produce a larger impact than any would alone (Zscheischler et al., 2018)."
+    },
+    {
+      "term": "Essential function",
+      "definition": "A service that society cannot do without during a crisis. This report names eight: energy, water, food, health, finance, digital systems, transport and trade, and governance."
+    },
+    {
+      "term": "Exposure",
+      "definition": "The presence of people, assets and systems in places where they could be adversely affected by a hazard."
+    },
+    {
+      "term": "Graceful degradation",
+      "definition": "A controlled reduction of service in which less essential demands are shed so that essential ones survive."
+    },
+    {
+      "term": "Hazard",
+      "definition": "A potentially damaging physical event, trend or disturbance, such as a flood, heat wave or outage."
+    },
+    {
+      "term": "Keystone function",
+      "definition": "An essential function on which many others depend, so that its failure has outsized effects. In this report, energy and digital systems."
+    },
+    {
+      "term": "Maladaptation",
+      "definition": "Action intended to reduce vulnerability that increases it elsewhere or later."
+    },
+    {
+      "term": "Minimum service level",
+      "definition": "The least delivery of an essential function that must be maintained through a crisis."
+    },
+    {
+      "term": "Polycrisis",
+      "definition": "A condition in which crises in multiple systems become causally entangled in ways that worsen overall prospects."
+    },
+    {
+      "term": "Polycrisis Resilience",
+      "definition": "The capacity of individuals, communities, societies, economies, institutions and interconnected systems to withstand, adapt to, recover from and reduce vulnerability to multiple interacting and compounding crises (H Heuristics)."
+    },
+    {
+      "term": "Single point of failure",
+      "definition": "A component, supplier, route or technology whose failure disables the function that depends on it."
+    },
+    {
+      "term": "Systemic risk",
+      "definition": "The risk that failure in one part of a connected system spreads to cause widespread failure."
+    },
+    {
+      "term": "Vulnerability",
+      "definition": "The propensity to be adversely affected, shaped by susceptibility to harm and lack of capacity to cope and adapt."
+    },
+    {
+      "term": "Weakest-link aggregation",
+      "definition": "A way of combining scores that penalizes low values, such as a geometric mean or a minimum."
+    }
+  ],
+  "references": [
+    {
+      "text": "Aldrich, D.P. (2012). Building Resilience: Social Capital in Post-Disaster Recovery. University of Chicago Press."
+    },
+    {
+      "text": "Armstrong McKay, D.I. et al. (2022). Exceeding 1.5°C global warming could trigger multiple climate tipping points. Science, 377(6611), eabn7950."
+    },
+    {
+      "text": "Béné, C., Wood, R.G., Newsham, A. and Davies, M. (2012). Resilience: new utopia or new tyranny? Reflection about the potentials and limits of the concept of resilience in relation to vulnerability reduction programmes. IDS Working Paper 405."
+    },
+    {
+      "text": "Bruneau, M. et al. (2003). A framework to quantitatively assess and enhance the seismic resilience of communities. Earthquake Spectra, 19(4), 733–752."
+    },
+    {
+      "text": "Buldyrev, S.V., Parshani, R., Paul, G., Stanley, H.E. and Havlin, S. (2010). Catastrophic cascade of failures in interdependent networks. Nature, 464, 1025–1028."
+    },
+    {
+      "text": "Centeno, M.A., Nag, M., Patterson, T.S., Shaver, A. and Windawi, A.J. (2015). The emergence of global systemic risk. Annual Review of Sociology, 41, 65–85."
+    },
+    {
+      "text": "CrowdStrike (2024). External Technical Root Cause Analysis: Channel File 291. 6 August 2024."
+    },
+    {
+      "text": "Cutter, S.L. et al. (2008). A place-based model for understanding community resilience to natural disasters. Global Environmental Change, 18(4), 598–606."
+    },
+    {
+      "text": "Dawn (2024). $19bn shortfall halts flood reconstruction. Dawn, Karachi."
+    },
+    {
+      "text": "Federal Energy Regulatory Commission, North American Electric Reliability Corporation and Regional Entities (2021). The February 2021 Cold Weather Outages in Texas and the South Central United States: FERC, NERC and Regional Entity Staff Report. November 2021."
+    },
+    {
+      "text": "Folke, C. (2006). Resilience: the emergence of a perspective for social–ecological systems analyses. Global Environmental Change, 16(3), 253–267."
+    },
+    {
+      "text": "Folke, C., Carpenter, S.R., Walker, B., Scheffer, M., Chapin, T. and Rockström, J. (2010). Resilience thinking: integrating resilience, adaptability and transformability. Ecology and Society, 15(4), 20."
+    },
+    {
+      "text": "Food and Agriculture Organization of the United Nations (2022). The importance of Ukraine and the Russian Federation for global agricultural markets and the risks associated with the war in Ukraine. FAO information note, Rome."
+    },
+    {
+      "text": "Food Security Information Network and Global Network Against Food Crises (2025). Global Report on Food Crises 2025. Rome."
+    },
+    {
+      "text": "Global Commission on Adaptation (2019). Adapt Now: A Global Call for Leadership on Climate Resilience. Global Center on Adaptation and World Resources Institute."
+    },
+    {
+      "text": "Government of Pakistan, with Asian Development Bank, European Union, United Nations and World Bank (2022). Pakistan Floods 2022: Post-Disaster Needs Assessment. Islamabad, October 2022."
+    },
+    {
+      "text": "Gunderson, L.H. and Holling, C.S. (eds.) (2002). Panarchy: Understanding Transformations in Human and Natural Systems. Island Press."
+    },
+    {
+      "text": "Hallegatte, S., Rentschler, J. and Rozenberg, J. (2019). Lifelines: The Resilient Infrastructure Opportunity. Sustainable Infrastructure Series. World Bank."
+    },
+    {
+      "text": "Hallegatte, S., Vogt-Schilb, A., Bangalore, M. and Rozenberg, J. (2017). Unbreakable: Building the Resilience of the Poor in the Face of Natural Disasters. World Bank."
+    },
+    {
+      "text": "Health Effects Institute (2025). State of Global Air 2025. Special report. Boston, MA: HEI."
+    },
+    {
+      "text": "Helbing, D. (2013). Globally networked risks and how to respond. Nature, 497, 51–59."
+    },
+    {
+      "text": "Hobby School of Public Affairs, University of Houston (2021). Winter Storm Uri 2021: The Economic Impact and Texans' Experience. Houston."
+    },
+    {
+      "text": "Holling, C.S. (1973). Resilience and stability of ecological systems. Annual Review of Ecology and Systematics, 4, 1–23."
+    },
+    {
+      "text": "Holling, C.S. (1996). Engineering resilience versus ecological resilience. In: Schulze, P. (ed.), Engineering Within Ecological Constraints. National Academy Press."
+    },
+    {
+      "text": "Hosseini, S., Barker, K. and Ramirez-Marquez, J.E. (2016). A review of definitions and measures of system resilience. Reliability Engineering and System Safety, 145, 47–61."
+    },
+    {
+      "text": "International Food Policy Research Institute (2022). Food and Fertilizer Export Restrictions Tracker. Washington, DC: IFPRI."
+    },
+    {
+      "text": "International Monetary Fund (2023). IMF Executive Board approves US$3 billion Extended Fund Facility arrangement for Sri Lanka. Press release, 20 March 2023."
+    },
+    {
+      "text": "International Monetary Fund (2023). IMF Executive Board approves US$3 billion Stand-By Arrangement for Pakistan. Press release, 12 July 2023."
+    },
+    {
+      "text": "International Monetary Fund (2026). Global price indices of food, energy and EU natural gas, retrieved from FRED, Federal Reserve Bank of St. Louis (PFOODINDEXM, PNRGINDEXM, PNGASEUUSDM), November 2026."
+    },
+    {
+      "text": "Janzwood, S. and Homer-Dixon, T. (2022). What is a global polycrisis? And how is it different from a systemic risk? Cascade Institute Technical Paper 2022-4, version 1.1."
+    },
+    {
+      "text": "Kates, R.W., Travis, W.R. and Wilbanks, T.J. (2012). Transformational adaptation when incremental adaptations to climate change are insufficient. Proceedings of the National Academy of Sciences, 109(19), 7156–7161."
+    },
+    {
+      "text": "Lawrence, M., Homer-Dixon, T., Janzwood, S., Rockström, J., Renn, O. and Donges, J.F. (2024). Global polycrisis: the causal mechanisms of crisis entanglement. Global Sustainability, 7, e6.",
+      "url": "https://doi.org/10.1017/sus.2024.1",
+      "doi": "10.1017/sus.2024.1"
+    },
+    {
+      "text": "Microsoft (2024). Helping our customers through the CrowdStrike outage. Microsoft On the Issues blog, 20 July 2024."
+    },
+    {
+      "text": "Morin, E. and Kern, A.-B. (1999). Homeland Earth: A Manifesto for the New Millennium. Hampton Press. (Originally Terre-Patrie, 1993.)"
+    },
+    {
+      "text": "Our World in Data (2026). Natural disasters: death rates and number of disasters, based on EM-DAT, CRED/UCLouvain. Retrieved November 2026."
+    },
+    {
+      "text": "Ostrom, E. (2010). Polycentric systems for coping with collective action and global environmental change. Global Environmental Change, 20(4), 550–557."
+    },
+    {
+      "text": "Parametrix (2024). CrowdStrike's impact on the Fortune 500. Parametrix Insurance Services, July 2024."
+    },
+    {
+      "text": "Pelling, M. (2011). Adaptation to Climate Change: From Resilience to Transformation. Routledge."
+    },
+    {
+      "text": "Pescaroli, G. and Alexander, D. (2016). Critical infrastructure, panarchies and the vulnerability paths of cascading disasters. Natural Hazards, 82, 175–192."
+    },
+    {
+      "text": "Rinaldi, S.M., Peerenboom, J.P. and Kelly, T.K. (2001). Identifying, understanding, and analyzing critical infrastructure interdependencies. IEEE Control Systems Magazine, 21(6), 11–25."
+    },
+    {
+      "text": "Rockström, J. et al. (2009). A safe operating space for humanity. Nature, 461, 472–475."
+    },
+    {
+      "text": "Rodin, J. (2014). The Resilience Dividend: Being Strong in a World Where Things Go Wrong. PublicAffairs."
+    },
+    {
+      "text": "Scheffer, M. et al. (2009). Early-warning signals for critical transitions. Nature, 461, 53–59."
+    },
+    {
+      "text": "Simpson, N.P. et al. (2021). A framework for complex climate change risk assessment. One Earth, 4(4), 489–501."
+    },
+    {
+      "text": "Steinert, J., Stenzel, F., Virkki, V., Wendt-Potthoff, K., Wunderling, N. and Rockström, J. (2025). Planetary Health Check 2025. Potsdam Institute for Climate Impact Research."
+    },
+    {
+      "text": "Taleb, N.N. (2012). Antifragile: Things That Gain from Disorder. Random House."
+    },
+    {
+      "text": "Tanner, T. et al. (2015). The Triple Dividend of Resilience: Realising Development Goals through the Multiple Benefits of Disaster Risk Management. Overseas Development Institute and Global Facility for Disaster Reduction and Recovery."
+    },
+    {
+      "text": "Texas Department of State Health Services (2022). Winter Storm-Related Deaths, February 2021: final report. Austin, January 2022."
+    },
+    {
+      "text": "Tooze, A. (2022). Welcome to the world of the polycrisis. Financial Times, 28 October 2022."
+    },
+    {
+      "text": "United Nations Conference on Trade and Development (2025). A World of Debt 2025. Geneva: UNCTAD."
+    },
+    {
+      "text": "United Nations Environment Programme (2025). Adaptation Gap Report 2025: Running on Empty. Nairobi: UNEP.",
+      "url": "https://www.unep.org/resources/adaptation-gap-report-2025"
+    },
+    {
+      "text": "United Nations Office for Disaster Risk Reduction (2015). Sendai Framework for Disaster Risk Reduction 2015–2030. Geneva: UNDRR."
+    },
+    {
+      "text": "United Nations Office for Disaster Risk Reduction (2025). Global Assessment Report on Disaster Risk Reduction 2025: Resilience Pays. Geneva: UNDRR.",
+      "url": "https://www.preventionweb.net/news/billions-trillions-flagship-un-report-reveals-true-cost-disasters-and-how-reduce-them"
+    },
+    {
+      "text": "Walker, B., Holling, C.S., Carpenter, S.R. and Kinzig, A. (2004). Resilience, adaptability and transformability in social–ecological systems. Ecology and Society, 9(2), 5."
+    },
+    {
+      "text": "World Bank (2022). Commodity Markets Outlook, April 2022. Washington, DC: World Bank."
+    },
+    {
+      "text": "World Bank (2025). June 2025 update to global poverty lines. Factsheet, 5 June 2025."
+    },
+    {
+      "text": "World Bank (2026). World Development Indicators, retrieved through the World Bank API, November 2026 (FI.RES.TOTL.MO, DT.TDS.DECT.EX.ZS, FP.CPI.TOTL.ZG, NY.GDP.MKTP.KD.ZG)."
+    },
+    {
+      "text": "World Economic Forum (2023). Global Risks Report 2023. 18th edition. Geneva: WEF."
+    },
+    {
+      "text": "World Health Organization (2022). 14.9 million excess deaths associated with the COVID-19 pandemic in 2020 and 2021. Press release, 5 May 2022."
+    },
+    {
+      "text": "World Meteorological Organization (2026). State of the Global Climate 2025. Geneva: WMO."
+    },
+    {
+      "text": "Zscheischler, J. et al. (2018). Future climate risk from compound events. Nature Climate Change, 8, 469–477."
+    }
+  ]
+}
