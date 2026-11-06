@@ -38,6 +38,8 @@ This creates `reports/my-report-slug/` with the PDF, a `cover.jpg` rendered from
 4. Commit and push. Cloudflare publishes it at `/reports/my-report-slug/`.
 
 Required fields: `title`, `datePublished` (YYYY-MM-DD), `authors`, `pdf`, and `abstract` or `description`.
+Also fill in `contribution`: one or two sentences on what the report adds to the concept. It appears on the
+concept page (`/polycrisis-resilience/`, built by `src/concept.mjs`) under "How the concept was built across the series".
 Everything else is optional; sections without data are left out of the page.
 
 ## What each report page includes

@@ -29,7 +29,15 @@
   "pages": 39,
   "language": "en",
   "description": "How economic development and global convergence can reduce structural vulnerability to the polycrisis through six pathways, from clean energy to institutions.",
-  "themes": ["Growth & poverty reduction", "Infrastructure & clean energy", "Technology diffusion", "Human capital & health", "Climate resilience", "Institutions & finance"],
+  "contribution": "Treats development as resilience infrastructure: six economic pathways, a development–resilience feedback loop, a multi-year research programme and a proposed Polycrisis Resilience Index.",
+  "themes": [
+    "Growth & poverty reduction",
+    "Infrastructure & clean energy",
+    "Technology diffusion",
+    "Human capital & health",
+    "Climate resilience",
+    "Institutions & finance"
+  ],
   "keywords": [
     "polycrisis resilience",
     "development economics",
@@ -50,89 +58,319 @@
   ],
   "coreProposition": "Accelerating and directing sustainable development in vulnerable regions may represent one of the highest-leverage strategies for reducing cumulative human suffering and strengthening societal resilience throughout the twenty-first century.",
   "keyFindings": [
-    { "title": "Vulnerability is largely a development outcome.", "text": "Disaster mortality, hunger and the economic cost of shocks fall steeply with income, infrastructure, education and institutional quality." },
-    { "title": "Six complementary pathways carry the effect:", "text": "growth and poverty reduction; infrastructure and clean energy; technology diffusion; human capital and health; environmental and climate resilience; and institutional and financial capacity. Their effects interact strongly, so diagnosis and sequencing matter." },
-    { "title": "Global convergence is a resilience mechanism.", "text": "A world with far more people holding reliable energy, health care, skills, digital access and capable institutions can absorb shocks that would overwhelm today's. The gaps remain large: 655 million people lack electricity and about 2.1 billion lack clean cooking." },
-    { "title": "Development and resilience form a feedback loop.", "text": "Capabilities reduce vulnerability, lower vulnerability reduces suffering, and a healthier, more secure population can develop further. The loop runs in reverse as a trap when shocks erode the gains." },
-    { "title": "The direction of development matters as much as its speed.", "text": "Growth that raises pollution, ecological degradation or climate exposure creates new vulnerabilities. Sustainable convergence, built on clean energy, resilient infrastructure and inclusive institutions, is the objective." },
-    { "title": "Finance is the limiting factor where returns to resilience are highest.", "text": "International public adaptation finance (about US$26 billion in 2023) is a small fraction of estimated needs." }
+    {
+      "title": "Vulnerability is largely a development outcome.",
+      "text": "Disaster mortality, hunger and the economic cost of shocks fall steeply with income, infrastructure, education and institutional quality."
+    },
+    {
+      "title": "Six complementary pathways carry the effect:",
+      "text": "growth and poverty reduction; infrastructure and clean energy; technology diffusion; human capital and health; environmental and climate resilience; and institutional and financial capacity. Their effects interact strongly, so diagnosis and sequencing matter."
+    },
+    {
+      "title": "Global convergence is a resilience mechanism.",
+      "text": "A world with far more people holding reliable energy, health care, skills, digital access and capable institutions can absorb shocks that would overwhelm today's. The gaps remain large: 655 million people lack electricity and about 2.1 billion lack clean cooking."
+    },
+    {
+      "title": "Development and resilience form a feedback loop.",
+      "text": "Capabilities reduce vulnerability, lower vulnerability reduces suffering, and a healthier, more secure population can develop further. The loop runs in reverse as a trap when shocks erode the gains."
+    },
+    {
+      "title": "The direction of development matters as much as its speed.",
+      "text": "Growth that raises pollution, ecological degradation or climate exposure creates new vulnerabilities. Sustainable convergence, built on clean energy, resilient infrastructure and inclusive institutions, is the objective."
+    },
+    {
+      "title": "Finance is the limiting factor where returns to resilience are highest.",
+      "text": "International public adaptation finance (about US$26 billion in 2023) is a small fraction of estimated needs."
+    }
   ],
   "contents": [
-    { "number": "", "title": "Development as resilience infrastructure", "description": "Executive summary", "page": 4 },
-    { "number": "1", "title": "The polycrisis and the development question", "description": "", "page": 5 },
-    { "number": "2", "title": "A conceptual framework: vulnerability as a function of development", "description": "", "page": 8 },
-    { "number": "3", "title": "Global convergence as a resilience mechanism", "description": "", "page": 11 },
-    { "number": "4", "title": "The development–resilience feedback loop", "description": "", "page": 16 },
-    { "number": "5", "title": "Six economic pathways to polycrisis resilience", "description": "", "page": 19 },
-    { "number": "6", "title": "Interactions, complementarities and sequencing", "description": "", "page": 25 },
-    { "number": "7", "title": "Geographic research priorities", "description": "", "page": 27 },
-    { "number": "8", "title": "Financing resilience-oriented development", "description": "", "page": 29 },
-    { "number": "9", "title": "Risks, trade-offs and counter-arguments", "description": "", "page": 31 },
-    { "number": "10", "title": "The research programme", "description": "", "page": 32 },
-    { "number": "11", "title": "Strategic implications", "description": "", "page": 35 },
-    { "number": "12", "title": "Conclusion", "description": "", "page": 36 },
-    { "number": "A", "title": "Glossary", "description": "", "page": 37 },
-    { "number": "", "title": "Sources and further reading", "description": "", "page": 38 }
+    {
+      "number": "",
+      "title": "Development as resilience infrastructure",
+      "description": "Executive summary",
+      "page": 4
+    },
+    {
+      "number": "1",
+      "title": "The polycrisis and the development question",
+      "description": "",
+      "page": 5
+    },
+    {
+      "number": "2",
+      "title": "A conceptual framework: vulnerability as a function of development",
+      "description": "",
+      "page": 8
+    },
+    {
+      "number": "3",
+      "title": "Global convergence as a resilience mechanism",
+      "description": "",
+      "page": 11
+    },
+    {
+      "number": "4",
+      "title": "The development–resilience feedback loop",
+      "description": "",
+      "page": 16
+    },
+    {
+      "number": "5",
+      "title": "Six economic pathways to polycrisis resilience",
+      "description": "",
+      "page": 19
+    },
+    {
+      "number": "6",
+      "title": "Interactions, complementarities and sequencing",
+      "description": "",
+      "page": 25
+    },
+    {
+      "number": "7",
+      "title": "Geographic research priorities",
+      "description": "",
+      "page": 27
+    },
+    {
+      "number": "8",
+      "title": "Financing resilience-oriented development",
+      "description": "",
+      "page": 29
+    },
+    {
+      "number": "9",
+      "title": "Risks, trade-offs and counter-arguments",
+      "description": "",
+      "page": 31
+    },
+    {
+      "number": "10",
+      "title": "The research programme",
+      "description": "",
+      "page": 32
+    },
+    {
+      "number": "11",
+      "title": "Strategic implications",
+      "description": "",
+      "page": 35
+    },
+    {
+      "number": "12",
+      "title": "Conclusion",
+      "description": "",
+      "page": 36
+    },
+    {
+      "number": "A",
+      "title": "Glossary",
+      "description": "",
+      "page": 37
+    },
+    {
+      "number": "",
+      "title": "Sources and further reading",
+      "description": "",
+      "page": 38
+    }
   ],
   "glossary": [
-    { "term": "Polycrisis", "definition": "A condition in which crises in multiple global systems become causally entangled in ways that significantly degrade humanity's prospects (Cascade Institute)." },
-    { "term": "Resilience", "definition": "The capacity of people, communities and systems to anticipate, absorb, adapt to and recover from shocks, and where possible to transform in response to them." },
-    { "term": "Adaptive capacity", "definition": "The set of resources, institutions and knowledge available to respond to a shock or stress." },
-    { "term": "Vulnerability", "definition": "The propensity to be harmed by a shock, a function of sensitivity and adaptive capacity." },
-    { "term": "Exposure", "definition": "The presence of people, livelihoods and assets in places that could be adversely affected by a hazard." },
-    { "term": "Convergence", "definition": "The tendency of poorer economies to grow faster than richer ones, narrowing gaps in income per capita; conditional convergence holds after controlling for country characteristics, unconditional convergence does not require this." },
-    { "term": "Growth premium", "definition": "The difference between a country's per-capita growth rate and that of the frontier." },
-    { "term": "Technology diffusion", "definition": "The spread of existing technologies and practices across firms, regions and countries." },
-    { "term": "Poverty trap", "definition": "A self-reinforcing mechanism that perpetuates poverty, such as asset thresholds or nutrition-productivity links." },
-    { "term": "Adaptive social protection", "definition": "Safety-net systems that can expand automatically or rapidly in response to shocks." },
-    { "term": "Parametric insurance", "definition": "Insurance that pays out on a pre-defined trigger (such as rainfall or wind speed) rather than on assessed loss." },
-    { "term": "Mini-grid", "definition": "A small-scale local electricity network, typically solar-based, serving a community or enterprise cluster." },
-    { "term": "PPP", "definition": "Purchasing-power parity: price adjustments allowing comparison of incomes across countries." },
-    { "term": "PRI", "definition": "The proposed Polycrisis Resilience Index." }
+    {
+      "term": "Polycrisis",
+      "definition": "A condition in which crises in multiple global systems become causally entangled in ways that significantly degrade humanity's prospects (Cascade Institute)."
+    },
+    {
+      "term": "Resilience",
+      "definition": "The capacity of people, communities and systems to anticipate, absorb, adapt to and recover from shocks, and where possible to transform in response to them."
+    },
+    {
+      "term": "Adaptive capacity",
+      "definition": "The set of resources, institutions and knowledge available to respond to a shock or stress."
+    },
+    {
+      "term": "Vulnerability",
+      "definition": "The propensity to be harmed by a shock, a function of sensitivity and adaptive capacity."
+    },
+    {
+      "term": "Exposure",
+      "definition": "The presence of people, livelihoods and assets in places that could be adversely affected by a hazard."
+    },
+    {
+      "term": "Convergence",
+      "definition": "The tendency of poorer economies to grow faster than richer ones, narrowing gaps in income per capita; conditional convergence holds after controlling for country characteristics, unconditional convergence does not require this."
+    },
+    {
+      "term": "Growth premium",
+      "definition": "The difference between a country's per-capita growth rate and that of the frontier."
+    },
+    {
+      "term": "Technology diffusion",
+      "definition": "The spread of existing technologies and practices across firms, regions and countries."
+    },
+    {
+      "term": "Poverty trap",
+      "definition": "A self-reinforcing mechanism that perpetuates poverty, such as asset thresholds or nutrition-productivity links."
+    },
+    {
+      "term": "Adaptive social protection",
+      "definition": "Safety-net systems that can expand automatically or rapidly in response to shocks."
+    },
+    {
+      "term": "Parametric insurance",
+      "definition": "Insurance that pays out on a pre-defined trigger (such as rainfall or wind speed) rather than on assessed loss."
+    },
+    {
+      "term": "Mini-grid",
+      "definition": "A small-scale local electricity network, typically solar-based, serving a community or enterprise cluster."
+    },
+    {
+      "term": "PPP",
+      "definition": "Purchasing-power parity: price adjustments allowing comparison of incomes across countries."
+    },
+    {
+      "term": "PRI",
+      "definition": "The proposed Polycrisis Resilience Index."
+    }
   ],
   "references": [
-    { "text": "Barrett, C. B. and Carter, M. R. (2013). The economics of poverty traps and persistent poverty: empirical and policy implications. Journal of Development Studies, 49(7)." },
-    { "text": "Barro, R. J. and Sala-i-Martin, X. (1992). Convergence. Journal of Political Economy, 100(2)." },
-    { "text": "Béné, C., Wood, R. G., Newsham, A. and Davies, M. (2012). Resilience: new utopia or new tyranny? IDS Working Paper 405." },
-    { "text": "Besley, T. and Persson, T. (2013). Taxation and development. In Handbook of Public Economics, vol. 5." },
-    { "text": "Bouron, J.-B., Carroué, L. and Mathian, H. (2023). Global typology of development. Géoconfluences, ENS de Lyon (CC BY-NC-SA).", "url": "https://geoconfluences.ens-lyon.fr" },
-    { "text": "Burke, M., Hsiang, S. M. and Miguel, E. (2015). Global non-linear effect of temperature on economic production. Nature, 527." },
-    { "text": "Comin, D. and Hobijn, B. (2010). An exploration of technology diffusion. American Economic Review, 100(5)." },
-    { "text": "Dell, M., Jones, B. F. and Olken, B. A. (2012). Temperature shocks and economic growth: evidence from the last half century. American Economic Journal: Macroeconomics, 4(3)." },
-    { "text": "FAO, IFAD, UNICEF, WFP and WHO (2025). The State of Food Security and Nutrition in the World 2025." },
-    { "text": "Global Commission on Adaptation (2019). Adapt Now: A Global Call for Leadership on Climate Resilience." },
-    { "text": "Gollin, D., Hansen, C. W. and Wingender, A. M. (2021). Two blades of grass: the impact of the Green Revolution. Journal of Political Economy, 129(8)." },
-    { "text": "Hallegatte, S., Bangalore, M., Bonzanigo, L. et al. (2016). Shock Waves: Managing the Impacts of Climate Change on Poverty. World Bank." },
-    { "text": "Hallegatte, S., Rentschler, J. and Rozenberg, J. (2019). Lifelines: The Resilient Infrastructure Opportunity. World Bank." },
-    { "text": "Hausmann, R., Rodrik, D. and Velasco, A. (2005). Growth diagnostics. Working paper, Harvard Kennedy School." },
-    { "text": "IEA, IRENA, UNSD, World Bank and WHO (2025). Tracking SDG7: The Energy Progress Report 2025.", "url": "https://www.irena.org/Publications/2025/Jun/Tracking-SDG-7-The-Energy-Progress-Report-2025" },
-    { "text": "ILO (2024). World Social Protection Report 2024–26. International Labour Organization." },
-    { "text": "IPCC (2022). Climate Change 2022: Impacts, Adaptation and Vulnerability. Working Group II contribution to the Sixth Assessment Report.", "url": "https://www.ipcc.ch/report/ar6/wg2/" },
-    { "text": "IRENA (2024). Renewable Power Generation Costs in 2023. International Renewable Energy Agency." },
-    { "text": "ITU (2024). Measuring Digital Development: Facts and Figures 2024. International Telecommunication Union." },
-    { "text": "Kahn, M. E. (2005). The death toll from natural disasters: the role of income, geography, and institutions. Review of Economics and Statistics, 87(2)." },
-    { "text": "Kraay, A. and McKenzie, D. (2014). Do poverty traps exist? Assessing the evidence. Journal of Economic Perspectives, 28(3)." },
-    { "text": "Kremer, M., Willis, J. and You, Y. (2022). Converging to convergence. NBER Macroeconomics Annual, 36.", "url": "https://www.nber.org/books-and-chapters/nber-macroeconomics-annual-2021-volume-36/converging-convergence" },
-    { "text": "Lawrence, M., Janzwood, S. and Homer-Dixon, T. (2022). What is a global polycrisis? Cascade Institute Technical Paper 2022-4." },
-    { "text": "Lawrence, M., Homer-Dixon, T., Janzwood, S., Rockström, J., Renn, O. and Donges, J. F. (2024). Global polycrisis: the causal mechanisms of crisis entanglement. Global Sustainability, 7, e6.", "url": "https://doi.org/10.1017/sus.2024.1", "doi": "10.1017/sus.2024.1" },
-    { "text": "Morin, E. and Kern, A. B. (1999). Homeland Earth: A Manifesto for the New Millennium. Hampton Press." },
-    { "text": "Murphy, K. M., Shleifer, A. and Vishny, R. W. (1989). Industrialization and the big push. Journal of Political Economy, 97(5)." },
-    { "text": "Patel, D., Sandefur, J. and Subramanian, A. (2021). The new era of unconditional convergence. Journal of Development Economics, 152." },
-    { "text": "Pritchett, L. (1997). Divergence, big time. Journal of Economic Perspectives, 11(3)." },
-    { "text": "Rentschler, J., Salhab, M. and Jafino, B. A. (2022). Flood exposure and poverty in 188 countries. Nature Communications, 13.", "url": "https://doi.org/10.1038/s41467-022-30727-4", "doi": "10.1038/s41467-022-30727-4" },
-    { "text": "Richardson, K. et al. (2023). Earth beyond six of nine planetary boundaries. Science Advances, 9(37)." },
-    { "text": "Rodrik, D. (2013). Unconditional convergence in manufacturing. Quarterly Journal of Economics, 128(1)." },
-    { "text": "Rodrik, D. (2016). Premature deindustrialization. Journal of Economic Growth, 21." },
-    { "text": "Rosenstein-Rodan, P. N. (1943). Problems of industrialisation of Eastern and South-Eastern Europe. Economic Journal, 53." },
-    { "text": "Sachs, J. D. (2005). The End of Poverty. Penguin." },
-    { "text": "Striessnig, E., Lutz, W. and Patt, A. G. (2013). Effects of educational attainment on climate risk vulnerability. Ecology and Society, 18(1)." },
-    { "text": "Suri, T. and Jack, W. (2016). The long-run poverty and gender impacts of mobile money. Science, 354(6317)." },
-    { "text": "Tooze, A. (2022). Welcome to the world of the polycrisis. Financial Times, 28 October 2022." },
-    { "text": "UN IGME (2024). Levels and Trends in Child Mortality. United Nations Inter-agency Group for Child Mortality Estimation." },
-    { "text": "UNCTAD (2025). A World of Debt 2025." },
-    { "text": "UNEP (2025). Adaptation Gap Report 2025: Running on Empty. United Nations Environment Programme.", "url": "https://www.unep.org/resources/adaptation-gap-report-2025" },
-    { "text": "World Bank (2022). Poverty and Shared Prosperity 2022: Correcting Course." },
-    { "text": "World Bank (2025). June 2025 update to the Poverty and Inequality Platform: global poverty revisited using 2021 PPPs. World Bank." },
-    { "text": "World Economic Forum (2026). Global Risks Report 2026." }
+    {
+      "text": "Barrett, C. B. and Carter, M. R. (2013). The economics of poverty traps and persistent poverty: empirical and policy implications. Journal of Development Studies, 49(7)."
+    },
+    {
+      "text": "Barro, R. J. and Sala-i-Martin, X. (1992). Convergence. Journal of Political Economy, 100(2)."
+    },
+    {
+      "text": "Béné, C., Wood, R. G., Newsham, A. and Davies, M. (2012). Resilience: new utopia or new tyranny? IDS Working Paper 405."
+    },
+    {
+      "text": "Besley, T. and Persson, T. (2013). Taxation and development. In Handbook of Public Economics, vol. 5."
+    },
+    {
+      "text": "Bouron, J.-B., Carroué, L. and Mathian, H. (2023). Global typology of development. Géoconfluences, ENS de Lyon (CC BY-NC-SA).",
+      "url": "https://geoconfluences.ens-lyon.fr"
+    },
+    {
+      "text": "Burke, M., Hsiang, S. M. and Miguel, E. (2015). Global non-linear effect of temperature on economic production. Nature, 527."
+    },
+    {
+      "text": "Comin, D. and Hobijn, B. (2010). An exploration of technology diffusion. American Economic Review, 100(5)."
+    },
+    {
+      "text": "Dell, M., Jones, B. F. and Olken, B. A. (2012). Temperature shocks and economic growth: evidence from the last half century. American Economic Journal: Macroeconomics, 4(3)."
+    },
+    {
+      "text": "FAO, IFAD, UNICEF, WFP and WHO (2025). The State of Food Security and Nutrition in the World 2025."
+    },
+    {
+      "text": "Global Commission on Adaptation (2019). Adapt Now: A Global Call for Leadership on Climate Resilience."
+    },
+    {
+      "text": "Gollin, D., Hansen, C. W. and Wingender, A. M. (2021). Two blades of grass: the impact of the Green Revolution. Journal of Political Economy, 129(8)."
+    },
+    {
+      "text": "Hallegatte, S., Bangalore, M., Bonzanigo, L. et al. (2016). Shock Waves: Managing the Impacts of Climate Change on Poverty. World Bank."
+    },
+    {
+      "text": "Hallegatte, S., Rentschler, J. and Rozenberg, J. (2019). Lifelines: The Resilient Infrastructure Opportunity. World Bank."
+    },
+    {
+      "text": "Hausmann, R., Rodrik, D. and Velasco, A. (2005). Growth diagnostics. Working paper, Harvard Kennedy School."
+    },
+    {
+      "text": "IEA, IRENA, UNSD, World Bank and WHO (2025). Tracking SDG7: The Energy Progress Report 2025.",
+      "url": "https://www.irena.org/Publications/2025/Jun/Tracking-SDG-7-The-Energy-Progress-Report-2025"
+    },
+    {
+      "text": "ILO (2024). World Social Protection Report 2024–26. International Labour Organization."
+    },
+    {
+      "text": "IPCC (2022). Climate Change 2022: Impacts, Adaptation and Vulnerability. Working Group II contribution to the Sixth Assessment Report.",
+      "url": "https://www.ipcc.ch/report/ar6/wg2/"
+    },
+    {
+      "text": "IRENA (2024). Renewable Power Generation Costs in 2023. International Renewable Energy Agency."
+    },
+    {
+      "text": "ITU (2024). Measuring Digital Development: Facts and Figures 2024. International Telecommunication Union."
+    },
+    {
+      "text": "Kahn, M. E. (2005). The death toll from natural disasters: the role of income, geography, and institutions. Review of Economics and Statistics, 87(2)."
+    },
+    {
+      "text": "Kraay, A. and McKenzie, D. (2014). Do poverty traps exist? Assessing the evidence. Journal of Economic Perspectives, 28(3)."
+    },
+    {
+      "text": "Kremer, M., Willis, J. and You, Y. (2022). Converging to convergence. NBER Macroeconomics Annual, 36.",
+      "url": "https://www.nber.org/books-and-chapters/nber-macroeconomics-annual-2021-volume-36/converging-convergence"
+    },
+    {
+      "text": "Lawrence, M., Janzwood, S. and Homer-Dixon, T. (2022). What is a global polycrisis? Cascade Institute Technical Paper 2022-4."
+    },
+    {
+      "text": "Lawrence, M., Homer-Dixon, T., Janzwood, S., Rockström, J., Renn, O. and Donges, J. F. (2024). Global polycrisis: the causal mechanisms of crisis entanglement. Global Sustainability, 7, e6.",
+      "url": "https://doi.org/10.1017/sus.2024.1",
+      "doi": "10.1017/sus.2024.1"
+    },
+    {
+      "text": "Morin, E. and Kern, A. B. (1999). Homeland Earth: A Manifesto for the New Millennium. Hampton Press."
+    },
+    {
+      "text": "Murphy, K. M., Shleifer, A. and Vishny, R. W. (1989). Industrialization and the big push. Journal of Political Economy, 97(5)."
+    },
+    {
+      "text": "Patel, D., Sandefur, J. and Subramanian, A. (2021). The new era of unconditional convergence. Journal of Development Economics, 152."
+    },
+    {
+      "text": "Pritchett, L. (1997). Divergence, big time. Journal of Economic Perspectives, 11(3)."
+    },
+    {
+      "text": "Rentschler, J., Salhab, M. and Jafino, B. A. (2022). Flood exposure and poverty in 188 countries. Nature Communications, 13.",
+      "url": "https://doi.org/10.1038/s41467-022-30727-4",
+      "doi": "10.1038/s41467-022-30727-4"
+    },
+    {
+      "text": "Richardson, K. et al. (2023). Earth beyond six of nine planetary boundaries. Science Advances, 9(37)."
+    },
+    {
+      "text": "Rodrik, D. (2013). Unconditional convergence in manufacturing. Quarterly Journal of Economics, 128(1)."
+    },
+    {
+      "text": "Rodrik, D. (2016). Premature deindustrialization. Journal of Economic Growth, 21."
+    },
+    {
+      "text": "Rosenstein-Rodan, P. N. (1943). Problems of industrialisation of Eastern and South-Eastern Europe. Economic Journal, 53."
+    },
+    {
+      "text": "Sachs, J. D. (2005). The End of Poverty. Penguin."
+    },
+    {
+      "text": "Striessnig, E., Lutz, W. and Patt, A. G. (2013). Effects of educational attainment on climate risk vulnerability. Ecology and Society, 18(1)."
+    },
+    {
+      "text": "Suri, T. and Jack, W. (2016). The long-run poverty and gender impacts of mobile money. Science, 354(6317)."
+    },
+    {
+      "text": "Tooze, A. (2022). Welcome to the world of the polycrisis. Financial Times, 28 October 2022."
+    },
+    {
+      "text": "UN IGME (2024). Levels and Trends in Child Mortality. United Nations Inter-agency Group for Child Mortality Estimation."
+    },
+    {
+      "text": "UNCTAD (2025). A World of Debt 2025."
+    },
+    {
+      "text": "UNEP (2025). Adaptation Gap Report 2025: Running on Empty. United Nations Environment Programme.",
+      "url": "https://www.unep.org/resources/adaptation-gap-report-2025"
+    },
+    {
+      "text": "World Bank (2022). Poverty and Shared Prosperity 2022: Correcting Course."
+    },
+    {
+      "text": "World Bank (2025). June 2025 update to the Poverty and Inequality Platform: global poverty revisited using 2021 PPPs. World Bank."
+    },
+    {
+      "text": "World Economic Forum (2026). Global Risks Report 2026."
+    }
   ]
 }

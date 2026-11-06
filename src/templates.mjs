@@ -3,13 +3,15 @@ import {
   esc, humanDate, monthYear, slashDate, doiUrl, fullTitle, seriesLabel, apaCitation, bibtex,
 } from './lib.mjs';
 
-const jsonLd = (obj) =>
+export const jsonLd = (obj) =>
   `<script type="application/ld+json">${JSON.stringify(obj, null, 2).replace(/</g, '\\u003c')}</script>`;
 
-const meta = (name, content) =>
+export const meta = (name, content) =>
   content === undefined || content === null || content === '' ? '' : `<meta name="${esc(name)}" content="${esc(content)}">`;
-const prop = (property, content) =>
+export const prop = (property, content) =>
   content === undefined || content === null || content === '' ? '' : `<meta property="${esc(property)}" content="${esc(content)}">`;
+
+export const personId = (site, name) => `${site.siteUrl}/#person-${name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')}`;
 
 const pad = (n) => String(n).padStart(2, '0');
 
@@ -28,7 +30,7 @@ export function heroLines() {
 </svg>`;
 }
 
-const icon = {
+export const icon = {
   pdf: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12m0 0-5-5m5 5 5-5M5 21h14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>',
   read: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M2 12s3.6-7 10-7 10 7 10 7-3.6 7-10 7S2 12 2 12Z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/><circle cx="12" cy="12" r="3" fill="none" stroke="currentColor" stroke-width="2"/></svg>',
   ext: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14 4h6v6m0-6L10 14M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>',
@@ -36,7 +38,7 @@ const icon = {
   rss: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 19h.01M5 12a7 7 0 0 1 7 7M5 5a14 14 0 0 1 14 14" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>',
 };
 
-function layout({ site, title, description, canonical, head = '', body, active = '' }) {
+export function layout({ site, title, description, canonical, head = '', body, active = '' }) {
   return `<!doctype html>
 <html lang="${esc(site.language)}">
 <head>
@@ -64,6 +66,7 @@ ${head}
     </a>
     <nav class="site-nav" aria-label="Primary">
       <a href="/#reports"${active === 'reports' ? ' aria-current="page"' : ''}>Reports</a>
+      <a href="/polycrisis-resilience/"${active === 'concept' ? ' aria-current="page"' : ''}>The concept</a>
       <a href="/#about">About</a>
       <a href="/feed.xml" class="nav-feed" title="Atom feed">${icon.rss}<span>Feed</span></a>
     </nav>
@@ -80,6 +83,7 @@ ${body}
     </div>
     <div class="footer-links">
       <a href="/#reports">All reports</a>
+      <a href="/polycrisis-resilience/">The concept</a>
       <a href="/feed.xml">Atom feed</a>
       <a href="/reports.json">Catalog (JSON)</a>
       <a href="/sitemap.xml">Sitemap</a>
@@ -93,17 +97,19 @@ ${body}
 `;
 }
 
-function orgLd(site) {
+export function orgLd(site) {
   return {
     '@type': 'Organization',
     '@id': `${site.siteUrl}/#org`,
     name: site.publisher.name,
     url: site.publisher.url,
     slogan: site.publisher.tagline,
+    sameAs: site.publisher.sameAs?.length ? site.publisher.sameAs : undefined,
+    founder: site.founder ? { '@id': personId(site, site.founder.name) } : undefined,
   };
 }
 
-function seriesLd(site) {
+export function seriesLd(site) {
   return {
     '@type': 'CreativeWorkSeries',
     '@id': `${site.siteUrl}/#series`,
@@ -141,6 +147,7 @@ function reportHead(r, site) {
         abstract: r.abstractText,
         author: r.authors.map((a) => ({
           '@type': 'Person',
+          '@id': personId(site, a.name),
           name: a.name,
           givenName: a.givenName,
           familyName: a.familyName,
@@ -317,6 +324,7 @@ export function reportPage(r, site, { prev, next } = {}) {
       ${metaRows.map(([k, v]) => `<div><dt>${k}</dt><dd>${v}</dd></div>`).join('\n      ')}
     </dl>
     ${r.keywords?.length ? `<div class="aside-block"><h2 class="aside-h">Keywords</h2><ul class="tags">${r.keywords.map((k) => `<li>${esc(k)}</li>`).join('')}</ul></div>` : ''}
+    <div class="aside-block concept-link"><h2 class="aside-h">The concept</h2><p>Polycrisis Resilience is a concept developed by Hunter Hughes, Founder of H Heuristics. <a href="/polycrisis-resilience/">How the concept was developed</a></p></div>
     ${r.subjects?.length ? `<div class="aside-block"><h2 class="aside-h">Fields of research</h2><ul class="subjects">${r.subjects.map((s) => `<li>${esc(s.name)}${s.code ? ` <span class="muted">${esc(s.scheme || '')} ${esc(s.code)}</span>` : ''}</li>`).join('')}</ul></div>` : ''}
   </aside>
 
@@ -454,6 +462,17 @@ export function homePage(reports, site) {
     <h2 id="latest-h" class="section-h">Latest report</h2>
     ${reportCard(latest, { featured: true })}
   </section>` : ''}
+
+  <section class="section" id="concept" aria-labelledby="concept-h">
+    <h2 id="concept-h" class="section-h">The concept</h2>
+    <a class="concept-card" href="/polycrisis-resilience/">
+      <span class="concept-card-text">
+        <span class="concept-card-title">How Hunter Hughes developed the concept of Polycrisis Resilience</span>
+        <span class="concept-card-desc">Polycrisis Resilience is a concept developed by Hunter Hughes, Founder of H Heuristics: the capacity to withstand, adapt to, recover from and reduce vulnerability to multiple interacting and compounding crises. Read where the idea came from, what makes it distinct, and how each report in the series built it out.</span>
+      </span>
+      <span class="concept-card-cta">Read about the concept <span aria-hidden="true">→</span></span>
+    </a>
+  </section>
 
   <section class="section" id="reports" aria-labelledby="reports-h">
     <h2 id="reports-h" class="section-h">All reports</h2>

@@ -11,8 +11,17 @@
   "publisher": {
     "name": "H Heuristics",
     "tagline": "Navigating a Changing World",
-    "url": "https://polycrisisresilience.hheuristics.com"
+    "url": "https://polycrisisresilience.hheuristics.com",
+    "sameAs": [
+      "https://hheuristics.substack.com"
+    ]
   },
   "googleSiteVerification": "",
-  "bingSiteVerification": ""
+  "bingSiteVerification": "",
+  "founder": {
+    "name": "Hunter Hughes",
+    "givenName": "Hunter",
+    "familyName": "Hughes",
+    "jobTitle": "Founder of H Heuristics"
+  }
 }

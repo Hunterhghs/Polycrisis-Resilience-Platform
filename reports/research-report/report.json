@@ -29,6 +29,7 @@
   "pages": 38,
   "language": "en",
   "description": "Polycrisis Resilience in practice: eight essential functions, six scales, four failure patterns and five real cascades, from Winter Storm Uri to CrowdStrike.",
+  "contribution": "States the general definition and its four functions (withstand, adapt, recover, reduce vulnerability), then tests it against five real cascades, adding eight essential functions, six scales, four failure patterns and seven core objectives.",
   "themes": [
     "Essential functions",
     "Six scales",

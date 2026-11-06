@@ -252,3 +252,40 @@ svg { width: 1em; height: 1em; flex: none; }
   .hero-lines { opacity: .45; }
   .hero-gold { opacity: .5; }
 }
+
+/* Concept page */
+.concept { max-width: 860px; padding-top: 32px; padding-bottom: 72px; }
+.concept h2 { font-size: 1.55rem; margin: 1.8em 0 .7em; padding-bottom: .35em; border-bottom: 2px solid var(--navy-2); }
+.concept h3 { font-size: 1.1rem; margin: 1.6em 0 .6em; }
+.concept p { margin: 0 0 1em; }
+.lede { font-size: 1.12rem; margin-top: 20px !important; }
+.definition { margin: 0 0 20px; background: var(--bg-soft); border-left: 5px solid var(--gold); border-radius: 0 var(--radius) var(--radius) 0; padding: 20px 24px; }
+.definition-term { font-family: var(--sans); font-weight: 700; letter-spacing: .1em; text-transform: uppercase; font-size: .8rem; color: var(--accent); margin: 0 0 8px !important; }
+.definition blockquote { margin: 0; font-size: 1.08rem; }
+.definition blockquote p:last-child { margin-bottom: 0; color: var(--text-soft); }
+.definition figcaption { font-family: var(--sans); font-size: .82rem; color: var(--muted); margin-top: 10px; }
+.table-wrap { overflow-x: auto; margin: 0 0 8px; }
+table.data { width: 100%; border-collapse: collapse; font-size: .92rem; min-width: 560px; }
+table.data th, table.data td { text-align: left; vertical-align: top; padding: 10px 12px; border-bottom: 1px solid var(--line); }
+table.data thead th { font-family: var(--sans); font-size: .78rem; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); border-bottom: 2px solid var(--navy-2); }
+table.data tbody th { font-family: var(--sans); font-weight: 650; font-size: .92rem; white-space: nowrap; }
+table.data tbody th .muted { display: block; font-weight: 400; white-space: normal; margin-top: 2px; }
+.series-list { list-style: none; padding: 0; margin: 0; border-top: 1px solid var(--line); }
+.series-list li { padding: 16px 0; border-bottom: 1px solid var(--line); }
+.series-list h3 { margin: 0 0 6px; font-size: 1.12rem; }
+.series-list h3 a { color: var(--heading); text-decoration: none; }
+.series-list h3 a:hover { text-decoration: underline; }
+.series-list p { margin: 0 0 6px !important; }
+.faq details { border-bottom: 1px solid var(--line); padding: 12px 0; }
+.faq details:first-child { border-top: 1px solid var(--line); }
+.faq summary { cursor: pointer; font-family: var(--sans); font-weight: 650; color: var(--heading); }
+.faq details p { margin: 10px 0 0 !important; }
+.concept .cite-box { margin-bottom: 12px; }
+.concept-card { display: grid; gap: 14px; text-decoration: none; color: var(--text); border: 1px solid var(--line); border-left: 5px solid var(--gold); border-radius: 14px; padding: 22px 26px; background: var(--bg-soft); }
+@media (min-width: 760px) { .concept-card { grid-template-columns: 1fr auto; align-items: center; gap: 32px; } }
+.concept-card:hover { border-color: var(--heading); border-left-color: var(--gold); }
+.concept-card-title { display: block; font-family: var(--sans); font-weight: 700; font-size: 1.3rem; color: var(--heading); line-height: 1.25; margin-bottom: 8px; }
+.concept-card-desc { display: block; color: var(--text-soft); }
+.concept-card-cta { font-family: var(--sans); font-weight: 600; font-size: .95rem; color: var(--link); white-space: nowrap; }
+.concept-link p { font-family: var(--sans); font-size: .85rem; margin: 0; color: var(--text-soft); }
+.concept-link a { display: inline-block; margin-top: 4px; font-weight: 600; }

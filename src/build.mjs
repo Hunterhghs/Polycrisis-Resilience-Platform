@@ -9,6 +9,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { esc, stripTags, truncate, parseDate, doiUrl, bibtex, ris } from './lib.mjs';
 import { reportPage, homePage, notFoundPage } from './templates.mjs';
+import { conceptPage, CONCEPT_PATH } from './concept.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const REPORTS_DIR = path.join(ROOT, 'reports');
@@ -142,6 +143,7 @@ function sitemap(reports, site) {
   const latest = reports[0]?.dateModified || reports[0]?.datePublished;
   const urls = [
     { loc: `${site.siteUrl}/`, lastmod: latest, priority: '1.0' },
+    { loc: `${site.siteUrl}${CONCEPT_PATH}`, lastmod: latest, priority: '0.9' },
     ...reports.map((r) => ({ loc: r.url, lastmod: r.dateModified || r.datePublished, priority: '0.9' })),
     ...reports.map((r) => ({ loc: r.pdfUrl, lastmod: r.dateModified || r.datePublished, priority: '0.7' })),
   ];
@@ -277,6 +279,7 @@ async function main() {
   }
 
   await write('index.html', homePage(reports, site));
+  await write(path.join(CONCEPT_PATH.slice(1), 'index.html'), conceptPage(reports, site));
   await write('404.html', notFoundPage(site));
   await write('sitemap.xml', sitemap(reports, site));
   await write('feed.xml', feed(reports, site));

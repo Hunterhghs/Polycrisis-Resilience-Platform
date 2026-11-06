@@ -7,24 +7,64 @@
   "datePublished": "YYYY-MM-DD",
   "dateModified": "YYYY-MM-DD",
   "doi": "10.6084/m9.figshare.XXXXXXXX",
-  "repository": { "name": "figshare", "url": "https://figshare.com/articles/..." },
+  "repository": {
+    "name": "figshare",
+    "url": "https://figshare.com/articles/..."
+  },
   "authors": [
-    { "name": "Hunter Hughes", "givenName": "Hunter", "familyName": "Hughes", "affiliation": "H Heuristics", "role": "Founder of H Heuristics" }
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
   ],
-  "license": { "name": "Creative Commons Attribution 4.0 International", "shortName": "CC BY 4.0", "url": "https://creativecommons.org/licenses/by/4.0/" },
+  "license": {
+    "name": "Creative Commons Attribution 4.0 International",
+    "shortName": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
   "pdf": "report.pdf",
   "cover": "cover.jpg",
   "pages": 0,
   "language": "en",
   "description": "One or two sentences (max ~160 characters) used for search-result snippets and social previews.",
+  "contribution": "One or two sentences on what this report adds to the Polycrisis Resilience concept (shown on the concept page).",
   "themes": [],
   "keywords": [],
   "subjects": [],
-  "abstract": ["First paragraph of the abstract.", "Second paragraph (optional)."],
+  "abstract": [
+    "First paragraph of the abstract.",
+    "Second paragraph (optional)."
+  ],
   "coreProposition": "",
-  "keyFindings": [{ "title": "Finding headline.", "text": "Supporting sentence." }],
+  "keyFindings": [
+    {
+      "title": "Finding headline.",
+      "text": "Supporting sentence."
+    }
+  ],
   "bottomLine": "",
-  "contents": [{ "number": "1", "title": "Section title", "description": "Short description", "page": 4 }],
-  "glossary": [{ "term": "Term", "definition": "Definition." }],
-  "references": [{ "text": "Author (Year). Title. Publisher.", "url": "https://...", "doi": "" }]
+  "contents": [
+    {
+      "number": "1",
+      "title": "Section title",
+      "description": "Short description",
+      "page": 4
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Term",
+      "definition": "Definition."
+    }
+  ],
+  "references": [
+    {
+      "text": "Author (Year). Title. Publisher.",
+      "url": "https://...",
+      "doi": ""
+    }
+  ]
 }
