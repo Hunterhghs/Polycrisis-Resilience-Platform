@@ -53,7 +53,7 @@ ${meta('msvalidate.01', site.bingSiteVerification)}
 <meta name="theme-color" content="#16365c">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="alternate" type="application/atom+xml" title="${esc(site.siteName)}" href="${esc(site.siteUrl)}/feed.xml">
-<link rel="stylesheet" href="/assets/styles.css">
+<link rel="stylesheet" href="/assets/styles.css?v=${site.assetVersion || '1'}">
 ${head}
 </head>
 <body>
@@ -91,7 +91,7 @@ ${body}
     <p class="muted footer-note">Reports are open access. Unless stated otherwise on a report page, content is licensed under CC BY 4.0. © ${new Date().getFullYear()} ${esc(site.publisher.name)}.</p>
   </div>
 </footer>
-<script src="/assets/site.js" defer></script>
+<script src="/assets/site.js?v=${site.assetVersion || '1'}" defer></script>
 </body>
 </html>
 `;
@@ -463,17 +463,30 @@ export function homePage(reports, site) {
     ${reportCard(latest, { featured: true })}
   </section>` : ''}
 
-  <section class="section" id="concept" aria-labelledby="concept-h">
-    <h2 id="concept-h" class="section-h">The concept</h2>
-    <a class="concept-card" href="/polycrisis-resilience/">
-      <span class="concept-card-text">
-        <span class="concept-card-title">How Hunter Hughes developed the concept of Polycrisis Resilience</span>
-        <span class="concept-card-desc">Polycrisis Resilience is a concept developed by Hunter Hughes, Founder of H Heuristics: the capacity to withstand, adapt to, recover from and reduce vulnerability to multiple interacting and compounding crises. Read where the idea came from, what makes it distinct, and how each report in the series built it out.</span>
-      </span>
-      <span class="concept-card-cta">Read about the concept <span aria-hidden="true">→</span></span>
-    </a>
-  </section>
+</div>
 
+<section class="concept-band" id="concept" aria-labelledby="concept-h">
+  ${heroLines()}
+  <div class="container concept-band-inner">
+    <div class="concept-band-main">
+      <p class="kicker">The concept</p>
+      <h2 id="concept-h">Polycrisis Resilience, a concept developed by ${esc(site.founder?.name || 'Hunter Hughes')}</h2>
+      <p class="concept-band-def">The capacity of individuals, communities, societies, economies, institutions and interconnected systems to withstand, adapt to, recover from and reduce vulnerability to multiple interacting and compounding crises.</p>
+      <p class="concept-band-text">Developed by ${esc(site.founder?.name || 'Hunter Hughes')}, ${esc(site.founder?.jobTitle || 'Founder of H Heuristics')}, the concept reorients resilience around one question: how to reduce the human harm that interconnected crises cause. Read where the idea came from, what makes it distinct, and how each report in the series built it out.</p>
+      <div class="concept-band-actions">
+        <a class="btn btn-gold" href="/polycrisis-resilience/"><span>How the concept was developed</span><span aria-hidden="true">→</span></a>
+        <a class="btn btn-ghost" href="/polycrisis-resilience/#definition"><span>Read the definition</span></a>
+      </div>
+    </div>
+    <ol class="concept-band-points" aria-label="The central idea">
+      <li><span class="pt-num">01</span><span><strong>Reduce vulnerability, not only recover.</strong> Act before the shock and across hazards.</span></li>
+      <li><span class="pt-num">02</span><span><strong>Judge success by human suffering avoided,</strong> across people and generations.</span></li>
+      <li><span class="pt-num">03</span><span><strong>Treat development as an instrument of resilience:</strong> convergence, technology, clean energy and institutions.</span></li>
+    </ol>
+  </div>
+</section>
+
+<div class="container">
   <section class="section" id="reports" aria-labelledby="reports-h">
     <h2 id="reports-h" class="section-h">All reports</h2>
     ${reports.length ? `<div class="card-list">${reports.map((r) => reportCard(r)).join('\n')}</div>` : '<p class="muted">The first report is coming soon.</p>'}

@@ -281,11 +281,24 @@ table.data tbody th .muted { display: block; font-weight: 400; white-space: norm
 .faq summary { cursor: pointer; font-family: var(--sans); font-weight: 650; color: var(--heading); }
 .faq details p { margin: 10px 0 0 !important; }
 .concept .cite-box { margin-bottom: 12px; }
-.concept-card { display: grid; gap: 14px; text-decoration: none; color: var(--text); border: 1px solid var(--line); border-left: 5px solid var(--gold); border-radius: 14px; padding: 22px 26px; background: var(--bg-soft); }
-@media (min-width: 760px) { .concept-card { grid-template-columns: 1fr auto; align-items: center; gap: 32px; } }
-.concept-card:hover { border-color: var(--heading); border-left-color: var(--gold); }
-.concept-card-title { display: block; font-family: var(--sans); font-weight: 700; font-size: 1.3rem; color: var(--heading); line-height: 1.25; margin-bottom: 8px; }
-.concept-card-desc { display: block; color: var(--text-soft); }
-.concept-card-cta { font-family: var(--sans); font-weight: 600; font-size: .95rem; color: var(--link); white-space: nowrap; }
 .concept-link p { font-family: var(--sans); font-size: .85rem; margin: 0; color: var(--text-soft); }
 .concept-link a { display: inline-block; margin-top: 4px; font-weight: 600; }
+
+/* Homepage concept band */
+.concept-band { position: relative; overflow: hidden; background: var(--hero-bg); color: #fff; margin: 56px 0 8px; }
+.concept-band .hero-lines { opacity: .55; }
+.concept-band .hero-gold { display: none; }
+.concept-band-inner { position: relative; display: grid; gap: 36px; padding-top: 56px; padding-bottom: 60px; }
+@media (min-width: 900px) { .concept-band-inner { grid-template-columns: minmax(0, 1.5fr) minmax(0, 1fr); gap: 56px; align-items: center; padding-top: 72px; padding-bottom: 76px; } }
+.concept-band h2 { color: #fff; font-size: clamp(1.6rem, 3.4vw, 2.4rem); margin: .3em 0 .55em; max-width: 22ch; font-weight: 750; }
+.concept-band-def { font-style: italic; font-size: 1.15rem; line-height: 1.5; color: rgba(255, 255, 255, .92); border-left: 3px solid var(--gold); padding-left: 16px; margin: 0 0 16px; }
+.concept-band-text { color: rgba(255, 255, 255, .78); margin: 0 0 26px; max-width: 60ch; }
+.concept-band-actions { display: flex; flex-wrap: wrap; gap: 12px; }
+.btn-gold { background: var(--gold); border-color: var(--gold); color: #10233d; font-size: 1rem; padding: 13px 20px; }
+.btn-gold:hover { background: #f0b552; border-color: #f0b552; }
+.btn-ghost { background: transparent; border-color: rgba(255, 255, 255, .4); color: #fff; padding: 13px 20px; }
+.btn-ghost:hover { border-color: #fff; background: rgba(255, 255, 255, .06); }
+.concept-band-points { list-style: none; margin: 0; padding: 0; display: grid; gap: 12px; font-family: var(--sans); font-size: .95rem; }
+.concept-band-points li { display: grid; grid-template-columns: 40px 1fr; gap: 12px; align-items: start; background: rgba(255, 255, 255, .06); border: 1px solid rgba(255, 255, 255, .12); border-radius: 12px; padding: 16px 18px; color: rgba(255, 255, 255, .82); line-height: 1.45; }
+.concept-band-points strong { color: #fff; }
+.pt-num { font-weight: 750; color: var(--gold); font-size: 1.05rem; letter-spacing: .04em; }

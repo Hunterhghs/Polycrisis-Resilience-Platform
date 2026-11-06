@@ -255,6 +255,11 @@ async function main() {
   const t0 = Date.now();
   const site = await loadSite();
   const reports = await loadReports(site);
+  // Version asset URLs by content so CSS/JS changes bypass browser and CDN caches.
+  const { createHash } = await import('node:crypto');
+  const assetHash = createHash('sha256');
+  for (const f of ['src/styles.css', 'src/site.js']) assetHash.update(await readFile(path.join(ROOT, f)));
+  site.assetVersion = assetHash.digest('hex').slice(0, 10);
 
   await rm(OUT, { recursive: true, force: true });
   await mkdir(OUT, { recursive: true });
