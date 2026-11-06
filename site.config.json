@@ -23,5 +23,13 @@
     "givenName": "Hunter",
     "familyName": "Hughes",
     "jobTitle": "Founder of H Heuristics"
-  }
+  },
+  "footerArticles": [
+    {
+      "title": "The Global Contribution of Polycrisis Resilience",
+      "fullTitle": "The Global Contribution of Polycrisis Resilience: Quantifying the Long-Term Impact of the H Heuristics Framework",
+      "source": "H Heuristics on Substack",
+      "url": "https://hheuristics.substack.com/p/the-global-contribution-of-polycrisis"
+    }
+  ]
 }

@@ -302,3 +302,9 @@ table.data tbody th .muted { display: block; font-weight: 400; white-space: norm
 .concept-band-points li { display: grid; grid-template-columns: 40px 1fr; gap: 12px; align-items: start; background: rgba(255, 255, 255, .06); border: 1px solid rgba(255, 255, 255, .12); border-radius: 12px; padding: 16px 18px; color: rgba(255, 255, 255, .82); line-height: 1.45; }
 .concept-band-points strong { color: #fff; }
 .pt-num { font-weight: 750; color: var(--gold); font-size: 1.05rem; letter-spacing: .04em; }
+
+/* Footer further reading */
+.footer-articles { grid-column: 1 / -1; border-top: 1px solid var(--line); padding-top: 16px; }
+.footer-h { font-size: .74rem; letter-spacing: .12em; text-transform: uppercase; color: var(--muted); margin: 0 0 6px !important; }
+.footer-articles ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 4px; }
+.footer-articles a { font-weight: 600; }

@@ -88,6 +88,10 @@ ${body}
       <a href="/reports.json">Catalog (JSON)</a>
       <a href="/sitemap.xml">Sitemap</a>
     </div>
+    ${site.footerArticles?.length ? `<div class="footer-articles">
+      <p class="footer-h">Further reading</p>
+      <ul>${site.footerArticles.map((a) => `<li><a href="${esc(a.url)}" title="${esc(a.fullTitle || a.title)}">${esc(a.title)}</a>${a.source ? `<span class="muted"> · ${esc(a.source)}</span>` : ''}</li>`).join('')}</ul>
+    </div>` : ''}
     <p class="muted footer-note">Reports are open access. Unless stated otherwise on a report page, content is licensed under CC BY 4.0. © ${new Date().getFullYear()} ${esc(site.publisher.name)}.</p>
   </div>
 </footer>
