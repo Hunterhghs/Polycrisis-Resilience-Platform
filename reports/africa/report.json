@@ -1,0 +1,296 @@
+{
+  "seriesNumber": 7,
+  "title": "Polycrisis Resilience in Africa",
+  "subtitle": "Reducing human and systemic vulnerability this century",
+  "type": "Research Report",
+  "datePublished": "2026-11-07",
+  "dateModified": "2026-11-07",
+  "doi": "10.5281/zenodo.24025307",
+  "repository": {
+    "name": "Zenodo",
+    "url": "https://zenodo.org/records/24025307"
+  },
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "license": {
+    "name": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "shortName": "CC BY-NC-ND 4.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+  },
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 38,
+  "language": "en",
+  "description": "Why exposure to interconnected crises is not destiny: how development, prevention and technology diffusion can reduce vulnerability across 54 African countries.",
+  "contribution": "Applies the framework to Africa: seven interconnected challenges across 54 countries, ten development pathways, a five-stage resilience cycle and six capacities, and century-scale scenarios to 2100.",
+  "themes": [
+    "Climate",
+    "Air pollution",
+    "Poverty",
+    "Food & water",
+    "Healthcare",
+    "Energy",
+    "Stability"
+  ],
+  "keywords": [
+    "polycrisis resilience",
+    "Africa",
+    "systemic vulnerability",
+    "development economics",
+    "climate adaptation",
+    "technology diffusion",
+    "risk reduction",
+    "adaptive capacity",
+    "clean cooking",
+    "air pollution",
+    "poverty reduction"
+  ],
+  "abstract": [
+    "Africa faces a convergence of interconnected challenges, including climate stress, air pollution, poverty, food and water insecurity, healthcare gaps, energy poverty, and political instability. This report argues that exposure to these risks is not destiny. Applying the Polycrisis Resilience framework, it examines how sustained investments in development, prevention, adaptation, and technology diffusion can reduce both human and systemic vulnerability across the twenty-first century. The central premise is that many crises share common underlying drivers, meaning that well-designed interventions can address multiple vulnerabilities simultaneously and generate compounding resilience benefits.",
+    "Using public data from 54 African countries, the report identifies the concentration and interaction of seven major challenges and evaluates ten development pathways that can reduce vulnerability, including clean energy, clean cooking, healthcare, water infrastructure, agricultural technology, education, digital infrastructure, institutional development, climate adaptation, and urban planning. The analysis introduces a five-stage resilience cycle and six resilience capacities to guide policy prioritization and long-term development strategy. Visual evidence illustrates how challenges cluster geographically and reinforce one another, creating conditions where vulnerability accumulates unless addressed through coordinated, system-wide action.",
+    "The report develops century-scale scenarios comparing stalled progress, continuation of current trends, and accelerated progress matching the best-performing peer countries. Results suggest that faster advancement in basic services could dramatically reduce deprivation, lower child mortality, decrease deaths associated with household air pollution, and substantially strengthen long-term resilience. By 2100, accelerated development pathways could reduce vulnerability for billions of person-years and move much of the continent toward near-universal access to essential services.",
+    "The report concludes that resilience is best understood not as the capacity to recover from isolated shocks, but as the ability to continuously reduce vulnerability across interconnected systems. Through coordinated development, preventive investment, institutional strengthening, and technology diffusion, African countries can materially alter long-term outcomes and ensure that future generations inherit lower levels of exposure to intersecting crises."
+  ],
+  "coreProposition": "Africa's exposure to interconnected crises is not a fixed outcome. Sustained investment in development, prevention, adaptation and technology diffusion could cut human and systemic vulnerability on a scale that matters across generations.",
+  "keyFindings": [
+    {
+      "title": "The challenges stack up in the same places.",
+      "text": "On seven measures (climate hazard, air pollution, poverty, food and water, health, energy and political stability), 34 of 54 African countries are in the world's worst fifth on four or more. They hold 1.06 billion people, 73% of everyone on Earth in that position. Thirteen African countries, by contrast, have two or fewer, which shows that the pattern is not fixed by geography."
+    },
+    {
+      "title": "Progress is real but is being outrun by population growth.",
+      "text": "Since 2000 the share of Africans with electricity rose from 38% to 62% and under-five mortality fell from 128 to 62 per 1,000 births. Yet the number of Africans without clean cooking grew from 636 million to 996 million, and Africa now holds 89% of the world's people without electricity."
+    },
+    {
+      "title": "The pace has to change.",
+      "text": "To reach 95% access by 2040, Africa would need to gain 2.1 points a year on electricity (it managed 1.4), 3.8 on clean cooking (0.8) and 3.1 on sanitation (0.7). The top tenth of comparable countries have achieved 3.6, 2.7 and 2.5 points a year."
+    },
+    {
+      "title": "Ten development pathways reduce several vulnerabilities at once.",
+      "text": "Clean cooking, for example, is an energy, air-quality, public-health and household-welfare intervention at the same time. Household air pollution killed about 762,000 Africans in 2021; the International Energy Agency estimates that universal access by 2040 would cost about $37 billion in total, or $2 billion a year."
+    },
+    {
+      "title": "The century-long difference is very large.",
+      "text": "At each country's current pace, 1.5 billion Africans would still lack clean cooking in 2100; at the best-peer pace the figure is 35 million. Cumulative child deaths from 2025 to 2100 would be about 160 million at current pace and 52 million at the best-peer pace. These are scenario calculations, not forecasts."
+    },
+    {
+      "title": "Prevention is usually cheaper than response, but the money is moving the wrong way.",
+      "text": "Global estimates put benefit-cost ratios for adaptation and resilient infrastructure at between 2:1 and more than 10:1. Meanwhile official development assistance fell by 23% in 2025 and international adaptation finance covers a small fraction of estimated needs."
+    }
+  ],
+  "contents": [
+    {
+      "number": "",
+      "title": "Executive Summary",
+      "description": "Exposure is not destiny",
+      "page": 4
+    },
+    {
+      "number": "1",
+      "title": "The Central Argument: Exposure Is Not Destiny",
+      "description": "",
+      "page": 6
+    },
+    {
+      "number": "2",
+      "title": "Why Africa Is Particularly Important: Seven Interconnected Challenges",
+      "description": "",
+      "page": 9
+    },
+    {
+      "number": "3",
+      "title": "How the Challenges Compound",
+      "description": "",
+      "page": 13
+    },
+    {
+      "number": "4",
+      "title": "The Polycrisis Resilience Framework Applied to Africa",
+      "description": "",
+      "page": 16
+    },
+    {
+      "number": "5",
+      "title": "Ten Development Pathways That Reduce Vulnerability",
+      "description": "",
+      "page": 18
+    },
+    {
+      "number": "6",
+      "title": "Clean Cooking: A Worked Example of Multiple Benefits",
+      "description": "",
+      "page": 23
+    },
+    {
+      "number": "7",
+      "title": "Three Horizons, 2026–2100: What Different Paces of Progress Could Mean",
+      "description": "",
+      "page": 26
+    },
+    {
+      "number": "8",
+      "title": "The Human Impact: Counting People, Not Just Percentages",
+      "description": "",
+      "page": 29
+    },
+    {
+      "number": "9",
+      "title": "The Economic Dimension: Prevention Costs Less Than Repeated Response",
+      "description": "",
+      "page": 31
+    },
+    {
+      "number": "10",
+      "title": "Evidence from African Progress, and the Risks Ahead",
+      "description": "",
+      "page": 33
+    },
+    {
+      "number": "11",
+      "title": "Priorities and a Scorecard for the Century Ahead",
+      "description": "",
+      "page": 35
+    },
+    {
+      "number": "",
+      "title": "References",
+      "description": "",
+      "page": 37
+    }
+  ],
+  "references": [
+    {
+      "text": "African Risk Capacity Group (2025). About ARC: sovereign disaster risk pooling for African Union member states. Johannesburg: ARC.",
+      "url": "https://www.arc.int/"
+    },
+    {
+      "text": "Boston University Global Development Policy Center (2025). The Cost of Inaction: Explaining Africa's Debt Distress in 10 Charts and Five Fixes for the G20. Boston, MA: BU GDP Center.",
+      "url": "https://www.bu.edu/gdp/2025/06/18/the-cost-of-inaction-explaining-africas-debt-distress-in-10-charts-and-five-fixes-for-the-g20"
+    },
+    {
+      "text": "Business Report (2026). World Bank and African Development Bank's Mission 300: early milestone in electrification. 17 June 2026.",
+      "url": "https://iol.co.za/business-report/companies/2026-06-17-world-bank-and-african-development-banks-mission-300-early-milestone-in-electrification/"
+    },
+    {
+      "text": "European Commission Joint Research Centre and Inter-Agency Standing Committee (2026). INFORM Risk Index, Mid 2026. Ispra: JRC.",
+      "url": "https://drmkc.jrc.ec.europa.eu/inform-index/INFORM-Risk/Results-and-data"
+    },
+    {
+      "text": "Farmer, P. E., Nutt, C. T., Wagner, C. M., et al. (2013). Reduced premature mortality in Rwanda: lessons from success. BMJ, 346, f65.",
+      "url": "https://doi.org/10.1136/bmj.f65",
+      "doi": "10.1136/bmj.f65"
+    },
+    {
+      "text": "Global Commission on Adaptation (2019). Adapt Now: A Global Call for Leadership on Climate Resilience. Rotterdam and Washington, DC: GCA and World Resources Institute.",
+      "url": "https://gca.org/reports/adapt-now-a-global-call-for-leadership-on-climate-resilience/"
+    },
+    {
+      "text": "Hallegatte, S., Rentschler, J. and Rozenberg, J. (2019). Lifelines: The Resilient Infrastructure Opportunity. Washington, DC: World Bank.",
+      "url": "https://openknowledge.worldbank.org/handle/10986/31805"
+    },
+    {
+      "text": "HAPIN Investigators (2024). Liquefied petroleum gas or biomass cooking and severe infant pneumonia. New England Journal of Medicine, 390(1).",
+      "url": "https://www.pubmed.gov/38169488/"
+    },
+    {
+      "text": "Hughes, H. (2026). Polycrisis Resilience: A General Definition and the H Heuristics Framework. H Heuristics Flagship Report, November 2026.",
+      "url": "https://researchreports.hheuristics.com"
+    },
+    {
+      "text": "IEA, IRENA, UN Statistics Division, World Bank and WHO (2025). Tracking SDG 7: The Energy Progress Report 2025. Washington, DC: World Bank.",
+      "url": "https://trackingsdg7.esmap.org/"
+    },
+    {
+      "text": "International Energy Agency (2025). Universal Access to Clean Cooking in Africa. Paris: IEA.",
+      "url": "https://www.iea.org/reports/universal-access-to-clean-cooking-in-africa"
+    },
+    {
+      "text": "IPCC (2023). Climate Change 2023: Synthesis Report. Contribution of Working Groups I, II and III to the Sixth Assessment Report. Geneva: Intergovernmental Panel on Climate Change.",
+      "url": "https://www.ipcc.ch/report/ar6/syr/"
+    },
+    {
+      "text": "Kahn, M. E. (2005). The death toll from natural disasters: the role of income, geography, and institutions. Review of Economics and Statistics, 87(2), 271–284.",
+      "url": "https://doi.org/10.1162/0034653053970339",
+      "doi": "10.1162/0034653053970339"
+    },
+    {
+      "text": "Knippenberg, E. and Hoddinott, J. (2017). Shocks, Social Protection, and Resilience: Evidence from Ethiopia. IFPRI ESSP Working Paper 109. Washington, DC: International Food Policy Research Institute.",
+      "url": "https://econpapers.repec.org/RePEc:fpr:esspwp:109"
+    },
+    {
+      "text": "Lawrence, M., Homer-Dixon, T., Janzwood, S., Rockström, J., Renn, O. and Donges, J. F. (2024). Global polycrisis: the causal mechanisms of crisis entanglement. Global Sustainability, 7, e6.",
+      "url": "https://doi.org/10.1017/sus.2024.1",
+      "doi": "10.1017/sus.2024.1"
+    },
+    {
+      "text": "Lawrence, M., Janzwood, S. and Homer-Dixon, T. (2022). What Is a Global Polycrisis? And How Is It Different from a Systemic Risk? Technical Paper 2022-4. Victoria, BC: Cascade Institute.",
+      "url": "https://cascadeinstitute.org/technical-paper/what-is-a-global-polycrisis/"
+    },
+    {
+      "text": "Lutz, W., Muttarak, R. and Striessnig, E. (2014). Universal education is key to enhanced climate adaptation. Science, 346(6213), 1061–1062.",
+      "url": "https://doi.org/10.1126/science.1257975",
+      "doi": "10.1126/science.1257975"
+    },
+    {
+      "text": "OECD (2026). International aid fell sharply in 2025, says OECD (preliminary ODA data). Paris: OECD, April 2026.",
+      "url": "https://www.oecd.org/en/about/news/press-releases/2026/04/international-aid-fell-sharply-in-2025-says-oecd.html"
+    },
+    {
+      "text": "Our World in Data (2025). Population, with UN projections (country series from World Population Prospects 2024, medium variant). Oxford: Global Change Data Lab.",
+      "url": "https://ourworldindata.org/grapher/population-with-un-projections"
+    },
+    {
+      "text": "Our World in Data (2025a). Annual CO₂ emissions (data from the Global Carbon Project). Oxford: Global Change Data Lab.",
+      "url": "https://ourworldindata.org/grapher/annual-co2-emissions-per-country"
+    },
+    {
+      "text": "Suri, T. and Jack, W. (2016). The long-run poverty and gender impacts of mobile money. Science, 354(6317), 1288–1292.",
+      "url": "https://doi.org/10.1126/science.aah5309",
+      "doi": "10.1126/science.aah5309"
+    },
+    {
+      "text": "Toya, H. and Skidmore, M. (2007). Economic development and the impacts of natural disasters. Economics Letters, 94(1), 20–25.",
+      "url": "https://doi.org/10.1016/j.econlet.2006.06.020",
+      "doi": "10.1016/j.econlet.2006.06.020"
+    },
+    {
+      "text": "United Nations Environment Programme (2025). Adaptation Gap Report 2025: Running on Empty. Nairobi: UNEP.",
+      "url": "https://www.unep.org/resources/adaptation-gap-report-2025"
+    },
+    {
+      "text": "United Nations, Department of Economic and Social Affairs, Population Division (2024). World Population Prospects 2024. New York: United Nations.",
+      "url": "https://population.un.org/wpp/"
+    },
+    {
+      "text": "Uppsala Conflict Data Program (2025). UCDP Conflict Encyclopedia and datasets. Uppsala: Department of Peace and Conflict Research, Uppsala University.",
+      "url": "https://ucdp.uu.se/"
+    },
+    {
+      "text": "World Bank (2024). Five ways the World Bank will achieve Mission 300. Washington, DC: World Bank.",
+      "url": "https://www.worldbank.org/en/news/feature/2024/09/19/five-ways-the-world-bank-will-achieve-mission-300"
+    },
+    {
+      "text": "World Bank (2025). Worldwide Governance Indicators, 2025 update. Washington, DC: World Bank.",
+      "url": "https://www.worldbank.org/en/publication/worldwide-governance-indicators"
+    },
+    {
+      "text": "World Bank (2026). World Development Indicators. Washington, DC: World Bank. Retrieved through the World Bank API, November 2026.",
+      "url": "https://databank.worldbank.org/source/world-development-indicators"
+    },
+    {
+      "text": "World Health Organization (2026). Global Health Observatory: air pollution attributable deaths (indicators AIR_11, AIR_41; 2021 estimates). Geneva: WHO.",
+      "url": "https://www.who.int/data/gho/data/themes/air-pollution"
+    },
+    {
+      "text": "World Meteorological Organization, African Union Commission, UN Economic Commission for Africa and African Ministerial Conference on Meteorology (2024). State of the Climate in Africa 2023. Geneva: WMO.",
+      "url": "https://wmo.int/resources/publication-series/state-of-climate-africa/state-of-climate-africa-2023"
+    }
+  ]
+}
