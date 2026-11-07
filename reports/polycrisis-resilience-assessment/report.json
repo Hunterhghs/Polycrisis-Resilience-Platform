@@ -1,0 +1,420 @@
+{
+  "seriesNumber": 10,
+  "title": "Polycrisis Resilience: An Assessment of the Intellectual Contribution of Hunter Hughes and the H Heuristics Framework",
+  "type": "Research Report",
+  "datePublished": "2026-11-07",
+  "dateModified": "2026-11-07",
+  "doi": "10.6084/m9.figshare.34942879",
+  "repository": {
+    "name": "figshare",
+    "url": "https://figshare.com/articles/preprint/Polycrisis_Resilience_An_assessment_of_the_intellectual_contribution_of_Hunter_Hughes_and_the_H_Heuristics_framework/34942879"
+  },
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "license": {
+    "name": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "shortName": "CC BY-NC-ND 4.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+  },
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 37,
+  "language": "en",
+  "description": "A disclosed self-assessment of the Polycrisis Resilience framework against ten criteria: what has been contributed, how strong the evidence is, and what it could plausibly achieve by 2100.",
+  "contribution": "A self-assessment, with the author’s interest disclosed, of the framework against ten criteria. It finds the idea clear and well connected but not yet independently tested, cited or adopted, and sets ten tests for 2027–2030.",
+  "themes": [
+    "Intellectual contribution",
+    "Research programme",
+    "Institutional uptake",
+    "Economic argument",
+    "Impact through 2100"
+  ],
+  "keywords": [
+    "polycrisis resilience",
+    "intellectual contribution",
+    "research assessment",
+    "conceptual novelty",
+    "resilience studies",
+    "systemic risk",
+    "disaster risk reduction",
+    "benefit-cost ratios",
+    "prevention economics",
+    "impact pathways",
+    "H Heuristics Polycrisis Resilience Framework",
+    "Hunter Hughes"
+  ],
+  "subjects": [
+    {
+      "name": "Humanitarian disasters, conflict and peacebuilding",
+      "scheme": "ANZSRC FoR",
+      "code": "440402"
+    },
+    {
+      "name": "Disaster and emergency management",
+      "scheme": "ANZSRC FoR",
+      "code": "350703"
+    },
+    {
+      "name": "Economic development policy",
+      "scheme": "ANZSRC FoR",
+      "code": "440703"
+    },
+    {
+      "name": "Pollution and contamination not elsewhere classified",
+      "scheme": "ANZSRC FoR",
+      "code": "410599"
+    },
+    {
+      "name": "Climate change impacts and adaptation not elsewhere classified",
+      "scheme": "ANZSRC FoR",
+      "code": "410199"
+    },
+    {
+      "name": "Risk policy",
+      "scheme": "ANZSRC FoR",
+      "code": "440711"
+    }
+  ],
+  "abstract": [
+    "Polycrisis Resilience is a framework developed by Hunter Hughes that addresses the growing challenge of multiple interacting crises, including climate change, poverty, health risks, technological disruption, environmental degradation, and economic instability. It defines polycrisis resilience as the capacity of individuals, communities, institutions, economies, societies, and interconnected systems to anticipate, withstand, adapt to, recover from, and reduce their vulnerability to multiple interacting crises. The framework extends traditional resilience thinking beyond recovery by emphasizing the reduction of underlying vulnerabilities, linking resilience directly to long-term development outcomes. This assessment evaluates the intellectual, research, and institutional contribution of the Polycrisis Resilience framework using ten criteria that examine conceptual quality, empirical grounding, and external recognition. The analysis finds that the framework represents a coherent synthesis of ideas from resilience studies, disaster risk reduction, development economics, systemic risk, and sustainability research, while contributing a distinctive focus on interconnected crises, structural vulnerability reduction, and integrated development strategies. The framework is organized around six capacities and a five-stage cycle designed to strengthen resilience across interconnected systems. Evidence reviewed in this report suggests that the framework has established a clear conceptual foundation and an unusually open research program. As of November 2026, the H Heuristics research series had produced 53 reports spanning 2,844 pages and multiple empirical studies examining vulnerability, resilience, prevention, and interconnected development outcomes. These studies broadly support the importance of vulnerability reduction and coordinated development, while also revealing limitations in current measurement approaches, including the difficulty of constructing a single resilience index that performs substantially better than income-based measures alone. The assessment concludes that Polycrisis Resilience is a promising and well-articulated intellectual contribution that has successfully achieved conceptual establishment but has not yet reached widespread research adoption, institutional uptake, or demonstrable real-world impact. Its long-term significance will depend on independent scrutiny, peer-reviewed validation, improved measurement tools, and adoption by governments, development institutions, and researchers. If these conditions are met, the framework has the potential to provide a common vocabulary and practical approach for reducing vulnerability to interconnected global crises throughout the twenty-first century."
+  ],
+  "coreProposition": "Polycrisis Resilience is a clear, well-connected idea that has been published and tested in the open. Whether it becomes an important contribution now depends on outside scrutiny, institutional use and measured results.",
+  "keyFindings": [
+    {
+      "title": "The problem the concept addresses is real and growing fast.",
+      "text": "Scholarly works mentioning \"polycrisis\" rose from 40 in 2022 to 1,177 in 2026 (to 6 November), and the share that also discuss resilience rose from 10% to 28%. A clear, development-focused definition of resilience is still scarce."
+    },
+    {
+      "title": "The contribution is a synthesis, not a new word.",
+      "text": "\"Polycrisis\" and \"resilience\" each belong to earlier thinkers, and three other 2026 works already use the exact phrase. What is distinctive is a specific definition, a six-capacity and five-stage framework, a development-economics focus on structural vulnerability, and an open research programme built on it."
+    },
+    {
+      "title": "On the quality of the idea, the evidence is good.",
+      "text": "Clarity and integration across fields rate strong; novelty and internal coherence rate moderate, because two ways of cutting the concept are still to be reconciled. On recognition, every rating is still \"none yet\"."
+    },
+    {
+      "title": "The programme's own tests are the most credible part, and they show where the work is unfinished.",
+      "text": "A unified risk score is no better at predicting realised harm than its parts; the five-capacity composite is mostly a measure of national income (R² 0.86); and national resilience is not a stable trait (a correlation of 0.09 between two crises)."
+    },
+    {
+      "title": "The economic case is plausible but not yet proven for a multi-sector package.",
+      "text": "Published benefit-cost ratios for disaster and climate resilience cluster between 2:1 and about 15:1. The 18:1 return suggested for integrated multi-risk packages is a hypothesis that sits above that evidence. One figure cited in the Substack article could not be traced to its underlying study, so it is not relied on."
+    },
+    {
+      "title": "Impact lies ahead, and it comes in stages.",
+      "text": "The concept has reached Stage 1 (defined, published and findable). Research adoption, institutional adoption and real-world impact have not yet been reached. Comparable ideas took 5 to 30 years to move between stages."
+    },
+    {
+      "title": "\"Billions of people\" is possible only as a scenario.",
+      "text": "Shifting 10% of 2025 aid ($17 billion a year) over 75 years would return $5 to $20 trillion at 4:1 to 15:1, undiscounted. The framework could claim only the share of that which it caused; at 1% of the reallocation that would be about $92 billion."
+    },
+    {
+      "title": "Overall verdict.",
+      "text": "A promising, coherent and openly published foundation, not yet an established contribution. The largest possible contribution depends on independent testing, a validated measurement tool and uptake by institutions, and ten tests for 2027–2030 would settle the question."
+    }
+  ],
+  "contents": [
+    {
+      "number": "",
+      "title": "Executive Summary",
+      "description": "A promising foundation, not yet an established contribution",
+      "page": 4
+    },
+    {
+      "number": "1",
+      "title": "The Question and How It Is Assessed",
+      "description": "",
+      "page": 6
+    },
+    {
+      "number": "2",
+      "title": "The Problem: Crises That Interact",
+      "description": "",
+      "page": 8
+    },
+    {
+      "number": "3",
+      "title": "The Concept: What Polycrisis Resilience Says",
+      "description": "",
+      "page": 11
+    },
+    {
+      "number": "4",
+      "title": "Where It Sits Among Existing Ideas",
+      "description": "",
+      "page": 14
+    },
+    {
+      "number": "5",
+      "title": "The Contribution at Three Levels",
+      "description": "",
+      "page": 17
+    },
+    {
+      "number": "6",
+      "title": "The Research Programme: What Has Been Tested",
+      "description": "",
+      "page": 20
+    },
+    {
+      "number": "7",
+      "title": "The Economic Argument: What Prevention Returns",
+      "description": "",
+      "page": 22
+    },
+    {
+      "number": "8",
+      "title": "The Potential Impact Through 2100: Four Stages",
+      "description": "",
+      "page": 25
+    },
+    {
+      "number": "9",
+      "title": "Could It Affect Billions of People?",
+      "description": "",
+      "page": 28
+    },
+    {
+      "number": "10",
+      "title": "Overall Assessment",
+      "description": "",
+      "page": 32
+    },
+    {
+      "number": "",
+      "title": "References",
+      "description": "",
+      "page": 35
+    }
+  ],
+  "references": [
+    {
+      "text": "Centeno, M. A., Nag, M., Patterson, T. S., Shaver, A. and Windawi, A. J. (2015). The emergence of global systemic risk. Annual Review of Sociology, 41, 65–85.",
+      "url": "https://doi.org/10.1146/annurev-soc-073014-112317",
+      "doi": "10.1146/annurev-soc-073014-112317"
+    },
+    {
+      "text": "Federal Energy Regulatory Commission and North American Electric Reliability Corporation (2021). February 2021 Cold Weather Outages in Texas and the South Central United States. Washington, DC: FERC.",
+      "url": "https://www.ferc.gov/media/february-2021-cold-weather-outages-texas-and-south-central-united-states-ferc-nerc-and"
+    },
+    {
+      "text": "Folke, C. (2006). Resilience: the emergence of a perspective for social–ecological systems analyses. Global Environmental Change, 16(3), 253–267.",
+      "url": "https://doi.org/10.1016/j.gloenvcha.2006.04.002",
+      "doi": "10.1016/j.gloenvcha.2006.04.002"
+    },
+    {
+      "text": "Gerring, J. (1999). What makes a concept good? A criterial framework for understanding concept formation in the social sciences. Polity, 31(3), 357–393.",
+      "url": "https://doi.org/10.2307/3235246",
+      "doi": "10.2307/3235246"
+    },
+    {
+      "text": "Global Commission on Adaptation (2019). Adapt Now: A Global Call for Leadership on Climate Resilience. Rotterdam and Washington, DC: GCA and World Resources Institute.",
+      "url": "https://gca.org/reports/adapt-now-a-global-call-for-leadership-on-climate-resilience/"
+    },
+    {
+      "text": "Government of Pakistan, Asian Development Bank, European Union, United Nations Development Programme and World Bank (2022). Pakistan Floods 2022: Post-Disaster Needs Assessment. Islamabad. Summary press release, 28 October.",
+      "url": "https://www.worldbank.org/en/news/press-release/2022/10/28/pakistan-flood-damages-and-economic-losses-over-usd-30-billion-and-reconstruction-needs-over-usd-16-billion-new-assessme"
+    },
+    {
+      "text": "H Heuristics (2026a). Research Reports [53 reports listed, 8 September–6 November 2026]. researchreports.hheuristics.com.",
+      "url": "https://researchreports.hheuristics.com"
+    },
+    {
+      "text": "Hallegatte, S., Rentschler, J. and Rozenberg, J. (2019). Lifelines: The Resilient Infrastructure Opportunity. Washington, DC: World Bank.",
+      "url": "https://openknowledge.worldbank.org/handle/10986/31805"
+    },
+    {
+      "text": "Helbing, D. (2013). Globally networked risks and how to respond. Nature, 497, 51–59.",
+      "url": "https://doi.org/10.1038/nature12047",
+      "doi": "10.1038/nature12047"
+    },
+    {
+      "text": "Holling, C. S. (1973). Resilience and stability of ecological systems. Annual Review of Ecology and Systematics, 4, 1–23.",
+      "url": "https://doi.org/10.1146/annurev.es.04.110173.000245",
+      "doi": "10.1146/annurev.es.04.110173.000245"
+    },
+    {
+      "text": "Hughes, H. (2026a). Polycrisis Resilience: A General Definition and the H Heuristics Framework. H Heuristics Flagship Report, November 2026.",
+      "url": "https://researchreports.hheuristics.com"
+    },
+    {
+      "text": "Hughes, H. (2026b). Polycrisis Resilience in Africa: Reducing Human and Systemic Vulnerability This Century. H Heuristics Research Report, November 2026.",
+      "url": "https://researchreports.hheuristics.com"
+    },
+    {
+      "text": "Hughes, H. (2026c). Polycrisis Resilience 2026: Capacity, Clustering and the Recovery Gap. H Heuristics Research Report, November 2026.",
+      "url": "https://researchreports.hheuristics.com"
+    },
+    {
+      "text": "Hughes, H. (2026d). Polycrisis Resilience in the Global South: Reducing Human and Systemic Vulnerability Through Development, Technology Diffusion, and Integrated Risk Reduction. H Heuristics Research Report, November 2026.",
+      "url": "https://researchreports.hheuristics.com"
+    },
+    {
+      "text": "Hughes, H. (2026e). The Global Contribution of Polycrisis Resilience: Quantifying the Long-Term Impact of the H Heuristics Framework. H Heuristics (Substack), November.",
+      "url": "https://hheuristics.substack.com/p/the-global-contribution-of-polycrisis"
+    },
+    {
+      "text": "Hughes, H. (2026f). Polycrisis Resilience. Zenodo. https://doi.org/10.5281/zenodo.23967037.",
+      "url": "https://doi.org/10.5281/zenodo.23967037",
+      "doi": "10.5281/zenodo.23967037"
+    },
+    {
+      "text": "Hughes, H. (2026g). Polycrisis Resilience: Defining a Framework for Thriving in an Age of Interconnected Crises. Figshare. https://doi.org/10.6084/m9.figshare.34919028.",
+      "url": "https://doi.org/10.6084/m9.figshare.34919028",
+      "doi": "10.6084/m9.figshare.34919028"
+    },
+    {
+      "text": "Hughes, H. (2026h). A Unified Framework for Understanding and Mitigating the Global Polycrisis. H Heuristics Digital Report 2026-82.",
+      "url": "https://digitalreports.hheuristics.com/reports/unified-polycrisis-framework/"
+    },
+    {
+      "text": "Hughes, H. (2026i). Defining and Understanding Polycrisis Resilience. H Heuristics Digital Report 2026-83.",
+      "url": "https://digitalreports.hheuristics.com/reports/defining-polycrisis-resilience/"
+    },
+    {
+      "text": "Hughes, H. (2026j). The Economics of Resilience in an Age of Global Polycrisis. H Heuristics Digital Report 2026-84.",
+      "url": "https://digitalreports.hheuristics.com/reports/economics-of-resilience-polycrisis/"
+    },
+    {
+      "text": "Hughes, H. (2026k). Addressing Interconnected Global Crises Through Coordinated Economic Development. H Heuristics Digital Report 2026-85.",
+      "url": "https://digitalreports.hheuristics.com/reports/coordinated-development-interconnected-crises/"
+    },
+    {
+      "text": "Hughes, H. (2026l). The Economics of Polycrisis Prevention: Quantifying the Human and Economic Returns of Resilience. H Heuristics Digital Report 2026-80.",
+      "url": "https://digitalreports.hheuristics.com/reports/polycrisis-prevention-returns-resilience/"
+    },
+    {
+      "text": "Hughes, H. (2026m). The Economics of Prevention Versus the Cost of Crisis. H Heuristics Digital Report 2026-74.",
+      "url": "https://digitalreports.hheuristics.com/reports/prevention-vs-cost-of-crisis/"
+    },
+    {
+      "text": "Hughes, H. (2026n). Polycrisis Resilience: The H Heuristics Concept. H Heuristics Digital Report 2026-86.",
+      "url": "https://digitalreports.hheuristics.com/reports/polycrisis-resilience-concept/"
+    },
+    {
+      "text": "Hughes, H. (2026o). Polycrisis Resilience in the 21st Century: Reducing Human and Systemic Vulnerability to Interconnected Global Crises. H Heuristics Research Report, November 2026.",
+      "url": "https://researchreports.hheuristics.com"
+    },
+    {
+      "text": "Lawrence, M., Homer-Dixon, T., Janzwood, S., Rockström, J., Renn, O. and Donges, J. F. (2024). Global polycrisis: the causal mechanisms of crisis entanglement. Global Sustainability, 7, e6.",
+      "url": "https://doi.org/10.1017/sus.2024.1",
+      "doi": "10.1017/sus.2024.1"
+    },
+    {
+      "text": "Lawrence, M., Janzwood, S. and Homer-Dixon, T. (2022). What Is a Global Polycrisis? And How Is It Different from a Systemic Risk? Technical Paper 2022-4. Victoria, BC: Cascade Institute.",
+      "url": "https://cascadeinstitute.org/technical-paper/what-is-a-global-polycrisis/"
+    },
+    {
+      "text": "Linkov, I., Bridges, T., Creutzig, F. et al. (2014). Changing the resilience paradigm. Nature Climate Change, 4, 407–409.",
+      "url": "https://doi.org/10.1038/nclimate2227",
+      "doi": "10.1038/nclimate2227"
+    },
+    {
+      "text": "Lucchetta, M. (2026). Polycrisis Resilience. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.6753966.",
+      "url": "https://doi.org/10.2139/ssrn.6753966",
+      "doi": "10.2139/ssrn.6753966"
+    },
+    {
+      "text": "Manyena, S. B., O'Brien, G., O'Keefe, P. and Rose, J. (2011). Disaster resilience: a bounce back or bounce forward ability? Local Environment, 16(5), 417–424.",
+      "url": "https://doi.org/10.1080/13549839.2011.583049",
+      "doi": "10.1080/13549839.2011.583049"
+    },
+    {
+      "text": "Morin, E. and Kern, A. B. (1999). Homeland Earth: A Manifesto for the New Millennium. Cresskill, NJ: Hampton Press. First published in French as Terre-Patrie (1993)."
+    },
+    {
+      "text": "Msemburi, W., Karlinsky, A., Knutson, V., Aleshin-Guendel, S., Chatterji, S. and Wakefield, J. (2023). The WHO estimates of excess mortality associated with the COVID-19 pandemic. Nature, 613, 130–137.",
+      "url": "https://doi.org/10.1038/s41586-022-05522-2",
+      "doi": "10.1038/s41586-022-05522-2"
+    },
+    {
+      "text": "OECD (2026). International aid fell sharply in 2025, says OECD (preliminary ODA data). Paris: OECD, April 2026.",
+      "url": "https://www.oecd.org/en/about/news/press-releases/2026/04/international-aid-fell-sharply-in-2025-says-oecd.html"
+    },
+    {
+      "text": "OpenAlex (2026). OpenAlex: an open catalogue of scholarly works. OurResearch. Queries run through api.openalex.org on 6 November 2026.",
+      "url": "https://openalex.org"
+    },
+    {
+      "text": "Pedersen, T., Jensen, P. D. Ø. and Busck-Lumholt, L. M. (2026). Navigating the polycrisis: resilience strategies of firms in global production networks. Journal of Economic Geography. https://doi.org/10.1093/jeg/lbag031.",
+      "url": "https://doi.org/10.1093/jeg/lbag031",
+      "doi": "10.1093/jeg/lbag031"
+    },
+    {
+      "text": "Raworth, K. (2012). A Safe and Just Space for Humanity: Can We Live Within the Doughnut? Oxfam Discussion Paper. Oxford: Oxfam.",
+      "url": "https://www.oxfam.org/en/research/safe-and-just-space-humanity"
+    },
+    {
+      "text": "Renn, O., Laubichler, M., Lucas, K., Kröger, W., Schanze, J., Scholz, R. W. and Schweizer, P.-J. (2022). Systemic risks from different perspectives. Risk Analysis, 42(9), 1902–1920.",
+      "url": "https://doi.org/10.1111/risa.13657",
+      "doi": "10.1111/risa.13657"
+    },
+    {
+      "text": "Rockström, J., Steffen, W., Noone, K. et al. (2009). A safe operating space for humanity. Nature, 461, 472–475.",
+      "url": "https://doi.org/10.1038/461472a",
+      "doi": "10.1038/461472a"
+    },
+    {
+      "text": "Sen, A. (1999). Development as Freedom. Oxford: Oxford University Press."
+    },
+    {
+      "text": "The Amsterdammer (2020). Launch of the 'Amsterdam City Doughnut': establishing the sweet spot of society. 20 April.",
+      "url": "https://theamsterdammer.org/2020/04/20/news/launch-of-the-amsterdam-city-doughnut-establishing-the-sweet-spot-of-society/"
+    },
+    {
+      "text": "Tooze, A. (2022). Welcome to the world of the polycrisis. Financial Times, 28 October.",
+      "url": "https://www.ft.com/content/498398e7-11b1-494b-9cd3-6d669dc3de33"
+    },
+    {
+      "text": "UNISDR (2005). Hyogo Framework for Action 2005–2015: Building the Resilience of Nations and Communities to Disasters. Geneva: United Nations.",
+      "url": "https://www.undrr.org/publication/hyogo-framework-action-2005-2015-building-resilience-nations-and-communities-disasters"
+    },
+    {
+      "text": "United Nations (1992). United Nations Conference on Environment and Development (Earth Summit), Rio de Janeiro, 3–14 June 1992.",
+      "url": "https://www.un.org/en/conferences/environment/rio1992"
+    },
+    {
+      "text": "United Nations (2015). Transforming Our World: The 2030 Agenda for Sustainable Development. New York: United Nations.",
+      "url": "https://sdgs.un.org/2030agenda"
+    },
+    {
+      "text": "United Nations Development Programme (2026). Risk-informed development. New York: UNDP (accessed through search, November 2026; page text not retrieved by this review).",
+      "url": "https://www.undp.org/stories/risk-informed-development"
+    },
+    {
+      "text": "United Nations Office for Disaster Risk Reduction (2015). Sendai Framework for Disaster Risk Reduction 2015–2030. Geneva: UNDRR.",
+      "url": "https://www.undrr.org/publication/sendai-framework-disaster-risk-reduction-2015-2030"
+    },
+    {
+      "text": "United Nations Office for Disaster Risk Reduction (2017). Terminology on Disaster Risk Reduction: Resilience. Geneva: UNDRR (definition adopted by the UN General Assembly, A/RES/71/276).",
+      "url": "https://www.undrr.org/terminology/resilience"
+    },
+    {
+      "text": "United Nations Office for Disaster Risk Reduction (2025). Global Assessment Report on Disaster Risk Reduction 2025: Resilience Pays – Financing and Investing for our Future. Geneva: UNDRR.",
+      "url": "https://www.undrr.org/gar/gar2025"
+    },
+    {
+      "text": "Weston, D. (2024). Helping our customers through the CrowdStrike outage. Official Microsoft Blog, 20 July.",
+      "url": "https://blogs.microsoft.com/blog/2024/07/20/helping-our-customers-through-the-crowdstrike-outage/"
+    },
+    {
+      "text": "World Commission on Environment and Development (1987). Our Common Future. Oxford: Oxford University Press.",
+      "url": "https://sustainabledevelopment.un.org/content/documents/5987our-common-future.pdf"
+    },
+    {
+      "text": "World Economic Forum (2023). Global Risks Report 2023, 18th edition. Geneva: WEF.",
+      "url": "https://www.weforum.org/publications/global-risks-report-2023/"
+    },
+    {
+      "text": "World Economic Forum (2026). Global Risks Report 2026, 21st edition. Geneva: WEF, 14 January.",
+      "url": "https://www.weforum.org/press/2026/01/global-risks-report-2026-geopolitical-and-economic-risks-rise-in-new-age-of-competition/"
+    }
+  ]
+}
