@@ -1,0 +1,579 @@
+{
+  "seriesNumber": 9,
+  "title": "Polycrisis Resilience in the 21st Century",
+  "subtitle": "Reducing human and systemic vulnerability to interconnected global crises",
+  "type": "Research Report",
+  "datePublished": "2026-11-07",
+  "dateModified": "2026-11-07",
+  "doi": "10.6084/m9.figshare.34942807",
+  "repository": {
+    "name": "figshare",
+    "url": "https://figshare.com/articles/preprint/Polycrisis_Resilience_in_the_21st_Century_Reducing_human_and_systemic_vulnerability_to_interconnected_global_crises_2026_2100/34942807"
+  },
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "license": {
+    "name": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "shortName": "CC BY-NC-ND 4.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+  },
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 43,
+  "language": "en",
+  "description": "A world view of Polycrisis Resilience across 217 economies: eight risk domains, ten development pathways, regional applications, century-scale scenarios for 2026-2100 and a scorecard for measuring impact.",
+  "contribution": "Takes the framework worldwide: eight risk domains across 217 economies, the definition and six capacities, ten development pathways, five periods from 2026 to 2100 and an eight-measure scorecard.",
+  "themes": [
+    "Climate and environment",
+    "Pollution and health",
+    "Poverty and inequality",
+    "Food, water and energy",
+    "Conflict and instability",
+    "Institutions",
+    "Technology",
+    "Infrastructure"
+  ],
+  "keywords": [
+    "polycrisis resilience",
+    "global polycrisis",
+    "vulnerability reduction",
+    "development as risk reduction",
+    "ten development pathways",
+    "technology diffusion",
+    "climate adaptation",
+    "air pollution",
+    "clean cooking",
+    "demography and development",
+    "scenarios to 2100",
+    "Polycrisis Resilience Index",
+    "H Heuristics Polycrisis Resilience Framework"
+  ],
+  "subjects": [
+    {
+      "name": "Humanitarian disasters, conflict and peacebuilding",
+      "scheme": "ANZSRC FoR",
+      "code": "440402"
+    },
+    {
+      "name": "Disaster and emergency management",
+      "scheme": "ANZSRC FoR",
+      "code": "350703"
+    },
+    {
+      "name": "Economic development policy",
+      "scheme": "ANZSRC FoR",
+      "code": "440703"
+    },
+    {
+      "name": "Pollution and contamination not elsewhere classified",
+      "scheme": "ANZSRC FoR",
+      "code": "410599"
+    },
+    {
+      "name": "Climate change impacts and adaptation not elsewhere classified",
+      "scheme": "ANZSRC FoR",
+      "code": "410199"
+    },
+    {
+      "name": "Public policy",
+      "scheme": "ANZSRC FoR",
+      "code": "440709"
+    },
+    {
+      "name": "Risk policy",
+      "scheme": "ANZSRC FoR",
+      "code": "440711"
+    }
+  ],
+  "abstract": [
+    "Polycrisis Resilience is a framework for understanding and reducing vulnerability to the interconnected global crises shaping the twenty-first century, including climate change, pollution, poverty, resource insecurity, conflict, institutional fragility, technological dependence, and infrastructure weakness. This report argues that the severity of these crises depends not only on the hazards themselves but also on the vulnerability of the populations and systems exposed to them. Drawing on evidence from 217 economies and public international datasets, it shows that many of the vulnerabilities associated with the global polycrisis are strongly linked to development outcomes such as access to energy, health care, sanitation, education, digital connectivity, and effective institutions. The report introduces the H Heuristics Polycrisis Resilience Framework, which defines resilience as the capacity of individuals, communities, institutions, economies, and interconnected systems to anticipate, withstand, adapt to, recover from, and reduce vulnerability to multiple interacting crises. The framework identifies ten development pathways, including clean energy transition, technology diffusion, climate adaptation, human development, infrastructure strengthening, public health, institutional capacity, economic diversification, food and water security, and digital infrastructure. These pathways are presented as mutually reinforcing mechanisms for reducing both human and systemic vulnerability. Using century-scale scenarios for 2026-2100, the report demonstrates how sustained development can substantially reduce exposure to interconnected risks. It concludes that Polycrisis Resilience is fundamentally a long-term strategy of vulnerability reduction, in which development, technological progress, environmental improvement, and institutional strengthening work together to improve human well-being while reducing the potential for cascading global crises."
+  ],
+  "coreProposition": "How badly the century's interconnected crises hurt will depend on the hazards, and just as much on how vulnerable the people and systems in their path are. Vulnerability can be reduced, and most of the tools for doing so are development tools.",
+  "keyFindings": [
+    {
+      "title": "Hazard and vulnerability are different things, and only one of them is mostly a matter of development.",
+      "text": "Across 160 countries, exposure to climate hazards has almost no link to national income (correlation 0.04), while child mortality, sanitation, clean cooking, institutions and connectivity are all tightly tied to it (0.8 or more in absolute value). Where hazards strike is set by geography. How much harm they do is set by how people live."
+    },
+    {
+      "title": "The century's vulnerabilities travel together, and mostly because of poverty.",
+      "text": "Across countries the average link between vulnerabilities is 0.51; hold income fixed and it falls to 0.24, less than half. 19% of countries are in the worst fifth on four or more of seven challenges, against 4% if the challenges were independent."
+    },
+    {
+      "title": "Vulnerability has already fallen at historic scale.",
+      "text": "Deaths before age five dropped from 178 to 37 per 1,000 births between 1960 and 2024. Climate-related disaster deaths averaged 10 per 100,000 people a year in the 1960s and 0.26 in the 2010s. Electricity access rose from 78% to 92% and clean cooking from 48% to 75% since 2000."
+    },
+    {
+      "title": "The remaining gaps are concentrated and large.",
+      "text": "About 655 million people lack electricity, 2.0 billion lack clean cooking and 1.5 billion lack basic sanitation, and Africa holds 89% of the first of these. Seventy percent of Africans, and almost all people in low-income countries, live where four or more challenges overlap."
+    },
+    {
+      "title": "Demography will make development a race.",
+      "text": "If access to services never improved, population growth alone would raise the number of people without clean cooking from 2.0 billion to 4.0 billion by 2100. Development decides whether that number is 1.7 billion (current pace) or 86 million (best-peer pace)."
+    },
+    {
+      "title": "Ten development pathways work on several vulnerabilities at once.",
+      "text": "Clean energy, technology diffusion, adaptation, human development, infrastructure, public health, institutions, diversification, food and water security, and digital infrastructure support one another and can be pursued as one strategy."
+    },
+    {
+      "title": "Prevention is usually cheaper than response, but not everywhere.",
+      "text": "Reported benefit-cost ratios of 2:1 to more than 10:1 apply to adaptation and resilient infrastructure; each project still has to be tested locally."
+    },
+    {
+      "title": "Impact can be measured.",
+      "text": "Eight measures, from exposure and climate vulnerability to avoided losses and cascading risk, give a century scorecard with baselines today. The scenarios are arithmetic illustrations, not forecasts."
+    }
+  ],
+  "contents": [
+    {
+      "number": "",
+      "title": "Executive Summary",
+      "description": "Vulnerability can be reduced, and most of the tools are development tools",
+      "page": 4
+    },
+    {
+      "number": "1",
+      "title": "The Emergence of the Global Polycrisis",
+      "description": "",
+      "page": 6
+    },
+    {
+      "number": "2",
+      "title": "Climate, Pollution and Human Health",
+      "description": "",
+      "page": 9
+    },
+    {
+      "number": "3",
+      "title": "Poverty, Inequality and Resource Insecurity",
+      "description": "",
+      "page": 12
+    },
+    {
+      "number": "4",
+      "title": "Conflict, Institutions and Technological Dependence",
+      "description": "",
+      "page": 14
+    },
+    {
+      "number": "5",
+      "title": "Defining Polycrisis Resilience",
+      "description": "",
+      "page": 17
+    },
+    {
+      "number": "6",
+      "title": "Development, Prevention and Interconnected Solutions",
+      "description": "",
+      "page": 20
+    },
+    {
+      "number": "7",
+      "title": "The H Heuristics Framework: Ten Development Pathways",
+      "description": "",
+      "page": 24
+    },
+    {
+      "number": "8",
+      "title": "Regional and Global Applications",
+      "description": "",
+      "page": 27
+    },
+    {
+      "number": "9",
+      "title": "The Century-Scale Outlook, 2026–2100",
+      "description": "",
+      "page": 31
+    },
+    {
+      "number": "10",
+      "title": "Measuring the Impact",
+      "description": "",
+      "page": 35
+    },
+    {
+      "number": "11",
+      "title": "Conclusion: The Central Thesis",
+      "description": "",
+      "page": 38
+    },
+    {
+      "number": "",
+      "title": "References",
+      "description": "",
+      "page": 40
+    }
+  ],
+  "references": [
+    {
+      "text": "African Risk Capacity Group (2025). About ARC: sovereign disaster risk pooling for African Union member states. Johannesburg: ARC.",
+      "url": "https://www.arc.int/"
+    },
+    {
+      "text": "Bowen, T., del Ninno, C., Andrews, C. et al. (2020). Adaptive Social Protection: Building Resilience to Shocks. International Development in Focus. Washington, DC: World Bank.",
+      "url": "https://openknowledge.worldbank.org/handle/10986/33785"
+    },
+    {
+      "text": "Béné, C., Wood, R. G., Newsham, A. and Davies, M. (2012). Resilience: New Utopia or New Tyranny? Reflection about the Potentials and Limits of the Concept of Resilience in Relation to Vulnerability Reduction Programmes. IDS Working Paper 405. Brighton: Institute of Development Studies.",
+      "url": "https://doi.org/10.1111/j.2040-0209.2012.00405.x",
+      "doi": "10.1111/j.2040-0209.2012.00405.x"
+    },
+    {
+      "text": "Bündnis Entwicklung Hilft and Institute for International Law of Peace and Armed Conflict, Ruhr University Bochum (2025). WorldRiskReport and WorldRiskIndex. Berlin: Bündnis Entwicklung Hilft.",
+      "url": "https://weltrisikobericht.de/en/"
+    },
+    {
+      "text": "CCRIF SPC (2025). Caribbean Catastrophe Risk Insurance Facility: parametric insurance for Caribbean and Central American governments. Grand Cayman: CCRIF SPC.",
+      "url": "https://www.ccrif.org/"
+    },
+    {
+      "text": "Centeno, M. A., Nag, M., Patterson, T. S., Shaver, A. and Windawi, A. J. (2015). The emergence of global systemic risk. Annual Review of Sociology, 41, 65–85.",
+      "url": "https://doi.org/10.1146/annurev-soc-073014-112317",
+      "doi": "10.1146/annurev-soc-073014-112317"
+    },
+    {
+      "text": "Cerra, V. and Saxena, S. C. (2008). Growth dynamics: the myth of economic recovery. American Economic Review, 98(1), 439–457.",
+      "url": "https://doi.org/10.1257/aer.98.1.439",
+      "doi": "10.1257/aer.98.1.439"
+    },
+    {
+      "text": "Clarke, D. J. and Dercon, S. (2016). Dull Disasters? How Planning Ahead Will Make a Difference. Oxford: Oxford University Press.",
+      "url": "https://doi.org/10.1093/acprof:oso/9780198785576.001.0001",
+      "doi": "10.1093/acprof:oso/9780198785576.001.0001"
+    },
+    {
+      "text": "Comin, D. and Hobijn, B. (2010). An exploration of technology diffusion. American Economic Review, 100(5), 2031–2059.",
+      "url": "https://doi.org/10.1257/aer.100.5.2031",
+      "doi": "10.1257/aer.100.5.2031"
+    },
+    {
+      "text": "Copernicus Climate Change Service (2025). Global Climate Highlights 2024. Reading: ECMWF.",
+      "url": "https://climate.copernicus.eu/global-climate-highlights-2024"
+    },
+    {
+      "text": "COVID-19 National Preparedness Collaborators (Bollyky, T. J. et al.) (2022). Pandemic preparedness and COVID-19: an exploratory analysis of infection and fatality rates, and contextual factors associated with preparedness in 177 countries. The Lancet, 399(10334), 1489–1512.",
+      "url": "https://doi.org/10.1016/S0140-6736(22)00172-6",
+      "doi": "10.1016/S0140-6736(22)00172-6"
+    },
+    {
+      "text": "CRED, Centre for Research on the Epidemiology of Disasters (2025). EM-DAT: The International Disaster Database. Brussels: UCLouvain.",
+      "url": "https://www.emdat.be/"
+    },
+    {
+      "text": "Cutter, S. L., Barnes, L., Berry, M., Burton, C., Evans, E., Tate, E. and Webb, J. (2008). A place-based model for understanding community resilience to natural disasters. Global Environmental Change, 18(4), 598–606.",
+      "url": "https://doi.org/10.1016/j.gloenvcha.2008.07.013",
+      "doi": "10.1016/j.gloenvcha.2008.07.013"
+    },
+    {
+      "text": "European Commission Joint Research Centre and Inter-Agency Standing Committee (2026). INFORM Risk Index, Mid 2026. Ispra: JRC.",
+      "url": "https://drmkc.jrc.ec.europa.eu/inform-index/INFORM-Risk/Results-and-data"
+    },
+    {
+      "text": "FAO, IFAD, UNICEF, WFP and WHO (2026). The State of Food Security and Nutrition in the World 2026. Rome: FAO, 21 July.",
+      "url": "https://www.fao.org/newsroom/detail/un-report--global-hunger-levels-ease-for-third-consecutive-year-as-regional-disparities-persist/en"
+    },
+    {
+      "text": "Federal Energy Regulatory Commission and North American Electric Reliability Corporation (2021). February 2021 Cold Weather Outages in Texas and the South Central United States. Washington, DC: FERC.",
+      "url": "https://www.ferc.gov/media/february-2021-cold-weather-outages-texas-and-south-central-united-states-ferc-nerc-and"
+    },
+    {
+      "text": "Folke, C. (2006). Resilience: the emergence of a perspective for social–ecological systems analyses. Global Environmental Change, 16(3), 253–267.",
+      "url": "https://doi.org/10.1016/j.gloenvcha.2006.04.002",
+      "doi": "10.1016/j.gloenvcha.2006.04.002"
+    },
+    {
+      "text": "Food Security Information Network and Global Network Against Food Crises (2025). Global Report on Food Crises 2025. Rome: FSIN.",
+      "url": "https://www.fightfoodcrises.net/global-report-food-crises"
+    },
+    {
+      "text": "Formetta, G. and Feyen, L. (2019). Empirical evidence of declining global vulnerability to climate-related hazards. Global Environmental Change, 57, 101920.",
+      "url": "https://doi.org/10.1016/j.gloenvcha.2019.05.004",
+      "doi": "10.1016/j.gloenvcha.2019.05.004"
+    },
+    {
+      "text": "Fund for responding to Loss and Damage (2025). About the Fund. Manila: FRLD.",
+      "url": "https://www.frld.org/"
+    },
+    {
+      "text": "Global Commission on Adaptation (2019). Adapt Now: A Global Call for Leadership on Climate Resilience. Rotterdam and Washington, DC: GCA and World Resources Institute.",
+      "url": "https://gca.org/reports/adapt-now-a-global-call-for-leadership-on-climate-resilience/"
+    },
+    {
+      "text": "Global Shield against Climate Risks (2025). About the Global Shield. Frankfurt: Global Shield Secretariat.",
+      "url": "https://www.globalshield.org/"
+    },
+    {
+      "text": "Government of Pakistan, Asian Development Bank, European Union, United Nations Development Programme and World Bank (2022). Pakistan Floods 2022: Post-Disaster Needs Assessment. Islamabad. Summary press release, 28 October.",
+      "url": "https://www.worldbank.org/en/news/press-release/2022/10/28/pakistan-flood-damages-and-economic-losses-over-usd-30-billion-and-reconstruction-needs-over-usd-16-billion-new-assessme"
+    },
+    {
+      "text": "Hallegatte, S., Bangalore, M., Bonzanigo, L. et al. (2016). Shock Waves: Managing the Impacts of Climate Change on Poverty. Washington, DC: World Bank.",
+      "url": "https://openknowledge.worldbank.org/handle/10986/22787"
+    },
+    {
+      "text": "Hallegatte, S., Rentschler, J. and Rozenberg, J. (2019). Lifelines: The Resilient Infrastructure Opportunity. Washington, DC: World Bank.",
+      "url": "https://openknowledge.worldbank.org/handle/10986/31805"
+    },
+    {
+      "text": "Hallegatte, S., Vogt-Schilb, A., Bangalore, M. and Rozenberg, J. (2017). Unbreakable: Building the Resilience of the Poor in the Face of Natural Disasters. Washington, DC: World Bank.",
+      "url": "https://openknowledge.worldbank.org/handle/10986/25335"
+    },
+    {
+      "text": "HAPIN Investigators (2024). Liquefied petroleum gas or biomass cooking and severe infant pneumonia. New England Journal of Medicine, 390(1).",
+      "url": "https://www.pubmed.gov/38169488/"
+    },
+    {
+      "text": "Haque, U., Hashizume, M., Kolivras, K. N., Overgaard, H. J., Das, B. and Yamamoto, T. (2012). Reduced death rates from cyclones in Bangladesh: what more needs to be done? Bulletin of the World Health Organization, 90(2), 150–156.",
+      "url": "https://doi.org/10.2471/BLT.11.088302",
+      "doi": "10.2471/BLT.11.088302"
+    },
+    {
+      "text": "Helbing, D. (2013). Globally networked risks and how to respond. Nature, 497, 51–59.",
+      "url": "https://doi.org/10.1038/nature12047",
+      "doi": "10.1038/nature12047"
+    },
+    {
+      "text": "Holling, C. S. (1973). Resilience and stability of ecological systems. Annual Review of Ecology and Systematics, 4, 1–23.",
+      "url": "https://doi.org/10.1146/annurev.es.04.110173.000245",
+      "doi": "10.1146/annurev.es.04.110173.000245"
+    },
+    {
+      "text": "Hsiang, S. M. and Jina, A. S. (2014). The Causal Effect of Environmental Catastrophe on Long-Run Economic Growth: Evidence from 6,700 Cyclones. NBER Working Paper 20352.",
+      "url": "https://www.nber.org/papers/w20352"
+    },
+    {
+      "text": "Hughes, H. (2026a). Polycrisis Resilience: A General Definition and the H Heuristics Framework. H Heuristics Flagship Report, November 2026.",
+      "url": "https://researchreports.hheuristics.com"
+    },
+    {
+      "text": "Hughes, H. (2026b). Polycrisis Resilience in Africa: Reducing Human and Systemic Vulnerability This Century. H Heuristics Research Report, November 2026.",
+      "url": "https://researchreports.hheuristics.com"
+    },
+    {
+      "text": "Hughes, H. (2026d). Polycrisis Resilience in the Global South: Reducing Human and Systemic Vulnerability Through Development, Technology Diffusion, and Integrated Risk Reduction. H Heuristics Research Report, November 2026.",
+      "url": "https://researchreports.hheuristics.com"
+    },
+    {
+      "text": "IEA, IRENA, UN Statistics Division, World Bank and WHO (2025). Tracking SDG 7: The Energy Progress Report 2025. Washington, DC: World Bank.",
+      "url": "https://trackingsdg7.esmap.org/"
+    },
+    {
+      "text": "International Energy Agency (2025). Universal Access to Clean Cooking in Africa. Paris: IEA.",
+      "url": "https://www.iea.org/reports/universal-access-to-clean-cooking-in-africa"
+    },
+    {
+      "text": "International Monetary Fund (2025). Resilience and Sustainability Trust. Washington, DC: IMF.",
+      "url": "https://www.imf.org/en/Topics/Resilience-and-Sustainability-Trust"
+    },
+    {
+      "text": "International Renewable Energy Agency (2024). Renewable Power Generation Costs in 2023. Abu Dhabi: IRENA.",
+      "url": "https://www.irena.org/Publications/2024/Sep/Renewable-Power-Generation-Costs-in-2023"
+    },
+    {
+      "text": "International Telecommunication Union (2025). Measuring Digital Development: Facts and Figures 2025. Geneva: ITU.",
+      "url": "https://www.itu.int/itu-d/reports/statistics/facts-figures-2025/"
+    },
+    {
+      "text": "IPCC (2023). Climate Change 2023: Synthesis Report. Contribution of Working Groups I, II and III to the Sixth Assessment Report. Geneva: Intergovernmental Panel on Climate Change.",
+      "url": "https://www.ipcc.ch/report/ar6/syr/"
+    },
+    {
+      "text": "Jack, W. and Suri, T. (2014). Risk sharing and transactions costs: evidence from Kenya's mobile money revolution. American Economic Review, 104(1), 183–223.",
+      "url": "https://doi.org/10.1257/aer.104.1.183",
+      "doi": "10.1257/aer.104.1.183"
+    },
+    {
+      "text": "Jongman, B., Winsemius, H. C., Aerts, J. C. J. H. et al. (2015). Declining vulnerability to river floods and the global benefits of adaptation. Proceedings of the National Academy of Sciences, 112(18), E2271–E2280.",
+      "url": "https://doi.org/10.1073/pnas.1414439112",
+      "doi": "10.1073/pnas.1414439112"
+    },
+    {
+      "text": "Kahn, M. E. (2005). The death toll from natural disasters: the role of income, geography, and institutions. Review of Economics and Statistics, 87(2), 271–284.",
+      "url": "https://doi.org/10.1162/0034653053970339",
+      "doi": "10.1162/0034653053970339"
+    },
+    {
+      "text": "Kremer, M., Willis, J. and You, Y. (2022). Converging to convergence. NBER Macroeconomics Annual, 36, 337–412.",
+      "url": "https://doi.org/10.1086/718672",
+      "doi": "10.1086/718672"
+    },
+    {
+      "text": "Lawrence, M., Homer-Dixon, T., Janzwood, S., Rockström, J., Renn, O. and Donges, J. F. (2024). Global polycrisis: the causal mechanisms of crisis entanglement. Global Sustainability, 7, e6.",
+      "url": "https://doi.org/10.1017/sus.2024.1",
+      "doi": "10.1017/sus.2024.1"
+    },
+    {
+      "text": "Lawrence, M., Janzwood, S. and Homer-Dixon, T. (2022). What Is a Global Polycrisis? And How Is It Different from a Systemic Risk? Technical Paper 2022-4. Victoria, BC: Cascade Institute.",
+      "url": "https://cascadeinstitute.org/technical-paper/what-is-a-global-polycrisis/"
+    },
+    {
+      "text": "Linkov, I., Bridges, T., Creutzig, F. et al. (2014). Changing the resilience paradigm. Nature Climate Change, 4, 407–409.",
+      "url": "https://doi.org/10.1038/nclimate2227",
+      "doi": "10.1038/nclimate2227"
+    },
+    {
+      "text": "Lutz, W., Muttarak, R. and Striessnig, E. (2014). Universal education is key to enhanced climate adaptation. Science, 346(6213), 1061–1062.",
+      "url": "https://doi.org/10.1126/science.1257975",
+      "doi": "10.1126/science.1257975"
+    },
+    {
+      "text": "Meadows, D. H. (2008). Thinking in Systems: A Primer. White River Junction, VT: Chelsea Green."
+    },
+    {
+      "text": "Morin, E. and Kern, A. B. (1999). Homeland Earth: A Manifesto for the New Millennium. Cresskill, NJ: Hampton Press. First published in French as Terre-Patrie (1993)."
+    },
+    {
+      "text": "Msemburi, W., Karlinsky, A., Knutson, V., Aleshin-Guendel, S., Chatterji, S. and Wakefield, J. (2023). The WHO estimates of excess mortality associated with the COVID-19 pandemic. Nature, 613, 130–137.",
+      "url": "https://doi.org/10.1038/s41586-022-05522-2",
+      "doi": "10.1038/s41586-022-05522-2"
+    },
+    {
+      "text": "Notre Dame Global Adaptation Initiative (2025). ND-GAIN Country Index. Notre Dame, IN: University of Notre Dame.",
+      "url": "https://gain.nd.edu/our-work/country-index/"
+    },
+    {
+      "text": "OECD (2026). International aid fell sharply in 2025, says OECD (preliminary ODA data). Paris: OECD, April 2026.",
+      "url": "https://www.oecd.org/en/about/news/press-releases/2026/04/international-aid-fell-sharply-in-2025-says-oecd.html"
+    },
+    {
+      "text": "Our World in Data (2025). Population, with UN projections (country series from World Population Prospects 2024, medium variant). Oxford: Global Change Data Lab.",
+      "url": "https://ourworldindata.org/grapher/population-with-un-projections"
+    },
+    {
+      "text": "Our World in Data (2025a). Annual CO₂ emissions (data from the Global Carbon Project). Oxford: Global Change Data Lab.",
+      "url": "https://ourworldindata.org/grapher/annual-co2-emissions-per-country"
+    },
+    {
+      "text": "Perrow, C. (1984). Normal Accidents: Living with High-Risk Technologies. New York: Basic Books (updated edition, Princeton University Press, 1999).",
+      "url": "https://press.princeton.edu/books/paperback/9780691004129/normal-accidents"
+    },
+    {
+      "text": "Planetary Boundaries Science (2025). Planetary Health Check 2025. Potsdam: Potsdam Institute for Climate Impact Research.",
+      "url": "https://www.planetaryhealthcheck.org/"
+    },
+    {
+      "text": "Renn, O., Laubichler, M., Lucas, K., Kröger, W., Schanze, J., Scholz, R. W. and Schweizer, P.-J. (2022). Systemic risks from different perspectives. Risk Analysis, 42(9), 1902–1920.",
+      "url": "https://doi.org/10.1111/risa.13657",
+      "doi": "10.1111/risa.13657"
+    },
+    {
+      "text": "Richardson, K., Steffen, W., Lucht, W. et al. (2023). Earth beyond six of nine planetary boundaries. Science Advances, 9(37), eadh2458.",
+      "url": "https://doi.org/10.1126/sciadv.adh2458",
+      "doi": "10.1126/sciadv.adh2458"
+    },
+    {
+      "text": "Ritchie, H., Rosado, P. and Roser, M. (2025). Natural disasters. Our World in Data. Data from EM-DAT, CRED/UCLouvain.",
+      "url": "https://ourworldindata.org/natural-disasters"
+    },
+    {
+      "text": "Rodrik, D. (1999). Where did all the growth go? External shocks, social conflict, and growth collapses. Journal of Economic Growth, 4, 385–412.",
+      "url": "https://doi.org/10.1023/A:1009863208706",
+      "doi": "10.1023/A:1009863208706"
+    },
+    {
+      "text": "Sawin, E. (2018). The magic of “multisolving”. Stanford Social Innovation Review, 16(3).",
+      "url": "https://ssir.org/articles/entry/the_magic_of_multisolving"
+    },
+    {
+      "text": "Suri, T. and Jack, W. (2016). The long-run poverty and gender impacts of mobile money. Science, 354(6317), 1288–1292.",
+      "url": "https://doi.org/10.1126/science.aah5309",
+      "doi": "10.1126/science.aah5309"
+    },
+    {
+      "text": "Tooze, A. (2022). Welcome to the world of the polycrisis. Financial Times, 28 October.",
+      "url": "https://www.ft.com/content/498398e7-11b1-494b-9cd3-6d669dc3de33"
+    },
+    {
+      "text": "Toya, H. and Skidmore, M. (2007). Economic development and the impacts of natural disasters. Economics Letters, 94(1), 20–25.",
+      "url": "https://doi.org/10.1016/j.econlet.2006.06.020",
+      "doi": "10.1016/j.econlet.2006.06.020"
+    },
+    {
+      "text": "UNDRR and WMO (2023). Global Status of Multi-Hazard Early Warning Systems 2023. Geneva: UNDRR and WMO.",
+      "url": "https://www.undrr.org/reports/global-status-MHEWS-2023"
+    },
+    {
+      "text": "UNHCR (2026). Global Trends: Forced Displacement in 2025. Geneva: UN High Commissioner for Refugees, June.",
+      "url": "https://www.unhcr.org/sites/default/files/2026-06/global-trends-report-2025.pdf"
+    },
+    {
+      "text": "United Nations Environment Programme (2025). Adaptation Gap Report 2025: Running on Empty. Nairobi: UNEP.",
+      "url": "https://www.unep.org/resources/adaptation-gap-report-2025"
+    },
+    {
+      "text": "United Nations Office for Disaster Risk Reduction (2017). Terminology on Disaster Risk Reduction: Resilience. Geneva: UNDRR (definition adopted by the UN General Assembly, A/RES/71/276).",
+      "url": "https://www.undrr.org/terminology/resilience"
+    },
+    {
+      "text": "United Nations Office for Disaster Risk Reduction (2025). Global Assessment Report on Disaster Risk Reduction 2025: Resilience Pays – Financing and Investing for our Future. Geneva: UNDRR.",
+      "url": "https://www.undrr.org/gar/gar2025"
+    },
+    {
+      "text": "United Nations Office of the High Representative for the Least Developed Countries, Landlocked Developing Countries and Small Island Developing States (2025). About Small Island Developing States. New York: United Nations.",
+      "url": "https://www.un.org/ohrlls/content/about-small-island-developing-states"
+    },
+    {
+      "text": "United Nations, Department of Economic and Social Affairs, Population Division (2024). World Population Prospects 2024. New York: United Nations.",
+      "url": "https://population.un.org/wpp/"
+    },
+    {
+      "text": "Uppsala Conflict Data Program (2025). UCDP Conflict Encyclopedia and datasets. Uppsala: Department of Peace and Conflict Research, Uppsala University.",
+      "url": "https://ucdp.uu.se/"
+    },
+    {
+      "text": "Walker, B., Holling, C. S., Carpenter, S. R. and Kinzig, A. (2004). Resilience, adaptability and transformability in social–ecological systems. Ecology and Society, 9(2), 5.",
+      "url": "https://www.ecologyandsociety.org/vol9/iss2/art5/"
+    },
+    {
+      "text": "Weston, D. (2024). Helping our customers through the CrowdStrike outage. Official Microsoft Blog, 20 July.",
+      "url": "https://blogs.microsoft.com/blog/2024/07/20/helping-our-customers-through-the-crowdstrike-outage/"
+    },
+    {
+      "text": "World Bank (2024). Five ways the World Bank will achieve Mission 300. Washington, DC: World Bank.",
+      "url": "https://www.worldbank.org/en/news/feature/2024/09/19/five-ways-the-world-bank-will-achieve-mission-300"
+    },
+    {
+      "text": "World Bank (2025a). Worldwide Governance Indicators, 2025 update. Washington, DC: World Bank.",
+      "url": "https://www.worldbank.org/en/publication/worldwide-governance-indicators"
+    },
+    {
+      "text": "World Bank (2025b). World Bank Country and Lending Groups. Washington, DC: World Bank.",
+      "url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups"
+    },
+    {
+      "text": "World Bank (2026). World Development Indicators. Washington, DC: World Bank. Retrieved through the World Bank API, November 2026.",
+      "url": "https://databank.worldbank.org/source/world-development-indicators"
+    },
+    {
+      "text": "World Economic Forum (2026). Global Risks Report 2026, 21st edition. Geneva: WEF, 14 January.",
+      "url": "https://www.weforum.org/press/2026/01/global-risks-report-2026-geopolitical-and-economic-risks-rise-in-new-age-of-competition/"
+    },
+    {
+      "text": "World Health Organization (2024). Household Air Pollution. Fact sheet. Geneva: WHO.",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/household-air-pollution-and-health"
+    },
+    {
+      "text": "World Health Organization (2026). Global Health Observatory: air pollution attributable deaths (indicators AIR_11, AIR_41; 2021 estimates). Geneva: WHO.",
+      "url": "https://www.who.int/data/gho/data/themes/air-pollution"
+    },
+    {
+      "text": "World Meteorological Organization (2025). Early Warnings for All initiative. Geneva: WMO.",
+      "url": "https://wmo.int/activities/early-warnings-all"
+    },
+    {
+      "text": "World Meteorological Organization (2026). State of the Global Climate 2025 (press release: Earth's climate swings increasingly out of balance). Geneva: WMO, March.",
+      "url": "https://wmo.int/node/38416"
+    },
+    {
+      "text": "Zscheischler, J., Westra, S., van den Hurk, B. J. J. M. et al. (2018). Future climate risk from compound events. Nature Climate Change, 8, 469–477.",
+      "url": "https://doi.org/10.1038/s41558-018-0156-3",
+      "doi": "10.1038/s41558-018-0156-3"
+    }
+  ]
+}
