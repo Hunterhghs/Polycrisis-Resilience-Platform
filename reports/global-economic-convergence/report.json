@@ -1,0 +1,495 @@
+{
+  "seriesNumber": 11,
+  "title": "Global Economic Convergence as a Resilience Strategy",
+  "subtitle": "How narrowing the gaps between rich and poor economies can reduce vulnerability to the polycrisis, 2026–2100",
+  "type": "Research Report",
+  "datePublished": "2026-11-08",
+  "dateModified": "2026-11-08",
+  "doi": "10.6084/m9.figshare.34946971",
+  "repository": {
+    "name": "figshare",
+    "url": "https://figshare.com/articles/preprint/Global_Economic_Convergence_as_a_Resilience_Strategy/34946971"
+  },
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "license": {
+    "name": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "shortName": "CC BY-NC-ND 4.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+  },
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 48,
+  "language": "en",
+  "description": "Why closing the gap between rich and poor economies is a resilience strategy: the record of convergence across eight dimensions, Convergent Resilience Dividends, and three pathways to 2100.",
+  "contribution": "Argues that economic convergence is a resilience strategy and introduces Convergent Resilience Dividends: the record across eight dimensions, bypass pathways, what stalls catch-up, and three pathways to 2100.",
+  "themes": [
+    "Income",
+    "Productivity",
+    "Industrial capacity",
+    "Human capital",
+    "Infrastructure",
+    "Energy access",
+    "Digital connectivity",
+    "Health and institutions"
+  ],
+  "keywords": [
+    "global economic convergence",
+    "polycrisis resilience",
+    "Convergent Resilience Dividends",
+    "development economics",
+    "income gap",
+    "productivity",
+    "technological leapfrogging",
+    "bypass pathways",
+    "premature deindustrialisation",
+    "vulnerability reduction",
+    "scenarios to 2100",
+    "Global South",
+    "H Heuristics Polycrisis Resilience Framework"
+  ],
+  "subjects": [
+    {
+      "name": "Political economy and social change",
+      "scheme": "ANZSRC FoR",
+      "code": "440404"
+    },
+    {
+      "name": "Socio-economic development",
+      "scheme": "ANZSRC FoR",
+      "code": "440407"
+    },
+    {
+      "name": "Economic development policy",
+      "scheme": "ANZSRC FoR",
+      "code": "440703"
+    },
+    {
+      "name": "Urban and regional economics",
+      "scheme": "ANZSRC FoR",
+      "code": "380118"
+    },
+    {
+      "name": "Humanitarian disasters, conflict and peacebuilding",
+      "scheme": "ANZSRC FoR",
+      "code": "440402"
+    },
+    {
+      "name": "Risk policy",
+      "scheme": "ANZSRC FoR",
+      "code": "440711"
+    }
+  ],
+  "abstract": [
+    "Global economic convergence, the process through which lower-income economies narrow income, productivity, technological, and infrastructure gaps with higher-income economies, is often framed as a development objective. This report argues that convergence should also be understood as a core strategy for Polycrisis Resilience, reducing vulnerability to interconnected crises across climate, health, energy, economic, and social systems. Drawing on data from 217 economies, the analysis examines convergence across eight dimensions: income, productivity, industrial capacity, human capital, infrastructure, energy access, digital connectivity, and health and institutional capacity. The report introduces the concept of Convergent Resilience Dividends, whereby a single intervention, such as reliable electricity, digital connectivity, or clean cooking access, reduces multiple forms of vulnerability simultaneously.The findings show that convergence has occurred, but unevenly and increasingly slowly. Since 1990, much of the narrowing between rich and poor economies has been concentrated in a limited number of large emerging economies, while many low-income countries have experienced little or no catch-up. Access-oriented indicators such as electricity, internet connectivity, and sanitation have improved substantially, whereas productivity, industrial capacity, and institutional effectiveness continue to lag. Evidence presented in the report demonstrates that vulnerability to crises is more strongly associated with levels of development than exposure to hazards themselves, suggesting that convergence can strengthen societies' abilities to anticipate, absorb, adapt to, and recover from disruption. Using scenario analysis to 2100, the report explores alternative futures shaped by differing rates of convergence. Results indicate that accelerated and resilience-oriented convergence pathways produce substantially better outcomes across infrastructure, health, education, and systemic vulnerability metrics than pathways characterized by stalled development and persistent fragmentation. The report concludes that convergence is neither automatic nor sufficient on its own, but when directed toward productivity, reliable infrastructure, human capital, and institutional capacity, it represents one of the most powerful long-term approaches for reducing global vulnerability in an increasingly interconnected age of risk."
+  ],
+  "coreProposition": "The harm done by the century’s interconnected crises depends on the hazards and on how vulnerable people and systems are. Vulnerability falls as economies catch up, but catching up has stalled for most developing economies.",
+  "keyFindings": [
+    {
+      "title": "Convergence is real, and it is concentrated.",
+      "text": "Income in the Global South rose from 13% of the high-income level in 1990 to 23% in 2024, but almost all of it came from China and India: without them the figure was 20% in 1990 and 20% in 2024. Upper-middle-income countries went from 18% to 36%; low-income countries went from 3% to 4%."
+    },
+    {
+      "title": "The catch-up was a short, strong episode.",
+      "text": "Across 196 economies, an economy with half the income of another grew about 0.4 percentage points a year faster in 2000–19, after roughly 170 years in which the gap widened. Since 2019 only 39% of developing economies have outgrown the United States, against 85% in 2000–10."
+    },
+    {
+      "title": "Access has converged faster than income.",
+      "text": "In lower-middle-income countries internet use rose from 1% to 59%, clean cooking from 24% to 64% and electricity access from 57% to 91%, while output per worker rose from 12% to 19% of the high-income level. Technology moves quickly across borders; productive capacity moves slowly."
+    },
+    {
+      "title": "Vulnerability falls with development, hazard does not.",
+      "text": "Across 183 countries, income explains 75% of the variation in lack of coping capacity but only 20% of the variation in hazard exposure. Within countries, a 10% rise in income goes with a 10% fall in child mortality."
+    },
+    {
+      "title": "Convergence pays resilience dividends in bundles.",
+      "text": "Across 107 developing economies the pace of progress in electricity, clean cooking, internet and sanitation moves together even after income growth is held fixed, and 14% of countries advanced fast on six or seven of seven dimensions against 6% by chance. Gains in life expectancy and schooling did not follow within two decades."
+    },
+    {
+      "title": "New technologies let some countries skip steps.",
+      "text": "Mobile money, distributed solar, mobile broadband, digital learning and satellite links reach people without the networks that earlier generations needed. Bypassing has limits: it needs reliable power, affordable devices, regulation and skills, and it does not replace roads, grids, clinics or schools."
+    },
+    {
+      "title": "Three pathways to 2100 lead to very different worlds.",
+      "text": "If the Global South converges at 1% of the gap per year, its income reaches 35% of the high-income level by 2100, against 14% in a fragmented pathway. About 314 million children under five would die in 2025–2100 if convergence fails, against 181 million with accelerated convergence and 167 million when growth is paired with deliberate resilience-building. These are conditional illustrations, not forecasts."
+    }
+  ],
+  "contents": [
+    {
+      "number": "",
+      "title": "Executive Summary",
+      "description": "Vulnerability falls as economies catch up, but catching up has stalled",
+      "page": 4
+    },
+    {
+      "number": "1",
+      "title": "Why Convergence Belongs in a Polycrisis Strategy",
+      "description": "",
+      "page": 6
+    },
+    {
+      "number": "2",
+      "title": "What Global Economic Convergence Means",
+      "description": "",
+      "page": 8
+    },
+    {
+      "number": "3",
+      "title": "The Record: Divergence, Then a Short Catch-Up",
+      "description": "",
+      "page": 11
+    },
+    {
+      "number": "4",
+      "title": "Convergence Across Eight Dimensions",
+      "description": "",
+      "page": 15
+    },
+    {
+      "number": "5",
+      "title": "Why Convergence Reduces Vulnerability",
+      "description": "",
+      "page": 19
+    },
+    {
+      "number": "6",
+      "title": "Convergent Resilience Dividends",
+      "description": "",
+      "page": 23
+    },
+    {
+      "number": "7",
+      "title": "Bypass Pathways: Skipping Stages",
+      "description": "",
+      "page": 27
+    },
+    {
+      "number": "8",
+      "title": "What Can Stall Convergence",
+      "description": "",
+      "page": 30
+    },
+    {
+      "number": "9",
+      "title": "Three Pathways to 2100",
+      "description": "",
+      "page": 33
+    },
+    {
+      "number": "10",
+      "title": "Where Convergence Matters Most: Regions",
+      "description": "",
+      "page": 38
+    },
+    {
+      "number": "11",
+      "title": "A Convergence Strategy for Resilience",
+      "description": "",
+      "page": 40
+    },
+    {
+      "number": "12",
+      "title": "Conclusion: Convergence as Resilience Strategy",
+      "description": "",
+      "page": 42
+    },
+    {
+      "number": "",
+      "title": "Methods and Data",
+      "description": "",
+      "page": 44
+    },
+    {
+      "number": "",
+      "title": "References",
+      "description": "",
+      "page": 46
+    }
+  ],
+  "references": [
+    {
+      "text": "Abramovitz, M. (1986). Catching up, forging ahead, and falling behind. Journal of Economic History, 46(2), 385–406.",
+      "url": "https://doi.org/10.1017/S0022050700046209",
+      "doi": "10.1017/S0022050700046209"
+    },
+    {
+      "text": "African Risk Capacity Group (2025). About ARC: sovereign disaster risk pooling for African Union member states. Johannesburg: ARC.",
+      "url": "https://www.arc.int/"
+    },
+    {
+      "text": "Barro, R. J. (2012). Convergence and Modernization Revisited. NBER Working Paper 18295. Cambridge, MA: National Bureau of Economic Research.",
+      "url": "https://www.nber.org/papers/w18295"
+    },
+    {
+      "text": "Barro, R. J. and Sala-i-Martin, X. (1992). Convergence. Journal of Political Economy, 100(2), 223–251.",
+      "url": "https://doi.org/10.1086/261816",
+      "doi": "10.1086/261816"
+    },
+    {
+      "text": "Baumol, W. J. (1986). Productivity growth, convergence, and welfare: what the long-run data show. American Economic Review, 76(5), 1072–1085.",
+      "url": "https://www.jstor.org/stable/1816469"
+    },
+    {
+      "text": "Bolt, J. and van Zanden, J. L. (2024). Maddison-style estimates of the evolution of the world economy: a new 2023 update. Journal of Economic Surveys. Maddison Project Database 2023, accessed via Our World in Data.",
+      "url": "https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-project-database-2023"
+    },
+    {
+      "text": "Bowen, T., del Ninno, C., Andrews, C. et al. (2020). Adaptive Social Protection: Building Resilience to Shocks. International Development in Focus. Washington, DC: World Bank.",
+      "url": "https://openknowledge.worldbank.org/handle/10986/33785"
+    },
+    {
+      "text": "CCRIF SPC (2025). Caribbean Catastrophe Risk Insurance Facility: parametric insurance for Caribbean and Central American governments. Grand Cayman: CCRIF SPC.",
+      "url": "https://www.ccrif.org/"
+    },
+    {
+      "text": "Cerra, V. and Saxena, S. C. (2008). Growth dynamics: the myth of economic recovery. American Economic Review, 98(1), 439–457.",
+      "url": "https://doi.org/10.1257/aer.98.1.439",
+      "doi": "10.1257/aer.98.1.439"
+    },
+    {
+      "text": "Clarke, D. J. and Dercon, S. (2016). Dull Disasters? How Planning Ahead Will Make a Difference. Oxford: Oxford University Press.",
+      "url": "https://doi.org/10.1093/acprof:oso/9780198785576.001.0001",
+      "doi": "10.1093/acprof:oso/9780198785576.001.0001"
+    },
+    {
+      "text": "Comin, D. and Hobijn, B. (2010). An exploration of technology diffusion. American Economic Review, 100(5), 2031–2059.",
+      "url": "https://doi.org/10.1257/aer.100.5.2031",
+      "doi": "10.1257/aer.100.5.2031"
+    },
+    {
+      "text": "COVID-19 National Preparedness Collaborators (Bollyky, T. J. et al.) (2022). Pandemic preparedness and COVID-19: an exploratory analysis of infection and fatality rates, and contextual factors associated with preparedness in 177 countries. The Lancet, 399(10334), 1489–1512.",
+      "url": "https://doi.org/10.1016/S0140-6736(22)00172-6",
+      "doi": "10.1016/S0140-6736(22)00172-6"
+    },
+    {
+      "text": "Dinkelman, T. (2011). The effects of rural electrification on employment: new evidence from South Africa. American Economic Review, 101(7), 3078–3108.",
+      "url": "https://doi.org/10.1257/aer.101.7.3078",
+      "doi": "10.1257/aer.101.7.3078"
+    },
+    {
+      "text": "Ember (2025). The first evidence of a take-off in solar in Africa. London: Ember, August.",
+      "url": "https://ember-energy.org/latest-insights/the-first-evidence-of-a-take-off-in-solar-in-africa/"
+    },
+    {
+      "text": "European Commission Joint Research Centre and Inter-Agency Standing Committee (2026). INFORM Risk Index, Mid 2026. Ispra: JRC.",
+      "url": "https://drmkc.jrc.ec.europa.eu/inform-index/INFORM-Risk/Results-and-data"
+    },
+    {
+      "text": "Formetta, G. and Feyen, L. (2019). Empirical evidence of declining global vulnerability to climate-related hazards. Global Environmental Change, 57, 101920.",
+      "url": "https://doi.org/10.1016/j.gloenvcha.2019.05.004",
+      "doi": "10.1016/j.gloenvcha.2019.05.004"
+    },
+    {
+      "text": "Global Commission on Adaptation (2019). Adapt Now: A Global Call for Leadership on Climate Resilience. Rotterdam and Washington, DC: GCA and World Resources Institute.",
+      "url": "https://gca.org/reports/adapt-now-a-global-call-for-leadership-on-climate-resilience/"
+    },
+    {
+      "text": "Hallegatte, S., Rentschler, J. and Rozenberg, J. (2019). Lifelines: The Resilient Infrastructure Opportunity. Washington, DC: World Bank.",
+      "url": "https://openknowledge.worldbank.org/handle/10986/31805"
+    },
+    {
+      "text": "HAPIN Investigators (2024). Liquefied petroleum gas or biomass cooking and severe infant pneumonia. New England Journal of Medicine, 390(1).",
+      "url": "https://www.pubmed.gov/38169488/"
+    },
+    {
+      "text": "Herrendorf, B., Rogerson, R. and Valentinyi, Á. (2026). Unconditional convergence in manufacturing: a reassessment. American Economic Review: Insights, September.",
+      "url": "https://iepecdg.com.br/wp-content/uploads/2026/08/20260900herrendorf-et-al-2026-unconditional-convergence-in-manufacturing-a-reassessment.pdf"
+    },
+    {
+      "text": "Hjort, J. and Poulsen, J. (2019). The arrival of fast internet and employment in Africa. American Economic Review, 109(3), 1032–1079.",
+      "url": "https://doi.org/10.1257/aer.20161385",
+      "doi": "10.1257/aer.20161385"
+    },
+    {
+      "text": "Hsiang, S. M. and Jina, A. S. (2014). The Causal Effect of Environmental Catastrophe on Long-Run Economic Growth: Evidence from 6,700 Cyclones. NBER Working Paper 20352.",
+      "url": "https://www.nber.org/papers/w20352"
+    },
+    {
+      "text": "Hughes, H. (2026a). Polycrisis Resilience: A General Definition and the H Heuristics Framework. H Heuristics Flagship Report, November 2026.",
+      "url": "https://researchreports.hheuristics.com"
+    },
+    {
+      "text": "IEA, IRENA, UN Statistics Division, World Bank and WHO (2026). Tracking SDG 7: The Energy Progress Report 2026. Washington, DC: World Bank.",
+      "url": "https://www.seforall.org/system/files/2026-07/SEforALL%20Tracking%20SDG7%20-%20The%20Energy%20Progress%20Report%202026_22Jul2026.pdf"
+    },
+    {
+      "text": "International Renewable Energy Agency (2024). Renewable Power Generation Costs in 2023. Abu Dhabi: IRENA.",
+      "url": "https://www.irena.org/Publications/2024/Sep/Renewable-Power-Generation-Costs-in-2023"
+    },
+    {
+      "text": "International Telecommunication Union (2025). Measuring Digital Development: Facts and Figures 2025. Geneva: ITU.",
+      "url": "https://www.itu.int/itu-d/reports/statistics/facts-figures-2025/"
+    },
+    {
+      "text": "IPCC (2023). Climate Change 2023: Synthesis Report. Contribution of Working Groups I, II and III to the Sixth Assessment Report. Geneva: Intergovernmental Panel on Climate Change.",
+      "url": "https://www.ipcc.ch/report/ar6/syr/"
+    },
+    {
+      "text": "Jack, W. and Suri, T. (2014). Risk sharing and transactions costs: evidence from Kenya's mobile money revolution. American Economic Review, 104(1), 183–223.",
+      "url": "https://doi.org/10.1257/aer.104.1.183",
+      "doi": "10.1257/aer.104.1.183"
+    },
+    {
+      "text": "Jensen, R. (2007). The digital provide: information (technology), market performance, and welfare in the South Indian fisheries sector. Quarterly Journal of Economics, 122(3), 879–924.",
+      "url": "https://doi.org/10.1162/qjec.122.3.879",
+      "doi": "10.1162/qjec.122.3.879"
+    },
+    {
+      "text": "Jongman, B., Winsemius, H. C., Aerts, J. C. J. H. et al. (2015). Declining vulnerability to river floods and the global benefits of adaptation. Proceedings of the National Academy of Sciences, 112(18), E2271–E2280.",
+      "url": "https://doi.org/10.1073/pnas.1414439112",
+      "doi": "10.1073/pnas.1414439112"
+    },
+    {
+      "text": "Kahn, M. E. (2005). The death toll from natural disasters: the role of income, geography, and institutions. Review of Economics and Statistics, 87(2), 271–284.",
+      "url": "https://doi.org/10.1162/0034653053970339",
+      "doi": "10.1162/0034653053970339"
+    },
+    {
+      "text": "Kremer, M., Willis, J. and You, Y. (2022). Converging to convergence. NBER Macroeconomics Annual, 36, 337–412.",
+      "url": "https://doi.org/10.1086/718672",
+      "doi": "10.1086/718672"
+    },
+    {
+      "text": "Lawrence, M., Homer-Dixon, T., Janzwood, S., Rockström, J., Renn, O. and Donges, J. F. (2024). Global polycrisis: the causal mechanisms of crisis entanglement. Global Sustainability, 7, e6.",
+      "url": "https://doi.org/10.1017/sus.2024.1",
+      "doi": "10.1017/sus.2024.1"
+    },
+    {
+      "text": "Lawrence, M., Janzwood, S. and Homer-Dixon, T. (2022). What Is a Global Polycrisis? And How Is It Different from a Systemic Risk? Technical Paper 2022-4. Victoria, BC: Cascade Institute.",
+      "url": "https://cascadeinstitute.org/technical-paper/what-is-a-global-polycrisis/"
+    },
+    {
+      "text": "Lee, K., Miguel, E. and Wolfram, C. (2020). Experimental evidence on the economics of rural electrification. Journal of Political Economy, 128(4), 1523–1565.",
+      "url": "https://doi.org/10.1086/705417",
+      "doi": "10.1086/705417"
+    },
+    {
+      "text": "Lutz, W., Muttarak, R. and Striessnig, E. (2014). Universal education is key to enhanced climate adaptation. Science, 346(6213), 1061–1062.",
+      "url": "https://doi.org/10.1126/science.1257975",
+      "doi": "10.1126/science.1257975"
+    },
+    {
+      "text": "OECD (2026). International aid fell sharply in 2025, says OECD (preliminary ODA data). Paris: OECD, April 2026.",
+      "url": "https://www.oecd.org/en/about/news/press-releases/2026/04/international-aid-fell-sharply-in-2025-says-oecd.html"
+    },
+    {
+      "text": "Patel, D., Sandefur, J. and Subramanian, A. (2021). The new era of unconditional convergence. Journal of Development Economics, 152, 102687.",
+      "url": "https://doi.org/10.1016/j.jdeveco.2021.102687",
+      "doi": "10.1016/j.jdeveco.2021.102687"
+    },
+    {
+      "text": "Rodrik, D. (2013). Unconditional convergence in manufacturing. Quarterly Journal of Economics, 128(1), 165–204.",
+      "url": "https://doi.org/10.1093/qje/qjs047",
+      "doi": "10.1093/qje/qjs047"
+    },
+    {
+      "text": "Rodrik, D. (2016). Premature deindustrialization. Journal of Economic Growth, 21, 1–33.",
+      "url": "https://doi.org/10.1007/s10887-015-9122-3",
+      "doi": "10.1007/s10887-015-9122-3"
+    },
+    {
+      "text": "Sawin, E. (2018). The magic of “multisolving”. Stanford Social Innovation Review, 16(3).",
+      "url": "https://ssir.org/articles/entry/the_magic_of_multisolving"
+    },
+    {
+      "text": "Sen, A. (1999). Development as Freedom. Oxford: Oxford University Press."
+    },
+    {
+      "text": "Suri, T. and Jack, W. (2016). The long-run poverty and gender impacts of mobile money. Science, 354(6317), 1288–1292.",
+      "url": "https://doi.org/10.1126/science.aah5309",
+      "doi": "10.1126/science.aah5309"
+    },
+    {
+      "text": "Tooze, A. (2022). Welcome to the world of the polycrisis. Financial Times, 28 October.",
+      "url": "https://www.ft.com/content/498398e7-11b1-494b-9cd3-6d669dc3de33"
+    },
+    {
+      "text": "Toya, H. and Skidmore, M. (2007). Economic development and the impacts of natural disasters. Economics Letters, 94(1), 20–25.",
+      "url": "https://doi.org/10.1016/j.econlet.2006.06.020",
+      "doi": "10.1016/j.econlet.2006.06.020"
+    },
+    {
+      "text": "UN Trade and Development (2026). A World of Debt 2026: Rising Debt Costs and Stalling Development. Geneva: UNCTAD.",
+      "url": "https://unctad.org/publication/world-of-debt?lang=en"
+    },
+    {
+      "text": "UNDP (2025). Human Development Report 2025: average years of schooling of adults aged 25+. Processed by Our World in Data.",
+      "url": "https://ourworldindata.org/grapher/average-years-of-schooling"
+    },
+    {
+      "text": "UNDRR and WMO (2023). Global Status of Multi-Hazard Early Warning Systems 2023. Geneva: UNDRR and WMO.",
+      "url": "https://www.undrr.org/reports/global-status-MHEWS-2023"
+    },
+    {
+      "text": "UNHCR (2026). Global Trends: Forced Displacement in 2025. Geneva: UN High Commissioner for Refugees, June.",
+      "url": "https://www.unhcr.org/sites/default/files/2026-06/global-trends-report-2025.pdf"
+    },
+    {
+      "text": "United Nations Environment Programme (2025). Adaptation Gap Report 2025: Running on Empty. Nairobi: UNEP.",
+      "url": "https://www.unep.org/resources/adaptation-gap-report-2025"
+    },
+    {
+      "text": "United Nations Environment Programme (2025). Global Cooling Watch 2025: The Free Degrees. Nairobi: UNEP, 11 November.",
+      "url": "https://www.unep.org/resources/global-cooling-watch-2025"
+    },
+    {
+      "text": "United Nations Office for Disaster Risk Reduction (2017). Terminology on Disaster Risk Reduction: Resilience. Geneva: UNDRR (definition adopted by the UN General Assembly, A/RES/71/276).",
+      "url": "https://www.undrr.org/terminology/resilience"
+    },
+    {
+      "text": "United Nations, Department of Economic and Social Affairs, Population Division (2024). World Population Prospects 2024. New York: United Nations.",
+      "url": "https://population.un.org/wpp/"
+    },
+    {
+      "text": "WHO, World Bank, IRENA and SEforALL (2023). Energizing Health: Accelerating Electricity Access in Health-Care Facilities. Geneva: World Health Organization.",
+      "url": "https://www.who.int/publications/i/item/9789240066984"
+    },
+    {
+      "text": "World Bank (2024). World Development Report 2024: The Middle-Income Trap (press release: middle-income trap hinders progress in 108 developing countries). Washington, DC: World Bank, 1 August.",
+      "url": "https://www.worldbank.org/en/news/press-release/2024/07/22/middle-income-trap-hinders-progress-in-108-developing-countries"
+    },
+    {
+      "text": "World Bank (2025). The Global Findex Database 2025 (press release: mobile-phone technology powers saving surge in developing economies). Washington, DC: World Bank, 16 July.",
+      "url": "https://www.worldbank.org/en/news/press-release/2025/07/16/mobile-phone-technology-powers-saving-surge-in-developing-economies"
+    },
+    {
+      "text": "World Bank (2025a). Worldwide Governance Indicators, 2025 update. Washington, DC: World Bank.",
+      "url": "https://www.worldbank.org/en/publication/worldwide-governance-indicators"
+    },
+    {
+      "text": "World Bank (2025b). World Bank Country and Lending Groups. Washington, DC: World Bank.",
+      "url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups"
+    },
+    {
+      "text": "World Bank (2026). World Development Indicators. Washington, DC: World Bank. Retrieved through the World Bank API, November 2026.",
+      "url": "https://databank.worldbank.org/source/world-development-indicators"
+    },
+    {
+      "text": "World Bank (2026a). Global Economic Prospects, January 2026 (press release). Washington, DC: World Bank, 13 January.",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/01/13/global-economic-prospects-january-2026-press-release"
+    },
+    {
+      "text": "World Bank (2026b). Global Economic Prospects, June 2026 (press release). Washington, DC: World Bank, 11 June.",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/06/11/global-economic-prospects-june-2026-press-release"
+    },
+    {
+      "text": "World Economic Forum (2026). Global Risks Report 2026, 21st edition. Geneva: WEF, 14 January.",
+      "url": "https://www.weforum.org/press/2026/01/global-risks-report-2026-geopolitical-and-economic-risks-rise-in-new-age-of-competition/"
+    },
+    {
+      "text": "World Health Organization (2024). Household Air Pollution. Fact sheet. Geneva: WHO.",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/household-air-pollution-and-health"
+    },
+    {
+      "text": "World Meteorological Organization (2025). Early Warnings for All initiative. Geneva: WMO.",
+      "url": "https://wmo.int/activities/early-warnings-all"
+    }
+  ]
+}
