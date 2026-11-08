@@ -1,0 +1,294 @@
+{
+  "seriesNumber": 17,
+  "title": "Mobile Technology Access and Human Development",
+  "subtitle": "How affordable mobile devices and connectivity expand human capabilities, accelerate development, and reduce vulnerability across the global population",
+  "type": "Research Monograph",
+  "datePublished": "2026-11-08",
+  "dateModified": "2026-11-08",
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 40,
+  "language": "en",
+  "description": "A century-scale framework (2000–2100) arguing that affordable mobile access expands human capabilities and reduces vulnerability, in twelve chapters from mobile money and health to connectivity, device affordability and digital rights.",
+  "contribution": "A twelve-chapter monograph arguing that affordable mobile access expands human capabilities and resilience: mobile money, agronomy, health, learning, the gender divide, labor platforms, disaster alerts and digital rights, with a lexicon of its own terms.",
+  "themes": [
+    "Mobile money",
+    "Mobile agronomy",
+    "Mobile health",
+    "Mobile learning",
+    "Gender divide",
+    "Labor platforms",
+    "Disaster alerts",
+    "Last-mile connectivity",
+    "Digital rights"
+  ],
+  "keywords": [
+    "mobile technology",
+    "human development",
+    "capability approach",
+    "mobile money",
+    "mHealth",
+    "gender digital divide",
+    "disaster alerts",
+    "direct-to-cell satellite",
+    "device affordability",
+    "digital rights",
+    "polycrisis resilience",
+    "century-scale framework",
+    "H Heuristics Polycrisis Resilience Framework"
+  ],
+  "abstract": [
+    "Human development in an era of polycrisis requires more than aggregate economic growth; it demands the expansion of substantive human capabilities across the eighty-five percent of humanity living in developing regions. Mobile technology serves as the primary instrument of this emancipation: transforming unbanked citizens into sovereign financial actors, smallholders into empowered market participants, and isolated communities into real-time nodes of planetary early warning and adaptive resilience through 2100.",
+    "The monograph is organised in twelve chapters covering the mobile revolution as capability expansion, mobile financial services, agronomy, health, learning, the gender divide, labor platforms, emergency alerts, last-mile connectivity, device affordability and digital rights, and closes with a century-scale grand strategy across four planning periods from 2000 to 2100. It includes a lexicon of the framework’s defined terms."
+  ],
+  "coreProposition": "Expanding affordable, meaningful mobile technology access can accelerate human development by increasing access to knowledge, economic opportunity, essential services, and information, thereby reducing structural vulnerability and supporting global economic convergence.",
+  "keyFindings": [
+    {
+      "title": "Mobile access as capability expansion.",
+      "text": "The monograph frames mobile technology through Amartya Sen’s capability approach: dissolving distance and isolation, and giving people information and options they lacked."
+    },
+    {
+      "title": "Money and markets.",
+      "text": "It argues that mobile wallets let unbanked people save, send and receive money and share risk across kinship networks, and that real-time weather and price information shifts bargaining power toward smallholders."
+    },
+    {
+      "title": "Health, learning and gender.",
+      "text": "It argues for mobile triage and tracking for community health workers, adaptive mobile lessons in mother tongues, and personal phones and private wallets as a route to women’s agency."
+    },
+    {
+      "title": "Alerts and last-mile coverage.",
+      "text": "It proposes cell-broadcast alerts reaching handsets within 60 seconds, anticipatory cash within 48 hours, and satellite direct-to-cell, solar and mesh networks to close rural coverage gaps."
+    },
+    {
+      "title": "Affordable devices and safeguards.",
+      "text": "It argues that handset price is the barrier that matters, and pairs access with protections: interest-rate caps, data minimization and bans on contact scraping."
+    },
+    {
+      "title": "A century in four periods.",
+      "text": "The strategy runs through foundations (2000–2025), a fragility window (2025–2050), peak shocks (2050–2075) and homeostasis (2075–2100)."
+    }
+  ],
+  "contents": [
+    {
+      "number": "1",
+      "title": "The Mobile Revolution as Human Capability Expansion: Beyond Fixed Infrastructure",
+      "description": "",
+      "page": 3
+    },
+    {
+      "number": "2",
+      "title": "Mobile Financial Services: Eradicating the Unbanked Trap and Building Liquidity",
+      "description": "",
+      "page": 6
+    },
+    {
+      "number": "3",
+      "title": "Mobile Agronomy and Market Transparency: Empowering the Smallholder",
+      "description": "",
+      "page": 9
+    },
+    {
+      "number": "4",
+      "title": "Mobile Health (mHealth) and Frontline Clinical Delivery: The Tele-Clinical Shield",
+      "description": "",
+      "page": 12
+    },
+    {
+      "number": "5",
+      "title": "Mobile Learning and Digital Human Capital Formation: Democratizing Global Knowledge",
+      "description": "",
+      "page": 15
+    },
+    {
+      "number": "6",
+      "title": "The Mobile Gender Divide and Female Agency: Unlocking Intra-Household Sovereignty",
+      "description": "",
+      "page": 18
+    },
+    {
+      "number": "7",
+      "title": "Mobile-Enabled Labor Platforms: Formalizing the Informal Economy",
+      "description": "",
+      "page": 21
+    },
+    {
+      "number": "8",
+      "title": "Emergency Telemetry and Disaster Response: Mobile Alerts and Algorithmic Cash",
+      "description": "",
+      "page": 24
+    },
+    {
+      "number": "9",
+      "title": "The Last-Mile Connectivity Frontier: Satellite-to-Cell, Mesh and Solar Power",
+      "description": "",
+      "page": 27
+    },
+    {
+      "number": "10",
+      "title": "Device Affordability and Frugal Hardware: The $20 Smartphone and Circular Repair",
+      "description": "",
+      "page": 30
+    },
+    {
+      "number": "11",
+      "title": "Digital Rights, Data Protection and Algorithmic Safety: Countering Mobile Predation",
+      "description": "",
+      "page": 33
+    },
+    {
+      "number": "12",
+      "title": "A Century-Scale Grand Strategy: Universal Meaningful Connectivity as Planetary Rails",
+      "description": "",
+      "page": 36
+    },
+    {
+      "number": "",
+      "title": "Lexicon of Defined Terms",
+      "description": "",
+      "page": 39
+    },
+    {
+      "number": "",
+      "title": "Bibliography",
+      "description": "",
+      "page": 40
+    }
+  ],
+  "glossary": [
+    {
+      "term": "The Mobile Capabilities Multiplier",
+      "definition": "The expansion in substantive human freedoms, economic agency, and shock-absorption capacity that occurs when an individual gains affordable, reliable mobile connectivity, bypassing legacy physical infrastructure constraints."
+    },
+    {
+      "term": "Information Asymmetry Arbitrage",
+      "definition": "The market dynamic wherein isolated rural producers are forced to accept below-cost farmgate prices from commercial middlemen due to a lack of real-time market price discovery."
+    },
+    {
+      "term": "Decentralized Mobile Liquidity",
+      "definition": "The capability of unbanked individuals to store, send, and receive digital financial value instantly via basic mobile handsets, eliminating cash transaction friction and enabling immediate mutual shock absorption across kinship networks."
+    },
+    {
+      "term": "Hyper-Local Agronomic Telemetry",
+      "definition": "The delivery of real-time, GPS-tailored weather forecasts, pest infestation alerts, and market pricing intelligence directly to smallholder farmers via mobile text, voice, and smartphone applications."
+    },
+    {
+      "term": "The mHealth Frontline Multiplier",
+      "definition": "The expansion in primary healthcare reach and early diagnostic detection achieved by equipping frontline community health workers and citizens with mobile decision support, tele-consultation, and syndromic tracking platforms."
+    },
+    {
+      "term": "Mobile Cognitive Leapfrogging",
+      "definition": "The accelerated acquisition of foundational literacy, numeracy, and technical competencies achieved by underserved students through personalized, adaptive mobile learning tools, bypassing decades of physical institutional deficits."
+    },
+    {
+      "term": "Intra-Household Mobile Sovereignty",
+      "definition": "The capacity of a woman within a patriarchal domestic setting to independently own a secure mobile device and private digital wallet, enabling confidential savings, autonomous commercial transactions, and direct external social support."
+    },
+    {
+      "term": "Algorithmic Labor Formalization",
+      "definition": "The transition of informal workers into formal, digitally tracked economic actors via mobile matching platforms, unlocking verified transaction histories, portable reputations, and automated micro-insurance protections."
+    },
+    {
+      "term": "The 60-Second Evacuation Window",
+      "definition": "The operational capability to transmit geo-targeted, siren-activated emergency alerts and safe evacuation routing instructions to 100% of mobile handsets situated within a hazard polygon in under 60 seconds, without network congestion."
+    },
+    {
+      "term": "Orbital Direct-to-Cell Telemetry",
+      "definition": "The capability of low-Earth orbit satellite constellations to transmit standard 4G and 5G cellular frequencies directly to unmodified consumer smartphones on the ground, bypassing terrestrial cell tower infrastructure entirely."
+    },
+    {
+      "term": "The $30 Saturation Threshold",
+      "definition": "The hardware price point below which smartphone adoption in low-income households shifts from an elite luxury good into non-linear, exponential mass-market saturation."
+    },
+    {
+      "term": "Algorithmic Predation Defense",
+      "definition": "The statutory and technological framework of regulatory protections, including interest rate caps, strict data minimization, and bans on private contact scraping, that prevents digital platforms from exploiting vulnerable populations."
+    },
+    {
+      "term": "Universal Meaningful Connectivity",
+      "definition": "The standard wherein every individual, regardless of income, gender, or geographic location, possesses an affordable, personal smartphone, reliable high-speed broadband, and the digital literacy needed to participate fully in society."
+    }
+  ],
+  "references": [
+    {
+      "text": "Hughes, H. (2026). Mobile Technology Access and Human Development: How Affordable Mobile Devices and Connectivity Expand Human Capabilities, Accelerate Development, and Reduce Vulnerability Across the Global Population (2000–2100). H Heuristics Research Monograph Series, HH-2026-PR-MTAHD."
+    },
+    {
+      "text": "Hughes, H. (2026). Technology Diffusion as a Polycrisis Resilience Strategy: Accelerating the Adoption of Proven Innovations to Expand Productive Capacity, Protect Public Health, and Neutralize Planetary Systemic Vulnerability (2000–2100). H Heuristics Research Monograph Series, HH-2026-PR-TDRS."
+    },
+    {
+      "text": "Hughes, H. (2026). Digital Economic Integration and Global Convergence: Expanding Cross-Border Economic Participation, Digital Public Infrastructure, and Market Access as Structural Foundations for 21st-Century Planetary Resilience (2000–2100). H Heuristics Research Monograph Series, HH-2026-PR-DEIGC."
+    },
+    {
+      "text": "Hughes, H. (2026). The Role of Emerging Markets in Global Resilience: Demographic Vitality, Industrial Decoupling, Resource Sovereignty, and the Geoeconomic Architecture of Civilizational Defense (2000–2100). H Heuristics Research Monograph Series, HH-2026-PR-EMGR."
+    },
+    {
+      "text": "Sen, A. (1999). Development as Freedom. Oxford University Press, 1–384. ISBN 978-0198297581."
+    },
+    {
+      "text": "Suri, T. and Jack, W. (2016). The Long-Run Poverty and Gender Impacts of Mobile Money. Science, 354(6317), 1288–1292.",
+      "url": "https://doi.org/10.1126/science.aah5309",
+      "doi": "10.1126/science.aah5309"
+    },
+    {
+      "text": "Jensen, R. (2007). The Digital Provide: Information (Technology), Market Performance, and Welfare in the South Indian Fisheries Sector. The Quarterly Journal of Economics, 122(3), 879–924.",
+      "url": "https://doi.org/10.1162/qjec.122.3.879",
+      "doi": "10.1162/qjec.122.3.879"
+    },
+    {
+      "text": "International Telecommunication Union (ITU) (2024). Facts and Figures: Focus on Universal and Meaningful Connectivity. ITU Geneva, 1–96."
+    },
+    {
+      "text": "GSMA (2024). The State of Mobile Internet Connectivity Report 2024. GSM Association London, 1–84."
+    },
+    {
+      "text": "World Bank (2023). Digital Progress and Trends Report: Human Capital, Infrastructure & Telecommunications. World Bank Group, 1–198."
+    },
+    {
+      "text": "UNESCO (2023). Global Education Monitoring Report: Technology in Education — A Tool on Whose Terms? UNESCO Paris, 1–450."
+    },
+    {
+      "text": "World Health Organization (WHO) (2023). Global Strategy on Digital Health 2020–2025: Expanding Tele-Diagnostics and Mobile Surveillance. WHO Geneva, 1–64."
+    },
+    {
+      "text": "UN Women (2023). Gender Snapshot: Innovation and Technological Change in the Digital Age. United Nations New York, 1–72."
+    },
+    {
+      "text": "International Labour Organization (ILO) (2024). World Employment and Social Outlook: The Role of Digital Labour Platforms. ILO Geneva, 1–280."
+    },
+    {
+      "text": "Centre for Disaster Protection (2023). The State of Anticipatory Action & Mobile Cash Transfers. CDP London, 1–112."
+    },
+    {
+      "text": "Lawrence, M., Janzwood, S. and Homer-Dixon, T. (2024). What is a global polycrisis? And how is it different from a systemic risk? Global Sustainability, Cambridge University Press, 7, e5. 10.1017/sus.2024.2"
+    },
+    {
+      "text": "Ostrom, E. (2010). Polycentric systems for coping with collective action and global environmental change. Global Environmental Change, 20(4), 550–557.",
+      "url": "https://doi.org/10.1016/j.gloenvcha.2010.07.004",
+      "doi": "10.1016/j.gloenvcha.2010.07.004"
+    },
+    {
+      "text": "Rodrik, D. (2018). New Technologies, Global Value Chains, and Developing Economies. Pathways for Prosperity Commission Background Paper, Oxford University Press, 1–48."
+    },
+    {
+      "text": "Raworth, K. (2017). Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist. Chelsea Green Publishing, 1–384. ISBN 978-1603586740."
+    },
+    {
+      "text": "Mazzucato, M. (2021). Mission Economy: A Moonshot Guide to Changing Capitalism. HarperCollins, 1–272. ISBN 978-0063046412."
+    },
+    {
+      "text": "Zuboff, S. (2019). The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power. PublicAffairs, 1–704. ISBN 978-1610395694."
+    },
+    {
+      "text": "Hughes, H. (2026). Polycrisis Resilience: Addressing the Survivability Regime of the 21st Century (2000–2100). H Heuristics Research Monograph Series, HH-2026-PR-SR21."
+    }
+  ]
+}
