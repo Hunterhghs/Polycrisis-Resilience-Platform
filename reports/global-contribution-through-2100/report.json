@@ -1,0 +1,313 @@
+{
+  "seriesNumber": 23,
+  "title": "The Global Contribution of Polycrisis Resilience Through 2100",
+  "subtitle": "A Theoretical and Quantitative Assessment of Hunter Hughes’s Framework for Saving Lives, Mitigating Person-Years of Human Suffering, Protecting Nearly 5 Billion At-Risk People, and Avoiding Trillions in Economic Losses (2026–2100)",
+  "type": "Research Report",
+  "datePublished": "2026-11-08",
+  "dateModified": "2026-11-08",
+  "doi": "10.5281/zenodo.24062693",
+  "repository": {
+    "name": "Zenodo",
+    "url": "https://zenodo.org/records/24062693"
+  },
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "license": {
+    "name": "Creative Commons Attribution 4.0 International",
+    "shortName": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 40,
+  "language": "en",
+  "description": "A prospective, scenario-based assessment of what Polycrisis Resilience could achieve by 2100 and how much of that could be attributed to the framework itself: five attribution tiers, six capacities and a 5,000-run uncertainty analysis.",
+  "contribution": "A prospective, scenario-based estimate of the framework’s possible contribution to 2100, separating a global resilience envelope from a small attributable share across five tiers, and stating that all figures are scenarios, not historical outcomes.",
+  "themes": [
+    "Lives saved",
+    "Human suffering",
+    "Air pollution and heat",
+    "Demographic risk",
+    "Avoided economic losses",
+    "Attribution tiers"
+  ],
+  "keywords": [
+    "polycrisis resilience",
+    "Hunter Hughes",
+    "H Heuristics",
+    "cumulative human exposure reduction",
+    "CHER",
+    "human suffering reduction dividend",
+    "HSRD",
+    "six operational capacities",
+    "resilience multiplier",
+    "green transition",
+    "counterfactual attribution",
+    "scenario analysis to 2100",
+    "climate adaptation",
+    "vulnerability reduction",
+    "disaster prevention",
+    "economic convergence",
+    "technology diffusion"
+  ],
+  "abstract": [
+    "This report presents a theoretical and quantitative assessment of the long-term global significance of Polycrisis Resilience, a framework developed and formalized by Hunter Hughes in 2026 through H Heuristics. The study examines how the establishment of an operational resilience doctrine for interconnected global crises could influence human welfare, mortality reduction, climate adaptation, economic development, and vulnerability reduction through the year 2100. Distinguishing between the broader global benefits of coordinated resilience investments and the marginal contribution attributable to the framework itself, the report develops a transparent counterfactual attribution model incorporating five sensitivity tiers ranging from 0.01% to 10% influence.",
+    "Using the HH-PRM v2.0-ATTR model, the analysis estimates a global Polycrisis Resilience envelope of 368 million premature deaths prevented, 221 billion person-years of reduced human suffering, protection for up to 4.8 billion people exposed to compounding risks, and US$200 trillion to US$296 trillion in avoided economic losses between 2026 and 2100. Attributable outcomes associated with the dissemination and adoption of the Polycrisis Resilience framework range from hundreds of thousands of lives saved under conservative assumptions to tens of millions under higher adoption scenarios. The study further evaluates impacts across air pollution reduction, extreme heat adaptation, water security, healthcare access, economic convergence, and multi-generational resilience outcomes.",
+    "The report concludes that establishing an accessible, development-oriented framework for navigating interacting global crises during the critical 2026-2035 investment decade has the potential to influence policy priorities, accelerate proactive action, and enhance resilience across multiple generations. All impact estimates are explicitly presented as prospective counterfactual scenarios rather than historical outcomes and are evaluated through uncertainty analysis, sensitivity testing, and Monte Carlo simulations to maintain transparency regarding assumptions and future realization conditions."
+  ],
+  "coreProposition": "By establishing the operational concept of Polycrisis Resilience online in 2026, with 74 years remaining in the century, the report argues that a publicly accessible framework could help save lives, mitigate person-years of suffering and avoid economic losses by 2100. All figures are prospective counterfactual scenarios, not historical outcomes.",
+  "keyFindings": [
+    {
+      "title": "The global envelope is large.",
+      "text": "Full implementation of coordinated polycrisis resilience (Scenario S3, costing about 1% of world GDP) is estimated to prevent 368 million premature deaths (90% uncertainty interval 265–448 million), gain 13.6 billion healthy life-years and deliver 221 billion person-years of improved survivability conditions between 2026 and 2100."
+    },
+    {
+      "title": "About 136 million lives depend on coordination.",
+      "text": "Funding single-crisis programmes in silos (Scenario S2) is estimated to save 232 million lives, leaving 136 million preventable deaths that only cross-sector design could address."
+    },
+    {
+      "title": "Delay is costly in the model.",
+      "text": "The model puts the cost of a year of global delay at 8.3 million preventable deaths. Under that assumption, accelerating mobilization by 32 days would correspond to 368,000 lives, and by 5.3 months to 1.84 million."
+    },
+    {
+      "title": "Suffering concentrates in air pollution and heat.",
+      "text": "The largest contributions to reduced suffering are air pollution reduction (92 billion person-years) and extreme-heat and climate protection (118 billion person-years)."
+    },
+    {
+      "title": "Demographic pressure.",
+      "text": "Population growth in climate-exposed regions, led by Sub-Saharan Africa (1.3 billion to 3.5 billion) and South Asia, projects about 4.85 billion people into high survivability risk by 2100 without proactive investment in 2026–2035."
+    },
+    {
+      "title": "The attributable share is a scenario parameter.",
+      "text": "The report separates the global envelope from the share attributable to the framework’s creation and dissemination, modelled in five tiers from 0.01% to 10%: 36,800 lives at the lowest tier, 368,000 at 0.1%, and 3.7 to 36.8 million at the highest tiers."
+    },
+    {
+      "title": "Economic scale.",
+      "text": "Against an estimated dividend of about US$4 trillion a year (US$200 to 296 trillion over the century), the attributable avoided losses range from US$200 billion at a 0.1% share to US$10 to 29.6 trillion at the highest tiers."
+    },
+    {
+      "title": "Realization conditions.",
+      "text": "The authors list conditions for any of this to occur: sustained discoverability, independent scholarly engagement and critique, integration into green-transition appraisal, institutional adoption, empirical validation of the metrics, and curriculum diffusion. A 5,000-run Monte Carlo analysis shows uncertainty bounds for each tier."
+    }
+  ],
+  "contents": [
+    {
+      "number": "",
+      "title": "Front Matter: Reader’s Guide and Attribution Framework",
+      "description": "",
+      "page": 1
+    },
+    {
+      "number": "1",
+      "title": "Introduction and Executive Summary: The 2026 Establishment",
+      "description": "",
+      "page": 4
+    },
+    {
+      "number": "2",
+      "title": "Theoretical Architecture and Six Operational Capacities",
+      "description": "",
+      "page": 7
+    },
+    {
+      "number": "3",
+      "title": "How an Online Concept Shapes a Century (2026–2100)",
+      "description": "",
+      "page": 10
+    },
+    {
+      "number": "4",
+      "title": "The Decisive Decade (2026–2035) and The Green Transition",
+      "description": "",
+      "page": 13
+    },
+    {
+      "number": "5",
+      "title": "Demographic Gravity: 5 Billion in Survivability Risk by 2100",
+      "description": "",
+      "page": 16
+    },
+    {
+      "number": "6",
+      "title": "Approximating Lives Saved by 2100 across Attribution Tiers",
+      "description": "",
+      "page": 19
+    },
+    {
+      "number": "7",
+      "title": "Mitigating Billions of Person-Years of Suffering (CHER/HSRD)",
+      "description": "",
+      "page": 22
+    },
+    {
+      "number": "8",
+      "title": "Deep Dive I: Air Pollution, Clean Cooking and Clean Energy",
+      "description": "",
+      "page": 25
+    },
+    {
+      "number": "9",
+      "title": "Deep Dive II: Extreme Heat, Water Security and Climate Stress",
+      "description": "",
+      "page": 28
+    },
+    {
+      "number": "10",
+      "title": "Avoiding Trillions in Economic Losses and Convergence",
+      "description": "",
+      "page": 31
+    },
+    {
+      "number": "11",
+      "title": "Multigenerational Impact Across Four Birth Cohorts",
+      "description": "",
+      "page": 34
+    },
+    {
+      "number": "12",
+      "title": "Epistemic Rigor, 5,000 Simulations and Realization Conditions",
+      "description": "",
+      "page": 36
+    },
+    {
+      "number": "13",
+      "title": "Conclusion: The Enduring Legacy of Hunter Hughes’s Work",
+      "description": "",
+      "page": 38
+    },
+    {
+      "number": "14",
+      "title": "References, Digital Archive and Verification Register",
+      "description": "",
+      "page": 40
+    }
+  ],
+  "references": [
+    {
+      "text": "Hughes, H. (2026a). Hunter Hughes Developed the Concept of Polycrisis Resilience. H Heuristics Substack.",
+      "url": "https://hheuristics.substack.com/p/hunter-hughes-developed-the-concept"
+    },
+    {
+      "text": "Hughes, H. (2026b). Why Hunter Hughes Developing Polycrisis Resilience Matters. H Heuristics Substack.",
+      "url": "https://hheuristics.substack.com/p/why-hunter-hughes-developing-polycrisis"
+    },
+    {
+      "text": "Hughes, H. (2026c). The Global Contribution of Polycrisis Resilience. H Heuristics Substack.",
+      "url": "https://hheuristics.substack.com/p/the-global-contribution-of-polycrisis"
+    },
+    {
+      "text": "Hughes, H. (2026d). Polycrisis Resilience: A General Definition and the H Heuristics Framework. Figshare Preprint & H Heuristics Monograph Series."
+    },
+    {
+      "text": "Hughes, H. (2026e). Polycrisis Resilience in the 21st Century: Reducing Human Vulnerability to Interconnected Global Crises. Figshare Preprint."
+    },
+    {
+      "text": "Hughes, H. (2026f). Saving Lives Through Polycrisis Resilience This Century. Polycrisis Resilience Series, Report HH-2026-51. H Heuristics."
+    },
+    {
+      "text": "Hughes, H. (2026g). Institutional Capacity and the Economics of Effective Development Implementation. Polycrisis Resilience Series, Report HH-2026-50. H Heuristics."
+    },
+    {
+      "text": "Hughes, H. (2026h). How Many Lives Could Polycrisis Resilience Save This Century? Polycrisis Resilience Series, Report HH-2026-28. H Heuristics."
+    },
+    {
+      "text": "Morin, E. and Kern, A. B. (1999). Homeland Earth: A Manifesto for the New Millennium. Cresskill, NJ: Hampton Press."
+    },
+    {
+      "text": "Tooze, A. (2022). Chartbook: Defining Polycrisis — From Crisis Pictures to the Crisis Matrix. Columbia University."
+    },
+    {
+      "text": "Holling, C. S. (1973). Resilience and stability of ecological systems. Annual Review of Ecology and Systematics, 4(1), 1–23.",
+      "url": "https://doi.org/10.1146/annurev.es.04.110173.000245",
+      "doi": "10.1146/annurev.es.04.110173.000245"
+    },
+    {
+      "text": "Folke, C., et al. (2010). Resilience thinking: Integrating resilience, adaptability and transformability. Ecology and Society, 15(4), 20.",
+      "url": "https://doi.org/10.5751/ES-03610-150420",
+      "doi": "10.5751/ES-03610-150420"
+    },
+    {
+      "text": "IHME Global Burden of Disease Collaborative Network (2024). Global burden of 288 causes of death and life expectancy decomposition in 204 countries, 1990–2021. The Lancet, 403(10440), 2100–2132.",
+      "url": "https://doi.org/10.1016/S0140-6736(24)00367-2",
+      "doi": "10.1016/S0140-6736(24)00367-2"
+    },
+    {
+      "text": "Health Effects Institute (HEI) and IHME (2024). State of Global Air 2024: Global Exposure to Air Pollution and Its Health Impacts. Boston: HEI."
+    },
+    {
+      "text": "Carleton, T., et al. (2022). Valuing the global mortality consequences of climate change accounting for adaptation costs and benefits. Quarterly Journal of Economics, 137(4), 2037–2105.",
+      "url": "https://doi.org/10.1093/qje/qjac020",
+      "doi": "10.1093/qje/qjac020"
+    },
+    {
+      "text": "IPCC (2022). Climate Change 2022: Impacts, Adaptation and Vulnerability (WGII AR6). Cambridge University Press."
+    },
+    {
+      "text": "UN Department of Economic and Social Affairs (UN DESA) (2024). World Population Prospects 2024: Summary of Results. New York: United Nations."
+    },
+    {
+      "text": "IEA, IRENA, UNSD, World Bank and WHO (2025). Tracking SDG 7: The Energy Progress Report 2025. Washington, DC: World Bank."
+    },
+    {
+      "text": "International Energy Agency (IEA) (2024). World Energy Outlook 2024 & Net Zero Roadmap. Paris: OECD/IEA."
+    },
+    {
+      "text": "WHO and UNICEF (2024). Progress on Household Drinking Water, Sanitation and Hygiene 2000–2022 (JMP). Geneva and New York."
+    },
+    {
+      "text": "Kruk, M. E., et al. (2018). High-quality health systems in the Sustainable Development Goals era (Lancet Global Health Commission). The Lancet Global Health, 6(11), e1196–e1252.",
+      "url": "https://doi.org/10.1016/S2214-109X(18)30386-3",
+      "doi": "10.1016/S2214-109X(18)30386-3"
+    },
+    {
+      "text": "UNDRR and WMO (2023). Global Status of Multi-Hazard Early Warning Systems 2023. Geneva: UN Office for Disaster Risk Reduction."
+    },
+    {
+      "text": "Romanello, M., et al. (2024). The 2024 report of the Lancet Countdown on health and climate change. The Lancet, 404(10465), 1847–1896.",
+      "url": "https://doi.org/10.1016/S0140-6736(24)01822-1",
+      "doi": "10.1016/S0140-6736(24)01822-1"
+    },
+    {
+      "text": "FAO, IFAD, UNICEF, WFP and WHO (2024). The State of Food Security and Nutrition in the World 2024 (SOFI). Rome: FAO."
+    },
+    {
+      "text": "Victora, C. G., et al. (2021). Revisiting maternal and child undernutrition in low-income and middle-income countries. The Lancet, 397(10282), 1388–1399.",
+      "url": "https://doi.org/10.1016/S0140-6736(21)00394-9",
+      "doi": "10.1016/S0140-6736(21)00394-9"
+    },
+    {
+      "text": "Lelieveld, J., et al. (2023). Air pollution deaths attributable to fossil fuels: observational and modelling study. BMJ, 383, e077784.",
+      "url": "https://doi.org/10.1136/bmj-2023-077784",
+      "doi": "10.1136/bmj-2023-077784"
+    },
+    {
+      "text": "Global Commission on Adaptation (2019). Adapt Now: A Global Call for Leadership on Climate Resilience. World Resources Institute."
+    },
+    {
+      "text": "Marani, M., et al. (2021). Intensity and frequency of extreme novel epidemics. PNAS, 118(35), e2105482118.",
+      "url": "https://doi.org/10.1073/pnas.2105482118",
+      "doi": "10.1073/pnas.2105482118"
+    },
+    {
+      "text": "Alkire, S., Kanagaratnam, U. and Suppa, N. (2024). The Global Multidimensional Poverty Index (MPI) 2024. OPHI and UNDP."
+    },
+    {
+      "text": "Stenberg, K., et al. (2017). Financing transformative health systems towards achievement of the health SDGs. The Lancet Global Health, 5(9), e875–e887.",
+      "url": "https://doi.org/10.1016/S2214-109X(17)30263-2",
+      "doi": "10.1016/S2214-109X(17)30263-2"
+    },
+    {
+      "text": "Wolf, J., et al. (2023). Effectiveness of interventions to improve drinking water, sanitation, and handwashing on diarrhoeal disease. The Lancet, 400(10345), 48–59."
+    },
+    {
+      "text": "Preston, S. H., Heuveline, P. and Guillot, M. (2001). Demography: Measuring and Modeling Population Processes. Oxford: Blackwell."
+    }
+  ]
+}
