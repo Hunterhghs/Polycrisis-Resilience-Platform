@@ -1,0 +1,287 @@
+{
+  "seriesNumber": 18,
+  "title": "Laptop Accessibility and Digital Economic Participation",
+  "subtitle": "Expanding access to affordable computing as a foundation for global productivity, employment, entrepreneurship, and economic convergence",
+  "type": "Research Monograph",
+  "datePublished": "2026-11-08",
+  "dateModified": "2026-11-08",
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 40,
+  "language": "en",
+  "description": "A century-scale framework (2000–2100) arguing that affordable laptops, with connectivity and skills, enable productive participation in the digital economy, in twelve chapters from remote work and education to hardware costs, repair and delivery models.",
+  "contribution": "A twelve-chapter monograph arguing that affordable laptops, not only smartphones, are productive infrastructure: remote work, technical education, enterprise tools, hardware costs, circular refurbishment, open-source software and delivery models, with a lexicon of its own terms.",
+  "themes": [
+    "Remote work",
+    "Technical education",
+    "Enterprise productivity",
+    "Hardware costs",
+    "Circular electronics",
+    "Open-source software",
+    "Digital skills",
+    "Delivery models"
+  ],
+  "keywords": [
+    "laptop access",
+    "digital economic participation",
+    "computing divide",
+    "remote knowledge work",
+    "virtual labor migration",
+    "technical education",
+    "frugal hardware",
+    "circular electronics",
+    "open-source software",
+    "digital skills",
+    "polycrisis resilience",
+    "century-scale framework",
+    "H Heuristics Polycrisis Resilience Framework"
+  ],
+  "abstract": [
+    "Human economic empowerment and polycrisis survivability in the 21st century require high-throughput computational tools. While smartphones connect individuals as consumers of digital media, personal laptops endow citizens with the cognitive and productive infrastructure needed to build complex systems, export knowledge work globally, and engineer autonomous domestic resilience through 2100.",
+    "The monograph is organised in twelve chapters covering the computing divide, remote knowledge work, technical education, enterprise productivity, the hardware cost chasm, frugal hardware engineering, circular electronics, complementary solar and mesh infrastructure, open-source software, digital skills formation and institutional delivery models, and closes with a century-scale grand strategy across four planning periods from 2000 to 2100. It includes a lexicon of the framework’s defined terms."
+  ],
+  "coreProposition": "Expanding affordable laptop access, supported by connectivity, digital skills, and productive opportunities, can strengthen human capital and enable broader participation in the global digital economy, contributing to reduced economic vulnerability and long term development convergence.",
+  "keyFindings": [
+    {
+      "title": "Smartphones are not enough.",
+      "text": "The monograph argues that phones mainly serve consumption, while laptops are the production tools needed for typing, multitasking, programming, design and enterprise software."
+    },
+    {
+      "title": "Remote work and technical education.",
+      "text": "It argues that personal computing lets skilled workers in developing economies sell services globally while living at home, and lets students move from reading code on a phone to building software locally."
+    },
+    {
+      "title": "The hardware cost barrier.",
+      "text": "It argues that import tariffs and luxury taxes on computers suppress productivity, and proposes frugal ARM-based laptops priced under $100 and refurbished corporate machines at far below retail cost."
+    },
+    {
+      "title": "Power, software and skills.",
+      "text": "It proposes solar direct-current charging and offline knowledge caches, open-source software in place of licensing paywalls, and structured digital-skills teaching, since owning a device is not the same as fluency."
+    },
+    {
+      "title": "Delivery models.",
+      "text": "It argues that device giveaways have often failed, and points to public procurement such as Uruguay’s Plan Ceibal, pay-as-you-go leasing and community tech hubs."
+    },
+    {
+      "title": "A century in four periods.",
+      "text": "The strategy runs through foundations (2000–2025), a fragility window (2025–2050), peak shocks (2050–2075) and homeostasis (2075–2100)."
+    }
+  ],
+  "contents": [
+    {
+      "number": "1",
+      "title": "The Computing Divide: Why Smartphones Are Not Enough for High-Value Production",
+      "description": "",
+      "page": 3
+    },
+    {
+      "number": "2",
+      "title": "Remote Knowledge Work and Cross-Border Employment: Exporting Brainpower",
+      "description": "",
+      "page": 6
+    },
+    {
+      "number": "3",
+      "title": "Advanced Technical Education and Cognitive Leapfrogging: Democratizing STEM",
+      "description": "",
+      "page": 9
+    },
+    {
+      "number": "4",
+      "title": "Enterprise Productivity and MSME Formalization: Scaling Southern Business",
+      "description": "",
+      "page": 12
+    },
+    {
+      "number": "5",
+      "title": "The Hardware Cost Chasm: Tariffs, Taxes, and Purchasing Power Parity",
+      "description": "",
+      "page": 15
+    },
+    {
+      "number": "6",
+      "title": "Frugal Hardware Engineering: Chromebooks, ARM Chips, and Modular Architecture",
+      "description": "",
+      "page": 18
+    },
+    {
+      "number": "7",
+      "title": "Circular Electronics and Sovereign Refurbishment: The 10-Year Laptop",
+      "description": "",
+      "page": 21
+    },
+    {
+      "number": "8",
+      "title": "Complementary Infrastructure: Solar DC Power and Rural Offline Mesh",
+      "description": "",
+      "page": 24
+    },
+    {
+      "number": "9",
+      "title": "Software Access and Open Source Tool Commons: Bypassing License Monopoly",
+      "description": "",
+      "page": 27
+    },
+    {
+      "number": "10",
+      "title": "Digital Skills Formation: From Consumption Literacy to Professional Fluency",
+      "description": "",
+      "page": 30
+    },
+    {
+      "number": "11",
+      "title": "Institutional Delivery Models: Public Procurement, Lease-to-Own and Tech Hubs",
+      "description": "",
+      "page": 33
+    },
+    {
+      "number": "12",
+      "title": "A Century-Scale Grand Strategy: Universal Computing Access as Civilizational Armor",
+      "description": "",
+      "page": 36
+    },
+    {
+      "number": "",
+      "title": "Lexicon of Defined Terms",
+      "description": "",
+      "page": 39
+    },
+    {
+      "number": "",
+      "title": "Bibliography",
+      "description": "",
+      "page": 40
+    }
+  ],
+  "glossary": [
+    {
+      "term": "The Consumption-Production Asymmetry",
+      "definition": "The divergence wherein mobile smartphones function primarily as consumption terminals for digital media, while personal laptop computers serve as high-output production environments required to generate economic capital."
+    },
+    {
+      "term": "Virtual Labor Migration",
+      "definition": "The capability of skilled knowledge workers in developing economies to export high-value digital services directly to global markets via personal computing, earning foreign exchange while living domestically."
+    },
+    {
+      "term": "The Integrated Development Environment Threshold",
+      "definition": "The cognitive transition in technical education where a student advances from reading code snippets on a mobile screen to executing, compiling, and debugging multi-file software projects in a local desktop IDE."
+    },
+    {
+      "term": "Enterprise Management Formalization",
+      "definition": "The conversion of informal, paper-based small business operations into structured digital databases, double-entry ledgers, and inventory ERP systems, unlocking commercial credit and enterprise scale."
+    },
+    {
+      "term": "Regressive Hardware Protectionism",
+      "definition": "The fiscal practice whereby developing nations levy punitive import tariffs and luxury taxes on personal computing hardware, suppressing domestic productive capacity and slowing industrialization."
+    },
+    {
+      "term": "Frugal Computing Architecture",
+      "definition": "The deliberate design of computing hardware to maximize durability, thermodynamic efficiency, and affordability while eliminating unnecessary mechanical complexity, active cooling, and excessive power draw."
+    },
+    {
+      "term": "Sovereign Computational Remanufacturing",
+      "definition": "The organized domestic industrial process of collecting, diagnosing, repairing, reselling, and redeploying decommissioned corporate enterprise laptops to deliver high-performance computing at eighty percent below retail cost."
+    },
+    {
+      "term": "Utility-Decoupled Computing",
+      "definition": "The deployment of computing hardware configured to operate autonomously from centralized electrical grids and commercial internet backbones through dedicated direct-current micro-solar generation and offline local mesh caches."
+    },
+    {
+      "term": "Cognitive Capital Democratization",
+      "definition": "The elimination of proprietary software licensing paywalls through the adoption and domestic localization of open-source software tools (FLOSS), enabling universal access to advanced engineering capabilities."
+    },
+    {
+      "term": "Computational Fluency",
+      "definition": "The demonstrated capacity to use personal computing systems to model complex problems, automate repetitive cognitive tasks, architect software algorithms, and produce professional technical assets."
+    },
+    {
+      "term": "Blended Computational Distribution",
+      "definition": "The coordinated institutional deployment of public subsidies, concessional capital, community maker hubs, and pay-as-you-go micro-financing to achieve universal personal computing accessibility across low-income populations."
+    },
+    {
+      "term": "Civilizational Computational Armor",
+      "definition": "The collective societal resilience generated when a population possesses universal access to personal computing hardware, open software, and algorithmic skills, enabling autonomous problem-solving amidst compounding shocks."
+    },
+    {
+      "term": "Universal Personal Computing Density",
+      "definition": "The developmental benchmark requiring at least one fully capable, keyboard-equipped personal computer per secondary student and knowledge-worker household to ensure macroeconomic convergence."
+    }
+  ],
+  "references": [
+    {
+      "text": "Hughes, H. (2026). Laptop Accessibility and Digital Economic Participation: Expanding Access to Affordable Computing as a Foundation for Global Productivity, Employment, Entrepreneurship, and Economic Convergence (2000–2100). H Heuristics Research Monograph Series, HH-2026-PR-LAEP."
+    },
+    {
+      "text": "Hughes, H. (2026). Mobile Technology Access and Human Development: How Affordable Mobile Devices and Connectivity Expand Human Capabilities, Accelerate Development, and Reduce Vulnerability Across the Global Population (2000–2100). H Heuristics Research Monograph Series, HH-2026-PR-MTAHD."
+    },
+    {
+      "text": "Hughes, H. (2026). Technology Diffusion as a Polycrisis Resilience Strategy: Accelerating the Adoption of Proven Innovations to Expand Productive Capacity, Protect Public Health, and Neutralize Planetary Systemic Vulnerability (2000–2100). H Heuristics Research Monograph Series, HH-2026-PR-TDRS."
+    },
+    {
+      "text": "Hughes, H. (2026). Digital Economic Integration and Global Convergence: Expanding Cross-Border Economic Participation, Digital Public Infrastructure, and Market Access as Structural Foundations for 21st-Century Planetary Resilience (2000–2100). H Heuristics Research Monograph Series, HH-2026-PR-DEIGC."
+    },
+    {
+      "text": "Sen, A. (1999). Development as Freedom. Oxford University Press, 1–384. ISBN 978-0198297581."
+    },
+    {
+      "text": "Brynjolfsson, E. and McAfee, A. (2014). The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies. W. W. Norton & Company, 1–320."
+    },
+    {
+      "text": "Negroponte, N. (1995). Being Digital. Alfred A. Knopf, 1–256. ISBN 978-0679439196."
+    },
+    {
+      "text": "International Telecommunication Union (ITU) (2024). Facts and Figures: Focus on Universal and Meaningful Connectivity. ITU Geneva, 1–96."
+    },
+    {
+      "text": "World Bank (2023). Digital Progress and Trends Report: Human Capital, Infrastructure & Telecommunications. World Bank Group, 1–198."
+    },
+    {
+      "text": "UNESCO (2023). Global Education Monitoring Report: Technology in Education — A Tool on Whose Terms? UNESCO Paris, 1–450."
+    },
+    {
+      "text": "United Nations Conference on Trade and Development (UNCTAD) (2024). Digital Economy Report 2024: Shaping an Inclusive and Sustainable Digital Future. United Nations Geneva, 1–180."
+    },
+    {
+      "text": "International Labour Organization (ILO) (2024). World Employment and Social Outlook: The Role of Digital Labour Platforms. ILO Geneva, 1–280."
+    },
+    {
+      "text": "World Trade Organization (WTO) (2024). Information Technology Agreement (ITA) Expansion and Global Value Chains. WTO Geneva, 1–88."
+    },
+    {
+      "text": "United Nations Environment Programme (UNEP) and United Nations University (UNU) (2024). The Global E-Waste Monitor 2024: Electronic Waste Flows and Circularity Challenges. UNU Bonn, 1–136."
+    },
+    {
+      "text": "Ostrom, E. (1990). Governing the Commons: The Evolution of Institutions for Collective Action. Cambridge University Press, 1–280."
+    },
+    {
+      "text": "Lawrence, M., Janzwood, S. and Homer-Dixon, T. (2024). What is a global polycrisis? And how is it different from a systemic risk? Global Sustainability, Cambridge University Press, 7, e5. 10.1017/sus.2024.2"
+    },
+    {
+      "text": "Rodrik, D. (2018). New Technologies, Global Value Chains, and Developing Economies. Pathways for Prosperity Commission Background Paper, Oxford University Press, 1–48."
+    },
+    {
+      "text": "Mazzucato, M. (2021). Mission Economy: A Moonshot Guide to Changing Capitalism. HarperCollins, 1–272. ISBN 978-0063046412."
+    },
+    {
+      "text": "Raworth, K. (2017). Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist. Chelsea Green Publishing, 1–384."
+    },
+    {
+      "text": "Zuboff, S. (2019). The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power. PublicAffairs, 1–704."
+    },
+    {
+      "text": "Stallman, R. M. (2002). Free Software, Free Society: Selected Essays of Richard M. Stallman. GNU Press, 1–224."
+    },
+    {
+      "text": "Hughes, H. (2026). Polycrisis Resilience: Addressing the Survivability Regime of the 21st Century (2000–2100). H Heuristics Research Monograph Series, HH-2026-PR-SR21."
+    }
+  ]
+}
