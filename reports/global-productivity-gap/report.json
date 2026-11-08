@@ -1,0 +1,494 @@
+{
+  "seriesNumber": 12,
+  "title": "Closing the Global Productivity Gap Through Technology Adoption",
+  "subtitle": "How technology diffusion can narrow the gaps between countries and strengthen Polycrisis Resilience, 2026–2100",
+  "type": "Research Report",
+  "datePublished": "2026-11-08",
+  "dateModified": "2026-11-08",
+  "doi": "10.6084/m9.figshare.34947040",
+  "repository": {
+    "name": "figshare",
+    "url": "https://figshare.com/articles/preprint/Closing_the_Global_Productivity_Gap_Through_Technology_Adoption/34947040"
+  },
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "license": {
+    "name": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "shortName": "CC BY-NC-ND 4.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+  },
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 45,
+  "language": "en",
+  "description": "Whether adopting existing technology can close the global productivity gap, and whether doing so strengthens Polycrisis Resilience: the record of diffusion, the conditions that make adoption pay, and three pathways to 2100.",
+  "contribution": "Examines whether technology adoption can close the productivity gap between countries and so reduce vulnerability: the record of diffusion, why access is not use, five technology families, and three pathways to 2100.",
+  "themes": [
+    "Productivity gap",
+    "Technology diffusion",
+    "Energy",
+    "Connectivity",
+    "Digital finance",
+    "Farm technology",
+    "Automation and AI"
+  ],
+  "keywords": [
+    "productivity gap",
+    "technology adoption",
+    "technology diffusion",
+    "polycrisis resilience",
+    "catch-up growth",
+    "total factor productivity",
+    "digital connectivity",
+    "mobile money",
+    "artificial intelligence",
+    "development economics",
+    "vulnerability reduction",
+    "scenarios to 2100",
+    "H Heuristics Polycrisis Resilience Framework"
+  ],
+  "subjects": [
+    {
+      "name": "Educational technology and computing",
+      "scheme": "ANZSRC FoR",
+      "code": "390405"
+    },
+    {
+      "name": "Digital electronic devices",
+      "scheme": "ANZSRC FoR",
+      "code": "400902"
+    },
+    {
+      "name": "Political economy and social change",
+      "scheme": "ANZSRC FoR",
+      "code": "440404"
+    },
+    {
+      "name": "Socio-economic development",
+      "scheme": "ANZSRC FoR",
+      "code": "440407"
+    },
+    {
+      "name": "Economic development policy",
+      "scheme": "ANZSRC FoR",
+      "code": "440703"
+    }
+  ],
+  "abstract": [
+    "The global productivity gap remains one of the most important structural inequalities in the world economy. In 2024, a worker in a low-income economy produced roughly one-twentieth as much output as a worker in a high-income economy, and much of this disparity is explained not by differences in labor effort or capital alone, but by differences in technology, management practices, infrastructure, and the ability to use existing knowledge effectively. This report examines whether technology adoption and diffusion can serve as a principal mechanism for narrowing productivity gaps between countries and whether such convergence contributes to Polycrisis Resilience, defined within the H Heuristics framework as the capacity of societies to anticipate, withstand, adapt to, recover from, and reduce vulnerability to multiple interconnected crises. Using public data covering 217 economies from 1991 to 2024, the report measures the scale and sources of the productivity gap, analyzes historical patterns of technology diffusion, evaluates the relationship between technology adoption and productivity growth, and assesses how productivity contributes to resilience outcomes. The findings indicate that technology adoption can support catch-up growth, but the effect is conditional rather than automatic. While access to technologies such as mobile communications, internet connectivity, digital finance, and renewable energy has expanded rapidly, productive use often remains constrained by deficits in reliable power, skills, finance, competition, institutions, and local adaptive capacity. The evidence suggests that adoption contributes most effectively to productivity growth when these complementary conditions are present. The report argues that closing the productivity gap is a proactive resilience strategy because higher productivity expands the resources available to households, firms, and governments for preparation, protection, adaptation, and recovery. Scenario analysis to 2100 suggests that pathways which successfully convert technology adoption into sustained productivity gains could substantially narrow global productivity disparities, improve coping capacity, and reduce vulnerability across multiple systems. The central conclusion is that technology itself is not scarce; the conditions that enable its effective use are. Strengthening those conditions represents one of the most practical routes through which technology diffusion can enhance global economic convergence and build Polycrisis Resilience."
+  ],
+  "coreProposition": "A worker in a low-income country produces about one-twentieth of what a worker in a rich country produces. Technology that already exists could close part of that gap, but only where the conditions for using it are in place.",
+  "keyFindings": [
+    {
+      "title": "The gap is mainly a productivity gap.",
+      "text": "Differences in output per worker explain 86% of the differences in income per person between countries. Output per worker in developing economies rose from 14% of the high-income level in 1991 to 27% in 2024, but without China and India it stayed at 24%."
+    },
+    {
+      "title": "Most of the gap is not about machines or buildings.",
+      "text": "Of the shortfall in developing economies, 71% sits in total factor productivity (mostly technology and how well it is used), 22% in skills and only 7% in capital per worker."
+    },
+    {
+      "title": "Basic technologies spread quickly. Productive ones lag.",
+      "text": "In lower-middle-income countries mobile subscriptions stand at 77% of the high-income level and internet use at 60%, but fixed broadband is at 6% and electricity use per person at 10%. Among firms in low-income countries 57% use e-mail with customers and 26% have a website, against 94% and 68% in high-income countries."
+    },
+    {
+      "title": "New technologies spread faster than old ones.",
+      "text": "It took the United States 43 years for the telephone to go from 10% to 50% of households, 17 for electricity and 9 for the internet. Mobile phones let low-income economies skip landlines almost entirely."
+    },
+    {
+      "title": "Adoption is linked to productivity growth, but the link is modest and conditional.",
+      "text": "Across 153 economies, an extra percentage point a year of internet adoption goes with 0.37 points a year of extra productivity growth in developing economies, and with nothing measurable in high-income ones. Getting people online is necessary groundwork. It is not enough."
+    },
+    {
+      "title": "Productivity buys resilience.",
+      "text": "Output per worker explains 70% of the variation in countries’ lack of coping capacity but only 3% of natural-hazard exposure. Tax revenue per worker is $676 in low-income countries and $18,391 in high-income ones, which is why the productivity gap is also a gap in the ability to protect people."
+    },
+    {
+      "title": "Three pathways to 2100 lead to very different worlds.",
+      "text": "If adoption does not turn into catch-up, developing economies fall from 27% to 20% of high-income output per worker by 2100; at their 2000–19 pace they reach 39%; with the conditions that make adoption pay, at the best-performing tenth’s pace, 54%. Cumulative child deaths in 2025–2100 are 285, 187 and 150 million. These are conditional illustrations, not forecasts."
+    }
+  ],
+  "contents": [
+    {
+      "number": "",
+      "title": "Executive Summary",
+      "description": "Technology is not scarce; the conditions for using it are",
+      "page": 4
+    },
+    {
+      "number": "1",
+      "title": "Why the Gap Is a Resilience Issue",
+      "description": "",
+      "page": 6
+    },
+    {
+      "number": "2",
+      "title": "How Large Is the Global Productivity Gap?",
+      "description": "",
+      "page": 8
+    },
+    {
+      "number": "3",
+      "title": "Where the Gap Comes From",
+      "description": "",
+      "page": 12
+    },
+    {
+      "number": "4",
+      "title": "Adoption as a Catch-Up Mechanism",
+      "description": "",
+      "page": 15
+    },
+    {
+      "number": "5",
+      "title": "The Record of Diffusion",
+      "description": "",
+      "page": 18
+    },
+    {
+      "number": "6",
+      "title": "The Ladder from Access to Use",
+      "description": "",
+      "page": 21
+    },
+    {
+      "number": "7",
+      "title": "Does Adoption Raise Productivity?",
+      "description": "",
+      "page": 24
+    },
+    {
+      "number": "8",
+      "title": "Five Technology Families",
+      "description": "",
+      "page": 27
+    },
+    {
+      "number": "9",
+      "title": "From Productivity to Resilience",
+      "description": "",
+      "page": 29
+    },
+    {
+      "number": "10",
+      "title": "Barriers and New Risks",
+      "description": "",
+      "page": 32
+    },
+    {
+      "number": "11",
+      "title": "Three Pathways to 2100",
+      "description": "",
+      "page": 34
+    },
+    {
+      "number": "12",
+      "title": "A Strategy for Closing the Gap",
+      "description": "",
+      "page": 37
+    },
+    {
+      "number": "13",
+      "title": "Conclusion: Signs of Success",
+      "description": "",
+      "page": 39
+    },
+    {
+      "number": "",
+      "title": "Methods and Data",
+      "description": "",
+      "page": 41
+    },
+    {
+      "number": "",
+      "title": "References",
+      "description": "",
+      "page": 43
+    }
+  ],
+  "references": [
+    {
+      "text": "Abramovitz, M. (1986). Catching up, forging ahead, and falling behind. Journal of Economic History, 46(2), 385–406.",
+      "url": "https://doi.org/10.1017/S0022050700046209",
+      "doi": "10.1017/S0022050700046209"
+    },
+    {
+      "text": "Acemoglu, D. and Zilibotti, F. (2001). Productivity differences. Quarterly Journal of Economics, 116(2), 563–606.",
+      "url": "https://doi.org/10.1162/00335530151144104",
+      "doi": "10.1162/00335530151144104"
+    },
+    {
+      "text": "Aker, J. C. and Mbiti, I. M. (2010). Mobile phones and economic development in Africa. Journal of Economic Perspectives, 24(3), 207–232.",
+      "url": "https://doi.org/10.1257/jep.24.3.207",
+      "doi": "10.1257/jep.24.3.207"
+    },
+    {
+      "text": "Baumol, W. J. (1986). Productivity growth, convergence, and welfare: what the long-run data show. American Economic Review, 76(5), 1072–1085.",
+      "url": "https://www.jstor.org/stable/1816469"
+    },
+    {
+      "text": "Bloom, N., Eifert, B., Mahajan, A., McKenzie, D. and Roberts, J. (2013). Does management matter? Evidence from India. Quarterly Journal of Economics, 128(1), 1–51.",
+      "url": "https://doi.org/10.1093/qje/qjs044",
+      "doi": "10.1093/qje/qjs044"
+    },
+    {
+      "text": "Brynjolfsson, E., Rock, D. and Syverson, C. (2021). The productivity J-curve: how intangibles complement general purpose technologies. American Economic Journal: Macroeconomics, 13(1), 333–372.",
+      "url": "https://doi.org/10.1257/mac.20180386",
+      "doi": "10.1257/mac.20180386"
+    },
+    {
+      "text": "Caselli, F. (2005). Accounting for cross-country income differences. In P. Aghion and S. Durlauf (eds.), Handbook of Economic Growth, vol. 1A, 679–741. Amsterdam: Elsevier.",
+      "url": "https://doi.org/10.1016/S1574-0684(05)01009-9",
+      "doi": "10.1016/S1574-0684(05)01009-9"
+    },
+    {
+      "text": "CCRIF SPC (2025). Caribbean Catastrophe Risk Insurance Facility: parametric insurance for Caribbean and Central American governments. Grand Cayman: CCRIF SPC.",
+      "url": "https://www.ccrif.org/"
+    },
+    {
+      "text": "Cerra, V. and Saxena, S. C. (2008). Growth dynamics: the myth of economic recovery. American Economic Review, 98(1), 439–457.",
+      "url": "https://doi.org/10.1257/aer.98.1.439",
+      "doi": "10.1257/aer.98.1.439"
+    },
+    {
+      "text": "Cirera, X. and Maloney, W. F. (2017). The Innovation Paradox: Developing-Country Capabilities and the Unrealized Promise of Technological Catch-Up. Washington, DC: World Bank.",
+      "url": "https://doi.org/10.1596/978-1-4648-1160-9",
+      "doi": "10.1596/978-1-4648-1160-9"
+    },
+    {
+      "text": "Clarke, D. J. and Dercon, S. (2016). Dull Disasters? How Planning Ahead Will Make a Difference. Oxford: Oxford University Press.",
+      "url": "https://doi.org/10.1093/acprof:oso/9780198785576.001.0001",
+      "doi": "10.1093/acprof:oso/9780198785576.001.0001"
+    },
+    {
+      "text": "Comin, D. and Hobijn, B. (2004). Cross-country technology adoption: making the theories face the facts. Journal of Monetary Economics, 51(1), 39–83. US household series via Our World in Data.",
+      "url": "https://ourworldindata.org/technology-adoption"
+    },
+    {
+      "text": "Comin, D. and Hobijn, B. (2010). An exploration of technology diffusion. American Economic Review, 100(5), 2031–2059.",
+      "url": "https://doi.org/10.1257/aer.100.5.2031",
+      "doi": "10.1257/aer.100.5.2031"
+    },
+    {
+      "text": "Comin, D. and Mestieri, M. (2018). If technology has arrived everywhere, why has income diverged? American Economic Journal: Macroeconomics, 10(3), 137–178.",
+      "url": "https://doi.org/10.1257/mac.20150175",
+      "doi": "10.1257/mac.20150175"
+    },
+    {
+      "text": "Dinkelman, T. (2011). The effects of rural electrification on employment: new evidence from South Africa. American Economic Review, 101(7), 3078–3108.",
+      "url": "https://doi.org/10.1257/aer.101.7.3078",
+      "doi": "10.1257/aer.101.7.3078"
+    },
+    {
+      "text": "Duflo, E., Kremer, M. and Robinson, J. (2011). Nudging farmers to use fertilizer: theory and experimental evidence from Kenya. American Economic Review, 101(6), 2350–2390.",
+      "url": "https://doi.org/10.1257/aer.101.6.2350",
+      "doi": "10.1257/aer.101.6.2350"
+    },
+    {
+      "text": "Ember (2025). The first evidence of a take-off in solar in Africa. London: Ember, August.",
+      "url": "https://ember-energy.org/latest-insights/the-first-evidence-of-a-take-off-in-solar-in-africa/"
+    },
+    {
+      "text": "European Commission Joint Research Centre and Inter-Agency Standing Committee (2026). INFORM Risk Index, Mid 2026. Ispra: JRC.",
+      "url": "https://drmkc.jrc.ec.europa.eu/inform-index/INFORM-Risk/Results-and-data"
+    },
+    {
+      "text": "Feenstra, R. C., Inklaar, R. and Timmer, M. P. (2015). The next generation of the Penn World Table. American Economic Review, 105(10), 3150–3182.",
+      "url": "https://doi.org/10.1257/aer.20130954",
+      "doi": "10.1257/aer.20130954"
+    },
+    {
+      "text": "Gerschenkron, A. (1962). Economic Backwardness in Historical Perspective. Cambridge, MA: Harvard University Press."
+    },
+    {
+      "text": "Gollin, D., Lagakos, D. and Waugh, M. E. (2014). The agricultural productivity gap. Quarterly Journal of Economics, 129(2), 939–993.",
+      "url": "https://doi.org/10.1093/qje/qju010",
+      "doi": "10.1093/qje/qju010"
+    },
+    {
+      "text": "Groningen Growth and Development Centre (2025). Penn World Table version 11.0. University of Groningen, Dataverse NL. https://doi.org/10.34894/FABVLR",
+      "url": "https://doi.org/10.34894/FABVLR",
+      "doi": "10.34894/FABVLR"
+    },
+    {
+      "text": "H Heuristics (2026). Research Reports: the H Heuristics research report series, including the Polycrisis Resilience series.",
+      "url": "https://researchreports.hheuristics.com"
+    },
+    {
+      "text": "Hall, R. E. and Jones, C. I. (1999). Why do some countries produce so much more output per worker than others? Quarterly Journal of Economics, 114(1), 83–116.",
+      "url": "https://doi.org/10.1162/003355399555954",
+      "doi": "10.1162/003355399555954"
+    },
+    {
+      "text": "Hallegatte, S., Rentschler, J. and Rozenberg, J. (2019). Lifelines: The Resilient Infrastructure Opportunity. Washington, DC: World Bank.",
+      "url": "https://openknowledge.worldbank.org/handle/10986/31805"
+    },
+    {
+      "text": "Hjort, J. and Poulsen, J. (2019). The arrival of fast internet and employment in Africa. American Economic Review, 109(3), 1032–1079.",
+      "url": "https://doi.org/10.1257/aer.20161385",
+      "doi": "10.1257/aer.20161385"
+    },
+    {
+      "text": "Hsiang, S. M. and Jina, A. S. (2014). The Causal Effect of Environmental Catastrophe on Long-Run Economic Growth: Evidence from 6,700 Cyclones. NBER Working Paper 20352.",
+      "url": "https://www.nber.org/papers/w20352"
+    },
+    {
+      "text": "Hsieh, C.-T. and Klenow, P. J. (2009). Misallocation and manufacturing TFP in China and India. Quarterly Journal of Economics, 124(4), 1403–1448.",
+      "url": "https://doi.org/10.1162/qjec.2009.124.4.1403",
+      "doi": "10.1162/qjec.2009.124.4.1403"
+    },
+    {
+      "text": "Hughes, H. (2026a). Polycrisis Resilience: A General Definition and the H Heuristics Framework. H Heuristics Flagship Report, November 2026.",
+      "url": "https://researchreports.hheuristics.com"
+    },
+    {
+      "text": "Hughes, H. (2026f). Global Economic Convergence as a Polycrisis Resilience Strategy: How Narrowing Income, Productivity, Technology and Infrastructure Gaps Can Reduce Vulnerability to Interconnected Crises. H Heuristics Research Report, November 2026.",
+      "url": "https://researchreports.hheuristics.com"
+    },
+    {
+      "text": "International Renewable Energy Agency (2025). Renewable Power Generation Costs in 2024. Abu Dhabi: IRENA, July.",
+      "url": "https://www.irena.org/Publications/2025/Jun/Renewable-Power-Generation-Costs-in-2024"
+    },
+    {
+      "text": "International Telecommunication Union (2025). Measuring Digital Development: Facts and Figures 2025. Geneva: ITU.",
+      "url": "https://www.itu.int/itu-d/reports/statistics/facts-figures-2025/"
+    },
+    {
+      "text": "IPCC (2023). Climate Change 2023: Synthesis Report. Contribution of Working Groups I, II and III to the Sixth Assessment Report. Geneva: Intergovernmental Panel on Climate Change.",
+      "url": "https://www.ipcc.ch/report/ar6/syr/"
+    },
+    {
+      "text": "Jack, W. and Suri, T. (2014). Risk sharing and transactions costs: evidence from Kenya's mobile money revolution. American Economic Review, 104(1), 183–223.",
+      "url": "https://doi.org/10.1257/aer.104.1.183",
+      "doi": "10.1257/aer.104.1.183"
+    },
+    {
+      "text": "Jensen, R. (2007). The digital provide: information (technology), market performance, and welfare in the South Indian fisheries sector. Quarterly Journal of Economics, 122(3), 879–924.",
+      "url": "https://doi.org/10.1162/qjec.122.3.879",
+      "doi": "10.1162/qjec.122.3.879"
+    },
+    {
+      "text": "Keller, W. (2004). International technology diffusion. Journal of Economic Literature, 42(3), 752–782.",
+      "url": "https://doi.org/10.1257/0022051042177685",
+      "doi": "10.1257/0022051042177685"
+    },
+    {
+      "text": "Kremer, M. (1993). The O-ring theory of economic development. Quarterly Journal of Economics, 108(3), 551–575.",
+      "url": "https://doi.org/10.2307/2118400",
+      "doi": "10.2307/2118400"
+    },
+    {
+      "text": "Kremer, M., Willis, J. and You, Y. (2022). Converging to convergence. NBER Macroeconomics Annual, 36, 337–412.",
+      "url": "https://doi.org/10.1086/718672",
+      "doi": "10.1086/718672"
+    },
+    {
+      "text": "Lawrence, M., Homer-Dixon, T., Janzwood, S., Rockström, J., Renn, O. and Donges, J. F. (2024). Global polycrisis: the causal mechanisms of crisis entanglement. Global Sustainability, 7, e6.",
+      "url": "https://doi.org/10.1017/sus.2024.1",
+      "doi": "10.1017/sus.2024.1"
+    },
+    {
+      "text": "Lawrence, M., Janzwood, S. and Homer-Dixon, T. (2022). What Is a Global Polycrisis? And How Is It Different from a Systemic Risk? Technical Paper 2022-4. Victoria, BC: Cascade Institute.",
+      "url": "https://cascadeinstitute.org/technical-paper/what-is-a-global-polycrisis/"
+    },
+    {
+      "text": "Lee, K., Miguel, E. and Wolfram, C. (2020). Experimental evidence on the economics of rural electrification. Journal of Political Economy, 128(4), 1523–1565.",
+      "url": "https://doi.org/10.1086/705417",
+      "doi": "10.1086/705417"
+    },
+    {
+      "text": "Microsoft (2026). The continued state of global AI diffusion in 2026. Microsoft On the Issues, 21 September.",
+      "url": "https://blogs.microsoft.com/on-the-issues/2026/09/21/the-continued-state-of-global-ai-diffusion-in-2026/"
+    },
+    {
+      "text": "Parente, S. L. and Prescott, E. C. (1994). Barriers to technology adoption and development. Journal of Political Economy, 102(2), 298–321.",
+      "url": "https://doi.org/10.1086/261933",
+      "doi": "10.1086/261933"
+    },
+    {
+      "text": "Patel, D., Sandefur, J. and Subramanian, A. (2021). The new era of unconditional convergence. Journal of Development Economics, 152, 102687.",
+      "url": "https://doi.org/10.1016/j.jdeveco.2021.102687",
+      "doi": "10.1016/j.jdeveco.2021.102687"
+    },
+    {
+      "text": "Rodrik, D. (2016). Premature deindustrialization. Journal of Economic Growth, 21, 1–33.",
+      "url": "https://doi.org/10.1007/s10887-015-9122-3",
+      "doi": "10.1007/s10887-015-9122-3"
+    },
+    {
+      "text": "Rodrik, D. (2018). New Technologies, Global Value Chains, and Developing Economies. NBER Working Paper 25164. Cambridge, MA: National Bureau of Economic Research.",
+      "url": "https://doi.org/10.3386/w25164",
+      "doi": "10.3386/w25164"
+    },
+    {
+      "text": "Suri, T. (2011). Selection and comparative advantage in technology adoption. Econometrica, 79(1), 159–209.",
+      "url": "https://doi.org/10.3982/ECTA7749",
+      "doi": "10.3982/ECTA7749"
+    },
+    {
+      "text": "Suri, T. and Jack, W. (2016). The long-run poverty and gender impacts of mobile money. Science, 354(6317), 1288–1292.",
+      "url": "https://doi.org/10.1126/science.aah5309",
+      "doi": "10.1126/science.aah5309"
+    },
+    {
+      "text": "UN Trade and Development (2026). A World of Debt 2026: Rising Debt Costs and Stalling Development. Geneva: UNCTAD.",
+      "url": "https://unctad.org/publication/world-of-debt?lang=en"
+    },
+    {
+      "text": "UNDRR and WMO (2023). Global Status of Multi-Hazard Early Warning Systems 2023. Geneva: UNDRR and WMO.",
+      "url": "https://www.undrr.org/reports/global-status-MHEWS-2023"
+    },
+    {
+      "text": "United Nations Office for Disaster Risk Reduction (2017). Terminology on Disaster Risk Reduction: Resilience. Geneva: UNDRR (definition adopted by the UN General Assembly, A/RES/71/276).",
+      "url": "https://www.undrr.org/terminology/resilience"
+    },
+    {
+      "text": "United Nations, Department of Economic and Social Affairs, Population Division (2024). World Population Prospects 2024. New York: United Nations.",
+      "url": "https://population.un.org/wpp/"
+    },
+    {
+      "text": "World Bank (2016). World Development Report 2016: Digital Dividends. Washington, DC: World Bank.",
+      "url": "https://doi.org/10.1596/978-1-4648-0671-1",
+      "doi": "10.1596/978-1-4648-0671-1"
+    },
+    {
+      "text": "World Bank (2024). World Development Report 2024: The Middle-Income Trap (press release: middle-income trap hinders progress in 108 developing countries). Washington, DC: World Bank, 1 August.",
+      "url": "https://www.worldbank.org/en/news/press-release/2024/07/22/middle-income-trap-hinders-progress-in-108-developing-countries"
+    },
+    {
+      "text": "World Bank (2025). The Global Findex Database 2025 (press release: mobile-phone technology powers saving surge in developing economies). Washington, DC: World Bank, 16 July.",
+      "url": "https://www.worldbank.org/en/news/press-release/2025/07/16/mobile-phone-technology-powers-saving-surge-in-developing-economies"
+    },
+    {
+      "text": "World Bank (2025a). Worldwide Governance Indicators, 2025 update. Washington, DC: World Bank.",
+      "url": "https://www.worldbank.org/en/publication/worldwide-governance-indicators"
+    },
+    {
+      "text": "World Bank (2025b). World Bank Country and Lending Groups. Washington, DC: World Bank.",
+      "url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups"
+    },
+    {
+      "text": "World Bank (2026). Enterprise Surveys: indicators on technology, innovation and infrastructure (latest survey per economy, 2008 onward). Washington, DC: World Bank.",
+      "url": "https://www.enterprisesurveys.org"
+    },
+    {
+      "text": "World Bank (2026). World Development Indicators. Washington, DC: World Bank. Retrieved through the World Bank API, November 2026.",
+      "url": "https://databank.worldbank.org/source/world-development-indicators"
+    },
+    {
+      "text": "World Economic Forum (2026). Global Risks Report 2026, 21st edition. Geneva: WEF, 14 January.",
+      "url": "https://www.weforum.org/press/2026/01/global-risks-report-2026-geopolitical-and-economic-risks-rise-in-new-age-of-competition/"
+    },
+    {
+      "text": "World Meteorological Organization (2025). Early Warnings for All initiative. Geneva: WMO.",
+      "url": "https://wmo.int/activities/early-warnings-all"
+    }
+  ]
+}
