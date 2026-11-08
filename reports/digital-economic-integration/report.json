@@ -1,0 +1,292 @@
+{
+  "seriesNumber": 15,
+  "title": "Digital Economic Integration and Global Convergence",
+  "subtitle": "Expanding cross-border economic participation, digital public infrastructure, and market access as structural foundations for 21st-century planetary resilience",
+  "type": "Research Monograph",
+  "datePublished": "2026-11-08",
+  "dateModified": "2026-11-08",
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 40,
+  "language": "en",
+  "description": "A century-scale framework (2000–2100) arguing that digital public infrastructure, cross-border markets and remote labor can drive economic convergence and resilience, in twelve chapters from DPI to grand strategy.",
+  "contribution": "A twelve-chapter monograph arguing that digital integration drives convergence and resilience: open digital public infrastructure, virtual labor, market access, connectivity, digital finance, health and disaster response, with a lexicon of its own terms.",
+  "themes": [
+    "Digital public infrastructure",
+    "Digital labor",
+    "Market access",
+    "Connectivity",
+    "Digital finance",
+    "Digital health",
+    "Disaster response",
+    "Cybersecurity"
+  ],
+  "keywords": [
+    "digital economic integration",
+    "global convergence",
+    "polycrisis resilience",
+    "digital public infrastructure",
+    "virtual labor migration",
+    "cross-border e-commerce",
+    "remittances",
+    "digital finance",
+    "parametric disaster aid",
+    "digital sovereignty",
+    "century-scale framework",
+    "H Heuristics Polycrisis Resilience Framework"
+  ],
+  "abstract": [
+    "Global polycrisis resilience across the twenty-first century cannot be achieved through traditional physical aid or centralized post-industrial models alone. Housing eighty-five percent of humanity, developing economies can achieve rapid structural convergence and long-term survivability by deploying open Digital Public Infrastructure (DPI), unlocking cross-border remote digital labor, democratizing global market access for MSMEs, and establishing polycentric edge resilience capable of withstanding compound planetary disruptions through 2100.",
+    "The monograph is organised in twelve chapters covering digital integration as a resilience strategy, DPI, cross-border digital labor, market access, universal connectivity, digital financial rails, logistics, knowledge convergence, digital health, disaster response, cybersecurity and digital sovereignty, and closes with a century-scale grand strategy across four planning periods from 2000 to 2100. It includes a lexicon of the framework’s defined terms."
+  ],
+  "coreProposition": "Digital economic integration represents a vital structural pathway toward global economic convergence and polycrisis resilience: by expanding internet connectivity, digital public infrastructure, and cross-border digital markets, developing nations dismantle geographic isolation and construct the societal shock absorbers required for 21st-century civilizational defense.",
+  "keyFindings": [
+    {
+      "title": "Digital integration as a convergence strategy.",
+      "text": "The monograph argues that connectivity, digital public infrastructure and cross-border digital markets let developing economies dismantle geographic isolation and converge on richer ones, and proposes an annual growth dividend from doing so."
+    },
+    {
+      "title": "Open digital public infrastructure.",
+      "text": "It proposes a triple-pillar architecture of verifiable digital identity, instant interoperable payment switches and consent-based data exchange, run as public goods, and claims it removes most transaction friction."
+    },
+    {
+      "title": "Virtual labor and micro-multinationals.",
+      "text": "It argues that remote work decouples earning power from physical location, and that small producers selling across borders through open platforms can capture a much larger share of final retail value."
+    },
+    {
+      "title": "Connectivity, finance and logistics.",
+      "text": "It argues for satellite, fiber and community-mesh connectivity priced affordably, remittances at fees below one percent, and digital traceability that returns more of commodity value to producing countries."
+    },
+    {
+      "title": "Health, learning and disaster response.",
+      "text": "It proposes tele-diagnostics and drone care, open learning platforms with AI tutoring, and satellite-triggered cash disbursed within 48 hours of a disaster."
+    },
+    {
+      "title": "Edge resilience and a century in four periods.",
+      "text": "It argues for local edge computing and offline payments to survive network outages, and sets out a strategy through foundations (2000–2025), a critical window (2025–2050), peak shock (2050–2075) and homeostasis (2075–2100)."
+    }
+  ],
+  "contents": [
+    {
+      "number": "1",
+      "title": "The Convergence Frontier: Digital Integration as a Proactive Resilience Strategy",
+      "description": "",
+      "page": 3
+    },
+    {
+      "number": "2",
+      "title": "Digital Public Infrastructure (DPI): The Open Architecture of Modern Economies",
+      "description": "",
+      "page": 6
+    },
+    {
+      "number": "3",
+      "title": "Cross-Border Digital Labor and Remote Human Capital Diffusion",
+      "description": "",
+      "page": 9
+    },
+    {
+      "number": "4",
+      "title": "Democratizing Global Market Access: Cross-Border E-Commerce and MSME Integration",
+      "description": "",
+      "page": 12
+    },
+    {
+      "number": "5",
+      "title": "Universal Connectivity as Basic Survival Infrastructure: Satellite, Fiber, and Open Mesh",
+      "description": "",
+      "page": 15
+    },
+    {
+      "number": "6",
+      "title": "Decentralized Digital Financial Rails: Eradicating Financial Exclusion and Remittance Frictions",
+      "description": "",
+      "page": 18
+    },
+    {
+      "number": "7",
+      "title": "Algorithmic Logistics, Supply Chain Transparency, and Southern Commodity Sovereignty",
+      "description": "",
+      "page": 21
+    },
+    {
+      "number": "8",
+      "title": "Global Knowledge Convergence: Open Educational Platforms and Decentralized Skill Building",
+      "description": "",
+      "page": 24
+    },
+    {
+      "number": "9",
+      "title": "Digital Health Infrastructure: Tele-Diagnostics, Epidemiological Surveillance, and Remote Care",
+      "description": "",
+      "page": 27
+    },
+    {
+      "number": "10",
+      "title": "Digital Disaster Response: Real-Time Early Warning and Automated Algorithmic Aid Delivery",
+      "description": "",
+      "page": 30
+    },
+    {
+      "number": "11",
+      "title": "Cybersecurity, Digital Sovereignty, and Resilience Against Planetary Network Outages",
+      "description": "",
+      "page": 33
+    },
+    {
+      "number": "12",
+      "title": "A Century-Scale Grand Strategy: Digital Integration as the Operating System of Global Homeostasis",
+      "description": "",
+      "page": 36
+    },
+    {
+      "number": "",
+      "title": "Lexicon of Defined Terms",
+      "description": "",
+      "page": 39
+    },
+    {
+      "number": "",
+      "title": "Bibliography",
+      "description": "",
+      "page": 40
+    }
+  ],
+  "glossary": [
+    {
+      "term": "The Digital Convergence Dividend",
+      "definition": "The structural acceleration in real per capita income growth, export diversification, and household shock absorption that occurs when an emerging economy establishes universal digital public infrastructure and frictionless cross-border market connectivity."
+    },
+    {
+      "term": "The Triple-Pillar DPI Architecture",
+      "definition": "The integrated foundation of modern digital governance comprising verifiable digital identity (ID), instant interoperable retail payment switches, and secure, consent-based data exchange protocols that operate as public goods rather than corporate monopolies."
+    },
+    {
+      "term": "Virtual Labor Migration",
+      "definition": "The phenomenon wherein skilled workers in developing nations participate directly in high-value global labor markets via digital connectivity, earning global wage premiums while living, spending, and investing domestically."
+    },
+    {
+      "term": "Micro-Multinational Enterprises",
+      "definition": "Small-scale domestic businesses that leverage open digital platforms, algorithmic marketing, and global courier rails to market, transact, and deliver physical and digital products across international borders from their day of inception."
+    },
+    {
+      "term": "Universal Connectivity Dividend",
+      "definition": "The compounding socioeconomic and resilience multiplier realized when every citizen, regardless of geographic remoteness, attains reliable, high-speed broadband connectivity priced at less than two percent of monthly household income."
+    },
+    {
+      "term": "Frictionless Remittance Rails",
+      "definition": "Interoperable, open digital payment networks that enable cross-border peer-to-peer money transfers to settle in seconds at a total transaction fee below one percent, dismantling the legacy money transfer operator cartel."
+    },
+    {
+      "term": "Commodity Traceability Sovereignty",
+      "definition": "The operational capacity of resource-producing developing nations to digitally verify, track, and clear export commodities from origin to end-consumer, eliminating middlemen and capturing maximum domestic value."
+    },
+    {
+      "term": "Cognitive Leapfrogging",
+      "definition": "The rapid societal acquisition of frontier technical, scientific, and engineering capabilities by developing populations via open-access digital platforms and personalized AI tutoring, bypassing traditional centuries-long institutional development cycles."
+    },
+    {
+      "term": "The Tele-Clinical Shield",
+      "definition": "A decentralized primary healthcare architecture combining smartphone-based diagnostic sensors, open-source AI clinical triage algorithms, and autonomous medical drone delivery to provide universal healthcare access across rural and underserved populations."
+    },
+    {
+      "term": "The Parametric Digital Shield",
+      "definition": "An automated emergency response architecture that utilizes verified satellite remote sensing and IoT trigger data to instantly execute direct cash disbursements into citizen digital wallets within forty-eight hours of an extreme disaster event."
+    },
+    {
+      "term": "The Sovereign Edge Continuity Protocol",
+      "definition": "A decentralized computing and data governance framework that enables critical public services, retail payment clearing, and utility grids to operate autonomously at the local edge during total external internet or power grid disconnection."
+    },
+    {
+      "term": "Planetary Digital Homeostasis",
+      "definition": "The century-scale equilibrium achieved when universal, open digital economic integration equips all societies with the adaptive liquidity, real-time coordination, and cognitive agility required to continuously withstand escalating polycrisis shocks."
+    },
+    {
+      "term": "Frugal Digital Architecture",
+      "definition": "The engineering discipline of designing low-bandwidth, offline-capable, and repairable digital hardware and software systems capable of operating reliably in high-heat, dusty, and electrically unstable environments at minimal capital cost."
+    }
+  ],
+  "references": [
+    {
+      "text": "Hughes, H. (2026). Digital Economic Integration and Global Convergence: Expanding Cross-Border Economic Participation, Digital Public Infrastructure, and Market Access as Structural Foundations for 21st-Century Planetary Resilience (2000–2100). H Heuristics Research Monograph Series, HH-2026-PR-DEIGC."
+    },
+    {
+      "text": "Hughes, H. (2026). The Role of Emerging Markets in Global Resilience: Demographic Vitality, Industrial Decoupling, Resource Sovereignty, and the Geoeconomic Architecture of Civilizational Defense (2000–2100). H Heuristics Research Monograph Series, HH-2026-PR-EMGR."
+    },
+    {
+      "text": "Lawrence, M., Janzwood, S. and Homer-Dixon, T. (2024). What is a global polycrisis? And how is it different from a systemic risk? Global Sustainability, Cambridge University Press, 7, e5. 10.1017/sus.2024.2"
+    },
+    {
+      "text": "World Bank (2023). Digital Public Infrastructure for Economic Empowerment & Resilience. World Bank Group G20 Compendium, 1–142."
+    },
+    {
+      "text": "Bank for International Settlements (BIS) (2024). Project Nexus: Enabling Instant Cross-Border Payments Across Nations. BIS Innovation Hub, 1–88."
+    },
+    {
+      "text": "International Telecommunication Union (ITU) (2024). Facts and Figures: Global Connectivity & Mobile Broadband Affordability. ITU Geneva, 1–92."
+    },
+    {
+      "text": "Rodrik, D. (2018). New Technologies, Global Value Chains, and Developing Economies. Pathways for Prosperity Commission Background Paper, Oxford University Press, 1–48."
+    },
+    {
+      "text": "Suri, T. and Jack, W. (2016). The Long-Run Poverty and Gender Impacts of Mobile Money. Science, 354(6317), 1288–1292.",
+      "url": "https://doi.org/10.1126/science.aah5309",
+      "doi": "10.1126/science.aah5309"
+    },
+    {
+      "text": "Acemoglu, D. and Restrepo, P. (2020). Robots and Jobs: Evidence from US Labor Markets. Journal of Political Economy, 128(6), 2188–2244.",
+      "url": "https://doi.org/10.1086/705716",
+      "doi": "10.1086/705716"
+    },
+    {
+      "text": "Hallegatte, S., Vogt-Schilb, A., Bangalore, M. and Rozenberg, J. (2017). Unbreakable: Building the Resilience of the Poor in Disasters. World Bank Series, 1–201. 10.1596/978-1-4648-1003-9"
+    },
+    {
+      "text": "Ostrom, E. (2010). Polycentric systems for coping with collective action and global environmental change. Global Environmental Change, 20(4), 550–557.",
+      "url": "https://doi.org/10.1016/j.gloenvcha.2010.07.004",
+      "doi": "10.1016/j.gloenvcha.2010.07.004"
+    },
+    {
+      "text": "UNCTAD (2024). Digital Economy Report: Shaping the Digital Economy for Developing Countries. United Nations Publications, 1–214."
+    },
+    {
+      "text": "International Labour Organization (ILO) (2023). The Role of Digital Labour Platforms in Transforming the World of Work. ILO Geneva, 1–280."
+    },
+    {
+      "text": "World Health Organization (WHO) (2023). Global Strategy on Digital Health 2020–2025: Expanding Tele-Diagnostics and Point-of-Care Surveillance. WHO Geneva, 1–64."
+    },
+    {
+      "text": "Centre for Disaster Protection (2023). The State of Anticipatory Action & Parametric Risk Financing. CDP London, 1–112."
+    },
+    {
+      "text": "European Union Agency for Cybersecurity (ENISA) (2024). Threat Landscape: Critical Infrastructure & Subsea Fiber Cable Security. ENISA Athens, 1–96."
+    },
+    {
+      "text": "Sachs, J. D. (2015). The Age of Sustainable Development. Columbia University Press, 1–544. ISBN 978-0231173155."
+    },
+    {
+      "text": "Raworth, K. (2017). Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist. Chelsea Green Publishing, 1–384. ISBN 978-1603586740."
+    },
+    {
+      "text": "Tooze, A. (2021). Shutdown: How COVID Shook the World’s Economy. Viking / Penguin Random House, 1–368. ISBN 978-0593297551."
+    },
+    {
+      "text": "UNESCO (2024). Global Education Monitoring Report: Technology in Education — A Tool on Whose Terms? UNESCO Paris, 1–450."
+    },
+    {
+      "text": "Mazzucato, M. (2021). Mission Economy: A Moonshot Guide to Changing Capitalism. HarperCollins, 1–272. ISBN 978-0063046412."
+    },
+    {
+      "text": "Hughes, H. (2026). Economic Development as Long-Term Vulnerability Reduction: Productive Capacity, Structural Transformation, and Civilizational Shock Absorption (2000–2100). H Heuristics Research Monograph Series, HH-2026-PR-EDVR."
+    }
+  ]
+}
