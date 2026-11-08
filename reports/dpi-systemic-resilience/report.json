@@ -1,0 +1,288 @@
+{
+  "seriesNumber": 20,
+  "title": "Digital Public Infrastructure and Systemic Resilience",
+  "subtitle": "How foundational digital systems can reduce vulnerability, strengthen institutional capacity, and accelerate global economic convergence",
+  "type": "Research Monograph",
+  "datePublished": "2026-11-08",
+  "dateModified": "2026-11-08",
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 40,
+  "language": "en",
+  "description": "A century-scale framework (2000–2100) arguing that digital identity, instant payments and data exchange are a resilience multiplier for public systems, in twelve chapters from digital ID and safety nets to procurement, cross-border links and civil-liberty safeguards.",
+  "contribution": "A twelve-chapter monograph arguing that digital public infrastructure (identity, payments and data exchange) multiplies resilience: shock-responsive cash transfers, health data, agricultural markets, procurement, cross-border links and civil-liberty safeguards, with a lexicon of its own terms.",
+  "themes": [
+    "Digital identity",
+    "Instant payments",
+    "Social safety nets",
+    "Data consent",
+    "Health data",
+    "Agricultural markets",
+    "Public procurement",
+    "Cross-border links",
+    "Civil liberties"
+  ],
+  "keywords": [
+    "digital public infrastructure",
+    "systemic resilience",
+    "digital identity",
+    "instant payments",
+    "direct benefit transfers",
+    "data empowerment",
+    "open contracting",
+    "cross-border payments",
+    "vendor neutrality",
+    "civil liberties",
+    "polycrisis resilience",
+    "century-scale framework",
+    "H Heuristics Polycrisis Resilience Framework"
+  ],
+  "abstract": [
+    "Digital Public Infrastructure is presented as the foundational enabling layer of 21st-century civilization. By reducing transaction friction, ending document poverty, and establishing open, interoperable rails for identity, payments, and data, sovereign DPI is argued to transform state capacity from a sluggish, brittle bureaucracy into an agile, shock-responsive operating system capable of protecting human survivability through 2100.",
+    "The monograph is organised in twelve chapters covering foundational DPI, digital identity, instant payment systems, shock-responsive safety nets, data empowerment, health data networks, agricultural markets, public procurement, cross-border links, technical sovereignty and institutional governance and civil liberties, and closes with a century-scale grand strategy across four planning periods from 2000 to 2100. It includes a lexicon of the framework’s defined terms."
+  ],
+  "coreProposition": "Digital Public Infrastructure should be treated as a foundational component of Polycrisis Resilience: an enabling layer through which technological diffusion, institutional strengthening, economic convergence, and human development can translate into reduced systemic vulnerability.",
+  "keyFindings": [
+    {
+      "title": "A minimalist triad.",
+      "text": "The monograph argues that open digital identity, instant interoperable payments and consent-based data exchange, built as public goods, form the core of DPI and reduce the cost and friction of participating in the economy."
+    },
+    {
+      "title": "Identity and money.",
+      "text": "It argues that legal identity ends “document poverty” and that instant payment rails, such as those in India and Brazil, bring informal activity into formal finance."
+    },
+    {
+      "title": "Shock-responsive protection.",
+      "text": "It proposes direct benefit transfers triggered automatically by crisis indicators, with less leakage and faster delivery during climate and economic shocks."
+    },
+    {
+      "title": "Data, health, farms and procurement.",
+      "text": "It proposes user-controlled data consent, interoperable health records and vaccine registries, open agricultural networks with price discovery, and open contracting data to expose waste and corruption."
+    },
+    {
+      "title": "Sovereignty with safeguards.",
+      "text": "It argues for open-source, vendor-neutral systems and cross-border payment links, and insists on constitutional protections, independent audit and privacy-preserving design to prevent surveillance overreach."
+    },
+    {
+      "title": "A century in four periods.",
+      "text": "The strategy runs through foundational rails (2000–2025), a fragility window (2025–2050), peak shocks (2050–2075) and homeostasis (2075–2100)."
+    }
+  ],
+  "contents": [
+    {
+      "number": "1",
+      "title": "Foundational DPI as a Civilizational Resilience Layer",
+      "description": "",
+      "page": 3
+    },
+    {
+      "number": "2",
+      "title": "Foundational Digital Identity: Universal Legal and Economic Enfranchisement",
+      "description": "",
+      "page": 6
+    },
+    {
+      "number": "3",
+      "title": "Instant Fast Payment Systems: Democratizing Liquidity and Financial Velocity",
+      "description": "",
+      "page": 9
+    },
+    {
+      "number": "4",
+      "title": "Shock-Responsive Social Safety Nets: Direct Benefit Transfers and Disaster Relief",
+      "description": "",
+      "page": 12
+    },
+    {
+      "number": "5",
+      "title": "Data Empowerment and Protection Architectures: User-Centric Consent Rails",
+      "description": "",
+      "page": 15
+    },
+    {
+      "number": "6",
+      "title": "Sovereign Health Data Networks: Pandemic Shielding and Universal Healthcare Delivery",
+      "description": "",
+      "page": 18
+    },
+    {
+      "number": "7",
+      "title": "Agricultural Market Infrastructure: Eliminating Asymmetric Trade and Post-Harvest Losses",
+      "description": "",
+      "page": 21
+    },
+    {
+      "number": "8",
+      "title": "Interoperable Public Procurement: Eradicating Corruption and Municipal Waste",
+      "description": "",
+      "page": 24
+    },
+    {
+      "number": "9",
+      "title": "Cross-Border DPI and Regional Convergence: South-South Digital Corridors",
+      "description": "",
+      "page": 27
+    },
+    {
+      "number": "10",
+      "title": "Technical Sovereignty and Frugal Architecture: Open-Source, Modular, and Vendor-Neutral Rails",
+      "description": "",
+      "page": 30
+    },
+    {
+      "number": "11",
+      "title": "Institutional Governance, Cybersecurity and Civil Liberties: Preventing Surveillance Overreach",
+      "description": "",
+      "page": 33
+    },
+    {
+      "number": "12",
+      "title": "A Century-Scale Grand Strategy: DPI as the Operating System of Polycrisis Resilience",
+      "description": "",
+      "page": 36
+    },
+    {
+      "number": "",
+      "title": "Lexicon of Defined Terms",
+      "description": "",
+      "page": 39
+    },
+    {
+      "number": "",
+      "title": "Bibliography",
+      "description": "",
+      "page": 40
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Polycrisis Resilience",
+      "definition": "The proactive application of economic development, technological convergence, innovation diffusion, clean transition, climate adaptation, and institutional strengthening to reduce interconnected risks threatening human wellbeing and survivability."
+    },
+    {
+      "term": "Systemic Resilience Multiplier",
+      "definition": "The property of Digital Public Infrastructure whereby lowering transaction friction and improving institutional coordination multiplies the efficacy of all other societal resilience investments."
+    },
+    {
+      "term": "Digital Public Infrastructure (DPI)",
+      "definition": "Interoperable, open, and population-scale digital systems that enable individuals, businesses, and governments to access essential services, establish trusted identity, exchange data, and execute transactions safely."
+    },
+    {
+      "term": "The Minimalist Triad",
+      "definition": "The core architectural foundation of DPI comprising universal digital identification, low-cost instant payment rails, and user-consented data exchange, built as open digital public goods."
+    },
+    {
+      "term": "Document Poverty",
+      "definition": "The deprivation suffered by individuals who lack recognized legal identity documents, rendering them legally invisible and excluded from formal financial, healthcare, and civic systems."
+    },
+    {
+      "term": "Interoperable Fast Payment Rail",
+      "definition": "A population-scale digital settlement infrastructure that enables immediate, 24/7 clearing of retail financial transactions between any two bank accounts or digital wallets at negligible marginal cost."
+    },
+    {
+      "term": "Direct Benefit Transfer (DBT)",
+      "definition": "The programmatic, automated delivery of social protection subsidies and emergency cash grants directly into verified citizen digital accounts, triggered dynamically by crisis indicators without manual gatekeeping."
+    },
+    {
+      "term": "Data Empowerment and Protection Architecture (DEPA)",
+      "definition": "A techno-legal framework that enables individuals and small enterprises to access, control, and share their personal and financial data with authorized service providers using electronic, granular, and revocable consent."
+    },
+    {
+      "term": "Digital Health Highway",
+      "definition": "An open, interoperable data exchange network that links hospitals, community clinics, diagnostic laboratories, and pharmacies via federated patient identifiers and standardized health data protocols."
+    },
+    {
+      "term": "Open Agricultural Network (Agri-DPI)",
+      "definition": "A public, interoperable digital ecosystem combining farmer registries, soil health protocols, open commodity marketplaces, and digital warehouse receipts to eliminate predatory middlemen."
+    },
+    {
+      "term": "Open Contracting Public Infrastructure",
+      "definition": "A digital public procurement platform that publishes all stages of government contracting, from planning to tender, award, contract, and payment, as open, structured, and machine-readable data."
+    },
+    {
+      "term": "Cross-Border DPI Linkage",
+      "definition": "The direct, bilateral or multilateral interconnection of domestic fast payment systems and digital identity frameworks across national borders to enable real-time, low-cost cross-border clearing without correspondent banking cartels."
+    },
+    {
+      "term": "Constitutional Digital Public Infrastructure",
+      "definition": "The embedding of binding constitutional protections, separation of powers, decentralized storage architectures, and independent algorithmic ombudsmen into the foundational design of public digital systems."
+    }
+  ],
+  "references": [
+    {
+      "text": "Hughes, H. (2026). Polycrisis Resilience: Addressing the Survivability Regime of the 21st Century (2000–2100). H Heuristics Monograph Series."
+    },
+    {
+      "text": "Hughes, H. (2026). Digital Economic Integration and Global Convergence: 2000–2100 Trajectories. H Heuristics Research Monograph Series."
+    },
+    {
+      "text": "World Bank (2025). Digital Progress and Trends Report: Digital Public Infrastructure as a Driver of Resilience. Washington, DC: World Bank Group."
+    },
+    {
+      "text": "United Nations Development Programme (UNDP) (2025). Digital Public Infrastructure: Accelerating the Sustainable Development Goals. New York: United Nations."
+    },
+    {
+      "text": "Bank for International Settlements (BIS) (2024). Project Nexus: Enabling Instant Cross-Border Payments Across Multiple Fast Payment Systems. Basel: BIS Innovation Hub."
+    },
+    {
+      "text": "Reserve Bank of India (RBI) (2025). Report on Currency and Finance: Revolutionizing Retail Payments via Open Infrastructure. Mumbai: RBI."
+    },
+    {
+      "text": "Central Bank of Brazil (2024). Pix: The Brazilian Instant Payment Ecosystem—Two Years of Economic Inclusion and Efficiency. Brasília: Banco Central do Brasil."
+    },
+    {
+      "text": "Modular Open Source Identity Platform (MOSIP) (2024). Architectural Principles of Sovereign Open Source Foundational Identity. Bangalore: IIITB."
+    },
+    {
+      "text": "Open Contracting Partnership (OCP) (2025). Open Contracting Data Standard: Impact on Fiscal Integrity and Public Service Delivery. Washington, DC: OCP."
+    },
+    {
+      "text": "World Health Organization (WHO) (2024). Global Strategy on Digital Health 2020–2025: Interoperability Standards and Patient Governance. Geneva: WHO."
+    },
+    {
+      "text": "International Telecommunication Union (ITU) (2025). Global Connectivity and Digital Public Goods Report. Geneva: United Nations."
+    },
+    {
+      "text": "African Export Import Bank (Afreximbank) (2024). Pan-African Payment and Settlement System (PAPSS): Annual Impact and De-Dollarization Report. Cairo: Afreximbank."
+    },
+    {
+      "text": "Access Now and Privacy International (2025). Surveillance Risks in Population-Scale Identity Systems: Safeguarding Human Rights in DPI. London and New York."
+    },
+    {
+      "text": "Supreme Court of India (2017). Justice K.S. Puttaswamy (Retd.) and Anr. v. Union of India and Ors., (2017) 10 SCC 1."
+    },
+    {
+      "text": "International Monetary Fund (IMF) (2024). Fintech and the Future of Financial Inclusion: The Transformative Role of Public Digital Rails. Washington, DC: IMF."
+    },
+    {
+      "text": "GiveDirectly and CEGA (2024). Direct Cash Transfers During Severe Climate Shocks: Evidence from High-Frequency Mobile Disbursals. UC Berkeley CEGA."
+    },
+    {
+      "text": "Food and Agriculture Organization (FAO) (2025). The State of Agricultural Commodity Markets: Digital Platforms and Smallholder Price Realization. Rome: United Nations."
+    },
+    {
+      "text": "Nordic Institute for Interoperability Solutions (NIIS) (2024). X-Road Architecture: Decentralized Data Exchange and State Continuity. Tallinn: NIIS."
+    },
+    {
+      "text": "Intergovernmental Panel on Climate Change (IPCC) (2023). Climate Change 2023: Synthesis Report. Geneva: IPCC."
+    },
+    {
+      "text": "Acemoglu, D. and Robinson, J. A. (2019). The Narrow Corridor: States, Societies, and the Fate of Liberty. New York: Penguin Press."
+    },
+    {
+      "text": "Rodrik, D. (2018). New Technologies, Global Value Chains, and the Future of Developing Economies. Pathways for Prosperity Commission."
+    },
+    {
+      "text": "Hughes, H. (2026). Technology Diffusion as a Polycrisis Resilience Strategy. H Heuristics Research Monograph Series."
+    }
+  ]
+}
