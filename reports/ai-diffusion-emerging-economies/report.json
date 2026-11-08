@@ -1,0 +1,292 @@
+{
+  "seriesNumber": 19,
+  "title": "Artificial Intelligence Diffusion in Emerging Economies",
+  "subtitle": "Expanding access to artificial intelligence to accelerate productivity, human development, technological convergence, and resilience across the Global South",
+  "type": "Research Monograph",
+  "datePublished": "2026-11-08",
+  "dateModified": "2026-11-08",
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 40,
+  "language": "en",
+  "description": "A century-scale framework (2000–2100) arguing that equitable AI diffusion can accelerate development convergence, in twelve chapters from agriculture, health and education to frugal models, language commons, governance and compute finance.",
+  "contribution": "A twelve-chapter monograph arguing that equitable AI diffusion can accelerate convergence: agriculture, health, tutoring, public administration, microgrids, small enterprises, frugal on-device models, local-language commons, labor governance and compute finance, with a lexicon of its own terms.",
+  "themes": [
+    "Agriculture",
+    "Health",
+    "Education",
+    "Public administration",
+    "Energy microgrids",
+    "Small enterprises",
+    "Frugal AI",
+    "Language commons",
+    "AI governance",
+    "Compute finance"
+  ],
+  "keywords": [
+    "artificial intelligence",
+    "AI diffusion",
+    "emerging economies",
+    "Global South",
+    "frugal AI",
+    "small language models",
+    "quantization",
+    "low-resource languages",
+    "digital public infrastructure",
+    "AI governance",
+    "compute sovereignty",
+    "polycrisis resilience",
+    "century-scale framework",
+    "H Heuristics Polycrisis Resilience Framework"
+  ],
+  "abstract": [
+    "Human survivability and economic convergence in the 21st century require high-throughput cognitive tools. While Northern hyperscalers concentrate proprietary models behind subscription paywalls, the true lever of civilizational resilience is presented as sovereign AI diffusion: deploying frugal, quantized open-weights models across rural clinics, smallholder farms, schools, and enterprise copilots to neutralize polycrisis shocks through 2100.",
+    "The monograph is organised in twelve chapters covering the global AI divergence, agriculture, primary healthcare, foundational learning, public administration, energy microgrids, enterprise productivity, frugal AI engineering, local-language knowledge commons, AI governance and labor, and institutional financing of compute, and closes with a century-scale grand strategy across four planning periods from 2000 to 2100. It includes a lexicon of the framework’s defined terms."
+  ],
+  "coreProposition": "Equitable AI diffusion can accelerate development convergence by expanding access to advanced productive capabilities, improving service delivery, strengthening domestic innovation, and increasing the adaptive capacity of emerging economies.",
+  "keyFindings": [
+    {
+      "title": "Concentration versus diffusion.",
+      "text": "The monograph argues that frontier AI is concentrated in a few firms behind paywalls, and that resilience depends on diffusing frugal, open-weights models that run locally on modest hardware."
+    },
+    {
+      "title": "Frontline services.",
+      "text": "It proposes computer-vision crop diagnostics and weather forecasting for smallholders, multimodal triage tools for community health workers, and multilingual voice tutors for schools."
+    },
+    {
+      "title": "Public systems and enterprises.",
+      "text": "It proposes algorithmic digital public infrastructure to reduce leakage and deliver safety nets, predictive dispatch for solar microgrids, and copilots that help informal micro-enterprises keep accounts and access credit."
+    },
+    {
+      "title": "Languages and labor.",
+      "text": "It argues that low-resource languages are penalized by tokenizers and under-served by datasets, and that data-labeling work in the Global South needs fair pay, regulation and worker-owned cooperatives."
+    },
+    {
+      "title": "Compute finance.",
+      "text": "It proposes multilateral compute compacts, green compute bonds and South-South alliances to fund shared regional compute."
+    },
+    {
+      "title": "A century in four periods.",
+      "text": "The strategy runs through an asymmetric dawn (2000–2025), a fragility window (2025–2050), peak shocks (2050–2075) and homeostasis (2075–2100)."
+    }
+  ],
+  "contents": [
+    {
+      "number": "1",
+      "title": "The Global AI Divergence: Compute Monopolies vs. Southern Diffusion",
+      "description": "",
+      "page": 3
+    },
+    {
+      "number": "2",
+      "title": "Agricultural Transformation: Precision Farming and Food Security",
+      "description": "",
+      "page": 6
+    },
+    {
+      "number": "3",
+      "title": "Primary Healthcare Leapfrogging: Diagnostic AI and Clinical Decision Support",
+      "description": "",
+      "page": 9
+    },
+    {
+      "number": "4",
+      "title": "Foundational Learning and Pedagogical AI: Hyper-Personalized Tutoring",
+      "description": "",
+      "page": 12
+    },
+    {
+      "number": "5",
+      "title": "Public Administration and Fiscal Modernization: Sovereign Digital Public AI",
+      "description": "",
+      "page": 15
+    },
+    {
+      "number": "6",
+      "title": "Energy Microgrids and Climate Adaptation: Predictive Resource Optimization",
+      "description": "",
+      "page": 18
+    },
+    {
+      "number": "7",
+      "title": "Enterprise Productivity and MSME Industrialization: Micro-Firm Automation",
+      "description": "",
+      "page": 21
+    },
+    {
+      "number": "8",
+      "title": "Frugal AI Engineering: Small Language Models, Quantization and Edge Inference",
+      "description": "",
+      "page": 24
+    },
+    {
+      "number": "9",
+      "title": "Localized Knowledge Commons and Low-Resource Language Preservation",
+      "description": "",
+      "page": 27
+    },
+    {
+      "number": "10",
+      "title": "AI Governance, Labor Transition and Sovereignty: Shielding Against Exploitation",
+      "description": "",
+      "page": 30
+    },
+    {
+      "number": "11",
+      "title": "Institutional Financing and Multilateral Compute Compacts: Funding Southern AI",
+      "description": "",
+      "page": 33
+    },
+    {
+      "number": "12",
+      "title": "A Century-Scale Grand Strategy: AI as Civilizational Cognitive Armor",
+      "description": "",
+      "page": 36
+    },
+    {
+      "number": "",
+      "title": "Lexicon of Defined Terms",
+      "description": "",
+      "page": 39
+    },
+    {
+      "number": "",
+      "title": "Bibliography",
+      "description": "",
+      "page": 40
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Polycrisis Resilience",
+      "definition": "The proactive application of economic development, technological convergence, innovation diffusion, clean transition, climate adaptation, and institutional strengthening to reduce interconnected risks threatening human wellbeing and survivability."
+    },
+    {
+      "term": "Survivability Regime",
+      "definition": "The operational reality of the 21st century wherein ecological breakdown, pollution, poverty, conflict, and economic volatility interact to create compounding threats to human life and societal continuity."
+    },
+    {
+      "term": "Sovereign Cognitive Infrastructure",
+      "definition": "Domestic or regional high-performance computing clusters, open-weights foundation models, and vernacular datasets owned and governed independently of foreign monopoly control."
+    },
+    {
+      "term": "Algorithmic Rent Extraction",
+      "definition": "The macroeconomic dynamic where emerging nations export raw human labeling labor and behavioral data at near-zero margins, while importing finished proprietary AI services at high foreign currency subscription tolls."
+    },
+    {
+      "term": "Token Apartheid",
+      "definition": "Structural bias in natural language processing tokenizers that forces low-resource, non-Latin scripts to consume 4x to 10x more tokens per concept, imposing latency and financial penalties on Southern users."
+    },
+    {
+      "term": "Frugal AI Engineering",
+      "definition": "The science of compressing, quantizing, and distilling neural networks to execute locally on low-cost, low-power consumer hardware without internet connectivity."
+    },
+    {
+      "term": "Post-Training Quantization (PTQ)",
+      "definition": "Reducing the numerical precision of model weights from 16-bit floating point to 4-bit or 1-bit integers, reducing memory requirements by 75% to 90% with minimal loss in reasoning capability."
+    },
+    {
+      "term": "Algorithmic Digital Public Infrastructure (DPI)",
+      "definition": "The integration of sovereign machine learning into national identity, payments, and data exchange systems to automate entitlement verification, public procurement audits, and disaster response."
+    },
+    {
+      "term": "Predictive Microgrid Dispatch",
+      "definition": "Real-time algorithmic orchestration of distributed solar generation, battery energy storage, and flexible industrial loads based on short-term satellite weather nowcasting."
+    },
+    {
+      "term": "Multimodal Enterprise Copilot",
+      "definition": "An artificial intelligence assistant that processes speech, text, and camera images of handwritten receipts to automate bookkeeping, inventory reordering, and tax filings for informal micro-enterprises."
+    },
+    {
+      "term": "Cognitive Extractivism",
+      "definition": "The exploitation of low-wage digital “ghost workers” across the Global South to label data and filter graphic content for multinational tech corporations without fair pay, benefits, or IP ownership."
+    },
+    {
+      "term": "Multilateral Compute Compact (MCC)",
+      "definition": "A treaty-based alliance of developing sovereign states that pools capital, stranded renewable energy assets, and scientific talent to build shared, high-performance open-weights AI compute banks."
+    },
+    {
+      "term": "Civilizational Cognitive Armor",
+      "definition": "The synergistic deployment of sovereign artificial intelligence, decentralized clean power, and open digital public infrastructure to shield human populations against 21st-century polycrisis shocks."
+    }
+  ],
+  "references": [
+    {
+      "text": "Hughes, H. (2026). Polycrisis Resilience: Addressing the Survivability Regime of the 21st Century (2000–2100). H Heuristics Monograph Series."
+    },
+    {
+      "text": "Hughes, H. (2026). Technology Diffusion as a Polycrisis Resilience Strategy. H Heuristics Research Monograph Series."
+    },
+    {
+      "text": "Stanford Institute for Human-Centered Artificial Intelligence (HAI) (2024–2026). Artificial Intelligence Index Report. Stanford University."
+    },
+    {
+      "text": "International Telecommunication Union (ITU) (2025). Global Digital Development Report: Navigating the Artificial Intelligence Divide. Geneva: United Nations."
+    },
+    {
+      "text": "World Bank (2025). Digital Progress and Trends Report: Harnessing Artificial Intelligence for Global Development. Washington, DC: World Bank Group."
+    },
+    {
+      "text": "United Nations Development Programme (UNDP) (2025). Digital Public Infrastructure as a Driver of Equitable Development. New York: United Nations."
+    },
+    {
+      "text": "Masakhane Research Foundation (2024). Participatory Approaches to Building Natural Language Processing Systems for African Languages. Nature Machine Intelligence, 6(3), 210–224."
+    },
+    {
+      "text": "Dettmers, T., et al. (2023). QLoRA: Efficient Finetuning of Quantized LLMs. Advances in Neural Information Processing Systems (NeurIPS 2023)."
+    },
+    {
+      "text": "Frantar, E., et al. (2023). GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers. ICLR 2023."
+    },
+    {
+      "text": "Bloom, B. S. (1984). The 2 Sigma Problem: The Search for Methods of Group Instruction as Effective as One-to-One Tutoring. Educational Researcher, 13(6), 4–16."
+    },
+    {
+      "text": "Oxford Internet Institute (2025). Fairwork: Work in the Planetary Labour Market and the Rise of AI Annotation. University of Oxford."
+    },
+    {
+      "text": "African Development Bank (AfDB) (2025). African Artificial Intelligence Readiness and Compute Infrastructure Report. Abidjan: AfDB."
+    },
+    {
+      "text": "International Renewable Energy Agency (IRENA) (2025). Artificial Intelligence Applications for Distributed Renewable Energy and Smart Grids. Abu Dhabi: IRENA."
+    },
+    {
+      "text": "International Energy Agency (IEA) (2024). Electricity 2024: Analysis and Forecast to 2026—Special Chapter on Data Centers and AI. Paris: IEA."
+    },
+    {
+      "text": "Intergovernmental Panel on Climate Change (IPCC) (2023). Climate Change 2023: Synthesis Report. Contribution of Working Groups I, II and III. Geneva: IPCC."
+    },
+    {
+      "text": "United Nations Educational, Scientific and Cultural Organization (UNESCO) (2024). Global Education Monitoring Report: Technology in Education. Paris: UNESCO."
+    },
+    {
+      "text": "World Health Organization (WHO) (2024). Ethics and Governance of Artificial Intelligence for Health: Guidance for Low- and Middle-Income Countries. Geneva: WHO."
+    },
+    {
+      "text": "International Labour Organization (ILO) (2024). Generative AI and Jobs: A Global Analysis of Potential Effects on Job Quantity and Quality. Geneva: ILO."
+    },
+    {
+      "text": "McKinsey Global Institute (2024). The Economic Potential of Generative AI: The Next Productivity Frontier for Emerging Markets. New York: McKinsey & Company."
+    },
+    {
+      "text": "International Finance Corporation (IFC) (2024). Closing the MSME Finance Gap through Algorithmic Credit and Digital Infrastructure. Washington, DC: World Bank Group."
+    },
+    {
+      "text": "Acemoglu, D. and Restrepo, P. (2020). The Wrong Kind of AI? Artificial Intelligence and the Future of Labor Demand. Cambridge Journal of Regions, Economy and Society, 13(1), 25–35.",
+      "url": "https://doi.org/10.1093/cjres/rsz022",
+      "doi": "10.1093/cjres/rsz022"
+    },
+    {
+      "text": "Hughes, H. (2026). Digital Economic Integration and Global Convergence: 2000–2100 Trajectories. H Heuristics Research Monograph Series."
+    }
+  ]
+}
