@@ -42,6 +42,16 @@ Also fill in `contribution`: one or two sentences on what the report adds to the
 concept page (`/polycrisis-resilience/`, built by `src/concept.mjs`) under "How the concept was built across the series".
 Everything else is optional; sections without data are left out of the page.
 
+## How reports are listed
+
+- The home page shows the **10 most recent** reports (newest first, by `datePublished`, then `seriesNumber`).
+- **All reports** (nav button, `/reports/`) lists every report **25 per page**: `/reports/`, `/reports/page/2/`, and so on. Pages are generated automatically as reports are added.
+- The Atom feed carries the newest **50** reports; `reports.json` is the complete catalog.
+- The concept page's "across the series" list shows the first 30 reports in series order, with a link to all reports.
+- Change these sizes in `site.config.json` under `"listing"` (`homeCount`, `perPage`, `feedCount`).
+- `page` is a reserved report folder name (it would clash with `/reports/page/N/`).
+- Standalone files for the footer or elsewhere go in `files/` and are copied to `/files/`.
+
 ## What each report page includes
 
 - **Google Scholar / Highwire Press tags**: `citation_title`, `citation_author`, `citation_publication_date`,

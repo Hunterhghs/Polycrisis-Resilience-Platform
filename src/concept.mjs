@@ -52,6 +52,9 @@ export function conceptPage(reports, site) {
   const first = [...reports].sort((a, b) => a.datePublished.localeCompare(b.datePublished))[0];
   const latestDate = reports.map((r) => r.dateModified || r.datePublished).sort().pop() || PUBLISHED;
   const ordered = [...reports].sort((a, b) => (a.seriesNumber || 99) - (b.seriesNumber || 99));
+  // The list below stays readable as the series grows: it shows the first reports in series order.
+  const SERIES_LIST_MAX = 30;
+  const listed = ordered.slice(0, SERIES_LIST_MAX);
   const foundational = bySlug['minimizing-human-suffering'];
   const general = bySlug['research-report'];
   const terms = TERMS.filter((t) => bySlug[t.slug]);
@@ -211,7 +214,7 @@ export function conceptPage(reports, site) {
   <section id="series">
     <h2>How the concept was built across the series</h2>
     <p>Each report develops one part of the framework. Together they move from definition and premise to mechanisms, measures, scenarios and real-world tests.</p>
-    <ol class="series-list">${ordered
+    <ol class="series-list">${listed
       .map(
         (r) => `<li>
         <p class="card-kicker">${r.seriesNumber ? `<span class="num">No. ${String(r.seriesNumber).padStart(2, '0')}</span>` : ''}<time datetime="${r.datePublished}">${humanDate(r.datePublished)}</time></p>
@@ -221,6 +224,7 @@ export function conceptPage(reports, site) {
       </li>`,
       )
       .join('')}</ol>
+    ${ordered.length > listed.length ? `<p class="series-more"><a class="btn" href="/reports/"><span>See all ${ordered.length} reports</span><span aria-hidden="true">→</span></a></p>` : ''}
   </section>
 
   <section id="terms">

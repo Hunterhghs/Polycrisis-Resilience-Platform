@@ -65,7 +65,8 @@ ${head}
       <span class="brand-series">${esc(site.series.shortName)}</span>
     </a>
     <nav class="site-nav" aria-label="Primary">
-      <a href="/#reports"${active === 'reports' ? ' aria-current="page"' : ''}>Reports</a>
+      <a href="/#reports"${active === 'reports' ? ' aria-current="page"' : ''}>Latest</a>
+      <a href="/reports/" class="nav-all"${active === 'archive' ? ' aria-current="page"' : ''}>All reports</a>
       <a href="/polycrisis-resilience/"${active === 'concept' ? ' aria-current="page"' : ''}>The concept</a>
       <a href="/#about">About</a>
       <a href="/feed.xml" class="nav-feed" title="Atom feed">${icon.rss}<span>Feed</span></a>
@@ -82,7 +83,7 @@ ${body}
       <p class="muted">${esc(site.publisher.tagline)}</p>
     </div>
     <div class="footer-links">
-      <a href="/#reports">All reports</a>
+      <a href="/reports/">All reports</a>
       <a href="/polycrisis-resilience/">The concept</a>
       <a href="/feed.xml">Atom feed</a>
       <a href="/reports.json">Catalog (JSON)</a>
@@ -90,7 +91,7 @@ ${body}
     </div>
     ${site.footerArticles?.length ? `<div class="footer-articles">
       <p class="footer-h">Further reading</p>
-      <ul>${site.footerArticles.map((a) => `<li><a href="${esc(a.url)}" title="${esc(a.fullTitle || a.title)}">${esc(a.title)}</a>${a.source ? `<span class="muted"> · ${esc(a.source)}</span>` : ''}</li>`).join('')}</ul>
+      <ul>${site.footerArticles.map((a) => `<li><a href="${esc(a.url)}" title="${esc(a.fullTitle || a.title)}"${a.newTab ? ' target="_blank" rel="noopener"' : ''}>${esc(a.title)}</a>${a.source ? `<span class="muted"> · ${esc(a.source)}</span>` : ''}</li>`).join('')}</ul>
     </div>` : ''}
     <p class="muted footer-note">Reports are open access. Unless stated otherwise on a report page, content is licensed under CC BY 4.0. © ${new Date().getFullYear()} ${esc(site.publisher.name)}.</p>
   </div>
@@ -391,7 +392,7 @@ export function reportPage(r, site, { prev, next } = {}) {
     canonical: r.url,
     head: reportHead(r, site),
     body,
-    active: 'reports',
+    active: 'archive',
   });
 }
 
@@ -422,6 +423,8 @@ function reportCard(r, { featured = false } = {}) {
 
 export function homePage(reports, site) {
   const latest = reports[0];
+  // The home page shows only the most recent reports; the rest live in the paginated archive.
+  const recent = reports.slice(0, site.listing.homeCount);
   const ld = {
     '@context': 'https://schema.org',
     '@graph': [
@@ -436,7 +439,7 @@ export function homePage(reports, site) {
       },
       {
         ...seriesLd(site),
-        hasPart: reports.map((r) => ({
+        hasPart: recent.map((r) => ({
           '@type': ['ScholarlyArticle', 'Report'],
           '@id': `${r.url}#report`,
           name: r.title,
@@ -492,8 +495,9 @@ export function homePage(reports, site) {
 
 <div class="container">
   <section class="section" id="reports" aria-labelledby="reports-h">
-    <h2 id="reports-h" class="section-h">All reports</h2>
-    ${reports.length ? `<div class="card-list">${reports.map((r) => reportCard(r)).join('\n')}</div>` : '<p class="muted">The first report is coming soon.</p>'}
+    <h2 id="reports-h" class="section-h">Recent reports</h2>
+    ${recent.length ? `<div class="card-list">${recent.map((r) => reportCard(r)).join('\n')}</div>` : '<p class="muted">The first report is coming soon.</p>'}
+    ${reports.length ? `<p class="view-all"><a class="btn btn-primary" href="/reports/"><span>Browse all ${reports.length} ${reports.length === 1 ? 'report' : 'reports'}</span><span aria-hidden="true">→</span></a></p>` : ''}
   </section>
 
   <section class="section about" id="about" aria-labelledby="about-h">
@@ -533,6 +537,92 @@ export function homePage(reports, site) {
   });
 }
 
+/* --------------------------------------------------------------- archive */
+
+export const ARCHIVE_PATH = '/reports/';
+export const archivePath = (n) => (n <= 1 ? ARCHIVE_PATH : `${ARCHIVE_PATH}page/${n}/`);
+
+// Page numbers to show: first, last, and a window around the current page, with gaps as null.
+function pageWindow(current, total) {
+  const keep = new Set([1, total]);
+  for (let i = current - 2; i <= current + 2; i++) if (i >= 1 && i <= total) keep.add(i);
+  const nums = [...keep].sort((a, b) => a - b);
+  const out = [];
+  nums.forEach((n, i) => {
+    if (i && n - nums[i - 1] > 1) out.push(null);
+    out.push(n);
+  });
+  return out;
+}
+
+function pagination(current, total) {
+  if (total <= 1) return '';
+  const link = (n, label, cls = '') => `<a${cls ? ` class="${cls}"` : ''} href="${archivePath(n)}"${n === current ? ' aria-current="page"' : ''}>${label}</a>`;
+  return `<nav class="pagination" aria-label="Report pages">
+    ${current > 1 ? link(current - 1, '← Newer', 'pg-step') : '<span class="pg-step pg-off">← Newer</span>'}
+    <span class="pg-nums">${pageWindow(current, total)
+      .map((n) => (n === null ? '<span class="pg-gap" aria-hidden="true">…</span>' : link(n, String(n))))
+      .join('')}</span>
+    ${current < total ? link(current + 1, 'Older →', 'pg-step') : '<span class="pg-step pg-off">Older →</span>'}
+  </nav>`;
+}
+
+export function archivePage(reports, site, { page, pages }) {
+  const per = site.listing.perPage;
+  const slice = reports.slice((page - 1) * per, page * per);
+  const first = (page - 1) * per + 1;
+  const last = first + slice.length - 1;
+  const url = `${site.siteUrl}${archivePath(page)}`;
+  const title = page === 1 ? 'All reports' : `All reports, page ${page}`;
+  const ld = {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    '@id': `${url}#page`,
+    url,
+    name: `${title} | ${site.series.shortName}`,
+    isPartOf: { '@id': `${site.siteUrl}/#series` },
+    mainEntity: {
+      '@type': 'ItemList',
+      numberOfItems: reports.length,
+      itemListElement: slice.map((r, i) => ({ '@type': 'ListItem', position: first + i, url: r.url, name: r.title })),
+    },
+  };
+  const body = `
+<section class="hero hero-archive">
+  ${heroLines()}
+  <div class="container hero-inner">
+    <nav class="breadcrumb" aria-label="Breadcrumb"><a href="/">${esc(site.series.shortName)}</a><span aria-hidden="true">/</span><span>All reports</span></nav>
+    <p class="kicker">${esc(site.publisher.name)} · Research series</p>
+    <h1>All reports</h1>
+    <p class="subtitle">${reports.length ? `${reports.length} ${reports.length === 1 ? 'report' : 'reports'}, newest first${pages > 1 ? `. Showing ${first}–${last}.` : '.'}` : 'The first report is coming soon.'}</p>
+  </div>
+</section>
+<div class="container">
+  <section class="section" aria-labelledby="archive-h">
+    <h2 id="archive-h" class="visually-hidden">Reports${pages > 1 ? `, page ${page} of ${pages}` : ''}</h2>
+    ${slice.length ? `<div class="card-list">${slice.map((r) => reportCard(r)).join('\n')}</div>` : ''}
+    ${pagination(page, pages)}
+  </section>
+</div>`;
+  return layout({
+    site,
+    title: `${title} | ${site.series.shortName} | ${site.publisher.name}`,
+    description: `Browse all ${reports.length} reports in the ${site.series.name}, newest first.${page > 1 ? ` Page ${page} of ${pages}.` : ''}`,
+    canonical: url,
+    head: [
+      page > 1 ? `<link rel="prev" href="${esc(site.siteUrl + archivePath(page - 1))}">` : '',
+      page < pages ? `<link rel="next" href="${esc(site.siteUrl + archivePath(page + 1))}">` : '',
+      prop('og:type', 'website'),
+      prop('og:site_name', site.siteName),
+      prop('og:title', `${title} | ${site.series.shortName}`),
+      prop('og:url', url),
+      jsonLd(ld),
+    ].filter(Boolean).join('\n'),
+    body,
+    active: 'archive',
+  });
+}
+
 export function notFoundPage(site) {
   return layout({
     site,
@@ -540,6 +630,6 @@ export function notFoundPage(site) {
     description: 'This page could not be found.',
     canonical: `${site.siteUrl}/404`,
     head: '<meta name="robots" content="noindex">',
-    body: `<div class="container section narrow"><h1>Page not found</h1><p>The page you were looking for does not exist or has moved. Browse <a href="/#reports">all reports</a> instead.</p></div>`,
+    body: `<div class="container section narrow"><h1>Page not found</h1><p>The page you were looking for does not exist or has moved. Browse <a href="/reports/">all reports</a> instead.</p></div>`,
   }).replace('<meta name="robots" content="index, follow, max-image-preview:large">\n', '');
 }

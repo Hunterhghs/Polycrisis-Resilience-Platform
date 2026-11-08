@@ -3,17 +3,18 @@
 // Reads reports/<slug>/report.json (+ PDF, cover) and writes the site to dist/.
 // No dependencies: runs on any Node >= 18 (Cloudflare Pages default build image included).
 
-import { readFile, writeFile, mkdir, rm, readdir, copyFile, stat } from 'node:fs/promises';
+import { readFile, writeFile, mkdir, rm, readdir, copyFile, stat, cp } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { esc, stripTags, truncate, parseDate, doiUrl, bibtex, ris } from './lib.mjs';
-import { reportPage, homePage, notFoundPage } from './templates.mjs';
+import { reportPage, homePage, archivePage, archivePath, notFoundPage } from './templates.mjs';
 import { conceptPage, CONCEPT_PATH } from './concept.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const REPORTS_DIR = path.join(ROOT, 'reports');
 const OUT = path.join(ROOT, 'dist');
+const FILES_DIR = path.join(ROOT, 'files');
 
 const readJson = async (p) => {
   try {
@@ -55,6 +56,8 @@ async function loadSite() {
   const site = await readJson(path.join(ROOT, 'site.config.json'));
   site.siteUrl = (process.env.SITE_URL || site.siteUrl).replace(/\/+$/, '');
   if (!site.publisher.url) site.publisher.url = site.siteUrl;
+  // Listing sizes: reports on the home page, per archive page, and in the Atom feed.
+  site.listing = { homeCount: 10, perPage: 25, feedCount: 50, ...(site.listing || {}) };
   return site;
 }
 
@@ -80,6 +83,7 @@ async function loadReports(site) {
 
     const problems = [];
     if (!/^[a-z0-9]+(-[a-z0-9]+)*$/.test(slug)) problems.push('folder name must be lowercase-words-with-hyphens');
+    if (slug === 'page') problems.push('folder name "page" is reserved for the paginated archive (/reports/page/N/)');
     if (!r.title) problems.push('"title" is required');
     if (!parseDate(r.datePublished)) problems.push('"datePublished" must be YYYY-MM-DD');
     if (!Array.isArray(r.authors) || !r.authors.length || r.authors.some((a) => !a.name)) problems.push('"authors" needs at least one { "name": ... }');
@@ -139,11 +143,15 @@ async function loadReports(site) {
 
 const xmlEsc = esc;
 
+const pageCount = (reports, site) => Math.max(1, Math.ceil(reports.length / site.listing.perPage));
+
 function sitemap(reports, site) {
   const latest = reports[0]?.dateModified || reports[0]?.datePublished;
+  const archive = Array.from({ length: pageCount(reports, site) }, (_, i) => ({ loc: `${site.siteUrl}${archivePath(i + 1)}`, lastmod: latest, priority: '0.8' }));
   const urls = [
     { loc: `${site.siteUrl}/`, lastmod: latest, priority: '1.0' },
     { loc: `${site.siteUrl}${CONCEPT_PATH}`, lastmod: latest, priority: '0.9' },
+    ...archive,
     ...reports.map((r) => ({ loc: r.url, lastmod: r.dateModified || r.datePublished, priority: '0.9' })),
     ...reports.map((r) => ({ loc: r.pdfUrl, lastmod: r.dateModified || r.datePublished, priority: '0.7' })),
   ];
@@ -154,7 +162,9 @@ ${urls.map((u) => `  <url><loc>${xmlEsc(u.loc)}</loc>${u.lastmod ? `<lastmod>${u
 `;
 }
 
-function feed(reports, site) {
+function feed(allReports, site) {
+  // The Atom feed carries the newest reports only; reports.json is the complete catalog.
+  const reports = allReports.slice(0, site.listing.feedCount);
   const updated = `${reports[0]?.dateModified || reports[0]?.datePublished || new Date().toISOString().slice(0, 10)}T00:00:00Z`;
   return `<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
@@ -225,6 +235,11 @@ function headers(reports, site) {
   X-Frame-Options: SAMEORIGIN`,
     `/assets/*
   Cache-Control: public, max-age=86400`,
+    // Standalone PDFs open in the browser tab rather than downloading.
+    `/files/*.pdf
+  Content-Type: application/pdf
+  Content-Disposition: inline
+  Cache-Control: public, max-age=86400`,
     `/*.bib
   Content-Type: application/x-bibtex; charset=utf-8`,
     `/*.ris
@@ -269,6 +284,8 @@ async function main() {
   await copyFile(path.join(ROOT, 'src/styles.css'), path.join(OUT, 'assets/styles.css'));
   await copyFile(path.join(ROOT, 'src/site.js'), path.join(OUT, 'assets/site.js'));
   await write('favicon.svg', favicon);
+  // Standalone files (e.g. briefs linked from the footer) are copied as-is to /files/.
+  if (existsSync(FILES_DIR)) await cp(FILES_DIR, path.join(OUT, 'files'), { recursive: true });
 
   // Report pages (reports are newest-first; "previous" = older)
   for (let i = 0; i < reports.length; i++) {
@@ -284,6 +301,11 @@ async function main() {
   }
 
   await write('index.html', homePage(reports, site));
+  // Paginated archive of every report: /reports/, /reports/page/2/, ...
+  const pages = pageCount(reports, site);
+  for (let p = 1; p <= pages; p++) {
+    await write(path.join(archivePath(p).slice(1), 'index.html'), archivePage(reports, site, { page: p, pages }));
+  }
   await write(path.join(CONCEPT_PATH.slice(1), 'index.html'), conceptPage(reports, site));
   await write('404.html', notFoundPage(site));
   await write('sitemap.xml', sitemap(reports, site));
@@ -292,7 +314,7 @@ async function main() {
   await write('robots.txt', `User-agent: *\nAllow: /\n\nSitemap: ${site.siteUrl}/sitemap.xml\n`);
   await write('_headers', headers(reports, site));
 
-  console.log(`\n✓ ${reports.length} report(s) → dist/ in ${Date.now() - t0} ms (site URL: ${site.siteUrl})`);
+  console.log(`\n✓ ${reports.length} report(s), ${pages} archive page(s) → dist/ in ${Date.now() - t0} ms (site URL: ${site.siteUrl})`);
 }
 
 main().catch((e) => {
