@@ -1,0 +1,294 @@
+{
+  "seriesNumber": 22,
+  "title": "Connectivity, Automation, and Emerging Economy Productivity",
+  "subtitle": "Accelerating output, expanding adaptive capacity, and navigating workforce transitions in an interconnected world",
+  "type": "Research Monograph",
+  "datePublished": "2026-11-08",
+  "dateModified": "2026-11-08",
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 40,
+  "language": "en",
+  "description": "A century-scale framework (2000–2100) arguing that connectivity and automation together raise productivity and adaptive capacity in emerging economies, in twelve chapters from robotics and precision farming to edge computing, logistics and workforce transition.",
+  "contribution": "A twelve-chapter monograph arguing that connectivity and automation together raise productivity and resilience: robotics, precision agriculture, edge computing, ports and logistics, small-enterprise tools, microgrids and workforce transition, with a lexicon of its own terms.",
+  "themes": [
+    "Digital rails",
+    "Robotics",
+    "Precision agriculture",
+    "Edge computing",
+    "Logistics",
+    "Public services",
+    "Small enterprises",
+    "Workforce transition",
+    "Microgrids"
+  ],
+  "keywords": [
+    "connectivity",
+    "automation",
+    "emerging economies",
+    "productivity",
+    "industrial robotics",
+    "premature deindustrialization",
+    "precision agriculture",
+    "edge computing",
+    "workforce transition",
+    "microgrids",
+    "polycrisis resilience",
+    "century-scale framework",
+    "H Heuristics Polycrisis Resilience Framework"
+  ],
+  "abstract": [
+    "Connectivity and automation are presented as the dual engines of civilizational productivity and adaptive resilience. By wiring high-speed digital coordination directly into physical robotics, clean microgrids, and precision agriculture, emerging economies are argued to escape the manual productivity trap, protect critical supply chains through systemic disruptions, and achieve technological parity across the 21st-century polycrisis.",
+    "The monograph is organised in twelve chapters covering the productivity engine, digital public infrastructure as automation backbone, industrial robotics, precision agriculture, cloud and edge computing, automated supply chains and ports, algorithmic public service delivery, small-enterprise automation, the workforce transition and the energy-automation nexus, and South-South technology compacts, and closes with a century-scale grand strategy across four planning periods from 2000 to 2100. It includes a lexicon of the framework’s defined terms."
+  ],
+  "coreProposition": "Connectivity and automation are foundational drivers of productivity growth and systemic adaptive capacity in emerging economies. Expanding digital infrastructure, cloud computing, and machine-to-machine data rails enables societies to respond rapidly to shocks, maintain critical service delivery during disruptions, and coordinate complex economic activity.",
+  "keyFindings": [
+    {
+      "title": "Digital and physical together.",
+      "text": "The monograph argues against treating software services and physical manufacturing as alternatives, and for combining digital connectivity with automation to lift output per worker and avoid a low-wage assembly trap."
+    },
+    {
+      "title": "Premature deindustrialization.",
+      "text": "It argues that foreign automation can cap the manufacturing share of emerging economies at low income levels, and that affordable collaborative robots and open-source mechatronics can help them keep and upgrade manufacturing."
+    },
+    {
+      "title": "Farms, ports and public services.",
+      "text": "It proposes sensor-and-drone farm management, automated ports and intermodal corridors to cut delays and pilferage, and audited code for delivering entitlements and licences."
+    },
+    {
+      "title": "Edge computing and power.",
+      "text": "It argues for processing data inside national borders for low latency and sovereignty, and for solar-battery microgrids so that automated operations can run continuously."
+    },
+    {
+      "title": "The workforce transition.",
+      "text": "It acknowledges displacement and wage polarization, and argues for reskilling and for automation that augments workers into supervisory, maintenance and engineering roles."
+    },
+    {
+      "title": "A century in four periods.",
+      "text": "The strategy runs through foundational rails (2000–2025), a fragility window (2025–2050), systemic integration (2050–2075) and planetary homeostasis (2075–2100)."
+    }
+  ],
+  "contents": [
+    {
+      "number": "1",
+      "title": "The Productivity Engine: Synthesizing Digital Connectivity and Automation",
+      "description": "",
+      "page": 3
+    },
+    {
+      "number": "2",
+      "title": "Digital Public Infrastructure as the Automation Backbone",
+      "description": "",
+      "page": 6
+    },
+    {
+      "number": "3",
+      "title": "Industrial Robotics and Mechatronics in Global South Manufacturing",
+      "description": "",
+      "page": 9
+    },
+    {
+      "number": "4",
+      "title": "Precision Agriculture and Autonomous Food Systems",
+      "description": "",
+      "page": 12
+    },
+    {
+      "number": "5",
+      "title": "Cloud Infrastructure, Edge Computing, and Data Sovereignty",
+      "description": "",
+      "page": 15
+    },
+    {
+      "number": "6",
+      "title": "Automated Supply Chains, Ports, and Intermodal Logistics",
+      "description": "",
+      "page": 18
+    },
+    {
+      "number": "7",
+      "title": "Algorithmic Public Service Delivery and Civic Automation",
+      "description": "",
+      "page": 21
+    },
+    {
+      "number": "8",
+      "title": "Micro, Small and Medium Enterprise (MSME) Automation Rails",
+      "description": "",
+      "page": 24
+    },
+    {
+      "number": "9",
+      "title": "The Workforce Transition: Reskilling, Human Capital, and Wage Polarization",
+      "description": "",
+      "page": 27
+    },
+    {
+      "number": "10",
+      "title": "Energy-Automation Nexus: Clean Microgrids for Continuous Power",
+      "description": "",
+      "page": 30
+    },
+    {
+      "number": "11",
+      "title": "South-South Technology Compacts and Frugal Automation Standards",
+      "description": "",
+      "page": 33
+    },
+    {
+      "number": "12",
+      "title": "A Century-Scale Grand Strategy: Productivity as the Bedrock of Polycrisis Resilience",
+      "description": "",
+      "page": 36
+    },
+    {
+      "number": "",
+      "title": "Lexicon of Defined Terms",
+      "description": "",
+      "page": 39
+    },
+    {
+      "number": "",
+      "title": "Bibliography",
+      "description": "",
+      "page": 40
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Polycrisis Resilience",
+      "definition": "The proactive application of economic development, technological convergence, innovation diffusion, clean transition, climate adaptation, and institutional strengthening to reduce interconnected risks threatening human wellbeing and survivability."
+    },
+    {
+      "term": "The Dual-Vector Productivity Multiplier",
+      "definition": "The macroeconomic expansion achieved when high-speed digital communications networks are wired directly into physical automation systems, collapsing transaction and operational latency."
+    },
+    {
+      "term": "Premature De-Industrialization",
+      "definition": "The developmental crisis wherein manufacturing employment and value-added shares in emerging economies peak at lower income levels than historical industrializers, driven by advanced foreign automation."
+    },
+    {
+      "term": "Collaborative Robotics (Cobots)",
+      "definition": "Ergonomic, force-limited industrial robots designed to operate safely alongside human workers without security cages, lowering the capital and technical barriers to precision automation."
+    },
+    {
+      "term": "Autonomous Agronomic Loop",
+      "definition": "A closed-loop agricultural management system where IoT soil sensors and aerial multispectral drone telemetry automatically control micro-drip irrigation and biological input micro-dosing."
+    },
+    {
+      "term": "Machine-to-Machine (M2M) Clearing",
+      "definition": "The execution of automated, sub-cent economic transactions between autonomous hardware devices settled instantaneously over open sovereign digital public payment rails."
+    },
+    {
+      "term": "Sovereign Edge Computing",
+      "definition": "The localization of high-performance computational processing power and machine-learning inference within national borders, delivering sub-ten-millisecond latency for physical automation."
+    },
+    {
+      "term": "Frictionless Intermodal Corridor",
+      "definition": "An integrated logistics highway where seaport container handling, customs clearance, and inland rail freight are synchronized by IoT sensors and automated dispatch."
+    },
+    {
+      "term": "Programmatic Civic Automation",
+      "definition": "The deterministic delivery of public entitlements, business licenses, and disaster relief through audited code, eliminating human gatekeeper discretion and fiscal leakage."
+    },
+    {
+      "term": "Enterprise Computational Density",
+      "definition": "The operational depth of digital and automated tools utilized within an MSME, transitioning a business from paper notes into integrated inventory management and flow-based credit."
+    },
+    {
+      "term": "Labor-Augmenting Automation",
+      "definition": "The deployment of robotics and algorithmic tools to multiply human physical and cognitive output rather than replace workers, elevating labor into high-wage supervisory roles."
+    },
+    {
+      "term": "Sovereign Frugal Mechatronics",
+      "definition": "Open-source industrial automation equipment engineered specifically for harsh, tropical, and low-infrastructure environments, maximizing local repairability and modularity."
+    },
+    {
+      "term": "Planetary Homeostasis Architecture",
+      "definition": "The macroeconomic regime in which high-efficiency closed-loop automated systems and clean electrification decouple material abundance from ecological exploitation through 2100."
+    }
+  ],
+  "references": [
+    {
+      "text": "Hughes, H. (2026). Polycrisis Resilience: Addressing the Survivability Regime of the 21st Century (2000–2100). H Heuristics Monograph Series."
+    },
+    {
+      "text": "Hughes, H. (2026). Technology Transfer and Development Acceleration: How Diffusion and Adaptation Reduce Systemic Vulnerability. H Heuristics Research Monograph Series."
+    },
+    {
+      "text": "World Bank (2025). World Development Report: Digital Infrastructure, Automation, and the Future of Work in Developing Countries. Washington, DC: World Bank Group."
+    },
+    {
+      "text": "United Nations Conference on Trade and Development (UNCTAD) (2025). Technology and Innovation Report: Catching Technological Waves for Inclusive Development. Geneva: United Nations."
+    },
+    {
+      "text": "International Federation of Robotics (IFR) (2025). World Robotics Report: Industrial Automation and Collaborative Robots in Emerging Markets. Frankfurt: IFR."
+    },
+    {
+      "text": "Rodrik, D. (2016). Premature Deindustrialization. Journal of Economic Growth, 21(1), 1–33.",
+      "url": "https://doi.org/10.1007/s10887-015-9122-3",
+      "doi": "10.1007/s10887-015-9122-3"
+    },
+    {
+      "text": "International Labour Organization (ILO) (2025). The Future of Work in the Global South: Automation, Augmentation, and Just Transitions. Geneva: ILO."
+    },
+    {
+      "text": "McKinsey Global Institute (MGI) (2024). The Automation Dividend: Accelerating Productivity and Economic Convergence in Emerging Markets. New York: MGI."
+    },
+    {
+      "text": "Food and Agriculture Organization (FAO) (2025). The State of Food and Agriculture: Precision Automation, Drones, and Smallholder Resilience. Rome: United Nations."
+    },
+    {
+      "text": "International Telecommunication Union (ITU) (2025). Facts and Figures: Universal Connectivity, Edge Computing, and Digital Public Goods. Geneva: ITU."
+    },
+    {
+      "text": "Bank for International Settlements (BIS) (2024). Machine-to-Machine Payments and the Architecture of Open Fast Payment Rails. Basel: BIS Innovation Hub."
+    },
+    {
+      "text": "Acemoglu, D. and Restrepo, P. (2020). Robots and Jobs: Evidence from US Labor Markets. Journal of Political Economy, 128(6), 2188–2244.",
+      "url": "https://doi.org/10.1086/705716",
+      "doi": "10.1086/705716"
+    },
+    {
+      "text": "International Energy Agency (IEA) (2024). Clean Microgrids and Industrial Decarbonization in Emerging Economies. Paris: IEA."
+    },
+    {
+      "text": "United Nations Industrial Development Organization (UNIDO) (2024). Industrial Development Report: Frugal Innovation, Mechatronics, and Sovereign Manufacturing. Vienna: UNIDO."
+    },
+    {
+      "text": "Perez, C. (2010). Technological Revolutions and Techno-Economic Paradigms. Cambridge Journal of Economics, 34(1), 185–202.",
+      "url": "https://doi.org/10.1093/cje/bep051",
+      "doi": "10.1093/cje/bep051"
+    },
+    {
+      "text": "World Health Organization (WHO) (2024). Autonomous Logistics and AI-Assisted Clinical Triage in Underserved Health Systems. Geneva: WHO."
+    },
+    {
+      "text": "African Export-Import Bank (Afreximbank) (2025). Trade Infrastructure and Smart Port Automation Across the African Continental Free Trade Area. Cairo: Afreximbank."
+    },
+    {
+      "text": "Intergovernmental Panel on Climate Change (IPCC) (2023). Climate Change 2023: Synthesis Report. Geneva: IPCC."
+    },
+    {
+      "text": "Chang, H.-J. (2007). Bad Samaritans: The Myth of Free Trade and the Secret History of Capitalism. London: Bloomsbury."
+    },
+    {
+      "text": "Open Source Hardware Association (OSHWA) (2024). Open Source Industrial Mechatronics and Right to Repair in Developing Regions. Boulder: OSHWA."
+    },
+    {
+      "text": "Reserve Bank of India (RBI) (2025). Report on Currency and Finance: Population-Scale Digital Public Infrastructure and Productivity. Mumbai: RBI."
+    },
+    {
+      "text": "Hughes, H. (2026). Digital Public Infrastructure and Systemic Resilience. H Heuristics Research Monograph Series."
+    }
+  ]
+}
