@@ -1,0 +1,306 @@
+{
+  "seriesNumber": 25,
+  "title": "Accelerating Renewable Energy Adoption in Emerging Economies",
+  "subtitle": "De-risking capital, reforming insolvent grids, and unleashing distributed power across the Global South",
+  "type": "Research Monograph",
+  "datePublished": "2026-11-08",
+  "dateModified": "2026-11-08",
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 40,
+  "language": "en",
+  "description": "A century-scale framework (2000–2100) arguing that cheaper hardware is not enough and that financing, utility solvency and transmission are the bottlenecks, in twelve chapters from cost of capital and auctions to grids, storage, industry and green bonds.",
+  "contribution": "A twelve-chapter monograph arguing that renewable adoption in emerging economies is held back by finance and grids rather than hardware cost: cost of capital, utility insolvency, reverse auctions, currency hedging, transmission, storage, distributed power, industry and green bonds, with a lexicon of its own terms.",
+  "themes": [
+    "Cost of capital",
+    "Utility solvency",
+    "Reverse auctions",
+    "Currency risk",
+    "Transmission",
+    "Storage",
+    "Distributed power",
+    "Industrial electrification",
+    "Green bonds"
+  ],
+  "keywords": [
+    "renewable energy",
+    "emerging economies",
+    "cost of capital",
+    "blended finance",
+    "utility reform",
+    "reverse auctions",
+    "power purchase agreements",
+    "currency hedging",
+    "HVDC transmission",
+    "battery storage",
+    "mini-grids",
+    "green bonds",
+    "polycrisis resilience",
+    "century-scale framework",
+    "H Heuristics Polycrisis Resilience Framework"
+  ],
+  "abstract": [
+    "Overcoming the global clean energy investment divide is presented as requiring more than hardware cost deflation: it requires dismantling the financial, regulatory, and transmission bottlenecks holding back the Global South. By compressing punitive borrowing rates through blended first-loss capital, restructuring insolvent distribution utilities, deploying competitive reverse auctions, and modernizing cross-border transmission, emerging economies are argued to be able to leapfrog legacy fossil fuel fragility and anchor durable economic convergence through 2100.",
+    "The monograph is organised in twelve chapters covering the geography of clean investment, the cost-of-capital divide, utility reform, reverse auctions and standardized contracts, currency risk, transmission and regional power pools, grid flexibility and storage, distributed power, industrial electrification, just energy transition partnerships and sovereign green bonds, and closes with a century-scale synthesis across four planning periods from 2000 to 2100. It includes a lexicon of the framework’s defined terms."
+  ],
+  "coreProposition": "Overcoming the global clean energy investment divide requires moving beyond hardware cost deflation to dismantle the financial, regulatory, and transmission bottlenecks holding back the Global South.",
+  "keyFindings": [
+    {
+      "title": "Hardware is no longer the barrier.",
+      "text": "The monograph argues that although solar and battery costs have fallen by about 90%, clean investment remains concentrated in wealthy economies and China, because financing, regulatory and grid frictions prevent capital from reaching the Global South."
+    },
+    {
+      "title": "The cost-of-capital divide.",
+      "text": "It argues that borrowing costs of 12–18% in developing economies, against 3–5% in advanced ones, can multiply the cost of front-loaded clean power, and proposes blended first-loss capital to lower them."
+    },
+    {
+      "title": "Utility solvency and procurement.",
+      "text": "It argues that insolvent distribution utilities deter investment, and proposes pre-paid smart meters, escrow payment waterfalls, competitive reverse auctions and standardized contracts."
+    },
+    {
+      "title": "Currency, grids and storage.",
+      "text": "It proposes local-currency hedging through facilities such as TCX, high-voltage direct-current interconnection, and battery storage with grid-forming inverters to replace fossil peaking plants."
+    },
+    {
+      "title": "Distributed power, industry and finance.",
+      "text": "It proposes commercial rooftop solar and pay-as-you-go mini-grids, renewable-powered industrial zones, concessional refinancing for early coal retirement, and sovereign green bonds backed by domestic savings."
+    },
+    {
+      "title": "A century in four periods.",
+      "text": "The strategy runs through hardware proof (2000–2025), systemic de-risking (2025–2050), a supergrid mesh (2050–2075) and universal abundance (2075–2100)."
+    }
+  ],
+  "contents": [
+    {
+      "number": "1",
+      "title": "The Geography of Clean Investment and the Capital Allocation Divide",
+      "description": "",
+      "page": 3
+    },
+    {
+      "number": "2",
+      "title": "Dismantling the Cost-of-Capital Divide: De-Risking Emerging Market WACC",
+      "description": "",
+      "page": 6
+    },
+    {
+      "number": "3",
+      "title": "Reforming Insolvent Utilities: Eradicating Off-Taker Counterparty Risk",
+      "description": "",
+      "page": 9
+    },
+    {
+      "number": "4",
+      "title": "Reverse Auctions and Standardized Bankable Power Purchase Agreements (PPAs)",
+      "description": "",
+      "page": 12
+    },
+    {
+      "number": "5",
+      "title": "Foreign Exchange (FX) Risk and Scaling Local Currency Hedging Facilities",
+      "description": "",
+      "page": 15
+    },
+    {
+      "number": "6",
+      "title": "Transmission Modernization and Regional Cross-Border Power Pools",
+      "description": "",
+      "page": 18
+    },
+    {
+      "number": "7",
+      "title": "Grid Flexibility: Battery Storage, Synchronous Condensers and Peaker Replacement",
+      "description": "",
+      "page": 21
+    },
+    {
+      "number": "8",
+      "title": "Unleashing Distributed Power: Commercial and Industrial Rooftops and Rural Mini-Grids",
+      "description": "",
+      "page": 24
+    },
+    {
+      "number": "9",
+      "title": "Industrial Electrification: Powering Green Mines, Smelters and Special Economic Zones",
+      "description": "",
+      "page": 27
+    },
+    {
+      "number": "10",
+      "title": "Just Energy Transition Partnerships (JETPs) and Early Fossil Retirement",
+      "description": "",
+      "page": 30
+    },
+    {
+      "number": "11",
+      "title": "Deepening Domestic Capital: Sovereign Green Bonds and Local Pension Funds",
+      "description": "",
+      "page": 33
+    },
+    {
+      "number": "12",
+      "title": "Century-Scale 2000–2100 Deployment Trajectory: The 100-Year Leapfrog Architecture",
+      "description": "",
+      "page": 36
+    },
+    {
+      "number": "",
+      "title": "Lexicon of Defined Terms",
+      "description": "",
+      "page": 39
+    },
+    {
+      "number": "",
+      "title": "Bibliography",
+      "description": "",
+      "page": 40
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Polycrisis Resilience",
+      "definition": "The proactive application of economic development, technological convergence, clean transition, climate adaptation, and institutional strengthening to reduce interconnected risks threatening human wellbeing and survivability."
+    },
+    {
+      "term": "The Clean Energy Investment Chasm",
+      "definition": "The imbalance wherein over eighty-five percent of global renewable investment flows into wealthy advanced nations and China, while emerging economies possessing seventy percent of global renewable potential receive marginal capital."
+    },
+    {
+      "term": "The Cost-of-Capital Divide",
+      "definition": "The disparity in borrowing costs between advanced (3–5% WACC) and developing economies (12–18% WACC), which inflates the levelized cost of front-loaded clean energy in emerging markets by up to three-fold."
+    },
+    {
+      "term": "The Utility Off-Taker Trap",
+      "definition": "The barrier wherein private developers refuse to construct clean power plants because the state-owned single-buyer distribution company is insolvent, suffers massive line losses, and delays payments for hundreds of days."
+    },
+    {
+      "term": "Automated Revenue Escrow Waterfall",
+      "definition": "A bankruptcy-remote financial structure that automatically directs consumer utility payments into an independent trustee account, prioritizing debt service to clean independent power producers before utility operational expenses."
+    },
+    {
+      "term": "Competitive Reverse Auction",
+      "definition": "A transparent public procurement process where pre-qualified developers bid the lowest electricity tariff they are willing to accept under standardized contracts, driving down power costs through market competition."
+    },
+    {
+      "term": "Standardized Bankable PPA",
+      "definition": "A non-negotiable master legal power purchase agreement pre-approved by multilateral development banks, featuring clear risk allocations for grid curtailment (deemed generation) and sovereign default backstops."
+    },
+    {
+      "term": "The Currency Mismatch Trap",
+      "definition": "The financial vulnerability wherein a clean energy project earns revenues in volatile domestic local currency but must service its long-term construction debt in foreign hard currency, exposing the project to default during devaluations."
+    },
+    {
+      "term": "TCX Hedging Facility",
+      "definition": "A specialized multilateral-backed financial fund that absorbs emerging market foreign exchange risk by providing long-term cross-currency swaps, allowing local utilities to borrow international capital in local currency."
+    },
+    {
+      "term": "Transmission Curtailment Lag",
+      "definition": "The operational crisis where high-yield solar and wind farms are forced to waste clean energy because the underlying high-voltage transmission network lacks the thermal carrying capacity to transport power to cities."
+    },
+    {
+      "term": "High-Voltage Direct Current (HVDC)",
+      "definition": "Advanced electric power transmission utilizing direct current at voltages exceeding 800 kV, transporting gigawatts of remote renewable electricity over thousands of kilometers with line losses under 3.5% per 1,000 km."
+    },
+    {
+      "term": "Grid-Forming Synthetic Inertia",
+      "definition": "The capability of advanced solid-state inverters and battery storage to autonomously establish system voltage and frequency within 40 milliseconds, replacing the physical spinning mechanical inertia of thermal power turbines."
+    },
+    {
+      "term": "Commercial and Industrial (C&I) Solar",
+      "definition": "Behind-the-meter rooftop and ground-mounted solar installations developed directly on corporate factories, mines, and warehouses, bypassing insolvent utilities and cutting corporate power tariffs by 60%."
+    },
+    {
+      "term": "Pay-As-You-Go (PAYG) Micro-Utility",
+      "definition": "A decentralized clean energy business model integrating cellular IoT smart meters with mobile money rails, enabling low-income rural consumers to purchase electricity in daily micro-increments with zero collection fraud."
+    },
+    {
+      "term": "Special Green Economic Zone (SGEZ)",
+      "definition": "A dedicated industrial manufacturing district powered 100% by an autonomous, closed-loop renewable microgrid, insulating high-tech exporters from national grid instability and international carbon border taxes (CBAM)."
+    },
+    {
+      "term": "Concessionary Coal Refinancing (JETP/ETM)",
+      "definition": "A financial structure utilizing low-cost multilateral debt (2–3%) to buy down high-interest commercial debt on operating coal plants, contractually mandating their retirement 15 to 20 years early while funding Solar+BESS."
+    }
+  ],
+  "references": [
+    {
+      "text": "Hughes, H. (2026). Polycrisis Resilience: Addressing the Survivability Regime of the 21st Century (2000–2100). H Heuristics Monograph Series."
+    },
+    {
+      "text": "Hughes, H. (2026). Accelerating Renewable Energy Deployment in Emerging Economies: De-risking Capital, Reforming Insolvent Grids, and Unleashing Distributed Power. H Heuristics Research Monograph."
+    },
+    {
+      "text": "International Renewable Energy Agency (IRENA) (2025). Renewable Power Generation Costs in 2024. Abu Dhabi: IRENA."
+    },
+    {
+      "text": "International Energy Agency (IEA) (2025). World Energy Outlook & Financing Clean Energy in Emerging and Developing Economies. Paris: IEA."
+    },
+    {
+      "text": "BloombergNEF (BNEF) (2025). Climatescope: The Emerging Markets Energy Transition Assessment. New York: BloombergNEF."
+    },
+    {
+      "text": "World Bank (2025). Energy Sector Management Assistance Program (ESMAP): Utility Restructuring, Smart Metering, and Mini-Grids. Washington: World Bank."
+    },
+    {
+      "text": "Organisation for Economic Co-operation and Development (OECD) (2025). Clean Energy Finance and Investment Mobilisation (CEFIM) Report. Paris: OECD."
+    },
+    {
+      "text": "International Monetary Fund (IMF) (2024). Global Financial Stability Report: Navigating the Energy Transition Under Fiscal Distress. Washington: IMF."
+    },
+    {
+      "text": "Center for Global Development (CGD) (2024). Scaling Local Currency Guarantee Facilities to Mobilize Private Climate Finance. Washington: CGD."
+    },
+    {
+      "text": "United Nations Conference on Trade and Development (UNCTAD) (2025). Trade and Development Report: Navigating Green Industrial Policy. Geneva: UNCTAD."
+    },
+    {
+      "text": "Rodrik, D. (2016). Premature Deindustrialization. Journal of Economic Growth, 21(1), 1–33.",
+      "url": "https://doi.org/10.1007/s10887-015-9122-3",
+      "doi": "10.1007/s10887-015-9122-3"
+    },
+    {
+      "text": "Acemoglu, D. and Restrepo, P. (2020). Robots and Jobs: Evidence from US Labor Markets. Journal of Political Economy, 128(6), 2188–2244.",
+      "url": "https://doi.org/10.1086/705716",
+      "doi": "10.1086/705716"
+    },
+    {
+      "text": "Asian Development Bank (ADB) (2024). Energy Transition Mechanism (ETM): Piloting Early Coal Decommissioning in Southeast Asia. Manila: ADB."
+    },
+    {
+      "text": "African Development Bank (AfDB) (2025). Desert to Power Initiative & Transmission Interties in the Sahel. Abidjan: AfDB."
+    },
+    {
+      "text": "United Nations Framework Convention on Climate Change (UNFCCC) (2024). Just Energy Transition Partnerships: Implementation Progress Report. Bonn: UNFCCC."
+    },
+    {
+      "text": "Bank for International Settlements (BIS) (2024). Fast Payment Infrastructure and Machine-to-Machine Energy Micro-Settlement. Basel: BIS."
+    },
+    {
+      "text": "Power Africa (2025). Off-Taker Risk Mitigation and Power Purchase Agreement Standardization in Sub-Saharan Africa. Pretoria: Power Africa."
+    },
+    {
+      "text": "The Currency Exchange Fund (TCX) (2025). Managing Currency Risk in Emerging Market Renewable Energy Infrastructure. Amsterdam: TCX."
+    },
+    {
+      "text": "Reserve Bank of India (RBI) (2025). Report on Currency and Finance: Financing Green Growth Across Developing Federations. Mumbai: RBI."
+    },
+    {
+      "text": "Intergovernmental Panel on Climate Change (IPCC) (2023). Climate Change 2023: Synthesis Report. Geneva: IPCC."
+    },
+    {
+      "text": "Global Energy Alliance for People and Planet (GEAPP) (2025). Accelerating Distributed Renewable Energy Adoption Across the Global South. New York: GEAPP."
+    },
+    {
+      "text": "Hughes, H. (2026). Clean Energy Access as a Polycrisis Resilience Strategy. H Heuristics Monograph Series, HH-2026-PR-CEARS."
+    }
+  ]
+}
