@@ -1,0 +1,299 @@
+{
+  "seriesNumber": 31,
+  "title": "Universal Education Access as a Polycrisis Resilience Strategy",
+  "subtitle": "Building cognitive infrastructure, female absorptive capacity, and generational adaptive immunity across the 21st century",
+  "type": "Research Monograph",
+  "datePublished": "2026-11-08",
+  "dateModified": "2026-11-08",
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 40,
+  "language": "en",
+  "description": "A century-scale framework (2000–2100) arguing that universal, quality education is resilience infrastructure, in twelve chapters from the learning-poverty gap and girls’ schooling to school meals, climate-safe schools, digital tutoring, green skills and health literacy.",
+  "contribution": "A twelve-chapter monograph arguing that universal quality education is resilience infrastructure: the learning gap, girls’ schooling, school meals and cash transfers, climate-safe schools, digital tutoring, green skills, health literacy, financing and accountability, with a lexicon of its own terms.",
+  "themes": [
+    "Learning poverty",
+    "Girls’ schooling",
+    "School meals",
+    "Climate-safe schools",
+    "Digital tutoring",
+    "Green skills",
+    "Health literacy",
+    "Financing and accountability"
+  ],
+  "keywords": [
+    "universal education",
+    "learning poverty",
+    "girls’ education",
+    "school feeding",
+    "climate-resilient schools",
+    "AI tutoring",
+    "teaching at the right level",
+    "green skills",
+    "health literacy",
+    "education financing",
+    "polycrisis resilience",
+    "century-scale framework",
+    "H Heuristics Polycrisis Resilience Framework"
+  ],
+  "abstract": [
+    "Universal education is presented as cognitive infrastructure: a foundational asset that builds the adaptive capacity of people and societies facing interconnected crises. The monograph argues that education transforms people from passive victims into active agents of community defense, that expanded enrollment has not translated into learning, and that girls’ secondary schooling, school meals, climate-hardened schools, digital tutoring, green vocational skills and health literacy together reduce vulnerability across the century.",
+    "The monograph is organised in twelve chapters covering the cognitive infrastructure imperative, the gap between access and learning, the maternal education shield, cognitive absorptive capacity, school meals and cash transfers, climate-resilient school infrastructure, digital pedagogical rails, vocational adaptation and green skills, health literacy and epidemics, the macroeconomic case, and institutional governance, and closes with a century-scale synthesis across four planning periods from 2000 to 2100. It includes a lexicon of the framework’s defined terms."
+  ],
+  "coreProposition": "Universal foundational literacy and quantitative comprehension intercept environmental and systemic risks, transforming passive biological victims into proactive agents of community defense.",
+  "keyFindings": [
+    {
+      "title": "Education as resilience infrastructure.",
+      "text": "The monograph reframes education from a discretionary expense into sovereign defense and adaptive infrastructure, which determines how well people understand risk, adopt technology and respond to shocks."
+    },
+    {
+      "title": "Access without learning.",
+      "text": "It argues that the surge in school enrollment masks a deficit in foundational learning, with about 70% of children in low- and middle-income countries in learning poverty."
+    },
+    {
+      "title": "Girls’ schooling.",
+      "text": "It argues that secondary schooling for girls sharply reduces child mortality in disasters, and puts the reduction at 74% to 90%."
+    },
+    {
+      "title": "Keeping children in school through shocks.",
+      "text": "It argues for school meals sourced from local farmers and emergency cash transfers to stop climate and price shocks from permanently ending children’s schooling."
+    },
+    {
+      "title": "Safe schools, digital tutoring and skills.",
+      "text": "It proposes schools built as multi-hazard shelters with solar power and water, offline tablets with adaptive AI tutoring, teaching at the right level, and green vocational skills."
+    },
+    {
+      "title": "Health literacy, financing and a century in four periods.",
+      "text": "It argues that hygiene education limits epidemics, proposes biometric teacher attendance and citizen audits, and sets out a strategy through the access revolution (2000–2025), a pedagogical leapfrog (2025–2050), green technical education (2050–2075) and universal scientific literacy (2075–2100)."
+    }
+  ],
+  "contents": [
+    {
+      "number": "1",
+      "title": "The Cognitive Infrastructure Imperative: Education as the Foundational Resilience Asset",
+      "description": "",
+      "page": 3
+    },
+    {
+      "number": "2",
+      "title": "The Global Education Paradox: Deconstructing the Access vs. Learning Divide",
+      "description": "",
+      "page": 6
+    },
+    {
+      "number": "3",
+      "title": "The Maternal Education Shield: Female Literacy and Disaster Mortality Decoupling",
+      "description": "",
+      "page": 9
+    },
+    {
+      "number": "4",
+      "title": "Cognitive Absorptive Capacity: Navigating Complex Risk and Technological Diffusion",
+      "description": "",
+      "page": 12
+    },
+    {
+      "number": "5",
+      "title": "Disrupting the Hysteresis Loop: School Meals, Cash Transfers, and Climate Shock Absorption",
+      "description": "",
+      "page": 15
+    },
+    {
+      "number": "6",
+      "title": "Climate-Resilient School Infrastructure: Physical Campuses as Community Sanctuaries",
+      "description": "",
+      "page": 18
+    },
+    {
+      "number": "7",
+      "title": "Digital Pedagogical Rails: AI Tutors, Satellite Connectivity, and Frontier Learning",
+      "description": "",
+      "page": 21
+    },
+    {
+      "number": "8",
+      "title": "Vocational Adaptation and Green Skills: Powering the Post-Carbon Industrial Transition",
+      "description": "",
+      "page": 24
+    },
+    {
+      "number": "9",
+      "title": "Health Literacy and Epidemic Containment: The Educational Immune System",
+      "description": "",
+      "page": 27
+    },
+    {
+      "number": "10",
+      "title": "The Macroeconomic Dividend: Financing Universal Quality Education",
+      "description": "",
+      "page": 30
+    },
+    {
+      "number": "11",
+      "title": "Institutional Governance, Teacher Professionalization, and Accountability",
+      "description": "",
+      "page": 33
+    },
+    {
+      "number": "12",
+      "title": "Century-Scale Synthesis: Cognitive Capital as Civilizational Anti-Fragility (2000–2100)",
+      "description": "",
+      "page": 36
+    },
+    {
+      "number": "",
+      "title": "Lexicon of Defined Terms",
+      "description": "",
+      "page": 39
+    },
+    {
+      "number": "",
+      "title": "Bibliography",
+      "description": "",
+      "page": 40
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Polycrisis Resilience",
+      "definition": "The proactive application of economic development, technological diffusion, and institutional strengthening to reduce interconnected risks threatening human survivability."
+    },
+    {
+      "term": "Cognitive Infrastructure",
+      "definition": "The aggregate stock of literacy, numeracy, scientific comprehension, and analytical capability within a population that determines its structural ability to adapt to polycrisis shocks."
+    },
+    {
+      "term": "The Learning Poverty Trap",
+      "definition": "The failure where children attend school for years without acquiring basic literacy, leaving them cognitively defenseless against disruptions despite official enrollment."
+    },
+    {
+      "term": "The Maternal Mortality Decoupling Multiplier",
+      "definition": "The proposed mechanism whereby maternal secondary educational attainment dampens child disaster mortality, put at 74% to 90% under identical physical hazards."
+    },
+    {
+      "term": "Cognitive Absorptive Capacity",
+      "definition": "The intellectual capability of an individual or society to identify, assimilate, and deploy novel technologies and complex operational protocols during environmental disruption."
+    },
+    {
+      "term": "The Educational Hysteresis Trap",
+      "definition": "The failure whereby a temporary climate shock forces families to pull children out of school, permanently locking the next generation into illiterate subsistence poverty."
+    },
+    {
+      "term": "Home-Grown School Feeding (HGSF)",
+      "definition": "Universal provision of nutritious daily school meals procured directly from local smallholder farmer cooperatives, anchoring attendance and student nutrition during droughts."
+    },
+    {
+      "term": "The School Sanctuary Architecture",
+      "definition": "Engineering educational facilities with elevated pilings, solar microgrids, and rainwater cisterns to serve dual mandates: daily learning and emergency community disaster shelter."
+    },
+    {
+      "term": "The Digital Pedagogical Leapfrog",
+      "definition": "The deployment of decentralized, solar-powered digital tablets running offline generative AI tutoring software and satellite uplinks to bypass human teacher shortages."
+    },
+    {
+      "term": "Teaching at the Right Level (TaRL)",
+      "definition": "A pedagogical methodology pioneered by Pratham that groups children by demonstrated learning level rather than age, dedicating time to intensive foundational literacy."
+    },
+    {
+      "term": "The Green Technical Sovereignty Dividend",
+      "definition": "The socio-economic multiplier achieved when secondary education equips youth with hands-on skills in solar, water, and resilient construction, reducing external dependency."
+    },
+    {
+      "term": "The Societal Cognitive Immune System",
+      "definition": "The collective capacity of an educated population to comprehend microbiological risks, execute sterile hygiene protocols, and comply with quarantine directives without coercion."
+    },
+    {
+      "term": "Environmental Enteropathy",
+      "definition": "Chronic intestinal inflammation caused by ingesting fecal bacteria from unsterilized water and open defecation, preventing nutrient absorption and causing cognitive stunting."
+    },
+    {
+      "term": "The Cognitive Stunting Inaction Multiplier",
+      "definition": "The proposition that aggregate societal losses from an illiterate, unbuffered population ($10.4T/yr) exceed the capital cost of universal education by over 100-fold."
+    },
+    {
+      "term": "Pedagogical Accountability Governance",
+      "definition": "The institutional framework combining biometric monitoring, performance-based civil service pay, and citizen-led public audits to align educational bureaucracy with student learning."
+    },
+    {
+      "term": "The Civilizational Cognitive Horizon",
+      "definition": "The state of development achieved when universal quality education equips 100% of humanity with scientific literacy and adaptive agency, anchoring planetary flourishing."
+    }
+  ],
+  "references": [
+    {
+      "text": "Hughes, H. (2026). Polycrisis Resilience: Addressing the Survivability Regime of the 21st Century (2000–2100). H Heuristics Monograph Series."
+    },
+    {
+      "text": "Hughes, H. (2026). Universal Education Access as a Polycrisis Resilience Strategy. H Heuristics Monograph, HH-2026-PR-UEARS."
+    },
+    {
+      "text": "Hughes, H. (2026). Education as Resilience Infrastructure: How Literacy and Digital Skills Increase Adaptive Capacity. H Heuristics Monograph Series."
+    },
+    {
+      "text": "Hughes, H. (2026). The Climate-Pollution-Education Trap: Heat, School Disruption, and Long-Run Human Capital. H Heuristics Research Report."
+    },
+    {
+      "text": "Hughes, H. (2026). The Global Education Paradox: Enrolling Millions While Leaving Most Unable to Read. H Heuristics Working Paper."
+    },
+    {
+      "text": "Hughes, H. (2026). Education in the Global South This Century: Deficits, Digital Learning, and Adaptive Capital. H Heuristics Report."
+    },
+    {
+      "text": "UNESCO (2024). Global Education Monitoring Report 2024: Technology in Education — A Tool on Whose Terms? Paris: UNESCO."
+    },
+    {
+      "text": "World Bank Group (2024). Ending Learning Poverty: What Will It Take? International Bank for Reconstruction and Development. Washington, DC: World Bank."
+    },
+    {
+      "text": "World Bank Group (2025). The Human Capital Project: Human Capital as an Engine of Resilience and Growth. Washington, DC: World Bank."
+    },
+    {
+      "text": "UNICEF (2024). The State of the World’s Children 2024: Children in a Changing Climate. New York: UNICEF."
+    },
+    {
+      "text": "World Food Programme (WFP) (2024). State of School Feeding Worldwide 2024: Scaling Home-Grown School Meals. Rome: WFP."
+    },
+    {
+      "text": "UNDRR (2024). Global Assessment Report on Disaster Risk Reduction (GAR): Special Report on Early Warning and Education. Geneva: UNDRR."
+    },
+    {
+      "text": "World Health Organization (WHO) (2024). Health Literacy: The Solid Facts for Community Emergency Preparedness. Geneva: WHO."
+    },
+    {
+      "text": "Lancet Commission (2024). The Lancet Planetary Health Commission on Human Capital and Climate Resilience. The Lancet Planetary Health, 8(6), e412–e428."
+    },
+    {
+      "text": "Banerjee, A. and Duflo, E. (2024). Remedying Learning Poverty: Experimental Evidence on Teaching at the Right Level in Africa and Asia. J-PAL / MIT Working Paper."
+    },
+    {
+      "text": "International Telecommunication Union (ITU) (2024). The Digital Learning Divide: Satellite Connectivity and Last-Mile Education. Geneva: ITU."
+    },
+    {
+      "text": "International Labour Organization (ILO) (2024). Skills for a Greener Future: A Global View Based on 32 Country Studies. Geneva: ILO."
+    },
+    {
+      "text": "Pratham Education Foundation (2024). Annual Status of Education Report (ASER) 2024: Beyond Basics. New Delhi: ASER Centre."
+    },
+    {
+      "text": "Copenhagen Consensus Center (2024). Best Investments for Development: Education and Foundational Learning. Copenhagen: CCC."
+    },
+    {
+      "text": "Stockholm Resilience Centre (2024). Adaptive Capacity in Social-Ecological Systems: The Role of Human Cognitive Agency. Stockholm: SRC."
+    },
+    {
+      "text": "International Energy Agency (IEA) (2025). Clean Energy Employment Report 2025: Vocational Skills for the Energy Transition. Paris: IEA."
+    },
+    {
+      "text": "Hughes, H. (2026). Clean Energy Access as a Polycrisis Resilience Strategy. H Heuristics Monograph, HH-2026-PR-CEARS."
+    }
+  ]
+}
