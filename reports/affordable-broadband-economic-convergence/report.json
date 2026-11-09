@@ -1,0 +1,323 @@
+{
+  "seriesNumber": 40,
+  "title": "Affordable Broadband and Global Economic Convergence",
+  "subtitle": "The augmented Solow-Swan framework, open-access wholesale infrastructure, spectrum economics, and the century convergence dividend",
+  "type": "Research Monograph",
+  "datePublished": "2026-11-09",
+  "dateModified": "2026-11-09",
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "license": {
+    "name": "All rights reserved",
+    "shortName": "All rights reserved"
+  },
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 40,
+  "language": "en",
+  "description": "A century-scale framework (2000–2100) arguing that affordable broadband is a general-purpose technology for economic convergence and that four pillars (open-access wholesale networks, spectrum abundance, digital public rails and human capital) can deliver it, in twelve chapters from growth theory and tariffs to spectrum, trade, finance, subsidies and case studies.",
+  "contribution": "A twelve-chapter monograph on affordable broadband and economic convergence: an augmented growth model, bandwidth poverty and tariffs, telecom market structure and open-access networks, spectrum policy, digital trade, finance, human capital, regional corridors, public-sector productivity and subsidy design, with a four-pillar framework and a lexicon of its own terms.",
+  "themes": [
+    "Growth theory",
+    "Bandwidth poverty",
+    "Open-access networks",
+    "Spectrum policy",
+    "Digital trade",
+    "Financial rails",
+    "Human capital",
+    "Regional corridors",
+    "Subsidy design",
+    "Case studies"
+  ],
+  "keywords": [
+    "broadband",
+    "economic convergence",
+    "total factor productivity",
+    "general-purpose technology",
+    "bandwidth poverty",
+    "open-access wholesale networks",
+    "spectrum policy",
+    "digital trade",
+    "internet exchange points",
+    "universal service funds",
+    "smartphone financing",
+    "telecom competition",
+    "polycrisis resilience",
+    "century-scale framework",
+    "H Heuristics Polycrisis Resilience Framework"
+  ],
+  "abstract": [
+    "Affordable, high-speed broadband is presented as a general-purpose technology that shifts the national production frontier and drives economic convergence between poorer and richer countries. The monograph argues that low-income economies stay in low-productivity traps because of market friction and information asymmetries, that high broadband prices, device import duties and concentrated telecom markets impose a regressive penalty on poor users, and that competition, open-access wholesale infrastructure and better spectrum policy can lower prices and expand use.",
+    "It proposes four pillars: open-access wholesale infrastructure, spectrum abundance with coverage obligations, interoperable digital public rails, and human capital and cognitive arbitrage through cloud compute and AI. The monograph is organised in twelve chapters covering an augmented growth model, bandwidth poverty, telecom industrial organization, spectrum economics, digital trade, financial rails, human capital, regional corridors, public-sector productivity, subsidy architecture and case studies, and closes with a century-scale synthesis across four planning periods from 2000 to 2100. It includes a lexicon of the framework’s defined terms."
+  ],
+  "coreProposition": "Affordable, high-speed broadband functions as a general-purpose technology that shifts the national production possibility frontier, acting as a primary catalyst for macroeconomic convergence.",
+  "keyFindings": [
+    {
+      "title": "Convergence has not been automatic.",
+      "text": "The monograph argues that low-income countries have repeatedly become trapped in low-productivity equilibria, caused by spatial market friction, geographic isolation and information asymmetries, and that broadband can help them escape."
+    },
+    {
+      "title": "A regressive bandwidth penalty.",
+      "text": "It argues that low-income users buying small prepaid data passes pay far more per gigabyte than affluent subscribers, and that entry-level broadband costs far more than the UN’s 2%-of-income affordability benchmark, compounded by import duties on smartphones."
+    },
+    {
+      "title": "Competition and open access.",
+      "text": "It proposes antitrust action against concentrated telecom markets, local loop unbundling, and carrier-neutral wholesale open-access networks."
+    },
+    {
+      "title": "Spectrum and exchange points.",
+      "text": "It proposes replacing revenue-maximizing spectrum auctions with coverage-obligation licensing and dynamic spectrum sharing, and carrier-neutral regional internet exchange points to stop local traffic being routed abroad."
+    },
+    {
+      "title": "Trade, finance and human capital.",
+      "text": "It proposes digital trade rails, open payment switches and digital public infrastructure, and cloud compute and AI to let knowledge workers in developing countries sell services globally."
+    },
+    {
+      "title": "Subsidies, cases and a century in four periods.",
+      "text": "It proposes least-cost reverse subsidy auctions, device financing and vouchers, draws on Vietnam, India, Costa Rica and Rwanda, and sets out a strategy through infrastructure awakening (2000–2025), universal affordability (2025–2050), autonomous integration (2050–2075) and planetary knowledge parity (2075–2100)."
+    }
+  ],
+  "contents": [
+    {
+      "number": "",
+      "title": "Executive Summary and Century-Scale Transition Trajectory",
+      "description": "",
+      "page": 2
+    },
+    {
+      "number": "1",
+      "title": "Macroeconomic Foundations: The Augmented Solow-Swan Convergence Model",
+      "description": "",
+      "page": 3
+    },
+    {
+      "number": "2",
+      "title": "The Microeconomics of Bandwidth Poverty: Tariffs, Taxes, and the Poverty Penalty",
+      "description": "",
+      "page": 6
+    },
+    {
+      "number": "3",
+      "title": "Telecommunications Industrial Organization: De-Monopolization and Open-Access Infrastructure",
+      "description": "",
+      "page": 9
+    },
+    {
+      "number": "4",
+      "title": "Spectrum Economics: Ending Extractive Auctions and Unlocking Dynamic Abundance",
+      "description": "",
+      "page": 12
+    },
+    {
+      "number": "5",
+      "title": "Digital Trade Rails and Global Value Chain (GVC) Integration",
+      "description": "",
+      "page": 15
+    },
+    {
+      "number": "6",
+      "title": "Financial Deepening, Real-Time Rails, and Capital Market Democratization",
+      "description": "",
+      "page": 18
+    },
+    {
+      "number": "7",
+      "title": "Human Capital Equalization: Cloud Compute, Generative AI, and Global Knowledge Arbitrage",
+      "description": "",
+      "page": 21
+    },
+    {
+      "number": "8",
+      "title": "Regional Trade Blocs and Cross-Border Digital Corridor Harmonization",
+      "description": "",
+      "page": 24
+    },
+    {
+      "number": "9",
+      "title": "Public Sector Productivity: E-Procurement, Tax Digitization, and Administrative Efficiency",
+      "description": "",
+      "page": 27
+    },
+    {
+      "number": "10",
+      "title": "The Last-Mile Subsidy Architecture: Universal Vouchers and Device Financing Levers",
+      "description": "",
+      "page": 30
+    },
+    {
+      "number": "11",
+      "title": "Empirical Case Studies of Broadband-Led Convergence: Vietnam, India, Costa Rica, and Rwanda",
+      "description": "",
+      "page": 33
+    },
+    {
+      "number": "12",
+      "title": "Century-Scale Synthesis: The Broadband Convergence Dividend (2000–2100)",
+      "description": "",
+      "page": 36
+    },
+    {
+      "number": "",
+      "title": "Lexicon of Defined Terms and the Four-Pillar Framework",
+      "description": "",
+      "page": 39
+    },
+    {
+      "number": "",
+      "title": "Bibliography and Colophon",
+      "description": "",
+      "page": 40
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Total Factor Productivity (TFP) Catch-Up",
+      "definition": "The measure of aggregate economic output efficiency gains that cannot be accounted for by simple capital or labor inputs, said to be accelerated by general-purpose digital technologies."
+    },
+    {
+      "term": "Bandwidth Poverty Penalty",
+      "definition": "The market distortion whereby low-income users purchasing micro-metered prepaid daily data passes pay unit rates up to 80 times higher per gigabyte than affluent postpaid subscribers."
+    },
+    {
+      "term": "Metcalfe’s Macroeconomic Threshold",
+      "definition": "The proposed inflection point in population penetration at which broadband network externalities ignite self-reinforcing enterprise formation and economic growth."
+    },
+    {
+      "term": "Herfindahl-Hirschman Index (HHI)",
+      "definition": "A standard antitrust metric of market concentration; values above 2,500 denote concentrated markets, while developing telecom duopolies are stated to routinely exceed 4,500."
+    },
+    {
+      "term": "Local Loop Unbundling (LLU)",
+      "definition": "A regulatory mandate requiring incumbent network owners to lease dark fiber and conduit ducts to competing retail service providers at cost-oriented, non-discriminatory rates."
+    },
+    {
+      "term": "Wholesale Open-Access Network (WOAN)",
+      "definition": "A carrier-neutral, utility-scale physical infrastructure entity legally restricted to wholesale bandwidth sales, preventing anti-competitive self-preferencing."
+    },
+    {
+      "term": "Coverage-Obligation Spectrum Licensing",
+      "definition": "An administrative allocation framework awarding prime spectrum at nominal cost in exchange for legally binding commitments to achieve 95% or more rural broadband coverage."
+    },
+    {
+      "term": "Dynamic Spectrum Sharing (DSS)",
+      "definition": "An automated, cognitive frequency management regime allowing secondary users to transmit across temporarily unoccupied licensed radio bands without interference."
+    },
+    {
+      "term": "Digitally Deliverable Services (DDS)",
+      "definition": "High-value professional, scientific, administrative, and creative services that can be transmitted across cross-border fiber rails without moving physical freight."
+    },
+    {
+      "term": "Digital Public Infrastructure (DPI)",
+      "definition": "The foundational triad of open, interoperable digital rails (biometric identity, real-time payment switches, and verifiable data registries) operating as public goods."
+    },
+    {
+      "term": "Virtual Emigration and Brain Gain",
+      "definition": "The phenomenon where high-skill knowledge workers in developing economies earn global remote wages over broadband while residing domestically, recycling wealth locally."
+    },
+    {
+      "term": "Tromboned Traffic Inefficiency",
+      "definition": "A routing failure where intra-regional data traverses intercontinental subsea cables to overseas hubs before returning, multiplying latency and foreign-exchange costs."
+    },
+    {
+      "term": "Carrier-Neutral Internet Exchange Point (IXP)",
+      "definition": "A physical facility where competing ISPs, content networks, and mobile operators interconnect to exchange local traffic without paying international transit fees."
+    },
+    {
+      "term": "Least-Cost Reverse Subsidy Auction",
+      "definition": "A competitive procurement model where operators bid for the lowest one-time government grant required to build open-access broadband in unserved rural zones."
+    },
+    {
+      "term": "Pay-As-You-Go (PAYG) Smartphone Financing",
+      "definition": "An asset-backed micro-leasing model that allows low-income users to acquire smartphones for $5 down and daily $0.30 mobile money payments with remote locking."
+    },
+    {
+      "term": "Planetary Broadband Convergence Dividend",
+      "definition": "The cumulative century-scale macroeconomic expansion (stated as $42 trillion or more by 2100) said to be realized when universal, affordable broadband closes the global productivity divide."
+    }
+  ],
+  "references": [
+    {
+      "text": "Hughes, H. (2026). Polycrisis Resilience: Addressing the Survivability Regime of the 21st Century (2000–2100). H Heuristics Monograph Series."
+    },
+    {
+      "text": "Hughes, H. (2026). Affordable Broadband and Global Economic Convergence. H Heuristics Monograph, HH-2026-PR-ABGEC."
+    },
+    {
+      "text": "Hughes, H. (2026). The Microeconomics of Bandwidth Poverty: Tariffs, Taxes, and the Sachet Penalty. H Heuristics Working Paper."
+    },
+    {
+      "text": "Hughes, H. (2026). Telecommunications Industrial Organization and the Open-Access Utility Model in Emerging Markets. H Heuristics Research Report."
+    },
+    {
+      "text": "Hughes, H. (2026). Digital Trade Rails and the Servitization of Global Value Chains. H Heuristics Monograph."
+    },
+    {
+      "text": "Solow, R. M. (1956). A Contribution to the Theory of Economic Growth. Quarterly Journal of Economics, 70(1), 65–94.",
+      "url": "https://doi.org/10.2307/1884513",
+      "doi": "10.2307/1884513"
+    },
+    {
+      "text": "Romer, P. M. (1990). Endogenous Technological Change. Journal of Political Economy, 98(5), S71–S102.",
+      "url": "https://doi.org/10.1086/261725",
+      "doi": "10.1086/261725"
+    },
+    {
+      "text": "Lucas, R. E. (1990). Why Doesn’t Capital Flow from Rich to Poor Countries? American Economic Review, 80(2), 92–96."
+    },
+    {
+      "text": "Czernich, N., Falck, O., Kretschmer, T. and Woessmann, L. (2011). Broadband Infrastructure and Economic Growth. Economic Journal, 121(552), 505–532.",
+      "url": "https://doi.org/10.1111/j.1468-0297.2011.02420.x",
+      "doi": "10.1111/j.1468-0297.2011.02420.x"
+    },
+    {
+      "text": "International Telecommunication Union (2024). Facts and Figures 2024: Global Connectivity and Tariff Pricing. Geneva: ITU."
+    },
+    {
+      "text": "World Bank (2024). Digital Progress and Trends Report 2024: Accelerating Convergence. Washington, DC: World Bank."
+    },
+    {
+      "text": "UN Broadband Commission (2023). The State of Broadband 2023: Digital Connectivity for Economic Transformation. Paris: UNESCO/ITU."
+    },
+    {
+      "text": "Alliance for Affordable Internet (2023). Affordability Report 2023: Breaking the 2% GNI Poverty Barrier. Washington, DC: Web Foundation / A4AI."
+    },
+    {
+      "text": "World Trade Organization (2024). World Trade Report 2024: Digital Trade and Global Economic Inclusivity. Geneva: WTO."
+    },
+    {
+      "text": "Baldwin, R. (2019). The Globotics Upheaval: Globalization, Robotics, and the Future of Work. Oxford: Oxford University Press."
+    },
+    {
+      "text": "Kondratiev, N. D. (1935). The Long Waves in Economic Life. Review of Economic Statistics, 17(6), 105–115.",
+      "url": "https://doi.org/10.2307/1928486",
+      "doi": "10.2307/1928486"
+    },
+    {
+      "text": "Muralidharan, K., Niehaus, P. and Sukhtankar, S. (2016). Building State Capacity: Biometric Technology-Enabled Transfers in India. Science, 354(6317), 1294–1298."
+    },
+    {
+      "text": "Jensen, R. (2007). The Digital Provide: Information Technology and Market Performance in South India. Quarterly Journal of Economics, 122(3), 879–924.",
+      "url": "https://doi.org/10.1162/qjec.122.3.879",
+      "doi": "10.1162/qjec.122.3.879"
+    },
+    {
+      "text": "Internet Society (2023). Anchoring the African Digital Economy: The Catalytic Impact of IXPs. Reston: ISOC."
+    },
+    {
+      "text": "GSMA (2024). The Mobile Economy 2024: Unlocking Spectrum and Handset Financing. London: GSM Association."
+    },
+    {
+      "text": "Bank for International Settlements (2023). The Technology of Retail Rapid Payments: Lessons from Pix and UPI. BIS Papers No. 132. Basel: BIS."
+    },
+    {
+      "text": "African Union and UNECA (2024). The AfCFTA Digital Trade Protocol: Harmonizing Cross-Border Corridors. Addis Ababa: African Union."
+    }
+  ]
+}
