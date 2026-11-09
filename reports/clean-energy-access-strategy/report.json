@@ -1,0 +1,306 @@
+{
+  "seriesNumber": 24,
+  "title": "Clean Energy Access as a Polycrisis Resilience Strategy",
+  "subtitle": "Decoupling development from fossil fragility, hardening infrastructure against climate shocks, and expanding human capabilities across the Global South",
+  "type": "Research Monograph",
+  "datePublished": "2026-11-08",
+  "dateModified": "2026-11-08",
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 40,
+  "language": "en",
+  "description": "A century-scale framework (2000–2100) arguing that distributed clean energy is macroeconomic armor and a societal shock absorber, in twelve chapters from fuel imports and microgrids to clean cooking, health clinics, minerals and finance.",
+  "contribution": "A twelve-chapter monograph arguing that clean energy access is macroeconomic armor: fuel-import savings, islandable microgrids, productive and household uses, clinic power, minerals, cost of capital and smart grids, with a lexicon of its own terms.",
+  "themes": [
+    "Fuel imports",
+    "Microgrids",
+    "Agriculture",
+    "Clean cooking",
+    "Health clinics",
+    "Urban air",
+    "Critical minerals",
+    "Cost of capital",
+    "Smart grids"
+  ],
+  "keywords": [
+    "clean energy access",
+    "energy security",
+    "distributed solar",
+    "microgrids",
+    "grid resilience",
+    "clean cooking",
+    "healthcare electrification",
+    "critical minerals",
+    "cost of capital",
+    "virtual power plants",
+    "polycrisis resilience",
+    "century-scale framework",
+    "H Heuristics Polycrisis Resilience Framework"
+  ],
+  "abstract": [
+    "In an era of compounding global polycrises, clean energy access is presented as functioning far beyond carbon mitigation: as foundational macroeconomic armor and a societal shock absorber. Replacing volatile fossil fuel imports with distributed, zero-marginal-cost clean power is argued to end a chronic foreign exchange drain, eliminate single points of grid failure, power climate-resilient agriculture and healthcare, and halt toxic indoor and ambient combustion pollution.",
+    "The monograph is organised in twelve chapters covering macroeconomic armor, the foreign fuel trap, decentralized generation and grid antifragility, rural productive uses, clean cooking, healthcare electrification, urban air quality, critical mineral sovereignty, the cost-of-capital divide, digital-energy convergence and South-South technology compacts, and closes with a century-scale synthesis across four planning periods from 2000 to 2100. It includes a lexicon of the framework’s defined terms."
+  ],
+  "coreProposition": "Clean energy access operates as foundational macroeconomic armor and a societal shock absorber: it is the technological enabler through which emerging economies decouple human development from ecological collapse.",
+  "keyFindings": [
+    {
+      "title": "Beyond decarbonization.",
+      "text": "The monograph argues that replacing imported fossil fuels with distributed, near-zero-marginal-cost renewable power anchors domestic energy costs against imported commodity inflation and protects national budgets."
+    },
+    {
+      "title": "The foreign fuel trap.",
+      "text": "It argues that recurring hydrocarbon imports drain developing economies of foreign currency, and that local clean energy retains that capital for human development."
+    },
+    {
+      "title": "Grid antifragility.",
+      "text": "It argues for modular, islandable solar-plus-storage microgrids that keep critical services running when the central grid fails."
+    },
+    {
+      "title": "Productive and household uses.",
+      "text": "It proposes solar irrigation and cold storage to cut post-harvest loss, clean cooking to end household smoke and free women’s time, and dedicated clean power for rural clinics, vaccine cold chains and emergency care."
+    },
+    {
+      "title": "Minerals, finance and digital grids.",
+      "text": "It argues for domestic refining of critical minerals, blended finance and currency-swap facilities to narrow the cost-of-capital divide, and digitally coordinated virtual power plants."
+    },
+    {
+      "title": "A century in four periods.",
+      "text": "The strategy runs through foundation and proof (2000–2025), acceleration and leapfrog (2025–2050), systemic integration (2050–2075) and universal abundance (2075–2100)."
+    }
+  ],
+  "contents": [
+    {
+      "number": "1",
+      "title": "Beyond Decarbonization: Clean Energy as Macroeconomic Armor",
+      "description": "",
+      "page": 3
+    },
+    {
+      "number": "2",
+      "title": "Breaking the Foreign Fuel Trap: Balance of Payments and Sovereign Solvency",
+      "description": "",
+      "page": 6
+    },
+    {
+      "number": "3",
+      "title": "Decentralized Generation and Grid Antifragility: Eliminating Single Points of Failure",
+      "description": "",
+      "page": 9
+    },
+    {
+      "number": "4",
+      "title": "The Rural Productive Frontier: Powering Agronomic Resilience and Food Systems",
+      "description": "",
+      "page": 12
+    },
+    {
+      "number": "5",
+      "title": "The Household Energy Divide: Clean Cooking as a Human Capability Multiplier",
+      "description": "",
+      "page": 15
+    },
+    {
+      "number": "6",
+      "title": "Healthcare Electrification and Life-Critical Service Continuity",
+      "description": "",
+      "page": 18
+    },
+    {
+      "number": "7",
+      "title": "Urban Microclimate and the Public Health Dividend: Eradicating Combustion",
+      "description": "",
+      "page": 21
+    },
+    {
+      "number": "8",
+      "title": "Critical Mineral Sovereignty and Localized Value Chains in the Global South",
+      "description": "",
+      "page": 24
+    },
+    {
+      "number": "9",
+      "title": "Dismantling the Cost-of-Capital Divide: Blended Finance and De-Risking",
+      "description": "",
+      "page": 27
+    },
+    {
+      "number": "10",
+      "title": "Digital-Energy Convergence: Smart Grids, AI Dispatch and Edge Balancing",
+      "description": "",
+      "page": 30
+    },
+    {
+      "number": "11",
+      "title": "South-South Technology Compacts and Frugal Clean Innovation",
+      "description": "",
+      "page": 33
+    },
+    {
+      "number": "12",
+      "title": "Century-Scale Synthesis: The 2000–2100 Clean Resilience Architecture",
+      "description": "",
+      "page": 36
+    },
+    {
+      "number": "",
+      "title": "Lexicon of Defined Terms",
+      "description": "",
+      "page": 39
+    },
+    {
+      "number": "",
+      "title": "Bibliography",
+      "description": "",
+      "page": 40
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Polycrisis Resilience",
+      "definition": "The proactive application of economic development, technological convergence, innovation diffusion, clean transition, climate adaptation, and institutional strengthening to reduce interconnected risks threatening human wellbeing and survivability."
+    },
+    {
+      "term": "Macroeconomic Armor",
+      "definition": "The structural economic protection achieved when domestic energy systems transition from imported, volatile combustible fuels to capital-intensive renewable assets whose ongoing fuel cost is permanently zero."
+    },
+    {
+      "term": "The Cost-of-Capital Divide",
+      "definition": "The disparity in borrowing costs between advanced and developing economies, which inflates the levelized cost of capital-intensive clean energy in emerging markets by up to three-fold despite identical underlying physical technology."
+    },
+    {
+      "term": "Balance of Payments Resilience Surplus",
+      "definition": "The cumulative domestic capital retained within an economy by replacing recurring foreign hydrocarbon purchases with local clean energy infrastructure, liberating fiscal resources for human development."
+    },
+    {
+      "term": "Grid Antifragility and Islanding",
+      "definition": "The property whereby localized power networks can disconnect from the central high-voltage grid during emergencies, continuing to generate, store, and distribute electricity autonomously to critical services."
+    },
+    {
+      "term": "Productive Use of Renewable Energy (PURE)",
+      "definition": "The deployment of decentralized clean power specifically to drive agricultural and industrial machinery, such as irrigation pumps, cold-storage rooms, and grain mills, multiplying smallholder income and food system resilience."
+    },
+    {
+      "term": "Clean Cooking Capability Dividend",
+      "definition": "The simultaneous expansion of physical health, economic agency, gender equality, and ecological stability achieved when households transition from polluting solid fuels to modern electric induction, smart LPG, and advanced biodigesters."
+    },
+    {
+      "term": "Clinical Power Sovereignty",
+      "definition": "The state in which a primary healthcare facility possesses dedicated, uninterrupted on-site clean power generation and storage, ensuring 100% uptime for life-support machinery, cold chains, and emergency care."
+    },
+    {
+      "term": "Combustion-Free Urban Dividend",
+      "definition": "The macroeconomic and human welfare gains achieved when cities eliminate fossil fuel combustion, slashing air-pollution mortality, dampening urban heat island temperatures, and reclaiming lost economic productivity."
+    },
+    {
+      "term": "Critical Mineral Beneficiation Sovereignty",
+      "definition": "The industrial policy doctrine whereby resource-rich developing nations prohibit the export of unprocessed raw ores, mandating domestic refining, cathode precursor synthesis, and battery assembly to capture maximum value."
+    },
+    {
+      "term": "Cyber-Physical Power Mesh",
+      "definition": "The synthesis of digital identity, instant payment rails, and artificial intelligence with physical renewable generation and battery storage, enabling automated sub-second power balancing and decentralized energy trading."
+    },
+    {
+      "term": "Virtual Power Plant (VPP)",
+      "definition": "An algorithmically coordinated network of thousands of independent, distributed energy assets, such as household rooftop solar, commercial battery banks, and electric vehicle fleets, aggregated and dispatched as a unified utility asset."
+    },
+    {
+      "term": "Frugal Clean Innovation",
+      "definition": "The collaborative design and manufacturing of rugged, affordable, and repairable clean energy hardware tailored for tropical climates, paired with multilateral cross-border electrical interconnections that smooth regional intermittency."
+    },
+    {
+      "term": "Concessionary First-Loss Capital",
+      "definition": "A public or philanthropic financing tranche that absorbs initial project losses, de-risking private institutional commercial debt and lowering overall weighted average cost of capital in emerging markets."
+    },
+    {
+      "term": "Foreign Exchange (FX) Swap Facility",
+      "definition": "A dedicated financial liquidity instrument that absorbs national currency depreciation risks, allowing domestic renewable utilities to borrow international capital while servicing debt in local currency."
+    },
+    {
+      "term": "Planetary Thermodynamic Abundance",
+      "definition": "The regime in which near-zero-marginal-cost renewable and clean energy flows permanently decouple human material flourishing and economic convergence from ecological exploitation through 2100."
+    }
+  ],
+  "references": [
+    {
+      "text": "Hughes, H. (2026). Polycrisis Resilience: Addressing the Survivability Regime of the 21st Century (2000–2100). H Heuristics Monograph Series."
+    },
+    {
+      "text": "Hughes, H. (2026). Clean Energy Access as a Polycrisis Resilience Strategy: Decoupling Development from Fossil Fragility. H Heuristics Research Monograph."
+    },
+    {
+      "text": "International Renewable Energy Agency (IRENA) (2025). Renewable Power Generation Costs in 2024. Abu Dhabi: IRENA."
+    },
+    {
+      "text": "International Energy Agency (IEA) (2025). World Energy Outlook & Global Energy Access Database. Paris: IEA."
+    },
+    {
+      "text": "World Health Organization (WHO) (2025). Ambient and Household Air Pollution and Premature Mortality: A Planetary Assessment. Geneva: WHO."
+    },
+    {
+      "text": "World Bank (2025). Energy Sector Management Assistance Program (ESMAP): Electrifying Health and Agriculture in Emerging Markets. Washington: World Bank."
+    },
+    {
+      "text": "United Nations Conference on Trade and Development (UNCTAD) (2025). Trade and Development Report: Escaping the Primary Commodity Trap. Geneva: UNCTAD."
+    },
+    {
+      "text": "Rodrik, D. (2016). Premature Deindustrialization. Journal of Economic Growth, 21(1), 1–33.",
+      "url": "https://doi.org/10.1007/s10887-015-9122-3",
+      "doi": "10.1007/s10887-015-9122-3"
+    },
+    {
+      "text": "Acemoglu, D. and Restrepo, P. (2020). Robots and Jobs: Evidence from US Labor Markets. Journal of Political Economy, 128(6), 2188–2244.",
+      "url": "https://doi.org/10.1086/705716",
+      "doi": "10.1086/705716"
+    },
+    {
+      "text": "Food and Agriculture Organization (FAO) (2025). Post-Harvest Spoilage, Cold-Storage Economics, and Smallholder Resilience. Rome: United Nations."
+    },
+    {
+      "text": "Bank for International Settlements (BIS) (2024). Machine-to-Machine Payments and the Architecture of Open Fast Payment Rails. Basel: BIS Innovation Hub."
+    },
+    {
+      "text": "Perez, C. (2010). Technological Revolutions and Techno-Economic Paradigms. Cambridge Journal of Economics, 34(1), 185–202.",
+      "url": "https://doi.org/10.1093/cje/bep051",
+      "doi": "10.1093/cje/bep051"
+    },
+    {
+      "text": "African Export-Import Bank (Afreximbank) (2025). African Critical Minerals Beneficiation Strategy. Cairo: Afreximbank."
+    },
+    {
+      "text": "United Nations Industrial Development Organization (UNIDO) (2024). Frugal Innovation, Tropicalized Mechatronics, and Industrial Sovereignty. Vienna: UNIDO."
+    },
+    {
+      "text": "Clean Cooking Alliance (CCA) (2025). Modern Energy Cooking Services & Universal Capability Expansion. Washington, DC: CCA."
+    },
+    {
+      "text": "Intergovernmental Panel on Climate Change (IPCC) (2023). Climate Change 2023: Synthesis Report. Geneva: IPCC."
+    },
+    {
+      "text": "International Monetary Fund (IMF) (2024). Balance of Payments Vulnerabilities and Fuel Import Exposure in Developing Economies. Washington: IMF."
+    },
+    {
+      "text": "United Nations Office for Disaster Risk Reduction (UNDRR) (2024). Global Assessment Report on Disaster Risk Reduction. Geneva: UNDRR."
+    },
+    {
+      "text": "Reserve Bank of India (RBI) (2025). Population-Scale Digital Public Infrastructure and Real-Time Energy Micro-Clearing. Mumbai: RBI."
+    },
+    {
+      "text": "African Development Bank (AfDB) (2025). Desert to Power Initiative & Sahelian Solar Minigrid Acceleration. Abidjan: AfDB."
+    },
+    {
+      "text": "Asian Development Bank (ADB) (2024). Virtual Power Plants, Battery Storage Economics, and Grid Resilience in Asia. Manila: ADB."
+    },
+    {
+      "text": "Hughes, H. (2026). Digital Public Infrastructure and Systemic Resilience. H Heuristics Monograph Series, HH-2026-PR-DPISR."
+    }
+  ]
+}
