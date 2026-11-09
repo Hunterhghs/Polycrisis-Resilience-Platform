@@ -1,0 +1,306 @@
+{
+  "seriesNumber": 35,
+  "title": "Affordable Air Conditioning and Thermal Resilience in Emerging Economies",
+  "subtitle": "Expanding equitable mechanical cooling, inverter efficiency, and grid-integrated thermal protection across the Global South",
+  "type": "Research Monograph",
+  "datePublished": "2026-11-09",
+  "dateModified": "2026-11-09",
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 40,
+  "language": "en",
+  "description": "A century-scale framework (2000–2100) arguing that efficient, affordable air conditioning can protect people from extreme heat without overloading grids, in twelve chapters from adoption curves and the cheap-cooling trap to inverters, refrigerants, standards, bulk procurement, financing and passive design.",
+  "contribution": "A twelve-chapter monograph on affordable air conditioning in emerging economies: adoption and the cheap-cooling trap, grid peak demand, inverter efficiency, natural refrigerants, efficiency standards and dumping, bulk procurement, on-bill financing, cooling-as-a-service and passive design, with a lexicon of its own terms.",
+  "themes": [
+    "Cooling access",
+    "Lifecycle cost",
+    "Grid peak demand",
+    "Inverter efficiency",
+    "Refrigerants",
+    "Efficiency standards",
+    "Bulk procurement",
+    "Consumer financing",
+    "Passive design"
+  ],
+  "keywords": [
+    "air conditioning",
+    "affordable cooling",
+    "emerging economies",
+    "inverter air conditioners",
+    "peak electricity demand",
+    "natural refrigerants",
+    "Kigali Amendment",
+    "minimum energy performance standards",
+    "demand aggregation",
+    "on-bill financing",
+    "cooling as a service",
+    "heat resilience",
+    "polycrisis resilience",
+    "century-scale framework",
+    "H Heuristics Polycrisis Resilience Framework"
+  ],
+  "abstract": [
+    "Affordable, efficient air conditioning is presented as a way to protect people from extreme heat in emerging economies without overloading power systems or adding to warming. The monograph argues that cooling adoption surges as incomes pass a threshold, that cheap fixed-speed units trap low-income households in high running costs, and that variable-speed inverters, natural refrigerants, efficiency standards, bulk public procurement, on-bill financing and service models can make efficient cooling affordable at scale.",
+    "The monograph is organised in twelve chapters covering the cooling access divide, the cheap cooling trap, peak grid demand, inverter technology, natural refrigerants, curbs on dumping of obsolete equipment, public demand aggregation, consumer financing, cooling as a service, passive architecture and the macroeconomic and human development dividends, and closes with a century-scale synthesis across four planning periods from 2000 to 2100. It includes a lexicon of the framework’s defined terms."
+  ],
+  "coreProposition": "Equitable access to efficient mechanical cooling, combined with passive design and clean grids, can protect emerging-economy populations from extreme heat without overloading power systems or accelerating warming.",
+  "keyFindings": [
+    {
+      "title": "Cooling surges with income.",
+      "text": "The monograph argues that air conditioning adoption follows an S-curve that rises sharply between roughly $4,000 and $10,000 of income per person, leaving a large population exposed to extreme heat without cooling."
+    },
+    {
+      "title": "The cheap cooling trap.",
+      "text": "It argues that low-cost fixed-speed units can cost several times their purchase price in electricity over their lifetime, trapping poorer households in energy poverty."
+    },
+    {
+      "title": "Grid peaks.",
+      "text": "It argues that synchronized afternoon cooling drives a large share of summer peak demand and forces costly peaking capacity, and that variable-speed inverter units cut that demand sharply."
+    },
+    {
+      "title": "Refrigerants and standards.",
+      "text": "It proposes a leapfrog to natural propane refrigerant under the Kigali Amendment, and statutory efficiency standards with customs audits to stop dumping of obsolete equipment."
+    },
+    {
+      "title": "Making efficiency affordable.",
+      "text": "It proposes bulk public procurement, as in India’s EESL program, on-bill utility financing repaid from energy savings, and cooling-as-a-service models."
+    },
+    {
+      "title": "Passive design and a century in four periods.",
+      "text": "It argues that reflective roofs and shading can cut active cooling loads, and sets out a strategy through the humid heat acceleration era (2000–2025), a clean cooling leapfrog (2025–2050), district micro-utilities (2050–2075) and thermal livability parity (2075–2100)."
+    }
+  ],
+  "contents": [
+    {
+      "number": "1",
+      "title": "The Cooling Access Divide: The Non-Linear S-Curve and the 1.2 Billion Deficit",
+      "description": "",
+      "page": 3
+    },
+    {
+      "number": "2",
+      "title": "The Cheap Cooling Trap: Upfront Capex vs. Lifecycle Total Cost of Ownership",
+      "description": "",
+      "page": 6
+    },
+    {
+      "number": "3",
+      "title": "The Trillion-Dollar Peaking Penalty: Grid Distress and Diurnal Summer Surges",
+      "description": "",
+      "page": 9
+    },
+    {
+      "number": "4",
+      "title": "Technological Frontier: Variable-Speed BLDC Inverters and Microchannel Condensers",
+      "description": "",
+      "page": 12
+    },
+    {
+      "number": "5",
+      "title": "The Kigali Refrigerant Leapfrog: Phasing Out Super-Pollutants via Natural Propane R290",
+      "description": "",
+      "page": 15
+    },
+    {
+      "number": "6",
+      "title": "Halting Predatory Environmental Dumping: Border Bans and High MEPS Enforcement",
+      "description": "",
+      "page": 18
+    },
+    {
+      "number": "7",
+      "title": "Public Demand Aggregation: Bulk Procurement and the India EESL Model",
+      "description": "",
+      "page": 21
+    },
+    {
+      "number": "8",
+      "title": "Innovative Consumer Financing: On-Bill Utility Repayment and Pay-As-You-Save",
+      "description": "",
+      "page": 24
+    },
+    {
+      "number": "9",
+      "title": "Cooling-as-a-Service (CaaS): Servitization and Pay-Per-Cooling Utility Models",
+      "description": "",
+      "page": 27
+    },
+    {
+      "number": "10",
+      "title": "Thermal Resilience and Passive Architecture: Blending Envelopes with Active Cooling",
+      "description": "",
+      "page": 30
+    },
+    {
+      "number": "11",
+      "title": "Macroeconomic and Human Development Dividends: Labor, Learning, and Healthcare",
+      "description": "",
+      "page": 33
+    },
+    {
+      "number": "12",
+      "title": "Century-Scale Synthesis: Universal Thermal Resilience Roadmap (2000–2100)",
+      "description": "",
+      "page": 36
+    },
+    {
+      "number": "",
+      "title": "Lexicon of Defined Terms",
+      "description": "",
+      "page": 39
+    },
+    {
+      "number": "",
+      "title": "Bibliography",
+      "description": "",
+      "page": 40
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Polycrisis Resilience",
+      "definition": "The proactive application of economic development, technological diffusion, and institutional strengthening to reduce interconnected risks threatening human survivability."
+    },
+    {
+      "term": "The Cooling Access S-Curve",
+      "definition": "The non-linear trajectory where residential air conditioning penetration remains under 5% at low incomes, surges between $4,000 and $10,000 GDP per capita (PPP), and levels off at saturation."
+    },
+    {
+      "term": "The Cheap Cooling Trap",
+      "definition": "The market failure where liquidity-constrained households purchase cheap, low-efficiency fixed-speed cooling units that incur over $1,400 in cumulative electricity bills, costing six times their initial purchase price."
+    },
+    {
+      "term": "The Peaking Capacity Multiplier",
+      "definition": "The concentration of space cooling electricity demand during heatwave afternoons that forces electric utilities to oversize generation, transmission, and distribution assets by up to 100% for a few hundred annual hours."
+    },
+    {
+      "term": "Brushless DC (BLDC) Inverter",
+      "definition": "A variable-speed compressor technology utilizing permanent magnet motors and digital power electronics to continuously modulate speed (15–120 Hz) to match real-time cooling loads, reducing power draw by up to 65%."
+    },
+    {
+      "term": "Seasonal Energy Efficiency Ratio (SEER)",
+      "definition": "The ratio of total cooling output to total electrical energy input over an entire cooling season; the PDF states modern inverter units achieve SEER above 5.5 compared to legacy fixed-speed ratings below 3.0."
+    },
+    {
+      "term": "Microchannel Heat Exchanger",
+      "definition": "An extruded aluminum condenser coil containing tiny fluid passages (under 1 mm) that accelerates convective heat transfer rates while reducing the required internal refrigerant charge by 40% to 50%."
+    },
+    {
+      "term": "The Kigali Refrigerant Leapfrog",
+      "definition": "The transition bypassing intermediate synthetic fluorocarbons (R410A/R32) and adopting ultra-low-GWP natural hydrocarbon working fluids, principally propane R290 (GWP under 3), averting up to 0.5°C of warming."
+    },
+    {
+      "term": "Predatory Environmental Dumping",
+      "definition": "The commercial practice whereby manufacturers export obsolete, low-efficiency cooling appliances that fail domestic standards or use banned refrigerants into developing economies with weak regulatory oversight."
+    },
+    {
+      "term": "Minimum Energy Performance Standards (MEPS)",
+      "definition": "Statutory regulatory baselines that legally prohibit the commercial import, manufacture, or retail sale of appliances failing defined seasonal energy efficiency or refrigerant GWP thresholds."
+    },
+    {
+      "term": "Sovereign Demand Aggregation",
+      "definition": "A public mechanism where a state-backed agency pools public sector and consumer demand into large reverse tenders, compelling manufacturers to compress retail prices by 50% or more through economies of scale."
+    },
+    {
+      "term": "On-Bill Utility Financing (OBF)",
+      "definition": "An asset-financing structure where an electric utility finances 100% of an inverter cooling appliance with zero money down, repaid via monthly electric bills where recurring energy savings exceed loan payments."
+    },
+    {
+      "term": "Cooling-as-a-Service (CaaS)",
+      "definition": "A servitization business model where customers contract for guaranteed thermal output (metered in refrigeration-ton-hours), while a specialized provider owns, powers, and maintains the equipment, incentivizing efficiency."
+    },
+    {
+      "term": "Solar Reflectance Index (SRI)",
+      "definition": "A composite metric combining solar reflectance (albedo) and thermal emittance; cool roofs with SRI above 100 are described as rejecting over 85% of solar radiation, keeping indoor spaces up to 5.5°C cooler without electricity."
+    },
+    {
+      "term": "Bioclimatic Jaali Envelope",
+      "definition": "Perforated architectural masonry screens that accelerate natural convective airflow through the Venturi effect while providing complete solar shading, delivering passive thermal comfort in tropical built environments."
+    },
+    {
+      "term": "Planetary Thermal Resilience Compact",
+      "definition": "A century-scale development framework ensuring universal access to affordable, clean cooling and passive thermal protection across all climate-vulnerable populations, decoupling livability from grid stress and emissions."
+    }
+  ],
+  "references": [
+    {
+      "text": "Hughes, H. (2026). Polycrisis Resilience: Addressing the Survivability Regime of the 21st Century (2000–2100). H Heuristics Monograph Series."
+    },
+    {
+      "text": "Hughes, H. (2026). The Economics of Affordable Cooling in the Global South. H Heuristics Monograph, HH-2026-PR-ACTR."
+    },
+    {
+      "text": "Hughes, H. (2026). The Development Economics of Affordable Cooling. H Heuristics Research Report."
+    },
+    {
+      "text": "Hughes, H. (2026). The Global Economics of Affordable Cooling in a Warming World. H Heuristics Working Paper."
+    },
+    {
+      "text": "Hughes, H. (2026). The Economics of Universal Cooling Access by Midcentury. H Heuristics Monograph."
+    },
+    {
+      "text": "Hughes, H. (2026). Urban Cooling Infrastructure and the Prevention of Climate-Related Economic Losses. H Heuristics Research Monograph."
+    },
+    {
+      "text": "International Energy Agency (IEA) (2024). The Future of Cooling: Opportunities for Energy-Efficient Air Conditioning. Paris: IEA."
+    },
+    {
+      "text": "Sustainable Energy for All (SEforALL) (2025). Chilling Prospects: Tracking Sustainable Cooling for All. Vienna: SEforALL."
+    },
+    {
+      "text": "CLASP (2024). Environmentally Harmful Dumping of Inefficient and Obsolete Air Conditioners in Africa and Developing Economies. Washington, DC: CLASP."
+    },
+    {
+      "text": "Rocky Mountain Institute (RMI) (2023). The Global Cooling Prize: Demonstrating a 5X Climate Impact Reduction. Basalt, CO: RMI."
+    },
+    {
+      "text": "World Bank Energy Sector Management Assistance Program (ESMAP) (2024). Primer on Energy Efficient and Sustainable Cooling. Washington, DC: World Bank."
+    },
+    {
+      "text": "United Nations Environment Programme (UNEP) (2024). United for Efficiency (U4E): Model Regulation Guidelines for Air Conditioners. Nairobi: UNEP."
+    },
+    {
+      "text": "Energy Efficiency Services Limited (EESL) (2024). Super-Efficient Air Conditioning Program: Market Transformation Through Bulk Procurement. New Delhi: EESL."
+    },
+    {
+      "text": "Basel Agency for Sustainable Energy (BASE) (2024). Cooling as a Service (CaaS): Market Tracker and Business Model Analysis. Basel: BASE."
+    },
+    {
+      "text": "International Labour Organization (ILO) (2024). Working on a Warmer Planet: The Effect of Heat Stress on Productivity and Decent Work. Geneva: ILO."
+    },
+    {
+      "text": "Romanello, M., et al. (The Lancet Countdown) (2024). The 2024 report of the Lancet Countdown on health and climate change. The Lancet, 404(10465), 1872–1924.",
+      "url": "https://doi.org/10.1016/S0140-6736(24)01822-1",
+      "doi": "10.1016/S0140-6736(24)01822-1"
+    },
+    {
+      "text": "Montreal Protocol Ozone Secretariat (2024). Kigali Amendment to the Montreal Protocol: Progress on HFC Phasedown. Nairobi: UNEP."
+    },
+    {
+      "text": "Asian Development Bank (ADB) (2024). Cooling Asia Responsibly: Accelerating Efficiency and Sustainable Infrastructure. Manila: ADB."
+    },
+    {
+      "text": "Central Electricity Authority (CEA) (2024). Report on Peak Load Management and Space Cooling Trends in Urban Distribution Networks. New Delhi: Ministry of Power."
+    },
+    {
+      "text": "Santamouris, M. (2020). Recent progress on urban cooling technologies: Materials, systems and solutions. Energy and Buildings, 207, 109609."
+    },
+    {
+      "text": "Akbari, H., Pomerantz, M. and Taha, H. (2001). Cool surfaces and shade trees to reduce energy use and improve air quality in urban areas. Solar Energy, 70(3), 295–310.",
+      "url": "https://doi.org/10.1016/S0038-092X(00)00089-X",
+      "doi": "10.1016/S0038-092X(00)00089-X"
+    },
+    {
+      "text": "World Bank Group (2024). Primer on Cool Cities: Reducing Extreme Heat in Urban Areas. Washington, DC: World Bank."
+    }
+  ]
+}
