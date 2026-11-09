@@ -1,0 +1,300 @@
+{
+  "seriesNumber": 27,
+  "title": "Clean Cooking Access and Human Exposure Reduction",
+  "subtitle": "Eradicating household air pollution, liberating female human capital, and accelerating global energy equity",
+  "type": "Research Monograph",
+  "datePublished": "2026-11-08",
+  "dateModified": "2026-11-08",
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 40,
+  "language": "en",
+  "description": "A century-scale framework (2000–2100) arguing that moving households from smoky biomass to modern fuels would cut household air pollution deaths and free women’s time, in twelve chapters from health and gender to LPG, electric cooking, bioethanol and carbon finance.",
+  "contribution": "A twelve-chapter monograph on clean cooking: the health toll of household smoke, the time burden on women, the economic case, climate feedbacks, and the technology ladder from LPG and electric cooking to bioethanol and carbon finance, with a lexicon of its own terms.",
+  "themes": [
+    "Household air pollution",
+    "Gender time burden",
+    "Economic case",
+    "Climate feedbacks",
+    "LPG",
+    "Electric cooking",
+    "Bioethanol and biogas",
+    "Carbon finance"
+  ],
+  "keywords": [
+    "clean cooking",
+    "household air pollution",
+    "PM2.5",
+    "gender and time poverty",
+    "LPG",
+    "electric cooking",
+    "pay-as-you-go",
+    "bioethanol",
+    "biogas",
+    "cookstove carbon credits",
+    "dMRV",
+    "polycrisis resilience",
+    "century-scale framework",
+    "H Heuristics Polycrisis Resilience Framework"
+  ],
+  "abstract": [
+    "Household air pollution from solid biomass cooking is presented as humanity’s most neglected public health catastrophe and a brake on human development. By transitioning from smoky biomass hearths to modern fuels such as pay-as-you-go LPG, insulated electric pressure cookers and circular bioethanol, the monograph argues that societies could eliminate millions of premature deaths each year, free hours of daily female time, reduce black carbon warming, and capture a large economic return across the twenty-first century.",
+    "The monograph is organised in twelve chapters covering the scale of the problem, the pathology of household air pollution, the gender time tax, the macroeconomic drag, environmental and climate feedbacks, the technology ladder, LPG, pay-as-you-go LPG, electric cooking, bioethanol and biogas, and carbon markets, and closes with a century-scale synthesis across four planning periods from 2000 to 2100. It includes a lexicon of the framework’s defined terms."
+  ],
+  "coreProposition": "Household air pollution from solid biomass cooking is humanity’s most neglected public health catastrophe and a crippling brake on global human development; modern Tier 4 and Tier 5 fuels can eliminate its toll.",
+  "keyFindings": [
+    {
+      "title": "A large, neglected burden.",
+      "text": "The monograph argues that household air pollution from biomass cooking causes about 3.2 million premature deaths a year, and describes the scale as exceeding that of HIV, malaria and tuberculosis combined."
+    },
+    {
+      "title": "Only deep exposure cuts help.",
+      "text": "It argues that, because health damage rises steeply with exposure, partial smoke reductions deliver little benefit and that only Tier 4 and Tier 5 fuels, which cut particulate exposure by more than 90%, avert disease."
+    },
+    {
+      "title": "The gender time tax.",
+      "text": "It argues that fuel foraging and fire tending cost women and girls several hours a day, with consequences for education, health and income, and that clean cooking returns that time."
+    },
+    {
+      "title": "The economic case.",
+      "text": "It argues that inaction costs on the order of $2.4 trillion a year while universal clean cooking needs only a small fraction of that, giving a very large estimated return."
+    },
+    {
+      "title": "A technology ladder.",
+      "text": "It assesses LPG with pay-as-you-go metering to remove the refill barrier, insulated electric pressure cookers on solar mini-grids, and bioethanol and biogas from agricultural waste."
+    },
+    {
+      "title": "Carbon finance and a century in four periods.",
+      "text": "It discusses digital monitoring and reform of cookstove carbon credits, and sets out a strategy through the neglected baseline (2000–2025), a digital and modular leapfrog (2025–2050), solid-fuel eradication (2050–2075) and universal Tier 5 cooking (2075–2100)."
+    }
+  ],
+  "contents": [
+    {
+      "number": "1",
+      "title": "The Overlooked Energy Crisis: 2.3 Billion Stranded at the Fire",
+      "description": "",
+      "page": 3
+    },
+    {
+      "number": "2",
+      "title": "The Pathology of Household Air Pollution: Particulates, Toxins, and Premature Mortality",
+      "description": "",
+      "page": 6
+    },
+    {
+      "number": "3",
+      "title": "The Gender Time Tax: Fuel Foraging, Unpaid Labor, and Female Human Capital",
+      "description": "",
+      "page": 9
+    },
+    {
+      "number": "4",
+      "title": "The Macroeconomic Drag: $2.4 Trillion in Annual Lost Wealth",
+      "description": "",
+      "page": 12
+    },
+    {
+      "number": "5",
+      "title": "Environmental and Climate Feedbacks: Deforestation and Black Carbon",
+      "description": "",
+      "page": 15
+    },
+    {
+      "number": "6",
+      "title": "The Technology Ladder: From Improved Cookstoves to Modern Clean Fuels",
+      "description": "",
+      "page": 18
+    },
+    {
+      "number": "7",
+      "title": "The LPG Transition: Smart Canisters, Digital Bulk Logistics, and Subsidies",
+      "description": "",
+      "page": 21
+    },
+    {
+      "number": "8",
+      "title": "Pay-As-You-Go (PAYG) LPG: Micro-Metering and Mobile Money Integration",
+      "description": "",
+      "page": 24
+    },
+    {
+      "number": "9",
+      "title": "Leapfrog Electric Cooking (eCooking): EPCs, Induction, and Mini-Grid Synergy",
+      "description": "",
+      "page": 27
+    },
+    {
+      "number": "10",
+      "title": "Bioethanol, Biogas, and Agrarian Circular Economy Models",
+      "description": "",
+      "page": 30
+    },
+    {
+      "number": "11",
+      "title": "Carbon Markets and Results-Based Climate Finance (RBF)",
+      "description": "",
+      "page": 33
+    },
+    {
+      "number": "12",
+      "title": "Century-Scale Synthesis: Universal Clean Cooking as a Polycrisis Armor (2000–2100)",
+      "description": "",
+      "page": 36
+    },
+    {
+      "number": "",
+      "title": "Lexicon of Defined Terms",
+      "description": "",
+      "page": 39
+    },
+    {
+      "number": "",
+      "title": "Bibliography",
+      "description": "",
+      "page": 40
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Polycrisis Resilience",
+      "definition": "The proactive application of economic development, technological diffusion, and institutional strengthening to reduce interconnected risks threatening human wellbeing and survivability."
+    },
+    {
+      "term": "Household Air Pollution (HAP)",
+      "definition": "The indoor concentration of fine particulate matter (PM2.5) and carbon monoxide generated by the incomplete combustion of solid biomass in domestic living spaces."
+    },
+    {
+      "term": "Non-Linear Dose-Response Curve",
+      "definition": "The steep mathematical relationship between PM2.5 exposure and human mortality, where intermediate smoke reductions are argued to deliver little clinical health gain."
+    },
+    {
+      "term": "Disability-Adjusted Life Year (DALY)",
+      "definition": "A standardized metric measuring overall disease burden, representing the loss of the equivalent of one year of full health due to premature death or chronic illness."
+    },
+    {
+      "term": "The Gender Time Tax",
+      "definition": "The loss of 2 to 5 hours daily imposed on women and girls for manual fuel foraging and fire tending, destroying female educational and economic capital."
+    },
+    {
+      "term": "Black Carbon Aerosol",
+      "definition": "Pure carbon nanoparticles emitted by incomplete biomass combustion that absorb solar radiation, warm the troposphere, and deposit on glaciers to accelerate snowpack melting."
+    },
+    {
+      "term": "Fraction of Non-Renewable Biomass (fNRB)",
+      "definition": "The proportion of harvested woody biomass that exceeds the natural regrowth rate of local forests, determining the true carbon footprint of woodfuel."
+    },
+    {
+      "term": "Stove Stacking",
+      "definition": "The phenomenon where households acquire a clean cooking stove but continue using traditional biomass hearths for specific culinary tasks."
+    },
+    {
+      "term": "Multi-Tier Framework (ISO 19867)",
+      "definition": "The international technical standard categorizing cooking systems from Tier 0 (open fire) to Tier 5 (induction/EPC) across emissions, efficiency, safety, and durability."
+    },
+    {
+      "term": "Pay-As-You-Go (PAYG) LPG",
+      "definition": "A digital distribution model combining IoT smart valves and cellular telemetry to sell liquefied petroleum gas in $0.50 mobile money micro-increments."
+    },
+    {
+      "term": "Thermal Retention EPC",
+      "definition": "An insulated electric pressure cooker that utilizes hermetic steam retention and insulated walls to cut electrical energy requirements by 80% compared to open hotplates."
+    },
+    {
+      "term": "Mini-Grid Productive Anchor Load",
+      "definition": "The integration of electric cooking onto rural decentralized solar mini-grids to absorb daytime surplus solar generation, tripling utility load factors."
+    },
+    {
+      "term": "Circular Agrarian Bioethanol",
+      "definition": "Soot-free liquid cooking fuel (C2H5OH) produced by fermenting agro-industrial waste streams such as blackstrap molasses and cassava starch residues."
+    },
+    {
+      "term": "Digestate Bioslurry",
+      "definition": "The nutrient-dense organic fertilizer byproduct of anaerobic manure digestion, mineralizing nitrogen, phosphorus, and potassium to restore agricultural soil health."
+    },
+    {
+      "term": "Digital MRV (dMRV)",
+      "definition": "Continuous cryptographic verification of cookstove utilization and displaced emissions using tamper-proof IoT temperature sensors, gas flow meters, and satellite forestry maps."
+    },
+    {
+      "term": "Article 6 Sovereign ITMOs",
+      "definition": "Internationally Transferred Mitigation Outcomes under the Paris Agreement enabling sovereign governments to trade verified clean cooking carbon assets at $30–$50/t."
+    }
+  ],
+  "references": [
+    {
+      "text": "Hughes, H. (2026). Polycrisis Resilience: Addressing the Survivability Regime of the 21st Century (2000–2100). H Heuristics Monograph Series."
+    },
+    {
+      "text": "Hughes, H. (2026). Clean Cooking Solutions and the Overlooked Energy Transition Crisis. H Heuristics Research Monograph."
+    },
+    {
+      "text": "Hughes, H. (2026). Clean Cooking as One of Development’s Highest-Return Technologies. H Heuristics Working Paper."
+    },
+    {
+      "text": "World Health Organization (WHO) (2024). WHO Guidelines for Indoor Air Quality: Household Fuel Combustion. Geneva: WHO."
+    },
+    {
+      "text": "International Energy Agency (IEA) (2024). A Vision for Clean Cooking Access by 2030. Paris: IEA."
+    },
+    {
+      "text": "World Bank Energy Sector Management Assistance Program (ESMAP) (2024). The State of Access to Modern Energy Cooking Services. Washington, DC: World Bank."
+    },
+    {
+      "text": "Clean Cooking Alliance (CCA) (2025). 2025 Clean Cooking Industry Snapshot. Washington, DC: CCA."
+    },
+    {
+      "text": "The Lancet Global Health (2023). Global Burden of Disease Study 2021: Health Effects of Household Air Pollution. London: Lancet."
+    },
+    {
+      "text": "Smith, K. R., et al. (2021). Millions Dead: How Cooking with Solid Biomass Overwhelms Human Health. Annual Review of Public Health."
+    },
+    {
+      "text": "Bailis, R., et al. (2023). The Carbon Footprint of Traditional Woodfuels: Spatial Modeling of Non-Renewable Biomass Harvesting. Nature Climate Change."
+    },
+    {
+      "text": "Gill-Wiehl, A., Ray, I. and Kammen, D. M. (2024). Pervasive Over-Crediting in Voluntary Cookstove Carbon Projects. Nature Sustainability."
+    },
+    {
+      "text": "Climate and Clean Air Coalition (CCAC) (2024). Black Carbon and Tropospheric Ozone Assessment: Mitigating Short-Lived Climate Pollutants. Nairobi: UNEP."
+    },
+    {
+      "text": "Modern Energy Cooking Services (MECS) (2025). Cooking with Electricity: A Cost and Technical Blueprint for African Mini-Grids. Loughborough: MECS."
+    },
+    {
+      "text": "Global LPG Partnership (GLPGP) (2025). Scaling LPG for Clean Cooking in Emerging Economies: Supply Chains and Policy Frameworks. New York: GLPGP."
+    },
+    {
+      "text": "Gold Standard Foundation (2024). Methodology for Metered and Measured Clean Cooking Devices (dMRV). Geneva: Gold Standard."
+    },
+    {
+      "text": "SNV Netherlands Development Organisation (2024). Domestic Biogas for Smallholders: Soil Health, Clean Energy, and Economic Returns. The Hague: SNV."
+    },
+    {
+      "text": "African Development Bank (AfDB) (2025). Financing the Clean Cooking Revolution in Africa: Blended Capital and Sovereign Guarantees. Abidjan: AfDB."
+    },
+    {
+      "text": "Ministry of Petroleum and Natural Gas, Government of India (2024). Pradhan Mantri Ujjwala Yojana (PMUY) Administrative Evaluation and Refill Dynamics. New Delhi: GoI."
+    },
+    {
+      "text": "Circle Gas / M-Gas (2025). Pay-As-You-Go LPG: Accelerating Urban Household Clean Energy Transition. Nairobi: Circle Gas."
+    },
+    {
+      "text": "KOKO Networks (2025). Smart Fuel ATMs and Denatured Bioethanol Distribution in Urban Kenya. Nairobi: KOKO."
+    },
+    {
+      "text": "United Nations Framework Convention on Climate Change (UNFCCC) (2024). Article 6 Implementation and Non-Party Mitigation Transfers. Bonn: UNFCCC."
+    },
+    {
+      "text": "Hughes, H. (2026). Clean Energy Access as a Polycrisis Resilience Strategy. H Heuristics Monograph Series, HH-2026-PR-CEARS."
+    }
+  ]
+}
