@@ -251,7 +251,7 @@ function headers(reports, site) {
       r.doi && `<${doiUrl(r.doi)}>; rel="cite-as"`,
       `<${r.pdfUrl}>; rel="item"; type="application/pdf"`,
       `<${r.bibUrl}>; rel="describedby"; type="application/x-bibtex"`,
-      r.license && `<${r.license.url}>; rel="license"`,
+      r.license?.url && `<${r.license.url}>; rel="license"`,
       `<https://schema.org/ScholarlyArticle>; rel="type"`,
     ].filter(Boolean);
     blocks.push(`${r.path}

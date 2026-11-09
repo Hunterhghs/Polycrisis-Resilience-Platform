@@ -240,7 +240,7 @@ ${meta('DC.format', 'application/pdf')}
 ${meta('DC.language', r.language || site.language)}
 ${meta('DC.description', r.abstractText)}
 ${(r.keywords || []).map((k) => meta('DC.subject', k)).join('\n')}
-${meta('DC.rights', r.license ? `${r.license.name} (${r.license.url})` : '')}
+${meta('DC.rights', r.license ? (r.license.url ? `${r.license.name} (${r.license.url})` : r.license.name) : '')}
 ${meta('DCTERMS.license', r.license?.url)}
 ${meta('DCTERMS.isPartOf', site.series.name)}
 <!-- PRISM -->
@@ -270,7 +270,7 @@ ${r.doi ? `<link rel="cite-as" href="${esc(doiUrl(r.doi))}">` : ''}
 <link rel="item" href="${esc(r.pdfUrl)}" type="application/pdf">
 <link rel="describedby" href="${esc(r.bibUrl)}" type="application/x-bibtex">
 <link rel="describedby" href="${esc(r.risUrl)}" type="application/x-research-info-systems">
-${r.license ? `<link rel="license" href="${esc(r.license.url)}">` : ''}
+${r.license?.url ? `<link rel="license" href="${esc(r.license.url)}">` : ''}
 <link rel="alternate" type="application/pdf" href="${esc(r.pdfUrl)}">
 ${jsonLd(ld)}`
     .split('\n')
@@ -296,7 +296,7 @@ export function reportPage(r, site, { prev, next } = {}) {
     ['Published', `<time datetime="${r.datePublished}">${humanDate(r.datePublished)}</time>`],
     r.doi && ['DOI', `<a href="${esc(doiUrl(r.doi))}" class="doi">${esc(r.doi)}</a>`],
     r.pages && ['Pages', String(r.pages)],
-    r.license && ['License', `<a href="${esc(r.license.url)}" rel="license">${esc(r.license.shortName || r.license.name)}</a>`],
+    r.license && ['License', r.license.url ? `<a href="${esc(r.license.url)}" rel="license">${esc(r.license.shortName || r.license.name)}</a>` : esc(r.license.shortName || r.license.name)],
     ['Language', r.language === 'en' || !r.language ? 'English' : esc(r.language)],
     r.repository && ['Archived at', `<a href="${esc(r.repository.url)}">${esc(r.repository.name)}</a>`],
   ].filter(Boolean);
