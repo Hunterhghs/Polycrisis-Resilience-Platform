@@ -1,0 +1,306 @@
+{
+  "seriesNumber": 32,
+  "title": "Digital Education and Global Human Capital Convergence",
+  "subtitle": "Accelerating productivity catch-up, AI-assisted pedagogical diffusion, and cognitive resilience across the 21st century",
+  "type": "Research Monograph",
+  "datePublished": "2026-11-08",
+  "dateModified": "2026-11-08",
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 40,
+  "language": "en",
+  "description": "A century-scale framework (2000–2100) arguing that digital and AI-assisted education can build human capital and speed productivity catch-up, in twelve chapters from solar-powered learning rails and AI tutors to open infrastructure, micro-credentials, green skills and connectivity.",
+  "contribution": "A twelve-chapter monograph arguing that digital education drives human-capital convergence: low-cost digital learning, AI tutoring, foundational skills, open education infrastructure, micro-credentials, girls’ access, green skills, offline connectivity and the macroeconomic case, with a lexicon of its own terms.",
+  "themes": [
+    "Human capital",
+    "Digital learning",
+    "AI tutoring",
+    "Foundational skills",
+    "Open infrastructure",
+    "Micro-credentials",
+    "Gender access",
+    "Green skills",
+    "Connectivity"
+  ],
+  "keywords": [
+    "digital education",
+    "human capital",
+    "economic convergence",
+    "total factor productivity",
+    "generative AI tutoring",
+    "learning poverty",
+    "digital public infrastructure",
+    "micro-credentials",
+    "technical and vocational training",
+    "offline connectivity",
+    "polycrisis resilience",
+    "century-scale framework",
+    "H Heuristics Polycrisis Resilience Framework"
+  ],
+  "abstract": [
+    "Digital education is presented as a route to global human capital convergence. The monograph argues that physical capital alone stalls without the cognitive capacity to absorb technology, that solar-powered digital learning can reach learners at a fraction of the capital cost of new classrooms, and that AI tutoring, foundational skills programmes, open education infrastructure and technical micro-credentials can accelerate productivity catch-up and build resilience through the century.",
+    "The monograph is organised in twelve chapters covering the convergence equation, the digital pedagogical frontier, generative AI tutoring, foundational skills, digital public infrastructure for education, STEM micro-credentials, gender convergence, green digital skills, connectivity and edge caching, the macroeconomic returns, and institutional governance, and closes with a century-scale synthesis across four planning periods from 2000 to 2100. It includes a lexicon of the framework’s defined terms."
+  ],
+  "coreProposition": "Physical capital accumulation yields diminishing returns unless paired with cognitive absorptive capacity; a rise in a country’s Human Capital Index is argued to unlock sustained total factor productivity catch-up.",
+  "keyFindings": [
+    {
+      "title": "Human capital drives catch-up.",
+      "text": "The monograph argues that physical capital alone stalls, and that a population’s ability to absorb and use technology determines whether economies converge on richer ones."
+    },
+    {
+      "title": "Digital delivery is cheaper than classrooms.",
+      "text": "It argues that solar-powered digital learning rails cost a small fraction of the capital cost of building classrooms, and puts the claimed advantage at about sixty to one."
+    },
+    {
+      "title": "AI tutoring and foundational skills.",
+      "text": "It argues that multilingual AI tutors could approximate the benefits of one-to-one tutoring, but only on top of foundational literacy and numeracy, which it proposes to secure through teaching at the right level."
+    },
+    {
+      "title": "Open infrastructure and credentials.",
+      "text": "It argues for open-source education platforms and national data sovereignty, and for short, stackable micro-credentials in STEM and green technical skills."
+    },
+    {
+      "title": "Access for girls and the last billion.",
+      "text": "It proposes asynchronous mobile learning to reach women and girls safely, and solar-powered edge servers with periodic satellite synchronization for remote learners."
+    },
+    {
+      "title": "The economic case and a century in four periods.",
+      "text": "It estimates large gains in output and tax revenue from raising the Human Capital Index, and sets out a strategy through the access illusion (2000–2025), a digital leapfrog (2025–2050), technical sovereignty (2050–2075) and planetary anti-fragility (2075–2100)."
+    }
+  ],
+  "contents": [
+    {
+      "number": "1",
+      "title": "The Convergence Equation: Human Capital as the Ultimate Engine of Economic Catch-Up",
+      "description": "",
+      "page": 3
+    },
+    {
+      "number": "2",
+      "title": "The Digital Pedagogical Frontier: Overcoming the Brick-and-Mortar Bottleneck",
+      "description": "",
+      "page": 6
+    },
+    {
+      "number": "3",
+      "title": "Generative AI and Personalized Instruction: The 2-Sigma Leap in Emerging Markets",
+      "description": "",
+      "page": 9
+    },
+    {
+      "number": "4",
+      "title": "Foundational Skills and the Cognitive Floor: Eradicating Learning Poverty",
+      "description": "",
+      "page": 12
+    },
+    {
+      "number": "5",
+      "title": "Digital Public Infrastructure (DPI) for Education: Open Rails and Data Sovereignty",
+      "description": "",
+      "page": 15
+    },
+    {
+      "number": "6",
+      "title": "STEM Acceleration and Technical Micro-Credentialing: Bypassing Degree Inflation",
+      "description": "",
+      "page": 18
+    },
+    {
+      "number": "7",
+      "title": "Gender Convergence and Female Digital Agency: Unlocking Dormant Cognitive Capital",
+      "description": "",
+      "page": 21
+    },
+    {
+      "number": "8",
+      "title": "Green Digital Skills: Training the Post-Carbon Workforce for Polycrisis Adaptation",
+      "description": "",
+      "page": 24
+    },
+    {
+      "number": "9",
+      "title": "Overcoming the Connectivity Divide: LEO Satellites, Edge Caching, and Solar Power",
+      "description": "",
+      "page": 27
+    },
+    {
+      "number": "10",
+      "title": "The Macroeconomic Returns: Quantifying the $15 Trillion Human Capital Dividend",
+      "description": "",
+      "page": 30
+    },
+    {
+      "number": "11",
+      "title": "Institutional Governance, Teacher Reskilling, and Digital Policy Architecture",
+      "description": "",
+      "page": 33
+    },
+    {
+      "number": "12",
+      "title": "Century-Scale Synthesis: The Great Human Convergence (2000–2100)",
+      "description": "",
+      "page": 36
+    },
+    {
+      "number": "",
+      "title": "Lexicon of Defined Terms",
+      "description": "",
+      "page": 39
+    },
+    {
+      "number": "",
+      "title": "Bibliography",
+      "description": "",
+      "page": 40
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Polycrisis Resilience",
+      "definition": "The proactive application of economic development, technological diffusion, and institutional strengthening to reduce interconnected risks threatening human survivability."
+    },
+    {
+      "term": "Cognitive Absorptive Threshold",
+      "definition": "The minimum baseline of population literacy, quantitative reasoning, and technical competency required to adopt, operate, and innovate upon imported technological hardware."
+    },
+    {
+      "term": "The Spatial-Pedagogical Decoupling",
+      "definition": "The separation of educational delivery from physical concrete classrooms, leveraging decentralized digital rails to achieve a claimed 60-fold capital efficiency advantage."
+    },
+    {
+      "term": "Bloom’s 2-Sigma Effect",
+      "definition": "The finding that one-on-one mastery tutoring lifts student achievement by two standard deviations (50th to 98th percentile), here proposed to be democratized at scale via generative AI."
+    },
+    {
+      "term": "Teaching at the Right Level (TaRL)",
+      "definition": "A pedagogical methodology pioneered by Pratham that groups students by demonstrated mastery rather than age, dedicating intensive time to foundational phonics and math."
+    },
+    {
+      "term": "Digital Public Infrastructure for Education (DPI-E)",
+      "definition": "An open, interoperable, society-scale technological foundation composed of open-source specifications, decentralized identity registries, and open pedagogical APIs."
+    },
+    {
+      "term": "Stackable Competency Architecture",
+      "definition": "A modular educational framework where vocational and STEM capabilities are disaggregated into discrete, performance-verified micro-credentials earned in rapid 8-to-16-week sprints."
+    },
+    {
+      "term": "The Asynchronous Female Agency Rail",
+      "definition": "A decentralized digital delivery model that decouples learning from physical attendance and fixed schedules, enabling women to acquire qualifications safely around domestic burdens."
+    },
+    {
+      "term": "Digital TVET",
+      "definition": "The combination of interactive virtual simulations, 3D equipment schematics, and mobile diagnostic AI used to train technicians rapidly in post-carbon infrastructure maintenance."
+    },
+    {
+      "term": "Asynchronous Edge-Cached Mesh (AECM)",
+      "definition": "A network architecture where student tablets connect locally to a solar-powered school micro-server hosting terabytes of curricula, synchronizing telemetry via periodic LEO satellite bursts."
+    },
+    {
+      "term": "The Cognitive Catch-Up Multiplier (CCM)",
+      "definition": "The proposed coefficient quantifying the non-linear expansion in Total Factor Productivity and tax revenues when an economy lifts its aggregate Human Capital Index above 0.70."
+    },
+    {
+      "term": "Algorithmic Teacher Co-Piloting",
+      "definition": "The integration of automated lesson-pacing software, real-time student mastery dashboards, and biometric verification that frees teachers to focus on small-group remedial coaching."
+    },
+    {
+      "term": "Educational Data Sovereignty",
+      "definition": "The legal and technical framework ensuring that citizen diagnostic telemetry, cognitive progress logs, and academic records remain hosted on sovereign domestic infrastructure."
+    },
+    {
+      "term": "The Learning Poverty Trap",
+      "definition": "The failure where children attend school for years without acquiring basic literacy, leaving them functionally illiterate despite official school enrollment."
+    },
+    {
+      "term": "Virtual Brain Circulation",
+      "definition": "The remote economic integration where emerging market engineers work for global frontier firms, earning competitive wages while spending and investing their capital domestically."
+    },
+    {
+      "term": "Planetary Cognitive Anti-Fragility",
+      "definition": "The state achieved when 100% of global humanity possesses scientific literacy and adaptive agency, allowing society to grow stronger under polycrisis disruptions."
+    }
+  ],
+  "references": [
+    {
+      "text": "Hughes, H. (2026). Polycrisis Resilience: Addressing the Survivability Regime of the 21st Century (2000–2100). H Heuristics Monograph Series."
+    },
+    {
+      "text": "Hughes, H. (2026). Digital Education and Global Human Capital Convergence. H Heuristics Monograph, HH-2026-PR-DEGHCC."
+    },
+    {
+      "text": "Hughes, H. (2026). Human Capital Convergence and the Economics of Global Adaptive Capacity. H Heuristics Working Paper."
+    },
+    {
+      "text": "Hughes, H. (2026). Education as Resilience Infrastructure: How Literacy and Digital Skills Increase Adaptive Capacity. H Heuristics Monograph Series."
+    },
+    {
+      "text": "Hughes, H. (2026). The Great Human Convergence: Cognitive Capital, Global Catch-Up, and the End of the Knowledge Divide. H Heuristics Research Report."
+    },
+    {
+      "text": "Hughes, H. (2026). Universal Education Access as a Polycrisis Resilience Strategy. H Heuristics Monograph, HH-2026-PR-UEARS."
+    },
+    {
+      "text": "Romer, P. M. (1990). Endogenous Technological Change. Journal of Political Economy, 98(5), S71–S102.",
+      "url": "https://doi.org/10.1086/261725",
+      "doi": "10.1086/261725"
+    },
+    {
+      "text": "Lucas, R. E. (1988). On the Mechanics of Economic Development. Journal of Monetary Economics, 22(1), 3–42.",
+      "url": "https://doi.org/10.1016/0304-3932(88)90168-7",
+      "doi": "10.1016/0304-3932(88)90168-7"
+    },
+    {
+      "text": "Bloom, B. S. (1984). The 2 Sigma Problem: The Search for Methods of Group Instruction as Effective as One-to-One Tutoring. Educational Researcher, 13(6), 4–16.",
+      "url": "https://doi.org/10.3102/0013189X013006004",
+      "doi": "10.3102/0013189X013006004"
+    },
+    {
+      "text": "Banerjee, A. and Duflo, E. (2024). Remedying Learning Poverty: Experimental Evidence on Teaching at the Right Level in Africa and Asia. J-PAL / MIT Working Paper."
+    },
+    {
+      "text": "World Bank Group (2024). Ending Learning Poverty: What Will It Take? International Bank for Reconstruction and Development. Washington, DC: World Bank."
+    },
+    {
+      "text": "World Bank Group (2025). The Human Capital Index 2025: Human Capital as an Engine of Resilience and Growth. Washington, DC: World Bank."
+    },
+    {
+      "text": "UNESCO (2024). Global Education Monitoring Report 2024: Technology in Education — A Tool on Whose Terms? Paris: UNESCO."
+    },
+    {
+      "text": "UNICEF (2024). The State of the World’s Children 2024: Children in a Changing Climate. New York: UNICEF."
+    },
+    {
+      "text": "International Telecommunication Union (ITU) (2024). The Digital Learning Divide: Satellite Connectivity and Last-Mile Education. Geneva: ITU."
+    },
+    {
+      "text": "Sunbird Foundation (2024). Digital Public Infrastructure for Education: Architecture and Global Implementations. Bengaluru: EkStep / Sunbird."
+    },
+    {
+      "text": "Kremer, M., Bruns, B. and Franke, R. (2024). Delivering Foundational Learning at Scale: Experimental Evidence from EdoBEST. NBER Working Paper No. 32145."
+    },
+    {
+      "text": "International Labour Organization (ILO) (2024). Skills for a Greener Future: A Global View Based on 32 Country Studies. Geneva: ILO."
+    },
+    {
+      "text": "International Renewable Energy Agency (IRENA) (2025). Renewable Energy and Jobs: Annual Review 2025. Abu Dhabi: IRENA."
+    },
+    {
+      "text": "Copenhagen Consensus Center (2024). Best Investments for Development: Education and Foundational Learning. Copenhagen: CCC."
+    },
+    {
+      "text": "Stockholm Resilience Centre (2024). Adaptive Capacity in Social-Ecological Systems: The Role of Human Cognitive Agency. Stockholm: SRC."
+    },
+    {
+      "text": "Pratham Education Foundation (2024). Annual Status of Education Report (ASER) 2024: Beyond Basics. New Delhi: ASER Centre."
+    }
+  ]
+}
