@@ -1,0 +1,303 @@
+{
+  "seriesNumber": 37,
+  "title": "Climate-Resilient Housing and Infrastructure in the Global South",
+  "subtitle": "Modular construction, nature-based drainage, decentralized utilities, and tenure-secure adaptation across the 21st century",
+  "type": "Research Monograph",
+  "datePublished": "2026-11-09",
+  "dateModified": "2026-11-09",
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 40,
+  "language": "en",
+  "description": "A century-scale framework (2000–2100) arguing that resilient housing and infrastructure for informal settlements rests on four pillars (envelope, hydrology, utilities and tenure), in twelve chapters from structural hardening and flood defense to slope stabilization, early warning, tenure and financing.",
+  "contribution": "A twelve-chapter monograph on climate-resilient housing and infrastructure for informal settlements, built on four pillars (envelope, hydrology, utilities and tenure): hardening against wind and flood, sponge drainage, off-grid utilities, slopes, early warning, tenure governance and micro-finance, with a lexicon of its own terms.",
+  "themes": [
+    "Structural hardening",
+    "Flood defense",
+    "Sponge drainage",
+    "Vernacular materials",
+    "Off-grid utilities",
+    "Slope stabilization",
+    "Early warning",
+    "Land tenure",
+    "Micro-finance",
+    "Field deployments"
+  ],
+  "keywords": [
+    "climate-resilient housing",
+    "informal settlements",
+    "infrastructure",
+    "flood defense",
+    "nature-based drainage",
+    "compressed earth blocks",
+    "structural bamboo",
+    "slope stabilization",
+    "early warning",
+    "land tenure",
+    "micro-finance",
+    "parametric insurance",
+    "polycrisis resilience",
+    "century-scale framework",
+    "H Heuristics Polycrisis Resilience Framework"
+  ],
+  "abstract": [
+    "Climate-resilient housing and infrastructure are presented as a way to decouple the survival of people in informal settlements from compounding climate disasters. The monograph argues that low-quality housing and missing drainage make routine storms recurrently destructive, and proposes four pillars (envelope, hydrology, utilities and tenure) combining hardened and vernacular construction, flood-elevated and amphibious foundations, nature-based drainage, off-grid power and water, slope bioengineering, early warning, secure tenure and micro-finance.",
+    "The monograph is organised in twelve chapters covering the macroeconomic anatomy of housing and infrastructure risk, multi-hazard structural engineering, hydrological defense, nature-based drainage, thermal envelope and vernacular materials, decentralized utilities, slope stabilization, early warning and monitoring, land tenure governance, financing and cross-regional field deployments, and closes with a century-scale synthesis across four planning periods from 2000 to 2100. It includes a lexicon of the framework’s defined terms."
+  ],
+  "coreProposition": "Resilient housing and infrastructure for informal settlements, built on four pillars of envelope, hydrology, utilities and tenure, can decouple population survivability from compounding climate disasters.",
+  "keyFindings": [
+    {
+      "title": "A recurring disaster trap.",
+      "text": "The monograph argues that scrap-metal roofs, weak foundations and missing drainage turn routine storms into repeated disasters that consume a large share of household income, and that a large infrastructure financing gap sustains this trap for over a billion people."
+    },
+    {
+      "title": "Hardening and flood defense.",
+      "text": "It proposes continuous load paths, aerodynamic hip roofs, engineered bamboo and confined masonry against wind and earthquakes, and plinth elevation, stilts and amphibious foundations against flooding."
+    },
+    {
+      "title": "Sponge drainage and slopes.",
+      "text": "It proposes vegetated bioswales, retention wetlands and mangrove buffers in place of clogged ditches, and vetiver grass and crib-walls to stabilize hillsides."
+    },
+    {
+      "title": "Off-grid utilities and early warning.",
+      "text": "It proposes rooftop solar microgrids, rainwater cisterns and biodigesters for continuity of services, and low-cost sensor networks and cell-broadcast alerts for warnings."
+    },
+    {
+      "title": "Tenure and finance.",
+      "text": "It argues that insecure tenure keeps households from investing in their homes, and proposes occupancy pacts and community land trusts together with revolving trusts, utility pay-as-you-save and parametric insurance for packages of roughly $100 to $500."
+    },
+    {
+      "title": "Field deployments and a century in four periods.",
+      "text": "It draws on programs in Dhaka, Beira, Medellín, Nairobi and Jakarta, and sets out a strategy through the unserviced slum era (2000–2025), standardized micro-infrastructure (2025–2050), amphibious systems and microgrids (2050–2075) and universal resilience parity (2075–2100)."
+    }
+  ],
+  "contents": [
+    {
+      "number": "1",
+      "title": "Macroeconomic Anatomy of Residential and Infrastructure Vulnerability",
+      "description": "",
+      "page": 3
+    },
+    {
+      "number": "2",
+      "title": "Multi-Hazard Engineering and Structural Hardening",
+      "description": "",
+      "page": 6
+    },
+    {
+      "number": "3",
+      "title": "Hydrological Defense: Amphibious Housing, Stilts, and Foundation Elevation",
+      "description": "",
+      "page": 9
+    },
+    {
+      "number": "4",
+      "title": "Nature-Based Drainage and Urban Sponge Infrastructure",
+      "description": "",
+      "page": 12
+    },
+    {
+      "number": "5",
+      "title": "Thermal Envelope Modernization and Vernacular Materials",
+      "description": "",
+      "page": 15
+    },
+    {
+      "number": "6",
+      "title": "Decentralized Critical Utilities: Water, Sanitation, and Off-Grid Power",
+      "description": "",
+      "page": 18
+    },
+    {
+      "number": "7",
+      "title": "Slope Stabilization, Landslide Mitigation, and Hillside Infrastructure",
+      "description": "",
+      "page": 21
+    },
+    {
+      "number": "8",
+      "title": "Digital Telemetry, Multi-Hazard Early Warning, and IoT Asset Monitoring",
+      "description": "",
+      "page": 24
+    },
+    {
+      "number": "9",
+      "title": "The Absorptive Capacity Problem: Land Tenure and Informal Upgrading Governance",
+      "description": "",
+      "page": 27
+    },
+    {
+      "number": "10",
+      "title": "Financing the Adaptation Dividend: Micro-Resilience, PAYS, and Blended Capital",
+      "description": "",
+      "page": 30
+    },
+    {
+      "number": "11",
+      "title": "Cross-Regional Empirical Field Deployments: Dhaka, Beira, Medellín, Nairobi, and Jakarta",
+      "description": "",
+      "page": 33
+    },
+    {
+      "number": "12",
+      "title": "Century-Scale Synthesis: The Resilient Global South Architecture (2000–2100)",
+      "description": "",
+      "page": 36
+    },
+    {
+      "number": "",
+      "title": "Lexicon of Defined Terms",
+      "description": "",
+      "page": 39
+    },
+    {
+      "number": "",
+      "title": "Bibliography",
+      "description": "",
+      "page": 40
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Polycrisis Resilience",
+      "definition": "The proactive application of economic development, technological diffusion, and institutional strengthening to reduce interconnected risks threatening human survivability."
+    },
+    {
+      "term": "The Infrastructure Vulnerability Trap",
+      "definition": "The trap wherein chronic municipal under-investment in drainage and foundations forces slums to repeatedly spend scarce capital on disaster rebuilding rather than productive growth."
+    },
+    {
+      "term": "The Absorptive Capacity D-Coefficient",
+      "definition": "A proposed institutional elasticity metric quantifying the percentage of available adaptation capital that a household or municipality actually deploys into durable physical improvements."
+    },
+    {
+      "term": "Continuous Load Path Integrity",
+      "definition": "A structural engineering design principle ensuring that wind uplift, seismic shear, and flood buoyancy are transferred without interruption from roof ridge to ground foundations without joint separation."
+    },
+    {
+      "term": "Aerodynamic Hip Roof",
+      "definition": "A four-slope roof configuration (pitched at 25°–35°) that deflects cyclone air currents, described as reducing net aerodynamic uplift suction forces by up to 55% compared to gable or flat roofs."
+    },
+    {
+      "term": "Amphibious Buoyancy Chassis",
+      "definition": "A foundation system that rests on ground plinths during dry periods but floats vertically on rising floodwaters along vertical steel guidance pylons, preventing interior inundation."
+    },
+    {
+      "term": "Urban Sponge Hydrology",
+      "definition": "An ecological civil engineering approach using vegetated bioswales, retention wetlands, and permeable strata to absorb and slow stormwater runoff, described as reducing peak flood discharges by more than 65%."
+    },
+    {
+      "term": "Compressed Earth Block (CEB)",
+      "definition": "A high-density structural masonry block manufactured by subjecting subsoil mixtures to mechanical hydraulic compression (above 10 MPa), offering high thermal mass with 85% less carbon than fired brick."
+    },
+    {
+      "term": "Engineered Structural Bamboo",
+      "definition": "Large-diameter structural bamboo culms borate-treated against fungal rot and connected via mortar-injected node joints, described as delivering steel-grade tensile capacity at 60% lower cost."
+    },
+    {
+      "term": "Decentralized Islanded Microgrid",
+      "definition": "An autonomous energy system (rooftop solar PV, LiFePO4 batteries, and DC distribution) capable of disconnecting from central grids to maintain 95% or more operational uptime during disasters."
+    },
+    {
+      "term": "Multi-Barrier Bio-Sand Filter",
+      "definition": "A gravity-fed water purification column using engineered sand strata and a biological active layer (schmutzdecke), described as removing 98% of pathogens without electricity or chemical chlorine."
+    },
+    {
+      "term": "Geotechnical Factor of Safety (FoS)",
+      "definition": "The ratio of available soil shear strength to shear stress along a hillside failure plane; slopes with FoS below 1.0 collapse, whereas vetiver bioengineering is said to maintain FoS above 1.5."
+    },
+    {
+      "term": "Vetiver Bio-Armoring",
+      "definition": "The application of Chrysopogon zizanioides grass whose 4.5-meter deep roots (85 MPa tensile strength) act as living soil nails, anchoring unstable hillside topsoil."
+    },
+    {
+      "term": "LoRaWAN Mesh Telemetry",
+      "definition": "A low-power, long-range wireless radio communication protocol operating on open industrial bands, transmitting environmental sensor data across 15 km without commercial cellular grids."
+    },
+    {
+      "term": "Climate Occupancy Pact",
+      "definition": "A proposed municipal covenant granting informal settlement residents immunity from eviction for 5 to 10 years conditioned upon the execution of verified physical resilience upgrades."
+    },
+    {
+      "term": "Parametric Catastrophe Insurance",
+      "definition": "An emergency disaster liquidity mechanism that automatically executes cash payouts to community groups within 48 hours based on independently verified satellite weather triggers."
+    }
+  ],
+  "references": [
+    {
+      "text": "Hughes, H. (2026). Polycrisis Resilience: Addressing the Survivability Regime of the 21st Century (2000–2100). H Heuristics Monograph Series."
+    },
+    {
+      "text": "Hughes, H. (2026). Climate-Resilient Housing and the Economics of Affordable Adaptation. H Heuristics Monograph, HH-2026-PR-CRHIGS."
+    },
+    {
+      "text": "Hughes, H. (2026). The Economics of Climate-Resilient Infrastructure in Emerging Markets. H Heuristics Research Monograph."
+    },
+    {
+      "text": "Hughes, H. (2026). The Economics of Climate Resilient Infrastructure in Coastal Megacities. H Heuristics Working Paper."
+    },
+    {
+      "text": "Hughes, H. (2026). Building Climate Resilient Cities Across the Rapidly Urbanizing Global South. H Heuristics Research Report."
+    },
+    {
+      "text": "Hughes, H. (2026). Land Tenure Security and Adaptation Capital Absorption in Slum Upgrading. H Heuristics Working Paper."
+    },
+    {
+      "text": "World Bank ESMAP (2024). Lifelines: The Resilient Infrastructure Opportunity. Washington, DC: World Bank."
+    },
+    {
+      "text": "UN-Habitat (2024). World Cities Report 2024: Cities and Climate Resilience in Informal Settlements. Nairobi: UN-Habitat."
+    },
+    {
+      "text": "IPCC (2022). Climate Change 2022: Impacts, Adaptation and Vulnerability. Contribution of Working Group II to AR6. Cambridge University Press."
+    },
+    {
+      "text": "FEMA (2023). Coastal Construction Manual: Principles and Practices of Planning, Siting, Designing, Constructing, and Maintaining Buildings (FEMA P-55)."
+    },
+    {
+      "text": "CIRIA (2023). The SuDS Manual (C753): Designing Sustainable Drainage Systems for Urban Resilience. London: CIRIA."
+    },
+    {
+      "text": "English, E., et al. (2024). Amphibious Housing for Climate Change Adaptation: Architectural and Engineering Principles. Journal of Architectural Engineering, 30(2), 04024008."
+    },
+    {
+      "text": "RILEM TC-274 (2022). Testing and Characterisation of Earth-Based Building Materials and Elements. State-of-the-Art Report. Cham: Springer."
+    },
+    {
+      "text": "INBAR (2023). Engineered Bamboo for Structural Applications in Multi-Hazard Zones. Beijing: International Bamboo and Rattan Organization."
+    },
+    {
+      "text": "Truong, P., et al. (2022). Vetiver System Applications for Slope Stabilization and Civil Infrastructure Protection. Vetiver Network International Technical Bulletin No. 2022/1."
+    },
+    {
+      "text": "WMO (2024). Early Warnings for All: Global Status Report on Multi-Hazard Early Warning Systems. Geneva: World Meteorological Organization."
+    },
+    {
+      "text": "Payne, G. (2002). Land, Rights and Innovation: Improving Tenure Security for the Urban Poor. London: ITDG Publishing."
+    },
+    {
+      "text": "Mahila Housing Trust (2024). Ten Years of Climate Resilient Housing: Scaling Upgrades Across Informal Settlements. Ahmedabad: MHT."
+    },
+    {
+      "text": "Asian Development Bank (2024). Nature-Based Solutions for Climate-Resilient Cities in Asia and the Pacific. Manila: ADB."
+    },
+    {
+      "text": "InsuResilience Global Partnership (2024). Annual Report on Climate and Disaster Risk Finance and Insurance. Frankfurt: InsuResilience Secretariat."
+    },
+    {
+      "text": "Deltares (2023). Integrated Flood Risk Management in Developing Coastal Megacities. Delft: Deltares."
+    },
+    {
+      "text": "African Development Bank (2024). Financing Climate-Resilient Urban Infrastructure in Africa. Abidjan: AfDB."
+    }
+  ]
+}
