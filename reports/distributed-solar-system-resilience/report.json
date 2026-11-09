@@ -1,0 +1,301 @@
+{
+  "seriesNumber": 26,
+  "title": "Distributed Solar Power and Energy System Resilience",
+  "subtitle": "Decentralized generation, autonomous microgrids, and the economics of infrastructure antifragility",
+  "type": "Research Monograph",
+  "datePublished": "2026-11-08",
+  "dateModified": "2026-11-08",
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 40,
+  "language": "en",
+  "description": "A century-scale framework (2000–2100) arguing that distributed solar, grid-forming inverters and microgrids make energy systems resilient to shocks, in twelve chapters from grid fragility and lost-load economics to virtual power plants, mini-grids, industry and regulation.",
+  "contribution": "A twelve-chapter monograph arguing that distributed solar, smart inverters and microgrids make energy systems resilient: grid fragility, lost-load economics, rooftop defection in Pakistan, virtual power plants, mini-grids, life-support power, industrial rooftops and regulation, with a lexicon of its own terms.",
+  "themes": [
+    "Grid fragility",
+    "Islanding and inverters",
+    "Value of lost load",
+    "Rooftop solar defection",
+    "Virtual power plants",
+    "Mini-grids",
+    "Critical services",
+    "Industrial rooftops",
+    "Regulation"
+  ],
+  "keywords": [
+    "distributed solar",
+    "energy system resilience",
+    "microgrids",
+    "grid-forming inverters",
+    "value of lost load",
+    "virtual power plants",
+    "mini-grids",
+    "rooftop solar",
+    "net metering",
+    "energy regulation",
+    "Pakistan",
+    "polycrisis resilience",
+    "century-scale framework",
+    "H Heuristics Polycrisis Resilience Framework"
+  ],
+  "abstract": [
+    "In an era of escalating climate volatility, geopolitical conflict over fossil fuel chokepoints, and vulnerable centralized utility grids, distributed solar power is presented as the transition from fragile single-point infrastructure to an antifragile, polycentric energy commons. By decentralizing production to the point of consumption, deploying grid-forming inverters with autonomous islanding, and aggregating behind-the-meter assets into virtual power plants, societies are argued to be able to decouple essential water, healthcare, and productive industry from grid collapse.",
+    "The monograph is organised in twelve chapters covering the brittleness of centralized grids, the distributed solar revolution, the physics of islanding and smart inverters, the economics of lost load, the unregulated rooftop-solar surge in Pakistan, the utility death spiral, virtual power plants, mini-grids, critical life-support power, industrial rooftops and regulatory modernization, and closes with a century-scale synthesis across four planning periods from 2000 to 2100. It includes a lexicon of the framework’s defined terms."
+  ],
+  "coreProposition": "Distributed solar power represents the transition from fragile single-point infrastructure to an antifragile, polycentric energy commons, decoupling essential water, healthcare, and productive industry from grid collapse.",
+  "keyFindings": [
+    {
+      "title": "Centralized grids are brittle.",
+      "text": "The monograph argues that hub-and-spoke electricity networks are exposed to single-point failures that spread into regional blackouts under climate and geopolitical shocks, and that generating power at the point of consumption contains faults."
+    },
+    {
+      "title": "Smart inverters and islanding.",
+      "text": "It argues that grid-forming inverters let a microgrid disconnect from a failing grid within milliseconds, keep running as an island, and supply synthetic inertia to stabilize frequency."
+    },
+    {
+      "title": "The cost of outages.",
+      "text": "It argues that conventional models underprice blackouts, and proposes the value of lost load, put at $5 to $26 per kilowatt-hour, to justify solar-plus-storage investment."
+    },
+    {
+      "title": "Bottom-up adoption in Pakistan.",
+      "text": "It presents Pakistan’s rapid, unsubsidized private solar imports in response to high tariffs as an example of diffusion without policy, and discusses the utility death spiral that can follow."
+    },
+    {
+      "title": "Aggregation, access and industry.",
+      "text": "It proposes virtual power plants of customer-owned batteries, modular mini-grids with pay-as-you-go billing, solar direct-drive pumps and refrigeration for life-support services, and captive rooftop solar for factories."
+    },
+    {
+      "title": "A century in four periods.",
+      "text": "The strategy runs through hardware proof (2000–2025), systemic de-risking (2025–2050), microgrid swarms (2050–2075) and universal abundance (2075–2100)."
+    }
+  ],
+  "contents": [
+    {
+      "number": "1",
+      "title": "The Brittle Architecture: Centralized Grids in an Era of Polycrisis Disruption",
+      "description": "",
+      "page": 3
+    },
+    {
+      "number": "2",
+      "title": "The Distributed Solar Revolution: From Central Monopolies to Polycentric Power",
+      "description": "",
+      "page": 6
+    },
+    {
+      "number": "3",
+      "title": "The Physics of Antifragility: Autonomous Islanding and Smart Inverters",
+      "description": "",
+      "page": 9
+    },
+    {
+      "number": "4",
+      "title": "The Economics of Lost Load: Measuring the True Value of Energy Resilience",
+      "description": "",
+      "page": 12
+    },
+    {
+      "number": "5",
+      "title": "The “Pakistan Surprise”: Unregulated Bottom-Up Solar Defection",
+      "description": "",
+      "page": 15
+    },
+    {
+      "number": "6",
+      "title": "The Utility Death Spiral vs. The Grid as a Public Commons",
+      "description": "",
+      "page": 18
+    },
+    {
+      "number": "7",
+      "title": "Virtual Power Plants (VPPs): Aggregating Behind-the-Meter Distributed Energy Resources",
+      "description": "",
+      "page": 21
+    },
+    {
+      "number": "8",
+      "title": "Modular Mini-Grids and Frontier Electrification: Powering the Bottom Billion",
+      "description": "",
+      "page": 24
+    },
+    {
+      "number": "9",
+      "title": "Distributed Adaptation: Powering Critical Life-Support Infrastructure",
+      "description": "",
+      "page": 27
+    },
+    {
+      "number": "10",
+      "title": "Commercial and Industrial (C&I) Rooftops: Shielding Productive Capital from Macroeconomic Shocks",
+      "description": "",
+      "page": 30
+    },
+    {
+      "number": "11",
+      "title": "Regulatory Modernization: Net Metering, Wheeling, and P2P Energy Trading",
+      "description": "",
+      "page": 33
+    },
+    {
+      "number": "12",
+      "title": "Century-Scale Synthesis: The Decentralized Energy Architecture (2000–2100)",
+      "description": "",
+      "page": 36
+    },
+    {
+      "number": "",
+      "title": "Lexicon of Defined Terms",
+      "description": "",
+      "page": 39
+    },
+    {
+      "number": "",
+      "title": "Bibliography",
+      "description": "",
+      "page": 40
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Polycrisis Resilience",
+      "definition": "The proactive application of economic development, technological diffusion, and institutional strengthening to reduce interconnected risks threatening human wellbeing and survivability."
+    },
+    {
+      "term": "Single-Point-of-Failure Linearity",
+      "definition": "The fragility of centralized power grids where a localized transmission failure propagates into widespread regional blackouts."
+    },
+    {
+      "term": "Autonomous Microgrid Islanding",
+      "definition": "The ability of a distributed energy system to automatically sever connection with a compromised grid in under 20 milliseconds, operating as an independent electrical island."
+    },
+    {
+      "term": "Grid-Forming Inverter (GFM)",
+      "definition": "An advanced power electronics converter that acts as a master voltage source, synthesizing its own 50/60 Hz AC waveform independently of the grid."
+    },
+    {
+      "term": "Synthetic / Virtual Inertia",
+      "definition": "Control algorithms in grid-forming inverters that instantly inject active power from batteries within 50 milliseconds of a frequency drop, mimicking spinning turbine rotors."
+    },
+    {
+      "term": "Value of Lost Load (VoLL)",
+      "definition": "The total economic damage, lost production, spoilt inventory, and societal harm incurred per kilowatt-hour of unserved electricity during a blackout ($5–$26/kWh)."
+    },
+    {
+      "term": "Spontaneous Grid Defection",
+      "definition": "The mass adoption of behind-the-meter solar and batteries by consumers escaping unaffordable grid tariffs and chronic blackouts without government policy aid."
+    },
+    {
+      "term": "The Utility Death Spiral",
+      "definition": "The feedback loop where customer self-generation reduces utility kWh sales, forcing tariff hikes to cover fixed debt, accelerating further defection."
+    },
+    {
+      "term": "Virtual Power Plant (VPP)",
+      "definition": "A cloud-connected software aggregation of thousands of customer-owned solar and battery systems operating as a single dispatchable power plant."
+    },
+    {
+      "term": "Negawatt Capacity",
+      "definition": "The reduction of peak grid demand achieved through distributed storage dispatch and flexible load orchestration, avoiding the need for gas peaker plants."
+    },
+    {
+      "term": "Modular Solar Mini-Grid",
+      "definition": "An autonomous local distribution network powered by solar PV and battery storage serving a rural community independently of the national transmission grid."
+    },
+    {
+      "term": "Pay-As-You-Go (PAYG) Micro-Utility",
+      "definition": "An automated business model integrating cellular IoT smart meters with mobile money rails, enabling consumers to buy micro-increments of electricity without bad debt."
+    },
+    {
+      "term": "Solar Direct Drive (SDD)",
+      "definition": "Refrigeration and water pumping technology that runs directly on solar PV electricity using phase-change thermal storage or elevated tanks without chemical batteries."
+    },
+    {
+      "term": "Captive Industrial Solar (C&I)",
+      "definition": "Privately financed behind-the-meter solar and storage systems installed on factory and commercial roofs, cutting power costs by 60% and hedging FX devaluations."
+    },
+    {
+      "term": "Open-Access Energy Wheeling",
+      "definition": "The regulatory right of an independent solar generator to inject power into the public grid and have it credited to a remote corporate facility in exchange for a transit fee."
+    },
+    {
+      "term": "Polycentric Energy Swarm",
+      "definition": "A multi-layered, self-healing electricity architecture where generation, storage, and control are distributed across millions of interconnected, autonomous nodes."
+    }
+  ],
+  "references": [
+    {
+      "text": "Hughes, H. (2026). Polycrisis Resilience: Addressing the Survivability Regime of the 21st Century (2000–2100). H Heuristics Monograph Series."
+    },
+    {
+      "text": "Hughes, H. (2026). The Distributed Solar Revolution: Rooftops, Mini-Grids, and Pakistan’s Surprise. H Heuristics Research Report."
+    },
+    {
+      "text": "Hughes, H. (2026). Distributed Energy Systems and the Economics of Infrastructure Resilience. H Heuristics Monograph."
+    },
+    {
+      "text": "Hughes, H. (2026). Solar Power and Distributed Adaptation: Why Decentralized Energy Systems Strengthen Communities Against Disruptions. H Heuristics Report."
+    },
+    {
+      "text": "International Energy Agency (IEA) (2025). World Energy Outlook 2025: Distributed Energy Resources and Grid Modernization. Paris: IEA."
+    },
+    {
+      "text": "International Renewable Energy Agency (IRENA) (2025). Renewable Power Generation Costs in 2024. Abu Dhabi: IRENA."
+    },
+    {
+      "text": "National Renewable Energy Laboratory (NREL) (2025). Grid-Forming Inverters for Distributed Renewable Integration: System Standards and Black Start Capabilities. Golden, CO: NREL."
+    },
+    {
+      "text": "World Bank Energy Sector Management Assistance Program (ESMAP) (2024). Mini-Grids for Half a Billion People: Market Outlook and Handbook for Action. Washington, DC: World Bank."
+    },
+    {
+      "text": "BloombergNEF (BNEF) (2025). 2025 Commercial and Industrial Rooftop Solar Market Outlook. New York: BloombergNEF."
+    },
+    {
+      "text": "Rocky Mountain Institute (RMI) (2024). Virtual Power Plants: Realizing the Megawatts and Negawatts of Distributed Flexibility. Basalt, CO: RMI."
+    },
+    {
+      "text": "Intergovernmental Panel on Climate Change (IPCC) (2023). Climate Change 2023: Synthesis Report. Contribution of Working Groups I, II and III. Geneva: IPCC."
+    },
+    {
+      "text": "World Health Organization (WHO) (2024). Health Facility Electrification and Solar Direct Drive Cold Chains: Saving Lives Through Clean Power. Geneva: WHO."
+    },
+    {
+      "text": "Electric Power Research Institute (EPRI) (2024). The Value of Lost Load in Modern Industrial and Healthcare Infrastructure. Palo Alto: EPRI."
+    },
+    {
+      "text": "National Electric Power Regulatory Authority (NEPRA) (2025). State of the Industry Report: Rooftop Solar Penetration and Circular Debt Dynamics in Pakistan. Islamabad: NEPRA."
+    },
+    {
+      "text": "Ember (2025). Pakistan’s Solar Surge: Analyzing Chinese PV Module Export Data and Behind-the-Meter Capacity. London: Ember Climate."
+    },
+    {
+      "text": "Lawrence Berkeley National Laboratory (LBNL) (2024). Updated Value of Service Reliability Estimates for Electric Utility Customers. Berkeley, CA: LBNL."
+    },
+    {
+      "text": "Federal Energy Regulatory Commission (FERC) (2024). Order 2222 Implementation Report: Distributed Energy Resource Aggregation in Wholesale Markets. Washington, DC: FERC."
+    },
+    {
+      "text": "African Development Bank (AfDB) (2025). Decentralized Energy Access in Sub-Saharan Africa: Mini-Grid Scale-Up and PAYG Financing. Abidjan: AfDB."
+    },
+    {
+      "text": "United Nations Sustainable Energy for All (SEforALL) (2025). State of the Global Mini-Grids Market: Productive Uses and Universal Access. Vienna: SEforALL."
+    },
+    {
+      "text": "CrossBoundary Energy (2025). Commercial & Industrial Solar in Africa: PPA Structuring and Corporate Energy Hedging. Nairobi: CrossBoundary."
+    },
+    {
+      "text": "Food and Agriculture Organization (FAO) (2024). Solar Powered Irrigation Systems: Global Market Developments and Agricultural Productivity. Rome: FAO."
+    },
+    {
+      "text": "Hughes, H. (2026). Clean Energy Access as a Polycrisis Resilience Strategy. H Heuristics Monograph Series, HH-2026-PR-CEARS."
+    }
+  ]
+}
