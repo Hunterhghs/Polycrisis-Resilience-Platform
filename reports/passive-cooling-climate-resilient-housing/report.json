@@ -1,0 +1,311 @@
+{
+  "seriesNumber": 36,
+  "title": "Passive Cooling Technologies and Climate-Resilient Housing",
+  "subtitle": "Vernacular architecture, high-albedo envelopes, radiative sky cooling, and thermal mass dynamics across the 21st century",
+  "type": "Research Monograph",
+  "datePublished": "2026-11-09",
+  "dateModified": "2026-11-09",
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 40,
+  "language": "en",
+  "description": "A century-scale framework (2000–2100) arguing that low-cost passive cooling can make informal housing safer in extreme heat, organised around shade, ventilation, reflection and finance, in twelve chapters from cool roofs and radiative cooling to thermal mass, tenure and field trials.",
+  "contribution": "A twelve-chapter monograph on passive cooling for informal housing, organised as four pillars (shade, ventilation, reflection and finance): the informal-housing heat penalty, cool roofs, radiative sky cooling, wind catchers, jaali screens, thermal mass, earth cooling, tenure and field trials, with a lexicon of its own terms.",
+  "themes": [
+    "Informal housing",
+    "Cool roofs",
+    "Radiative cooling",
+    "Ventilation",
+    "Shading",
+    "Thermal mass",
+    "Earth cooling",
+    "Tenure and governance",
+    "Micro-finance",
+    "Field trials"
+  ],
+  "keywords": [
+    "passive cooling",
+    "climate-resilient housing",
+    "informal settlements",
+    "cool roofs",
+    "passive daytime radiative cooling",
+    "natural ventilation",
+    "wind catchers",
+    "jaali screens",
+    "thermal mass",
+    "compressed earth blocks",
+    "heat action plans",
+    "micro-retrofit finance",
+    "polycrisis resilience",
+    "century-scale framework",
+    "H Heuristics Polycrisis Resilience Framework"
+  ],
+  "abstract": [
+    "Passive cooling is presented as a low-cost way to reduce heat exposure for residents of informal housing, where uninsulated metal roofs and dense layouts can push indoor temperatures well above outdoor air. The monograph organises passive measures into four pillars, shade, ventilation, reflection and finance, and argues that reflective roofs, radiative sky-cooling materials, wind catchers, perforated screens, thermal mass and earth cooling, together with tenure security and micro-finance, can protect residents without relying on air conditioning.",
+    "The monograph is organised in twelve chapters covering the informal housing heat penalty, the thermodynamics of heat rejection, cool roofs and coatings, passive daytime radiative cooling, stack ventilation and wind catchers, shading screens, thermal mass, sub-surface and evaporative cooling, tenure and governance, micro-retrofit finance and applied case studies from cities such as Ahmedabad, and closes with a century-scale synthesis across four planning periods from 2000 to 2100. It includes a lexicon of the framework’s defined terms."
+  ],
+  "coreProposition": "Low-cost passive cooling, organised around shade, ventilation, reflection and finance, can protect residents of informal housing from extreme heat without depending on mechanical air conditioning.",
+  "keyFindings": [
+    {
+      "title": "The informal housing heat penalty.",
+      "text": "The monograph argues that uninsulated corrugated metal roofs and dense layouts can make informal homes several degrees hotter inside than the air outside, affecting more than a billion people."
+    },
+    {
+      "title": "Reflect.",
+      "text": "It argues that high-albedo coatings and cool roofs can sharply cut roof and ceiling temperatures at low cost, and that radiative sky-cooling materials can cool surfaces below the air temperature, even in sunlight."
+    },
+    {
+      "title": "Ventilate and shade.",
+      "text": "It proposes wind catchers, solar chimneys and night ventilation, and perforated jaali and mashrabiya screens that block sun while accelerating breezes."
+    },
+    {
+      "title": "Thermal mass and earth cooling.",
+      "text": "It argues that thick earth walls delay and damp heat, and that buried air tunnels and evaporative systems can chill incoming air without electricity."
+    },
+    {
+      "title": "Tenure and finance.",
+      "text": "It argues that insecure tenure keeps households from investing in their homes, and proposes tenure agreements tied to retrofits and small revolving loans, utility on-bill repayment and carbon-offset income for micro-retrofits costing $50 to $150."
+    },
+    {
+      "title": "Field trials and a century in four periods.",
+      "text": "It draws on pilots in Ahmedabad, Patna, Buenos Aires, Freetown and Cairo, and sets out a strategy through the informal heat crisis (2000–2025), standardized micro-retrofits (2025–2050), advanced metamaterials (2050–2075) and universal thermal security (2075–2100)."
+    }
+  ],
+  "contents": [
+    {
+      "number": "1",
+      "title": "The Informal Housing Heat Penalty: Urban Density and Thermal Inequality",
+      "description": "",
+      "page": 3
+    },
+    {
+      "number": "2",
+      "title": "Thermodynamic Principles of Passive Heat Rejection: Conduction, Convection, and Radiation",
+      "description": "",
+      "page": 6
+    },
+    {
+      "number": "3",
+      "title": "The Reflect Pillar: High-Albedo Cool Roofs and Solar Reflective Coatings (SRI > 100)",
+      "description": "",
+      "page": 9
+    },
+    {
+      "number": "4",
+      "title": "Passive Daytime Radiative Cooling (PDRC): Sub-Ambient Sky Windows (8–13 µm)",
+      "description": "",
+      "page": 12
+    },
+    {
+      "number": "5",
+      "title": "The Vent Pillar: Buoyancy-Driven Stack Ventilation and Wind Catchers",
+      "description": "",
+      "page": 15
+    },
+    {
+      "number": "6",
+      "title": "The Shade Pillar: Vernacular Jaali Screens, Mashrabiya, and Vegetative Canopies",
+      "description": "",
+      "page": 18
+    },
+    {
+      "number": "7",
+      "title": "Thermal Mass Dynamics: Compressed Earth Blocks (CEB), Adobe, and Phase-Change Materials",
+      "description": "",
+      "page": 21
+    },
+    {
+      "number": "8",
+      "title": "Sub-Surface and Evaporative Cooling: Earth-Air Heat Exchangers and Qanat Hydraulics",
+      "description": "",
+      "page": 24
+    },
+    {
+      "number": "9",
+      "title": "The Absorptive Capacity Problem: Tenure Insecurity, Building Codes, and Retrofit Governance",
+      "description": "",
+      "page": 27
+    },
+    {
+      "number": "10",
+      "title": "The Finance Pillar: Sizing the $50–$150 Micro-Retrofit Instrument",
+      "description": "",
+      "page": 30
+    },
+    {
+      "number": "11",
+      "title": "Applied Global Case Studies: Ahmedabad, Patna, Buenos Aires, Freetown, and Cairo",
+      "description": "",
+      "page": 33
+    },
+    {
+      "number": "12",
+      "title": "Century-Scale Synthesis: The Shade-Vent-Reflect-Finance Architecture (2000–2100)",
+      "description": "",
+      "page": 36
+    },
+    {
+      "number": "",
+      "title": "Lexicon of Defined Terms",
+      "description": "",
+      "page": 39
+    },
+    {
+      "number": "",
+      "title": "Bibliography",
+      "description": "",
+      "page": 40
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Polycrisis Resilience",
+      "definition": "The proactive application of economic development, technological diffusion, and institutional strengthening to reduce interconnected risks threatening human survivability."
+    },
+    {
+      "term": "The Informal Housing Heat Penalty",
+      "definition": "The thermal disparity whereby informal settlements experience indoor temperatures 4°C to 8°C higher than ambient air due to uninsulated metallic roofs and dense morphology."
+    },
+    {
+      "term": "The Absorptive Capacity D-Coefficient",
+      "definition": "A proposed institutional elasticity metric quantifying the percentage of theoretically available climate adaptation capital that a household actually deploys into physical home thermal improvements."
+    },
+    {
+      "term": "Solar Reflectance Index (SRI)",
+      "definition": "A composite metric combining solar reflectance (albedo) and thermal emittance; cool roofs with SRI above 100 are described as rejecting over 85% of solar radiation, keeping indoor spaces up to 5.5°C cooler."
+    },
+    {
+      "term": "Passive Daytime Radiative Cooling (PDRC)",
+      "definition": "The capability of a surface to achieve sub-ambient temperatures under direct midday sunlight by simultaneously reflecting more than 96% of solar insolation and emitting strongly in the 8–13 µm atmospheric window."
+    },
+    {
+      "term": "Atmospheric Transparency Window (8–13 µm)",
+      "definition": "The infrared spectral band between 8 and 13 micrometers where Earth’s atmosphere is largely transparent, allowing terrestrial thermal radiation to pass through into deep space."
+    },
+    {
+      "term": "Buoyancy-Driven Stack Ventilation",
+      "definition": "The process wherein vertical air temperature gradients induce density differences, generating a continuous upward draft that exhausts warm air through rooftop apertures."
+    },
+    {
+      "term": "Vernacular Wind Catcher (Badgir / Malqaf)",
+      "definition": "An ancient architectural tower rising above dense urban rooftops to capture faster, cooler upper boundary layer breezes, funneling them downward into living quarters across subterranean water basins."
+    },
+    {
+      "term": "Engineered Solar Chimney",
+      "definition": "A vertical thermal flue featuring a sun-exposed glazed face and dark absorber wall that superheats air to drive convective exhaust drafts (15–25 air changes per hour) even during windless summer afternoons."
+    },
+    {
+      "term": "The Venturi Effect in Architecture",
+      "definition": "The principle where airflow compressed through contracted apertures (such as jaali perforations) accelerates in velocity, stripping skin boundary layers to amplify physiological evaporative cooling."
+    },
+    {
+      "term": "Bioclimatic Jaali / Mashrabiya",
+      "definition": "Perforated stone, terracotta, or wooden architectural lattice screens that block high-angle direct solar radiation (up to 85%) while accelerating breezes and diffusing comfortable daylight indoors."
+    },
+    {
+      "term": "Thermal Phase-Lag (φ)",
+      "definition": "The time delay (measured in hours) for peak external surface heat to conduct through a building wall assembly to the inner surface; tuned to 10–12 hours in climate-resilient earth masonry."
+    },
+    {
+      "term": "Thermal Decrement Factor (μ)",
+      "definition": "The ratio of the interior surface temperature amplitude to the exterior ambient temperature amplitude; thick earth masonry is described as achieving μ below 0.20, dampening daily thermal extremes."
+    },
+    {
+      "term": "Compressed Earth Block (CEB)",
+      "definition": "A high-density structural masonry block manufactured by subjecting subsoil mixtures to mechanical hydraulic compression (above 10 MPa), offering high thermal mass with 80% less carbon than fired brick."
+    },
+    {
+      "term": "Earth-Air Heat Exchanger (EAHE)",
+      "definition": "A geothermal cooling system consisting of underground pipes that draw hot ambient air through subterranean soil at 2.5 m to 4 m depth, chilling the air by 8°C to 14°C before discharge into living spaces."
+    },
+    {
+      "term": "Thermal Occupancy Pact",
+      "definition": "A proposed municipal covenant granting informal settlement residents immunity from eviction for 5 to 10 years conditioned upon the execution of verified passive cooling retrofits."
+    }
+  ],
+  "references": [
+    {
+      "text": "Hughes, H. (2026). Polycrisis Resilience: Addressing the Survivability Regime of the 21st Century (2000–2100). H Heuristics Monograph Series."
+    },
+    {
+      "text": "Hughes, H. (2026). Passive Cooling Innovations in Informal Urban Morphologies. H Heuristics Monograph, HH-2026-PR-PCTCRH."
+    },
+    {
+      "text": "Hughes, H. (2026). How Air Conditioning, Passive Cooling, and Emerging Technologies Reduce Climate Risks. H Heuristics Research Monograph."
+    },
+    {
+      "text": "Hughes, H. (2026). The Development Economics of Affordable Passive Cooling. H Heuristics Working Paper."
+    },
+    {
+      "text": "Hughes, H. (2026). Urban Microclimates and Built Morphology in Developing Megacities. H Heuristics Research Report."
+    },
+    {
+      "text": "Hughes, H. (2026). Land Tenure Security and Adaptation Capital Absorption in Slum Upgrading. H Heuristics Working Paper."
+    },
+    {
+      "text": "Raman, A. P., et al. (2014). Passive daytime radiative cooling using a nanophotonic metamaterial. Nature, 515(7528), 540–544.",
+      "url": "https://doi.org/10.1038/nature13883",
+      "doi": "10.1038/nature13883"
+    },
+    {
+      "text": "Li, T., et al. (2019). A radiative cooling structural material. Science, 364(6442), 760–763.",
+      "url": "https://doi.org/10.1126/science.aau9101",
+      "doi": "10.1126/science.aau9101"
+    },
+    {
+      "text": "Akbari, H., et al. (2001). Cool surfaces and shade trees to reduce energy use and improve air quality in urban areas. Solar Energy, 70(3), 295–310.",
+      "url": "https://doi.org/10.1016/S0038-092X(00)00089-X",
+      "doi": "10.1016/S0038-092X(00)00089-X"
+    },
+    {
+      "text": "Santamouris, M. (2020). Recent progress on urban cooling technologies: Materials, systems and solutions. Energy and Buildings, 207, 109609."
+    },
+    {
+      "text": "Fathy, H. (1986). Natural Energy and Vernacular Architecture: Principles and Examples with Reference to Hot Arid Climates. University of Chicago Press."
+    },
+    {
+      "text": "Givoni, B. (1998). Passive and Low Energy Cooling of Buildings. New York: John Wiley & Sons."
+    },
+    {
+      "text": "Bahadori, M. N. (1978). Passive cooling systems in Iranian architecture. Scientific American, 238(2), 144–155.",
+      "url": "https://doi.org/10.1038/scientificamerican0278-144",
+      "doi": "10.1038/scientificamerican0278-144"
+    },
+    {
+      "text": "Allard, F. (Ed.) (1998). Natural Ventilation in Buildings: A Design Handbook. London: James & James."
+    },
+    {
+      "text": "Bansal, N. K., et al. (1994). Passive Building Design: A Handbook of Natural Climatic Control. Amsterdam: Elsevier."
+    },
+    {
+      "text": "Mahila Housing Trust (2024). Ten Years of Climate Resilient Housing: Scaling Cool Roofs and Vernacular Shading in Informal India. Ahmedabad: MHT."
+    },
+    {
+      "text": "NRDC and AMC (2024). Ahmedabad Heat Action Plan 2024: Pioneering Climate Adaptation in South Asia. Ahmedabad Municipal Corporation."
+    },
+    {
+      "text": "UN-Habitat (2024). World Cities Report 2024: Cities and Climate Resilience in Informal Settlements. Nairobi: UN-Habitat."
+    },
+    {
+      "text": "World Bank ESMAP (2024). Primer on Cool Cities: Passive Cooling and Urban Heat Island Mitigation. Washington, DC: World Bank."
+    },
+    {
+      "text": "IPCC (2022). Climate Change 2022: Impacts, Adaptation and Vulnerability. Contribution of Working Group II to AR6. Cambridge University Press."
+    },
+    {
+      "text": "Payne, G. (2002). Land, Rights and Innovation: Improving Tenure Security for the Urban Poor. London: ITDG Publishing."
+    },
+    {
+      "text": "RILEM TC-274 (2022). Testing and Characterisation of Earth-Based Building Materials and Elements. Cham: Springer."
+    }
+  ]
+}
