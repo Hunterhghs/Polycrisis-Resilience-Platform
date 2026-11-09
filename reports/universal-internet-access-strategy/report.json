@@ -1,0 +1,319 @@
+{
+  "seriesNumber": 39,
+  "title": "Universal Internet Access as a Polycrisis Resilience Strategy",
+  "subtitle": "Digital public infrastructure, subsea fiber meshes, low Earth orbit constellations, and the civilizational connectivity dividend across the 21st century",
+  "type": "Research Monograph",
+  "datePublished": "2026-11-09",
+  "dateModified": "2026-11-09",
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "license": {
+    "name": "All rights reserved",
+    "shortName": "All rights reserved"
+  },
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 40,
+  "language": "en",
+  "description": "A century-scale framework (2000–2100) arguing that universal internet access is a resilience prerequisite and that four pillars (physical mesh, satellite failover, open digital public infrastructure and spectrum and device equity) can deliver it, in twelve chapters from networks and satellites to early warning, health, sovereignty and affordability.",
+  "contribution": "A twelve-chapter monograph on universal internet access as resilience infrastructure: the offline gap, subsea and terrestrial networks, satellite and direct-to-device links, Open RAN and TV white spaces, digital public infrastructure, early warning, remote work, telemedicine, cybersecurity and affordability, with a four-pillar framework and a lexicon of its own terms.",
+  "themes": [
+    "Connectivity divide",
+    "Network resilience",
+    "Satellite networks",
+    "Last-mile access",
+    "Digital public infrastructure",
+    "Early warning",
+    "Remote work",
+    "Telemedicine",
+    "Cybersecurity",
+    "Affordability"
+  ],
+  "keywords": [
+    "universal internet access",
+    "connectivity divide",
+    "digital public infrastructure",
+    "low Earth orbit satellites",
+    "direct-to-device",
+    "subsea cables",
+    "Open RAN",
+    "TV white spaces",
+    "early warning",
+    "telemedicine",
+    "digital sovereignty",
+    "affordability",
+    "polycrisis resilience",
+    "century-scale framework",
+    "H Heuristics Polycrisis Resilience Framework"
+  ],
+  "abstract": [
+    "Access to high-speed, affordable internet is presented as the foundational nervous system of 21st-century resilience. The monograph argues that the roughly 2.6 billion people still offline, mostly in the rural Global South, are cut off from warnings, emergency payments and remote health care when disasters or pandemics strike, and that disconnection also depresses growth through price asymmetries, welfare leakage and stagnant productivity.",
+    "It proposes a four-pillar framework: hardening the physical network (diversified subsea cables and domestic exchange points), non-terrestrial redundancy (low Earth orbit satellites and direct-to-device links), open digital public infrastructure (identity, instant payments and data exchange), and spectrum and device equity (Open RAN, TV white spaces and pay-as-you-go smartphone financing). The monograph is organised in twelve chapters covering the connectivity divide, network architecture, satellite networks, last-mile topology, digital public infrastructure, early warning, remote economic participation, telemedicine, cybersecurity, affordability and cross-regional deployments, and closes with a century-scale synthesis across four planning periods from 2000 to 2100. It includes a lexicon of the framework’s defined terms."
+  ],
+  "coreProposition": "Access to high-speed, affordable broadband internet is the foundational nervous system of 21st-century civilizational survivability, a global public good and prerequisite for human survival.",
+  "keyFindings": [
+    {
+      "title": "A large offline population.",
+      "text": "The monograph states that about 2.6 billion people, roughly a third of humanity, remain offline, with most of them in the rural Global South."
+    },
+    {
+      "title": "Disconnection raises vulnerability.",
+      "text": "It argues that offline communities cannot receive geofenced cell-broadcast warnings, receive emergency cash or reach telemedicine, and that disconnection also depresses growth through price asymmetries, welfare leakage and low productivity."
+    },
+    {
+      "title": "Harden the network and add satellite failover.",
+      "text": "It proposes diversifying subsea cable routes, decentralizing landing stations and building carrier-neutral domestic exchange points, with low Earth orbit and direct-to-device satellite links as redundancy when terrestrial networks fail."
+    },
+    {
+      "title": "Open public infrastructure and last-mile access.",
+      "text": "It proposes open identity, instant payment and data exchange rails, and Open RAN, TV white spaces and solar-powered micro-cells for rural coverage."
+    },
+    {
+      "title": "Affordability and sovereignty.",
+      "text": "It proposes spectrum policy with rural coverage obligations, universal service funds, pay-as-you-go smartphone financing, and protections against sabotage, routing attacks and surveillance, including secure routing and data embassies."
+    },
+    {
+      "title": "Cases and a century in four periods.",
+      "text": "It draws on Kenya, India, Estonia and Amazonia, and sets out a strategy through the terrestrial divide (2000–2025), a satellite and DPI leapfrog (2025–2050), autonomous resilient meshes (2050–2075) and universal network parity (2075–2100)."
+    }
+  ],
+  "contents": [
+    {
+      "number": "",
+      "title": "Executive Summary and Century-Scale Transition Trajectory",
+      "description": "",
+      "page": 2
+    },
+    {
+      "number": "1",
+      "title": "The Global Connectivity Divide and Systemic Human Vulnerability",
+      "description": "",
+      "page": 3
+    },
+    {
+      "number": "2",
+      "title": "Network Architecture and Physical Layer Resilience: Subsea Fiber to Rural Backhaul",
+      "description": "",
+      "page": 6
+    },
+    {
+      "number": "3",
+      "title": "Non-Terrestrial Networks: LEO Satellite Constellations and Stratospheric Telemetry",
+      "description": "",
+      "page": 9
+    },
+    {
+      "number": "4",
+      "title": "Last-Mile Topology: Open RAN, TV White Spaces, and Solar-Powered Micro-Cells",
+      "description": "",
+      "page": 12
+    },
+    {
+      "number": "5",
+      "title": "Digital Public Infrastructure (DPI) and Crisis Absorptive Capacity",
+      "description": "",
+      "page": 15
+    },
+    {
+      "number": "6",
+      "title": "Early Warning Systems, Climate Telemetry, and Disaster Response Mobilization",
+      "description": "",
+      "page": 18
+    },
+    {
+      "number": "7",
+      "title": "Decentralized Economic Resilience: Remote Labor, Gig Integration, and Agricultural Tele-Services",
+      "description": "",
+      "page": 21
+    },
+    {
+      "number": "8",
+      "title": "Telemedicine, Remote Triage, and Pandemic Surveillance Networks",
+      "description": "",
+      "page": 24
+    },
+    {
+      "number": "9",
+      "title": "Digital Sovereignty, Cybersecurity, and Infrastructure Hardening in Polycrisis Warfare",
+      "description": "",
+      "page": 27
+    },
+    {
+      "number": "10",
+      "title": "Affordability, Device Accessibility, and Spectrum Policy Economics",
+      "description": "",
+      "page": 30
+    },
+    {
+      "number": "11",
+      "title": "Cross-Regional Empirical Deployments: Kenya, India, Estonia, and Amazonia",
+      "description": "",
+      "page": 33
+    },
+    {
+      "number": "12",
+      "title": "Century-Scale Synthesis: The Universal Connectivity Dividend (2000–2100)",
+      "description": "",
+      "page": 36
+    },
+    {
+      "number": "",
+      "title": "Lexicon of Defined Terms and the Four-Pillar Framework",
+      "description": "",
+      "page": 39
+    },
+    {
+      "number": "",
+      "title": "Bibliography and Colophon",
+      "description": "",
+      "page": 40
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Digital Public Infrastructure (DPI)",
+      "definition": "An open-source, interoperable digital framework comprising digital identity, real-time retail payment switches, and secure data exchange rails that serve as foundational public goods."
+    },
+    {
+      "term": "Low Earth Orbit (LEO) Constellation",
+      "definition": "A synchronized network of mass-manufactured satellites orbiting at altitudes between 350 and 1,200 km, described as delivering fiber-grade low latency (under 35 ms) and high broadband throughput globally."
+    },
+    {
+      "term": "Direct-to-Device (D2D) Satellite Link",
+      "definition": "A satellite telecommunication protocol allowing ordinary, unmodified commercial smartphones to connect directly to orbiting spacecraft operating as cellular base stations."
+    },
+    {
+      "term": "Optical Inter-Satellite Link (OISL)",
+      "definition": "Free-space laser communication terminals that transmit data packets between orbiting satellites in vacuum at the speed of light, creating an autonomous space mesh."
+    },
+    {
+      "term": "Open Radio Access Network (Open RAN)",
+      "definition": "A telecommunications architecture that disaggregates cellular base station hardware from software using open interfaces, enabling baseband processing on commercial off-the-shelf servers."
+    },
+    {
+      "term": "TV White Spaces (TVWS)",
+      "definition": "Unassigned broadcast frequency channels in the UHF spectrum (470–698 MHz) used via dynamic spectrum access to transmit broadband over long distances through jungle and mountainous terrain."
+    },
+    {
+      "term": "Common Alerting Protocol (CAP)",
+      "definition": "An international digital XML standard for exchanging multi-hazard emergency alerts, enabling simultaneous dissemination across Cell Broadcast, radio, and mobile apps."
+    },
+    {
+      "term": "Cell Broadcast (CB)",
+      "definition": "A one-way, non-blocking radio broadcast protocol that transmits emergency alerts from cell towers to all mobile devices within a geofenced area simultaneously, designed to be immune to network traffic congestion."
+    },
+    {
+      "term": "Information Arbitrage Dividend",
+      "definition": "The economic expansion captured by rural smallholders and informal producers when real-time digital market price visibility eliminates predatory intermediary margins."
+    },
+    {
+      "term": "Tele-Epidemiological Containment",
+      "definition": "The rapid detection, diagnosis, and genomic sequencing of novel pathogen outbreaks within 24 hours of clinical presentation using cloud-connected field diagnostics."
+    },
+    {
+      "term": "Border Gateway Protocol (BGP) Hijacking",
+      "definition": "The unauthorized, malicious announcement of IP address prefix ownership that redirects sovereign internet traffic through adversary networks for interception or packet disruption."
+    },
+    {
+      "term": "Data Embassy",
+      "definition": "An extraterritorial, sovereign government datacenter established in a friendly foreign state with diplomatic protections that houses live, encrypted mirrors of critical state registries."
+    },
+    {
+      "term": "Resource Public Key Infrastructure (RPKI)",
+      "definition": "A cryptographic security framework that binds internet IP address blocks and Autonomous System numbers to certified cryptographic keys, preventing BGP hijacking."
+    },
+    {
+      "term": "Bandwidth Poverty Threshold",
+      "definition": "The affordability threshold defined by the UN Broadband Commission wherein entry-level broadband data (2 GB/month) exceeds 2% of monthly Gross National Income per capita."
+    },
+    {
+      "term": "Pay-As-You-Go (PAYG) Smartphone Financing",
+      "definition": "An asset-backed micro-lending model allowing low-income consumers to acquire smartphones with a minimal deposit, paying off the device through daily mobile money micro-installments."
+    },
+    {
+      "term": "Civilizational Connectivity Dividend",
+      "definition": "The cumulative century-scale preservation of human lives (stated as 46.5 million or more) and macroeconomic wealth (stated as $85 trillion or more) said to be achieved through universal, resilient, and un-jammable digital connectivity."
+    }
+  ],
+  "references": [
+    {
+      "text": "Hughes, H. (2026). Polycrisis Resilience: Addressing the Survivability Regime of the 21st Century (2000–2100). H Heuristics Monograph Series."
+    },
+    {
+      "text": "Hughes, H. (2026). Universal Internet Access as a Polycrisis Resilience Strategy. H Heuristics Monograph, HH-2026-PR-UIAAPRS."
+    },
+    {
+      "text": "Hughes, H. (2026). Digital Public Infrastructure and Sovereign Absorptive Capacity in Emerging Economies. H Heuristics Research Monograph."
+    },
+    {
+      "text": "Hughes, H. (2026). The Microeconomics of Last-Mile Telecommunications in the Global South. H Heuristics Working Paper."
+    },
+    {
+      "text": "Hughes, H. (2026). Non-Terrestrial Networks and Planetary Failover Resilience: LEO Megaconstellations in Polycrisis Warfare. H Heuristics Research Report."
+    },
+    {
+      "text": "Hughes, H. (2026). The Information Arbitrage Dividend: Broadband Access and Smallholder Rural Resilience. H Heuristics Working Paper."
+    },
+    {
+      "text": "International Telecommunication Union (2024). Facts and Figures 2024: Global Connectivity Report. Geneva: ITU."
+    },
+    {
+      "text": "World Bank (2024). Digital Progress and Trends Report 2024: Building the Foundations of the Digital Economy. Washington, DC: World Bank."
+    },
+    {
+      "text": "UN Broadband Commission (2023). The State of Broadband 2023: Digital Connectivity A Catalyst for Sustainable Development. Paris: UNESCO/ITU."
+    },
+    {
+      "text": "GSMA (2024). The State of Mobile Internet Connectivity Report 2024. London: GSM Association."
+    },
+    {
+      "text": "World Meteorological Organization (2023). Early Warnings for All: Executive Action Plan 2023–2027. Geneva: WMO/UNDRR."
+    },
+    {
+      "text": "Suri, T. and Jack, W. (2016). The Long-Run Poverty and Gender Impacts of Mobile Money. Science, 354(6317), 1288–1292.",
+      "url": "https://doi.org/10.1126/science.aah5309",
+      "doi": "10.1126/science.aah5309"
+    },
+    {
+      "text": "Muralidharan, K., Niehaus, P. and Sukhtankar, S. (2016). Building State Capacity: What We Can Learn from India’s Biometric Technology-Enabled Transfers. Science, 354(6317), 1294–1298."
+    },
+    {
+      "text": "Aker, J. C. and Mbiti, I. M. (2010). Mobile Phones and Economic Development in Africa. Journal of Economic Perspectives, 24(3), 207–232.",
+      "url": "https://doi.org/10.1257/jep.24.3.207",
+      "doi": "10.1257/jep.24.3.207"
+    },
+    {
+      "text": "Jensen, R. (2007). The Digital Provide: Information (Technology), Market Performance, and Welfare in the South Indian Fisheries Sector. Quarterly Journal of Economics, 122(3), 879–924.",
+      "url": "https://doi.org/10.1162/qjec.122.3.879",
+      "doi": "10.1162/qjec.122.3.879"
+    },
+    {
+      "text": "TeleGeography (2024). Submarine Cable Map & Bandwidth Infrastructure Report. Washington, DC: PriMetrica, Inc."
+    },
+    {
+      "text": "O-RAN Alliance (2023). Open RAN Architecture and Use Cases for Universal Rural Connectivity. Bonn: O-RAN Alliance e.V."
+    },
+    {
+      "text": "3GPP (2024). Overview of 3GPP Release 17 and Release 18: Non-Terrestrial Networks (NTN) Specifications. Sophia Antipolis: 3GPP."
+    },
+    {
+      "text": "Alliance for Affordable Internet (2023). Affordability Report 2023: Fostering Universal, Affordable and Meaningful Connectivity. Washington, DC: Web Foundation / A4AI."
+    },
+    {
+      "text": "Estonian Information System Authority (2024). X-Road and the Data Embassy Doctrine: Architectural White Paper. Tallinn: RIA."
+    },
+    {
+      "text": "United Nations Development Programme (2023). Digital Public Infrastructure: Accelerating the Sustainable Development Goals. New York: UNDP."
+    },
+    {
+      "text": "African Development Bank (2024). Broadband Connectivity and Economic Transformation in Africa. Abidjan: AfDB."
+    }
+  ]
+}
