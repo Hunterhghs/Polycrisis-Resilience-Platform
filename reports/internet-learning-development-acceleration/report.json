@@ -1,0 +1,310 @@
+{
+  "seriesNumber": 33,
+  "title": "Internet-Based Learning and Development Acceleration",
+  "subtitle": "Expanding cognitive access, knowledge diffusion, and adaptive economic velocity across the 21st century",
+  "type": "Research Monograph",
+  "datePublished": "2026-11-08",
+  "dateModified": "2026-11-08",
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 40,
+  "language": "en",
+  "description": "A century-scale framework (2000–2100) arguing that internet access speeds knowledge diffusion and economic catch-up, in twelve chapters from the coverage-versus-usage gap and voice AI to open knowledge, crisis coordination, rural livelihoods, last-mile networks and financing.",
+  "contribution": "A twelve-chapter monograph arguing that internet access accelerates learning and development: a three-gates diagnosis of the digital divide, the coverage-versus-usage gap, voice AI in local languages, open knowledge, crisis coordination, remote work, last-mile networks and financing, with a lexicon of its own terms.",
+  "themes": [
+    "Knowledge diffusion",
+    "Digital divide",
+    "Voice AI",
+    "Open knowledge",
+    "Crisis coordination",
+    "Remote work",
+    "Last-mile networks",
+    "Financing",
+    "Digital sovereignty"
+  ],
+  "keywords": [
+    "internet access",
+    "learning",
+    "knowledge diffusion",
+    "digital divide",
+    "coverage and usage gap",
+    "voice AI",
+    "open knowledge commons",
+    "crisis coordination",
+    "remote work",
+    "universal service funds",
+    "TV white space",
+    "digital sovereignty",
+    "polycrisis resilience",
+    "century-scale framework",
+    "H Heuristics Polycrisis Resilience Framework"
+  ],
+  "abstract": [
+    "Internet access is presented as an engine of learning and development acceleration. The monograph argues that decoupling ideas from physical geography shortens the time it takes latecomer economies to adopt new technology, but that building networks is not enough: affordability, language, literacy and economic agency decide whether connectivity is used. It proposes voice AI in local languages, open knowledge commons, crowdsourced crisis coordination, remote work pathways and new financing for devices and last-mile infrastructure.",
+    "The monograph is organised in twelve chapters covering the knowledge-diffusion engine, a three-gates diagnosis of the rural digital divide, the coverage-versus-usage paradox, vernacular voice AI, open knowledge, crisis coordination, remote participation, last-mile rails, financing through universal service funds and pay-as-you-go devices, the macroeconomic case, and digital sovereignty, and closes with a century-scale synthesis across four planning periods from 2000 to 2100. It includes a lexicon of the framework’s defined terms."
+  ],
+  "coreProposition": "Decoupling ideas from physical geography turns technical know-how into non-rival global public goods, enabling latecomer economies to leapfrog obsolete industrial stages and move directly towards the technological frontier.",
+  "keyFindings": [
+    {
+      "title": "Knowledge travels faster.",
+      "text": "The monograph argues that the time for new technology to reach latecomer economies has fallen from decades to a few years, and that internet access underlies this diffusion."
+    },
+    {
+      "title": "Three gates.",
+      "text": "It argues that rural digital development must clear infrastructure, then affordability and literacy, then economic agency, and that solving only the first leaves networks largely unused."
+    },
+    {
+      "title": "Coverage is not usage.",
+      "text": "It points to the gap between mobile network coverage and the number of people actually online, which it attributes largely to device cost, tariffs and language."
+    },
+    {
+      "title": "Voice AI and open knowledge.",
+      "text": "It proposes speech-to-speech AI in local languages for people who cannot read, and open educational resources and open science to replace paywalls."
+    },
+    {
+      "title": "Crisis coordination and livelihoods.",
+      "text": "It proposes crowdsourced ground reports and mobile money to speed disaster response, and a ladder from price checks to digital training and global freelancing for rural households."
+    },
+    {
+      "title": "Last-mile rails, financing and a century in four periods.",
+      "text": "It proposes TV white space, solar micro-towers and satellite backhaul, universal service funds and pay-as-you-go device financing, with safeguards for data sovereignty, and sets out a strategy through the coverage surge (2000–2025), a democratic leapfrog (2025–2050), technical sovereignty (2050–2075) and collective intelligence (2075–2100)."
+    }
+  ],
+  "contents": [
+    {
+      "number": "1",
+      "title": "The Acceleration Engine: Knowledge Diffusion and the Economics of Catch-Up",
+      "description": "",
+      "page": 3
+    },
+    {
+      "number": "2",
+      "title": "The Three Gates Framework: Deconstructing the Rural Digital Learning Divide",
+      "description": "",
+      "page": 6
+    },
+    {
+      "number": "3",
+      "title": "The Coverage vs. Usage Paradox: Why Built Networks Remain Empty",
+      "description": "",
+      "page": 9
+    },
+    {
+      "number": "4",
+      "title": "The Voice AI and Vernacular Leapfrog: Breaking the Language Deficit",
+      "description": "",
+      "page": 12
+    },
+    {
+      "number": "5",
+      "title": "The Open Knowledge Commons: From Monopolistic Paywalls to Global Public Goods",
+      "description": "",
+      "page": 15
+    },
+    {
+      "number": "6",
+      "title": "Collapsing Crisis Latency: Zero-Latency Coordination in Extreme Shocks",
+      "description": "",
+      "page": 18
+    },
+    {
+      "number": "7",
+      "title": "The Remote Participation Ladder: Rural Livelihoods, Freelancing, and Value Chains",
+      "description": "",
+      "page": 21
+    },
+    {
+      "number": "8",
+      "title": "Decentralized Last-Mile Rails: Solar Micro-Towers, TV White Spaces, and LEO Bursts",
+      "description": "",
+      "page": 24
+    },
+    {
+      "number": "9",
+      "title": "Financing the Next Billion: Universal Service Access Funds (USAFs) and Pay-As-You-Go",
+      "description": "",
+      "page": 27
+    },
+    {
+      "number": "10",
+      "title": "The Macroeconomic Multiplier: Quantifying the Connectivity-Led Development Dividend",
+      "description": "",
+      "page": 30
+    },
+    {
+      "number": "11",
+      "title": "Digital Sovereignty, Cybersecurity, and Safeguarding Vulnerable Learners",
+      "description": "",
+      "page": 33
+    },
+    {
+      "number": "12",
+      "title": "Century-Scale Synthesis: The Connected Human Species (2000–2100)",
+      "description": "",
+      "page": 36
+    },
+    {
+      "number": "",
+      "title": "Lexicon of Defined Terms",
+      "description": "",
+      "page": 39
+    },
+    {
+      "number": "",
+      "title": "Bibliography",
+      "description": "",
+      "page": 40
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Polycrisis Resilience",
+      "definition": "The proactive application of economic development, technological diffusion, and institutional strengthening to reduce interconnected risks threatening human survivability."
+    },
+    {
+      "term": "Endogenous Knowledge Diffusion Velocity",
+      "definition": "The rate at which technical innovations, diagnostic methods, and operational know-how propagate from frontier research centers to peripheral economies via digital networks."
+    },
+    {
+      "term": "The Three Gates Framework",
+      "definition": "The diagnostic model holding that rural internet-driven development requires sequentially clearing Infrastructure (Gate 1), Affordability and Literacy (Gate 2), and Economic Agency (Gate 3)."
+    },
+    {
+      "term": "The Infrastructure Utilization Gap",
+      "definition": "The failure where high-capacity fiber or cellular infrastructure is physically deployed but remains unused by the population due to device costs and rigid wholesale tariffs."
+    },
+    {
+      "term": "Vernacular Speech-to-Speech AI Rails",
+      "definition": "An open infrastructure layer combining localized speech recognition, translation, and neural voice synthesis that allows non-literate populations to access digital services via spoken dialogue."
+    },
+    {
+      "term": "The Global Open Knowledge Commons",
+      "definition": "The universal digital ecosystem of open-access scientific literature, open-source educational curricula, and verified technical data licensed for unrestricted global use without paywalls."
+    },
+    {
+      "term": "Zero-Latency Problem-Solving Mesh",
+      "definition": "A decentralized crisis response network that uses peer-to-peer mobile communications, crowdsourced ground telemetry, and automated cash distribution to mitigate shocks in real time."
+    },
+    {
+      "term": "The Remote Economic Participation Ladder",
+      "definition": "The progression through which connected households graduate from basic informational search (Rung 1) to digital commerce (Rung 2), technical TVET (Rung 3), and global freelancing (Rung 4)."
+    },
+    {
+      "term": "Decentralized Last-Mile Rails",
+      "definition": "A modular telecommunications architecture combining dynamic TV White Space (TVWS) radio spectrum, localized solar micro-towers, and LEO satellite backhaul to deliver low-cost rural broadband."
+    },
+    {
+      "term": "Universal Service Access Fund (USAF)",
+      "definition": "A statutory public reserve funded by telecommunications operator levies, legally dedicated to subsidizing connectivity in underserved and unprofitable rural regions."
+    },
+    {
+      "term": "Pay-As-You-Go (PAYG) Micro-Equity",
+      "definition": "An asset-financing mechanism allowing low-income consumers to acquire smartphones through small daily mobile money micro-payments ($0.50/day), building algorithmic credit histories."
+    },
+    {
+      "term": "The Connectivity-Led Convergence Elasticity",
+      "definition": "The proposed coefficient quantifying the percentage-point increase in long-run annual GDP per capita and TFP growth generated by a 10-percentage-point expansion in broadband penetration."
+    },
+    {
+      "term": "Pedagogical Data Sovereignty",
+      "definition": "The principle ensuring student diagnostic telemetry, cognitive assessment profiles, and citizen behavioral records remain hosted on sovereign domestic infrastructure under public governance."
+    },
+    {
+      "term": "Ground-Truth Telemetry",
+      "definition": "The real-time crowdsourcing of operational crisis data, such as geotagged photographs, sensor readings, and water levels, directly from affected citizens via mobile networks."
+    },
+    {
+      "term": "Virtual Brain Circulation",
+      "definition": "The remote economic integration where emerging market technical professionals work for global frontier firms, earning competitive wages while residing and investing locally."
+    },
+    {
+      "term": "Planetary Collective Intelligence",
+      "definition": "The state achieved when 100% of global humanity is interconnected via open knowledge rails, allowing discoveries and adaptations to diffuse instantaneously worldwide."
+    }
+  ],
+  "references": [
+    {
+      "text": "Hughes, H. (2026). Polycrisis Resilience: Addressing the Survivability Regime of the 21st Century (2000–2100). H Heuristics Monograph Series."
+    },
+    {
+      "text": "Hughes, H. (2026). Internet-Based Learning and Development Acceleration. H Heuristics Monograph, HH-2026-PR-IBLDA."
+    },
+    {
+      "text": "Hughes, H. (2026). Internet Connectivity Diffusion as a Prerequisite for Economic Convergence in Rural Areas. H Heuristics Research Report."
+    },
+    {
+      "text": "Hughes, H. (2026). The Internet and the Democratization of Problem-Solving. H Heuristics Working Paper."
+    },
+    {
+      "text": "Hughes, H. (2026). Connecting the Next Billion Internet Users in the Hardest Places. H Heuristics Policy Monograph."
+    },
+    {
+      "text": "Hughes, H. (2026). Learning Curves and Latecomer Advantage in Twenty-First Century Technology Adoption. H Heuristics Monograph Series."
+    },
+    {
+      "text": "Romer, P. M. (1990). Endogenous Technological Change. Journal of Political Economy, 98(5), S71–S102.",
+      "url": "https://doi.org/10.1086/261725",
+      "doi": "10.1086/261725"
+    },
+    {
+      "text": "Lucas, R. E. (1988). On the Mechanics of Economic Development. Journal of Monetary Economics, 22(1), 3–42.",
+      "url": "https://doi.org/10.1016/0304-3932(88)90168-7",
+      "doi": "10.1016/0304-3932(88)90168-7"
+    },
+    {
+      "text": "Hjort, J. and Poulsen, J. (2019). Arrival of High-Speed Internet and Employment in Africa. American Economic Review, 109(3), 1032–1079.",
+      "url": "https://doi.org/10.1257/aer.20161385",
+      "doi": "10.1257/aer.20161385"
+    },
+    {
+      "text": "Jensen, R. (2007). The Digital Provide: Information (Technology), Market Performance, and Welfare in the South Indian Fisheries Sector. Quarterly Journal of Economics, 122(3), 879–924.",
+      "url": "https://doi.org/10.1162/qjec.122.3.879",
+      "doi": "10.1162/qjec.122.3.879"
+    },
+    {
+      "text": "International Telecommunication Union (ITU) (2025). Facts and Figures 2025: Global Connectivity Report. Geneva: ITU."
+    },
+    {
+      "text": "GSMA (2025). The State of Mobile Internet Connectivity Report 2025. London: GSMA."
+    },
+    {
+      "text": "World Bank Group (2024). World Development Report 2024: Digital Progress and Rural Inequality. Washington, DC: World Bank."
+    },
+    {
+      "text": "UNESCO (2024). Recommendation on Open Science and Knowledge Commons. Paris: UNESCO."
+    },
+    {
+      "text": "UNOCHA (2024). Digital Humanitarianism and Crisis Mapping: New Frontiers in Response Coordination. Geneva: UNOCHA."
+    },
+    {
+      "text": "Dynamic Spectrum Alliance (DSA) (2024). TV White Space and Dynamic Spectrum Sharing in Emerging Economies. London: DSA."
+    },
+    {
+      "text": "Zuboff, S. (2019). The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power. PublicAffairs."
+    },
+    {
+      "text": "African Union Commission (2024). The African Union Data Policy Framework and Cross-Border Interoperability. Addis Ababa: AU."
+    },
+    {
+      "text": "Copenhagen Consensus Center (2024). Best Investments for Development: Telecommunications and Digital Inclusion. Copenhagen: CCC."
+    },
+    {
+      "text": "Stockholm Resilience Centre (2024). Adaptive Capacity in Social-Ecological Systems: Polycentric Telecommunications. Stockholm: SRC."
+    },
+    {
+      "text": "Cascade Institute (2024). Polycrisis Systems Analysis: Information Transmission Bottlenecks. Victoria: Cascade Institute."
+    },
+    {
+      "text": "World Bank Group (2023). Working Without Borders: The Promise and Peril of Online Gig Work. Washington, DC: World Bank."
+    }
+  ]
+}
