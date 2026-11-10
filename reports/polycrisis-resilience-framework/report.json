@@ -1,0 +1,255 @@
+{
+  "seriesNumber": 43,
+  "title": "The H Heuristics Polycrisis Resilience Framework",
+  "subtitle": "How economic convergence, sustainable development, and proactive adaptation protect exposed populations from compounding global shocks",
+  "type": "Flagship Research Report",
+  "datePublished": "2026-11-10",
+  "dateModified": "2026-11-10",
+  "doi": "10.5281/zenodo.24116801",
+  "repository": {
+    "name": "Zenodo",
+    "url": "https://zenodo.org/records/24116801"
+  },
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "license": {
+    "name": "Creative Commons Attribution 4.0 International",
+    "shortName": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 38,
+  "language": "en",
+  "description": "The H Heuristics Polycrisis Resilience Framework applied to extreme heat, air pollution, demographic shifts and non-fatal suffering, arguing that economic convergence and proactive, multi-dividend adaptation are the strongest long-term shields against compounding crises.",
+  "contribution": "Sets out the framework itself in plain language: eight risk domains, six operational capacities, five systems and six scales, applied to extreme heat, air pollution, demographic shifts and hidden human suffering, with economic convergence as the primary shield.",
+  "themes": [
+    "Climate",
+    "Environment",
+    "Economy",
+    "Geopolitics",
+    "Demography",
+    "Public health",
+    "Technology",
+    "Infrastructure"
+  ],
+  "keywords": [
+    "polycrisis resilience",
+    "resilience framework",
+    "economic convergence",
+    "sustainable development",
+    "extreme heat",
+    "air pollution",
+    "compound risk",
+    "human suffering",
+    "proactive adaptation",
+    "emerging economies",
+    "Hunter Hughes",
+    "H Heuristics"
+  ],
+  "abstract": [
+    "The twenty-first century is increasingly defined not by isolated disruptions, but by interconnected and mutually reinforcing crises that compound across environmental, economic, social, technological, and institutional systems. This report introduces the H Heuristics Polycrisis Resilience Framework, developed by Hunter Hughes, which defines Polycrisis Resilience as the capacity of individuals, communities, institutions, economies, societies, and interconnected systems to anticipate, withstand, adapt to, recover from, and reduce vulnerability to multiple interacting crises. The framework argues that modern risks such as extreme heat, air pollution, infrastructure fragility, demographic pressures, and financial instability cannot be addressed through traditional siloed disaster management. Instead, resilience requires systems thinking, proactive vulnerability reduction, and coordinated interventions across interconnected domains.",
+    "Drawing on evidence from environmental health, demographic trends, economic development, and resilience governance, the report examines how compound hazards generate cascading failures and hidden forms of human suffering that extend far beyond mortality statistics. Particular attention is given to the interaction between extreme heat and air pollution, the concentration of population growth in highly exposed regions, and the chronic health, economic, and social burdens imposed by climate-related stressors. The framework introduces six operational capacities of resilience—risk reduction, prevention, absorption, recovery, adaptation, and transformation—and organizes resilience policy across five interconnected systems: economic, technological and infrastructural, environmental, human, and institutional.",
+    "The report concludes that economic convergence and sustainable development are the most powerful long-term shields against the polycrisis, enabling societies to reduce exposure, strengthen adaptive capacity, and prevent cascading failures before they occur. Through multi-dividend investments such as cool roofs, distributed clean energy, urban greening, clean cooking technologies, and institutional reforms, the framework provides a practical roadmap for transforming vulnerability into durable resilience. By aligning economic development, proactive adaptation, and human well-being within a unified systems approach, the H Heuristics Polycrisis Resilience Framework offers a comprehensive strategy for navigating the complex challenges of the twenty-first century."
+  ],
+  "coreProposition": "Waiting to respond after compound disasters strike is financially ruinous; economic convergence and proactive, multi-dividend adaptation are the most powerful long-term shields against interacting crises.",
+  "keyFindings": [
+    {
+      "title": "Crises interact through three vectors.",
+      "text": "Shocks become entangled through common root causes, domino effects across supply chains and power grids, and vicious feedback loops where early damage destroys the resources needed for recovery."
+    },
+    {
+      "title": "Atmospheric hazards multiply each other.",
+      "text": "Extreme summer heat accelerates the chemical synthesis of ground-level ozone, while atmospheric subsidence traps fine particulate matter (PM2.5) near the ground, creating a combined thermal and chemical insult."
+    },
+    {
+      "title": "The demographic center of gravity has shifted into danger zones.",
+      "text": "By 2060, over 1.2 billion people will be added to Sub-Saharan Africa and South Asia, concentrating much of humanity in tropical megacities where outdoor conditions regularly approach physiological survival limits."
+    },
+    {
+      "title": "Non-fatal suffering is the dominant burden.",
+      "text": "Mortality is only the visible tip of polycrisis harm; the larger damage includes chronic sleep deprivation from hot nights, early-onset kidney disease among manual laborers, and permanent cognitive loss in children."
+    },
+    {
+      "title": "Economic development is the most potent shield.",
+      "text": "Over the past century, global disaster death rates fell by more than 95% even as weather extremes grew, which the report attributes to capital deepening, modern infrastructure and public health systems."
+    },
+    {
+      "title": "The cost of capital is the bottleneck.",
+      "text": "Developing nations face financing costs of 10% to 18% for clean energy and cooling infrastructure, against 3% to 5% in advanced nations; de-risking this capital is presented as the most urgent priority."
+    },
+    {
+      "title": "Proactive prevention pays.",
+      "text": "The report estimates that every dollar invested in high-albedo cool roofs, decentralized clean power, urban tree canopies and parametric social cash transfers saves between four and seven dollars in emergency relief and medical expenses."
+    }
+  ],
+  "contents": [
+    {
+      "number": "",
+      "title": "Executive Summary",
+      "description": "",
+      "page": 4
+    },
+    {
+      "number": "",
+      "title": "Who This Report Is For",
+      "description": "",
+      "page": 5
+    },
+    {
+      "number": "1",
+      "title": "The Reality of Interlocking Crises",
+      "description": "",
+      "page": 6
+    },
+    {
+      "number": "2",
+      "title": "The Dual Atmospheric Threats: Extreme Heat and Toxic Air",
+      "description": "",
+      "page": 9
+    },
+    {
+      "number": "3",
+      "title": "The 21st-Century Demographic Shift into Hazard Epicenters",
+      "description": "",
+      "page": 13
+    },
+    {
+      "number": "4",
+      "title": "Beyond Mortality: The Hidden Spectrum of Human Suffering",
+      "description": "",
+      "page": 17
+    },
+    {
+      "number": "5",
+      "title": "The H Heuristics Polycrisis Resilience Framework",
+      "description": "",
+      "page": 21
+    },
+    {
+      "number": "6",
+      "title": "Economic Convergence as the Primary Shield",
+      "description": "",
+      "page": 25
+    },
+    {
+      "number": "7",
+      "title": "Proactive Adaptation and Leapfrog Infrastructure",
+      "description": "",
+      "page": 29
+    },
+    {
+      "number": "8",
+      "title": "Governance Architecture and Action Blueprints",
+      "description": "",
+      "page": 33
+    },
+    {
+      "number": "",
+      "title": "References",
+      "description": "",
+      "page": 36
+    }
+  ],
+  "references": [
+    {
+      "text": "Hughes, H. (2026). Polycrisis Resilience: A General Definition and the H Heuristics Framework. Flagship Research Report, H Heuristics, November 2026. Official publication establishing the general definition, operational capacities, and development cycle.",
+      "url": "https://doi.org/10.6084/m9.figshare.34938445",
+      "doi": "10.6084/m9.figshare.34938445"
+    },
+    {
+      "text": "H Heuristics Research Platform (2026). The Architecture of Polycrisis Mitigation. Systems modeling on cross-domain cascading risks and emerging market vulnerability reduction.",
+      "url": "https://researchreports.hheuristics.com"
+    },
+    {
+      "text": "H Heuristics Official Substack Publication (2026). Foundational Essays on Global Convergence and Polycrisis Architecture. Essays, framework formulations, and strategic policy analyses.",
+      "url": "https://hheuristics.substack.com"
+    },
+    {
+      "text": "Cascade Institute (2024). Research on Mapping Synchronous and Cascading Global Risks. Research network exploring entangled biophysical, financial, and geopolitical systems.",
+      "url": "https://cascadeinstitute.org"
+    },
+    {
+      "text": "World Economic Forum (2024). Global Risks Report 2024. Comprehensive annual assessment of interconnected macroeconomic, technological, and environmental threats.",
+      "url": "https://www.weforum.org/reports/global-risks-report-2024/"
+    },
+    {
+      "text": "World Health Organization (2021). WHO Global Air Quality Guidelines. Geneva: World Health Organization.",
+      "url": "https://www.who.int/news-room/feature-stories/detail/what-are-the-who-air-quality-guidelines"
+    },
+    {
+      "text": "Romanello, M., et al. (2023). The 2023 Report of the Lancet Countdown on Health and Climate Change: The Imperative for a Health-Centred Response in a World Facing Irreversible Harms. The Lancet, 402(10419), 2346–2394.",
+      "url": "https://doi.org/10.1016/S0140-6736(23)01859-7",
+      "doi": "10.1016/S0140-6736(23)01859-7"
+    },
+    {
+      "text": "United Nations Department of Economic and Social Affairs, Population Division (2024). World Population Prospects 2024: Summary of Results. UN DESA report on global demographic shifts, regional fertility differentials, and urbanization.",
+      "url": "https://population.un.org/wpp/"
+    },
+    {
+      "text": "UN-Habitat (2022). World Cities Report 2022: Envisaging the Future of Cities. United Nations Human Settlements Programme. Analysis of informal settlements, urban heat islands, and basic service gaps.",
+      "url": "https://unhabitat.org"
+    },
+    {
+      "text": "Minor, K., Bjerre-Nielsen, A., Jonasdottir, S. S., Lehmann, S. and Obradovich, N. (2022). Rising Temperatures Erode Human Sleep Globally. One Earth, 5(5), 534–545.",
+      "url": "https://doi.org/10.1016/j.oneear.2022.04.008",
+      "doi": "10.1016/j.oneear.2022.04.008"
+    },
+    {
+      "text": "Glaser, J., et al. (2016). Climate Change and the Emerging Epidemic of CKD from Heat Stress in Rural Communities: The Case for Mesoamerican Nephropathy. Clinical Journal of the American Society of Nephrology, 11(8), 1472–1483.",
+      "url": "https://doi.org/10.2215/CJN.13841215",
+      "doi": "10.2215/CJN.13841215"
+    },
+    {
+      "text": "Ritchie, H., Roser, M. and Hasell, J. (2024). Natural Disasters. Our World in Data. Empirical historical database tracking decadal disaster fatalities, economic losses, and capital protection.",
+      "url": "https://ourworldindata.org/natural-disasters"
+    },
+    {
+      "text": "Centre for Research on the Epidemiology of Disasters (CRED) (2024). EM-DAT: The International Disaster Database. Université Catholique de Louvain, Brussels, Belgium.",
+      "url": "https://www.emdat.be/"
+    },
+    {
+      "text": "United Nations Development Programme (UNDP) (2024). Human Development Report 2023-24: Breaking the Gridlock. New York: UNDP.",
+      "url": "https://www.undp.org"
+    },
+    {
+      "text": "International Energy Agency (IEA) (2023). The Cost of Capital in Clean Energy Transitions. Paris: IEA. Comprehensive global survey of financing costs, risk premia, and WACC penalties.",
+      "url": "https://www.iea.org/reports/the-cost-of-capital-in-clean-energy-transitions"
+    },
+    {
+      "text": "World Bank (2023). Scaling Up to Phase Down: Financing Energy Transitions in the Global South. Washington, DC: World Bank Group. Analysis of multilateral first-loss guarantees, currency facilities, and sovereign balance-sheet protection.",
+      "url": "https://www.worldbank.org"
+    },
+    {
+      "text": "International Monetary Fund (IMF) (2023). Resilience and Sustainability Facility: Operational Framework and Concessionary Lending Guidelines. Washington, DC: IMF.",
+      "url": "https://www.imf.org"
+    },
+    {
+      "text": "Clean Cooking Alliance (2024). Accelerating Clean Cooking for All: A Strategy for Universal Energy Access and Household Air Quality. Washington, DC: CCA.",
+      "url": "https://cleancooking.org"
+    },
+    {
+      "text": "Cool Roof Rating Council (2024). Rated Product Directory and Passive Thermal Performance Guidelines. Technical standards for radiative coating formulations, solar reflectance, and thermal emittance.",
+      "url": "https://coolroofs.org"
+    },
+    {
+      "text": "C40 Cities Climate Leadership Group (2024). Urban Cooling Playbook: High-Albedo Surfaces, Urban Canopies, and Microclimate Engineering. London: C40 Cities.",
+      "url": "https://www.c40.org"
+    },
+    {
+      "text": "International Labour Organization (ILO) (2019). Working on a Warmer Planet: The Impact of Heat Stress on Labour Productivity and Decent Work. Geneva: International Labour Office.",
+      "url": "https://www.ilo.org"
+    },
+    {
+      "text": "United Nations Office for Disaster Risk Reduction (UNDRR) (2025). Global Assessment Report on Disaster Risk Reduction (GAR 2025). Geneva: UNDRR.",
+      "url": "https://www.undrr.org/gar"
+    }
+  ]
+}
