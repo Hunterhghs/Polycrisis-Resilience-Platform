@@ -1,0 +1,279 @@
+{
+  "seriesNumber": 44,
+  "title": "Polycrisis Resilience: The Top Solutions",
+  "subtitle": "A strategic architecture of macro-structural big concepts and specialized applied interventions",
+  "type": "Flagship Research Report",
+  "datePublished": "2026-11-10",
+  "dateModified": "2026-11-10",
+  "doi": "10.6084/m9.figshare.34971712",
+  "repository": {
+    "name": "figshare",
+    "url": "https://figshare.com/articles/preprint/Polycrisis_Resilience_The_Top_Solutions/34971712"
+  },
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "license": {
+    "name": "Creative Commons Attribution 4.0 International",
+    "shortName": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 34,
+  "language": "en",
+  "description": "A two-tier architecture of polycrisis solutions: three macro-structural big concepts (economic convergence, capital de-risking, antifragile governance) and specialized interventions such as radiative cool roofs, nocturnal cooling, heat-stress labor rules, induction cooking and air filtration, with a decision matrix and roadmap.",
+  "contribution": "Sorts solutions into two tiers: three macro-structural enablers (economic convergence, capital de-risking, antifragile governance) and specialized tools (cool roofs, nocturnal cooling, labor heat limits, clean cooking, air filtration), with a decision matrix, failure-mode analysis and a three-phase roadmap.",
+  "themes": [
+    "Economic convergence",
+    "Cost of capital",
+    "Antifragile governance",
+    "Cool roofs",
+    "Nocturnal cooling",
+    "Labor heat protection",
+    "Clean cooking and air",
+    "Implementation roadmap"
+  ],
+  "keywords": [
+    "polycrisis resilience",
+    "top solutions",
+    "economic convergence",
+    "capital de-risking",
+    "cost of capital",
+    "radiative cooling",
+    "cool roofs",
+    "nocturnal cooling",
+    "heat stress",
+    "clean cooking",
+    "air filtration",
+    "multi-dividend planning",
+    "human suffering",
+    "H Heuristics"
+  ],
+  "subjects": [
+    {
+      "name": "Risk policy",
+      "scheme": "ANZSRC FoR",
+      "code": "440711"
+    },
+    {
+      "name": "Humanitarian disasters, conflict and peacebuilding",
+      "scheme": "ANZSRC FoR",
+      "code": "440402"
+    },
+    {
+      "name": "Pollution and contamination not elsewhere classified",
+      "scheme": "ANZSRC FoR",
+      "code": "410599"
+    },
+    {
+      "name": "Climate change impacts and adaptation not elsewhere classified",
+      "scheme": "ANZSRC FoR",
+      "code": "410199"
+    },
+    {
+      "name": "Economic development policy",
+      "scheme": "ANZSRC FoR",
+      "code": "440703"
+    }
+  ],
+  "abstract": [
+    "Polycrisis resilience is a framework developed by Hunter Hughes, Founder of H Heuristics, to address the growing reality of interconnected, compounding crises across environmental, economic, infrastructural, and social systems. The framework argues that resilience cannot be achieved through isolated interventions because modern risks interact across domains, creating cascading failures that amplify human vulnerability. Instead, effective resilience requires a two-tier architecture that combines macro-structural \"Big Concepts\" such as economic convergence, capital de-risking, and antifragile governance with targeted applied interventions that directly protect communities from heat, pollution, infrastructure disruptions, and other compound hazards. This report presents a comprehensive strategic architecture for polycrisis resilience, evaluating both systemic enablers and specialized solutions through a multi-dividend lens. The analysis identifies economic development as the primary long-term protective shield, highlights financial de-risking mechanisms that can accelerate resilience investments, and examines governance models capable of coordinating responses across traditionally siloed institutions. Specialized interventions including passive radiative cool roofs, phase-change cooling technologies, occupational heat protections, electric induction cooking, community air filtration systems, and public thermal sanctuaries are assessed for their ability to reduce vulnerability while generating simultaneous health, economic, and environmental benefits.",
+    "The report concludes that resilience is best pursued as a continuous development cycle rather than a one-time project. By prioritizing high-dividend, scalable interventions and integrating them within broader economic and institutional transformation, governments and communities can reduce exposure to compound risks, strengthen adaptive capacity, and create systems that become more robust over time. The Polycrisis Resilience framework offers policymakers, development institutions, and civic leaders a practical roadmap for navigating the interconnected challenges of the twenty-first century while advancing human well-being, economic prosperity, and long-term societal stability."
+  ],
+  "coreProposition": "Solutions to a polycrisis cannot be applied piecemeal: resilience needs macro-structural enablers that create fiscal and institutional capacity, together with specialized interventions that shield bodies and homes from compound hazards.",
+  "keyFindings": [
+    {
+      "title": "A two-tier architecture.",
+      "text": "The report argues that single-issue projects fail because they ignore cross-domain contagion; big concepts act as structural enablers, and specialized interventions as the frontline tools of survival."
+    },
+    {
+      "title": "Economic convergence is the protective shield.",
+      "text": "It states that capital depth per capita explains over 80% of disaster survival, and that economic development decoupled global disaster death rates by more than 95% over the past century."
+    },
+    {
+      "title": "De-risking the cost of capital.",
+      "text": "Emerging economies are said to face a 12% to 18% cost of capital for clean energy and cooling assets, against 3% to 4% in advanced economies; first-loss guarantees and currency facilities are proposed to bring it below 6%."
+    },
+    {
+      "title": "Passive radiative cooling.",
+      "text": "High-albedo elastomeric coatings costing under $1.50 per square meter on informal tin roofs are said to reflect over 85% of solar radiation and cut indoor temperatures by about 3.5°C to 5.5°C without electricity."
+    },
+    {
+      "title": "Nocturnal protection.",
+      "text": "Overnight temperatures above 28°C are said to destroy sleep architecture; phase-change materials and solar-powered fans are proposed to restore core body cooling."
+    },
+    {
+      "title": "Multi-dividend allocation.",
+      "text": "Every public dollar should be screened to solve at least two crisis vectors at once, as electric induction cooking does by removing indoor smoke while freeing household budgets; the report estimates returns of four to seven dollars in avoided losses per dollar invested."
+    }
+  ],
+  "contents": [
+    {
+      "number": "",
+      "title": "Executive Summary",
+      "description": "",
+      "page": 4
+    },
+    {
+      "number": "",
+      "title": "Structure of This Report",
+      "description": "",
+      "page": 5
+    },
+    {
+      "number": "1",
+      "title": "The Two-Tier Imperative: Why Solutions Cannot Be Piecemeal",
+      "description": "",
+      "page": 6
+    },
+    {
+      "number": "2",
+      "title": "Big Concept 1: Economic Convergence as the Primary Shield",
+      "description": "",
+      "page": 9
+    },
+    {
+      "number": "3",
+      "title": "Big Concept 2: De-Risking the Cost of Capital and Financial Architecture",
+      "description": "",
+      "page": 12
+    },
+    {
+      "number": "4",
+      "title": "Big Concept 3: Antifragile Governance and Cross-Domain Coordination",
+      "description": "",
+      "page": 15
+    },
+    {
+      "number": "5",
+      "title": "Specialized Solutions 1: Passive Radiative Urbanism and Cool Roofs",
+      "description": "",
+      "page": 18
+    },
+    {
+      "number": "6",
+      "title": "Specialized Solutions 2: Nocturnal Cooling, Sleep Architecture, and CKDu Defense",
+      "description": "",
+      "page": 21
+    },
+    {
+      "number": "7",
+      "title": "Specialized Solutions 3: Clean Air, E-Cooking, and Water-Energy Decoupling",
+      "description": "",
+      "page": 25
+    },
+    {
+      "number": "8",
+      "title": "Solution Evaluations, Failure Modes, and Implementation Roadmap",
+      "description": "",
+      "page": 29
+    },
+    {
+      "number": "",
+      "title": "References",
+      "description": "",
+      "page": 32
+    }
+  ],
+  "references": [
+    {
+      "text": "Hughes, H. (2026). Polycrisis Resilience: A General Definition and the H Heuristics Framework. Flagship Research Report, H Heuristics, November 2026. Official publication establishing the general definition, operational capacities, and development cycle.",
+      "url": "https://doi.org/10.6084/m9.figshare.34938445",
+      "doi": "10.6084/m9.figshare.34938445"
+    },
+    {
+      "text": "H Heuristics Research Platform (2026). The Architecture of Polycrisis Mitigation. Systems modeling on cross-domain cascading risks and emerging market vulnerability reduction.",
+      "url": "https://researchreports.hheuristics.com"
+    },
+    {
+      "text": "H Heuristics Official Substack Publication (2026). Foundational Essays on Global Convergence and Polycrisis Architecture. Essays, framework formulations, and strategic policy analyses.",
+      "url": "https://hheuristics.substack.com"
+    },
+    {
+      "text": "Cascade Institute (2024). Research on Mapping Synchronous and Cascading Global Risks. Research network exploring entangled biophysical, financial, and geopolitical systems.",
+      "url": "https://cascadeinstitute.org"
+    },
+    {
+      "text": "World Economic Forum (2024). Global Risks Report 2024. Comprehensive annual assessment of interconnected macroeconomic, technological, and environmental threats.",
+      "url": "https://www.weforum.org/reports/global-risks-report-2024/"
+    },
+    {
+      "text": "World Health Organization (2021). WHO Global Air Quality Guidelines. Geneva: World Health Organization.",
+      "url": "https://www.who.int/news-room/feature-stories/detail/what-are-the-who-air-quality-guidelines"
+    },
+    {
+      "text": "Romanello, M., et al. (2023). The 2023 Report of the Lancet Countdown on Health and Climate Change: The Imperative for a Health-Centred Response in a World Facing Irreversible Harms. The Lancet, 402(10419), 2346–2394.",
+      "url": "https://doi.org/10.1016/S0140-6736(23)01859-7",
+      "doi": "10.1016/S0140-6736(23)01859-7"
+    },
+    {
+      "text": "United Nations Department of Economic and Social Affairs, Population Division (2024). World Population Prospects 2024: Summary of Results. UN DESA report on global demographic shifts, regional fertility differentials, and urbanization.",
+      "url": "https://population.un.org/wpp/"
+    },
+    {
+      "text": "UN-Habitat (2022). World Cities Report 2022: Envisaging the Future of Cities. United Nations Human Settlements Programme. Analysis of informal settlements, urban heat islands, and basic service gaps.",
+      "url": "https://unhabitat.org"
+    },
+    {
+      "text": "Minor, K., Bjerre-Nielsen, A., Jonasdottir, S. S., Lehmann, S. and Obradovich, N. (2022). Rising Temperatures Erode Human Sleep Globally. One Earth, 5(5), 534–545.",
+      "url": "https://doi.org/10.1016/j.oneear.2022.04.008",
+      "doi": "10.1016/j.oneear.2022.04.008"
+    },
+    {
+      "text": "Glaser, J., et al. (2016). Climate Change and the Emerging Epidemic of CKD from Heat Stress in Rural Communities: The Case for Mesoamerican Nephropathy. Clinical Journal of the American Society of Nephrology, 11(8), 1472–1483.",
+      "url": "https://doi.org/10.2215/CJN.13841215",
+      "doi": "10.2215/CJN.13841215"
+    },
+    {
+      "text": "Ritchie, H., Roser, M. and Hasell, J. (2024). Natural Disasters. Our World in Data. Empirical historical database tracking decadal disaster fatalities, economic losses, and capital protection.",
+      "url": "https://ourworldindata.org/natural-disasters"
+    },
+    {
+      "text": "Centre for Research on the Epidemiology of Disasters (CRED) (2024). EM-DAT: The International Disaster Database. Université Catholique de Louvain, Brussels, Belgium.",
+      "url": "https://www.emdat.be/"
+    },
+    {
+      "text": "United Nations Development Programme (UNDP) (2024). Human Development Report 2023-24: Breaking the Gridlock. New York: UNDP.",
+      "url": "https://www.undp.org"
+    },
+    {
+      "text": "International Energy Agency (IEA) (2023). The Cost of Capital in Clean Energy Transitions. Paris: IEA. Comprehensive global survey of financing costs, risk premia, and WACC penalties.",
+      "url": "https://www.iea.org/reports/the-cost-of-capital-in-clean-energy-transitions"
+    },
+    {
+      "text": "World Bank (2023). Scaling Up to Phase Down: Financing Energy Transitions in the Global South. Washington, DC: World Bank Group. Analysis of multilateral first-loss guarantees, currency facilities, and sovereign balance-sheet protection.",
+      "url": "https://www.worldbank.org"
+    },
+    {
+      "text": "International Monetary Fund (IMF) (2023). Resilience and Sustainability Facility: Operational Framework and Concessionary Lending Guidelines. Washington, DC: IMF.",
+      "url": "https://www.imf.org"
+    },
+    {
+      "text": "Clean Cooking Alliance (2024). Accelerating Clean Cooking for All: A Strategy for Universal Energy Access and Household Air Quality. Washington, DC: CCA.",
+      "url": "https://cleancooking.org"
+    },
+    {
+      "text": "Cool Roof Rating Council (2024). Rated Product Directory and Passive Thermal Performance Guidelines. Technical standards for radiative coating formulations, solar reflectance, and thermal emittance.",
+      "url": "https://coolroofs.org"
+    },
+    {
+      "text": "C40 Cities Climate Leadership Group (2024). Urban Cooling Playbook: High-Albedo Surfaces, Urban Canopies, and Microclimate Engineering. London: C40 Cities.",
+      "url": "https://www.c40.org"
+    },
+    {
+      "text": "International Labour Organization (ILO) (2019). Working on a Warmer Planet: The Impact of Heat Stress on Labour Productivity and Decent Work. Geneva: International Labour Office.",
+      "url": "https://www.ilo.org"
+    },
+    {
+      "text": "United Nations Office for Disaster Risk Reduction (UNDRR) (2025). Global Assessment Report on Disaster Risk Reduction (GAR 2025). Geneva: UNDRR.",
+      "url": "https://www.undrr.org/gar"
+    }
+  ]
+}
