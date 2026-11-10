@@ -1,0 +1,210 @@
+{
+  "seriesNumber": 45,
+  "title": "Polycrisis Resilience: Application Across the 21st Century",
+  "subtitle": "A Grand Unified Architecture of Preventive Development, Macroeconomic Convergence, and Multi-Dimensional Shock Absorption (2025–2100)",
+  "type": "Flagship Research Report",
+  "datePublished": "2026-11-10",
+  "dateModified": "2026-11-10",
+  "doi": "10.5281/zenodo.24117778",
+  "repository": {
+    "name": "Zenodo",
+    "url": "https://zenodo.org/records/24117778"
+  },
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "license": {
+    "name": "Creative Commons Attribution 4.0 International",
+    "shortName": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 40,
+  "language": "en",
+  "description": "A century-scale (2025–2100) architecture of preventive development: three systemic traps, six pillars, a multi-dividend engine, a low-cost solutions portfolio and a three-phase roadmap.",
+  "contribution": "Applies the Polycrisis Resilience Framework across the whole of the twenty-first century: it maps the asymmetric geography of exposure, names four reinforcing development traps, organizes action into six pillars and a multi-dividend engine, and sets out a low-cost solutions portfolio and a three-horizon roadmap to 2100.",
+  "themes": [
+    "Preventive development",
+    "Asymmetrical global burden",
+    "Systemic traps",
+    "Six pillars",
+    "Multi-dividend engine",
+    "Low-cost solutions portfolio",
+    "Century-scale roadmap"
+  ],
+  "keywords": [
+    "polycrisis resilience",
+    "21st century framework",
+    "preventive development",
+    "economic convergence",
+    "Africa demographic expansion",
+    "human suffering",
+    "systemic traps",
+    "technology diffusion",
+    "multi-dividend planning",
+    "H Heuristics"
+  ],
+  "abstract": [
+    "Polycrisis Resilience is a systems-based framework developed by Hunter Hughes, Founder of H Heuristics, to address the growing convergence of climate change, environmental pollution, demographic transitions, economic vulnerability, technological inequality, infrastructure fragility, and institutional stress throughout the twenty-first century. The framework argues that conventional disaster management is increasingly inadequate because it responds to crises after damage has occurred rather than reducing the underlying conditions that create vulnerability. In response, Polycrisis Resilience advances the concept of preventive development, emphasizing coordinated interventions that simultaneously strengthen human, economic, technological, environmental, and institutional systems.",
+    "The report identifies a series of interconnected systemic traps, including the Pollution-Development Trap, Education-Climate Trap, Cost-of-Capital Trap, and informal urban heat vulnerabilities, which disproportionately affect rapidly growing populations in Sub-Saharan Africa and South Asia. It proposes a six-pillar architecture centered on sustainable economic convergence, clean energy transition, technology diffusion, human development, climate adaptation, and institutional resilience. Through these pillars, the framework seeks to dismantle reinforcing feedback loops that convert environmental and economic shocks into persistent human suffering and stalled development.",
+    "At the core of the framework is the Multiplicative Multi-Dividend Engine, which integrates distributed clean power, broadband connectivity, digital education, public health protections, and resilience-oriented governance to generate compounding social and economic benefits. The report presents a century-scale roadmap extending from 2025 to 2100 and argues that resilience should be understood not merely as recovery from disruption, but as the proactive transformation of the structural conditions that produce vulnerability. By linking preventive development with economic convergence, technological leapfrogging, and human-centered adaptation, Polycrisis Resilience offers a comprehensive framework for reducing systemic risk and improving long-term societal resilience in an era of increasingly interconnected global challenges."
+  ],
+  "coreProposition": "Resilience must not be understood simply as the ability to withstand disasters after they occur; it is the capacity to proactively change the underlying structural conditions that make people, economies and institutions vulnerable to multiple interacting crises.",
+  "keyFindings": [
+    {
+      "title": "Piecemeal disaster aid is obsolete in a polycrisis.",
+      "text": "When environmental, financial and infrastructural shocks collide, reactive emergency relief is overwhelmed. Resilience requires preventive development: altering structural vulnerability before shocks materialize."
+    },
+    {
+      "title": "The global burden is highly asymmetrical.",
+      "text": "By 2060–2100, more than 70% of global youth and population growth is projected to concentrate in Sub-Saharan Africa and South Asia, the equatorial hazard belts where wet-bulb temperatures approach the physiological limits of human survival."
+    },
+    {
+      "title": "Resilience analytics must de-center mortality.",
+      "text": "For every heat-related death, far more people suffer non-lethal harm: collapsed sleep from overnight temperatures above 28°C, chronic kidney disease of non-traditional origin (CKDu) among manual laborers, and depleted cognitive bandwidth."
+    },
+    {
+      "title": "Developed societies have complementary fragilities.",
+      "text": "Sub-replacement fertility (TFR 1.2–1.5), workforce aging, immigration friction and civic fragmentation, mental-health allostatic overload and smart-grid cyber-vulnerability weaken shock absorption in wealthy countries."
+    },
+    {
+      "title": "Systemic traps reproduce generational poverty.",
+      "text": "The report names the Pollution–Development Trap (health drags of 6–10% of GDP), the Education–Climate Trap (heat eroding cognition and school continuity) and the Cost-of-Capital Trap (a 12–16% WACC penalty blocking clean transitions), plus a fourth, the Slum Heat-Oven Trap."
+    },
+    {
+      "title": "A multiplicative multi-dividend engine delivers compounding returns.",
+      "text": "Clean distributed power, broadband and digital education reinforce each other; the report claims proactive multi-dividend interventions return four to eight times their cost in avoided losses."
+    }
+  ],
+  "contents": [
+    {
+      "number": "",
+      "title": "Executive Summary",
+      "description": "",
+      "page": 4
+    },
+    {
+      "number": "",
+      "title": "Structure of this report",
+      "description": "",
+      "page": 5
+    },
+    {
+      "number": "1",
+      "title": "The 21st-Century Polycrisis Crucible",
+      "description": "",
+      "page": 6
+    },
+    {
+      "number": "2",
+      "title": "The Asymmetrical Global Burden: Africa and South Asia",
+      "description": "",
+      "page": 10
+    },
+    {
+      "number": "3",
+      "title": "Developed World Fragilities and Secondary Shocks",
+      "description": "",
+      "page": 15
+    },
+    {
+      "number": "4",
+      "title": "Dismantling 21st-Century Systemic Doom Loops",
+      "description": "",
+      "page": 19
+    },
+    {
+      "number": "5",
+      "title": "The Six Interconnected Pillars of Polycrisis Resilience",
+      "description": "",
+      "page": 24
+    },
+    {
+      "number": "6",
+      "title": "The Multiplicative Multi-Dividend Engine",
+      "description": "",
+      "page": 28
+    },
+    {
+      "number": "7",
+      "title": "High-Impact, Low-Cost Solutions Portfolio",
+      "description": "",
+      "page": 31
+    },
+    {
+      "number": "8",
+      "title": "Century-Scale Operational Roadmap (2025–2100)",
+      "description": "",
+      "page": 35
+    },
+    {
+      "number": "9",
+      "title": "References & Data Sources",
+      "description": "",
+      "page": 39
+    }
+  ],
+  "references": [
+    {
+      "text": "World Bank Group. (2024). Scaling Up Blended Finance and Clean Energy Transition in Emerging Economies: De-risking Capital for Climate Resilience. Washington, D.C.: World Bank.",
+      "url": "https://www.worldbank.org"
+    },
+    {
+      "text": "The Lancet Planetary Health. (2023). Occupational Heat Stress, Chronic Kidney Disease of Non-Traditional Origin (CKDu), and the Biological Degradation of Labor in Tropical Hazard Belts. The Lancet Planetary Health, 7(8), e682-e694.",
+      "url": "https://www.thelancet.com/journals/lanplh/home"
+    },
+    {
+      "text": "International Energy Agency (IEA). (2024). The Cost of Capital in Clean Energy Transitions: Unlocking Global Deployment. Paris: IEA Publications.",
+      "url": "https://www.iea.org/reports/the-cost-of-capital-in-clean-energy-transitions"
+    },
+    {
+      "text": "International Labour Organization (ILO). (2023). Working on a Warmer Planet: The Impact of Heat Stress on Labour Productivity and Decent Work. Geneva: International Labour Office.",
+      "url": "https://www.ilo.org"
+    },
+    {
+      "text": "Cascade Institute. (2023). Polycrisis Research Portal: Methodologies for Mapping Non-Linear Feedback Loops in Coupled Socio-Ecological Systems. Victoria: Royal Roads University.",
+      "url": "https://cascadeinstitute.org"
+    },
+    {
+      "text": "Cool Roofs Rating Council (CRRC). (2024). Radiative Surface Ratings and Thermal Emittance Standards for Low-Cost Urban Cooling. Portland: CRRC.",
+      "url": "https://coolroofs.org"
+    },
+    {
+      "text": "United Nations Human Settlements Programme (UN-Habitat). (2024). World Cities Report: Envisaging the Future of Resilient Urbanization in the Global South. Nairobi: UN-Habitat.",
+      "url": "https://unhabitat.org"
+    },
+    {
+      "text": "United Nations Population Division. (2024). World Population Prospects: The 2024 Revision. New York: United Nations Department of Economic and Social Affairs.",
+      "url": "https://population.un.org/wpp/"
+    },
+    {
+      "text": "Raymond, C., Matthews, T., & Horton, R. M. (2020). The Emergence of Heat and Humidity Too Severe for Human Tolerance. Science Advances, 6(19), eaaw1838.",
+      "url": "https://doi.org/10.1126/sciadv.aaw1838",
+      "doi": "10.1126/sciadv.aaw1838"
+    },
+    {
+      "text": "World Health Organization (WHO). (2023). Ambient and Household Air Pollution and Health: Clinical Guidelines and Disease Burdens. Geneva: WHO.",
+      "url": "https://www.who.int"
+    },
+    {
+      "text": "National Institute of Standards and Technology (NIST). (2023). Framework for Improving Critical Infrastructure Cybersecurity (Version 2.0). Gaithersburg: U.S. Department of Commerce.",
+      "url": "https://www.nist.gov"
+    },
+    {
+      "text": "Hughes, H. (2026). The H Heuristics Polycrisis Resilience Framework: A Systems Architecture for Surviving the 21st-Century Crucible. Figshare Flagship Monograph Series.",
+      "url": "https://doi.org/10.6084/m9.figshare.34938445",
+      "doi": "10.6084/m9.figshare.34938445"
+    },
+    {
+      "text": "H Heuristics Research Practice. (2026). Systems Architecture and Flagship Monograph Series on Convergence, Technological Diffusion, and Polycrisis Shock Absorption.",
+      "url": "https://hheuristics.com"
+    }
+  ]
+}
