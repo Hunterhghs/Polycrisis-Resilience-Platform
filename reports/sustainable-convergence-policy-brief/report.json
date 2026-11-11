@@ -1,0 +1,185 @@
+{
+  "seriesNumber": 47,
+  "title": "Sustainable Convergence",
+  "subtitle": "Closing the gaps between rich and poor economies without repeating the mistakes of the past",
+  "type": "Policy Brief",
+  "datePublished": "2026-11-11",
+  "dateModified": "2026-11-11",
+  "doi": "10.5281/zenodo.24144678",
+  "repository": {
+    "name": "Zenodo",
+    "url": "https://zenodo.org/records/24144678"
+  },
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "license": {
+    "name": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "shortName": "CC BY-NC-ND 4.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+  },
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 5,
+  "language": "en",
+  "description": "A five-page policy brief on closing income gaps between rich and poor economies while staying within the 2°C carbon budget, with seven dimensions, three scenarios to 2100 and nine recommendations.",
+  "contribution": "Introduces Sustainable Convergence as a development pathway towards Polycrisis Resilience: it joins economic convergence with sustainable development, tracks seven dimensions, and sets out evidence, scenarios to 2100 and nine recommendations.",
+  "themes": [
+    "Economic convergence",
+    "Sustainable development",
+    "Carbon-intensive catch-up",
+    "Cost of capital",
+    "Scenarios to 2100",
+    "Policy recommendations"
+  ],
+  "keywords": [
+    "sustainable convergence",
+    "economic convergence",
+    "sustainable development",
+    "Global South",
+    "emerging economies",
+    "development economics",
+    "polycrisis resilience",
+    "policy brief",
+    "H Heuristics"
+  ],
+  "abstract": [
+    "Sustainable Convergence is a development framework developed by Hunter Hughes, Founder of H Heuristics, that integrates economic convergence with sustainable development to examine how emerging and developing economies can narrow income, productivity, technological, institutional, and human-development gaps with advanced economies while remaining within environmental limits. The brief argues that reducing global inequality and maintaining climate stability should be treated as complementary objectives rather than competing priorities. Drawing on international development, energy, and emissions data, it finds that although average income in the Global South has risen relative to high-income economies since 2000, progress has been highly uneven and has largely followed carbon-intensive pathways.",
+    "The analysis shows that most developing economies have achieved economic catch-up alongside rising emissions, while only a small share have combined convergence with significant decarbonization. However, falling clean-energy costs, expanding digital infrastructure, and improvements in human development create new opportunities for a more sustainable pathway. The brief introduces the Sustainable Convergence framework and its seven dimensions: economic, environmental, technological, human development, infrastructure, institutional, and resilience convergence. It also presents illustrative long-term scenarios demonstrating that substantial income convergence by 2100 can be achieved either through a fossil-fuel-intensive trajectory that exceeds climate goals or through a sustainable pathway that remains within a 2°C carbon budget.",
+    "The paper concludes that the period from 2025 to 2045 will be decisive in determining whether developing economies lock in high-carbon or low-carbon growth models. Key policy priorities include reducing the cost of clean-energy finance, expanding access to essential infrastructure and digital public systems, investing in human capital, strengthening resilience, reforming international finance, and coordinating development strategies across multiple dimensions. Sustainable Convergence is presented as a practical framework for advancing prosperity, sustainability, and long-term polycrisis resilience simultaneously."
+  ],
+  "coreProposition": "Catching up with rich economies and protecting the climate are complementary tasks: the aim is not for developing countries to grow less, but to grow differently, with the cost of clean capital as the main lever.",
+  "keyFindings": [
+    {
+      "title": "Catch-up is real but uneven.",
+      "text": "Global South income rose from 13% to 23% of the high-income level between 2000 and 2024, mostly because of China and India; low-income countries fell further behind."
+    },
+    {
+      "title": "Improvement is not the same as convergence.",
+      "text": "Even as the income ratio rose, the dollar gap per person widened from about $36,000 to $45,000."
+    },
+    {
+      "title": "Most catch-up has followed the carbon-heavy path.",
+      "text": "Only 6% of people in developing economies live in countries that converged with slow-growing or falling emissions; 78% live where emissions grew at least half as fast as income."
+    },
+    {
+      "title": "A cleaner path is now cheaper.",
+      "text": "Solar modules cost about 1,101 times less than in 1975, and latecomers already emit less on the way up than earlier industrializers did."
+    },
+    {
+      "title": "The next twenty years decide the outcome.",
+      "text": "In the brief's illustrative scenarios, the same income gains to 2100 either stay within the 2°C carbon budget (about 819 Gt of CO₂) or exceed it nearly threefold (about 3,084 Gt), depending on how they are powered and financed."
+    },
+    {
+      "title": "Finance is the main lever.",
+      "text": "Capital for clean energy costs two to three times more in developing economies than in rich ones; lowering it would make the clean path the cheapest path."
+    }
+  ],
+  "contents": [
+    {
+      "number": "",
+      "title": "Key messages",
+      "description": "",
+      "page": 1
+    },
+    {
+      "number": "",
+      "title": "What Sustainable Convergence means",
+      "description": "",
+      "page": 2
+    },
+    {
+      "number": "",
+      "title": "What the evidence shows",
+      "description": "",
+      "page": 2
+    },
+    {
+      "number": "",
+      "title": "Pathways to 2100",
+      "description": "",
+      "page": 4
+    },
+    {
+      "number": "",
+      "title": "Recommendations",
+      "description": "",
+      "page": 4
+    },
+    {
+      "number": "",
+      "title": "Sources",
+      "description": "",
+      "page": 5
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Sustainable Convergence",
+      "definition": "The process through which emerging and developing economies progressively narrow economic, technological, institutional and human-development gaps with advanced economies while pursuing environmentally sustainable, socially inclusive and systemically resilient development pathways."
+    },
+    {
+      "term": "Seven dimensions of Sustainable Convergence",
+      "definition": "Economic, environmental, technological, human development, infrastructure, institutional and resilience convergence, each tracked with example indicators."
+    },
+    {
+      "term": "Sustainable Convergence Index",
+      "definition": "The H Heuristics index scoring 184 economies on all seven dimensions; the brief reports averages of 32 (low-income), 56 (lower-middle), 73 (upper-middle) and 87 (high-income) out of 100."
+    },
+    {
+      "term": "Compounding Convergence Flywheel",
+      "definition": "The proposition that progress in one dimension makes progress in the others easier, so that gains reinforce one another when investments are coordinated."
+    }
+  ],
+  "references": [
+    {
+      "text": "Barro, R. J. and Sala-i-Martin, X. (1992). Convergence. Journal of Political Economy, 100(2), 223–251.",
+      "doi": "10.1086/261816",
+      "url": "https://doi.org/10.1086/261816"
+    },
+    {
+      "text": "Forster, P. M., Smith, C., Walsh, T. et al. (2025). Indicators of Global Climate Change 2024: annual update of key indicators of the state of the climate system and human influence. Earth System Science Data, 17, 2641–2680.",
+      "doi": "10.5194/essd-17-2641-2025",
+      "url": "https://doi.org/10.5194/essd-17-2641-2025"
+    },
+    {
+      "text": "Hughes, H. (2026a). Sustainable Development & Economic Convergence: Sustainable Convergence. Figshare preprint, November 2026.",
+      "doi": "10.6084/m9.figshare.34977568",
+      "url": "https://doi.org/10.6084/m9.figshare.34977568"
+    },
+    {
+      "text": "Hughes, H. (2026b). Polycrisis Resilience: A General Definition and the H Heuristics Framework. H Heuristics Research Report.",
+      "url": "https://researchreports.hheuristics.com"
+    },
+    {
+      "text": "International Energy Agency (2024a). Reducing the Cost of Capital: Strategies to Unlock Clean Energy Investment in Emerging and Developing Economies. Paris: IEA.",
+      "url": "https://www.iea.org/reports/reducing-the-cost-of-capital"
+    },
+    {
+      "text": "Our World in Data (2025). CO₂ and Greenhouse Gas Emissions dataset, based on the Global Carbon Project. Oxford: Our World in Data.",
+      "url": "https://github.com/owid/co2-data"
+    },
+    {
+      "text": "Our World in Data (2025c). Levelized cost of energy by technology, based on IRENA. Oxford: Our World in Data.",
+      "url": "https://ourworldindata.org/grapher/levelized-cost-of-energy"
+    },
+    {
+      "text": "United Nations, Department of Economic and Social Affairs (2024). World Population Prospects 2024. New York: United Nations.",
+      "url": "https://population.un.org/wpp/"
+    },
+    {
+      "text": "World Bank (2026). World Development Indicators. Washington, DC: World Bank.",
+      "url": "https://databank.worldbank.org/source/world-development-indicators"
+    },
+    {
+      "text": "World Commission on Environment and Development (1987). Our Common Future. Oxford: Oxford University Press.",
+      "url": "https://sustainabledevelopment.un.org/content/documents/5987our-common-future.pdf"
+    }
+  ]
+}
