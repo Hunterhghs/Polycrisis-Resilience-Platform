@@ -1,0 +1,312 @@
+{
+  "seriesNumber": 50,
+  "title": "Preventive Development Economics",
+  "subtitle": "Integrating Risk Prevention and Economic Convergence into a Unified Macroeconomic Discipline",
+  "type": "Foundational Research Monograph",
+  "datePublished": "2026-11-12",
+  "dateModified": "2026-11-12",
+  "doi": "10.5281/zenodo.24153295",
+  "repository": {
+    "name": "Zenodo",
+    "url": "https://zenodo.org/records/24153295"
+  },
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "license": {
+    "name": "All rights reserved",
+    "shortName": "All rights reserved"
+  },
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 40,
+  "language": "en",
+  "description": "A monograph arguing that development is a mechanism of prevention: six principles, a sector programme for Africa and South Asia, cost-of-capital reform and a century ledger (2000–2100).",
+  "contribution": "Sets out the conceptual monograph (HH-2026-PDE-01) behind Preventive Development Economics: the central thesis, six core principles, Net Preventive Return, sector applications, financing reforms and a Century Preventive Ledger.",
+  "themes": [
+    "Development as prevention",
+    "Six core principles",
+    "Preventive infrastructure",
+    "Clean cooking and cooling",
+    "Open digital public infrastructure",
+    "Anticipatory statecraft",
+    "Cost-of-capital reform",
+    "Century Preventive Ledger"
+  ],
+  "keywords": [
+    "preventive development economics",
+    "development as prevention",
+    "polycrisis resilience",
+    "economic convergence",
+    "sustainable development",
+    "risk prevention",
+    "resilience economics",
+    "Global South development",
+    "H Heuristics"
+  ],
+  "abstract": [
+    "Preventive Development Economics is a macroeconomic framework developed by Hunter Hughes that integrates economic development, risk reduction, and long-term resilience into a unified discipline. The central thesis asserts that many future socioeconomic, environmental, and systemic crises originate from existing development deficits such as energy poverty, inadequate infrastructure, household air pollution, weak institutions, technological exclusion, and limited human capital formation. Rather than treating development and disaster response as separate policy domains, the framework positions development itself as a mechanism of prevention, emphasizing proactive investments that eliminate vulnerabilities before they mature into costly crises.",
+    "The monograph introduces six core principles: Prevention through Development, Technology-Led Risk Reduction, Infrastructure as Protection, Environmental Vulnerability Reduction, Institutional Capacity, and Long-Term Economic Efficiency. These principles are operationalized through concepts including Net Preventive Return (NPR), Preventive Urbanization, Digital Public Infrastructure (DPI), Clean Industrialization, Passive Thermal Civil Defense, Anticipatory Statecraft, and Climate-Resilient Debt Clauses (CRDCs). Together, these mechanisms form an integrated architecture for reducing societal risk while accelerating economic convergence across developing regions.",
+    "Focusing particularly on Africa and South Asia during the critical 2025–2050 deployment window, the framework argues that strategic investments in clean energy systems, clean cooking, adaptive digital education, resilient infrastructure, open digital public goods, and institutional modernization can simultaneously improve living standards, strengthen resilience, and enhance long-term productivity. Preventive Development Economics further proposes financial reforms to reduce the cost of capital in developing economies and mobilize large-scale investment into resilience-enhancing systems.",
+    "The study culminates in the Century Preventive Ledger, a long-term assessment framework spanning 2000–2100 that evaluates progress toward Planetary Capability Parity, defined as the universal provision of foundational human capabilities within safe planetary boundaries. The framework presents a strategic vision for transforming development policy from a reactive model of crisis management into a proactive model of vulnerability reduction, resilience building, and enduring human flourishing."
+  ],
+  "coreProposition": "Many of the vulnerabilities that amplify future crises are rooted in existing development deficits, so development itself, directed at those deficits, is the most effective form of prevention.",
+  "keyFindings": [
+    {
+      "title": "Development deficits are the root of future crisis.",
+      "text": "The monograph argues that disasters expose existing structural deficits (energy poverty, fragile housing, water insecurity, pollution, technological exclusion) rather than creating vulnerability from nothing."
+    },
+    {
+      "title": "Development as a mechanism of prevention.",
+      "text": "Treating development and risk prevention as one economic framework, rather than separate policy domains, lets finance ministries allocate capital to reduce risk and raise output together."
+    },
+    {
+      "title": "Six core principles.",
+      "text": "Prevention through development, technology-led risk reduction, infrastructure as protection, environmental vulnerability reduction, institutional capacity and long-term efficiency (Net Preventive Return)."
+    },
+    {
+      "title": "An operational sector programme.",
+      "text": "Sections 3–11 cover demographic exposure, preventive infrastructure, clean cooking, passive cooling, clean industrialization, open digital public infrastructure, education, anticipatory governance, and cost-of-capital reform including Climate-Resilient Debt Clauses."
+    },
+    {
+      "title": "A 2025–2050 deployment window.",
+      "text": "Under the Hughes Chronological Law, the large infrastructure and capability investments of the next 25 years in Africa and South Asia set the century's course."
+    },
+    {
+      "title": "A Century Preventive Ledger.",
+      "text": "The monograph proposes a 2000–2100 accountability framework and reports its own projections (about 140 million premature deaths averted, $345 trillion of assets preserved, 10.2 billion people reaching Planetary Capability Parity). These are the monograph's own figures, not independently verified results."
+    }
+  ],
+  "contents": [
+    {
+      "number": "1",
+      "title": "Foundations of Preventive Development Economics",
+      "description": "",
+      "page": 3
+    },
+    {
+      "number": "2",
+      "title": "Core Theoretical Principles & Methodological Frameworks",
+      "description": "",
+      "page": 6
+    },
+    {
+      "number": "3",
+      "title": "Demographics, Latitudinal Exposure & the Geography of Vulnerability",
+      "description": "",
+      "page": 9
+    },
+    {
+      "number": "4",
+      "title": "The Economics of Preventive Infrastructure: Energy, Water & Essential Services",
+      "description": "",
+      "page": 12
+    },
+    {
+      "number": "5",
+      "title": "The Household Air Pollution & Clean Cooking Transition",
+      "description": "",
+      "page": 15
+    },
+    {
+      "number": "6",
+      "title": "Cooling Accessibility, Passive Architecture & Thermal Civil Defense",
+      "description": "",
+      "page": 18
+    },
+    {
+      "number": "7",
+      "title": "Clean Industrialization & Decoupled Economic Growth",
+      "description": "",
+      "page": 21
+    },
+    {
+      "number": "8",
+      "title": "Digital Infrastructure, Open DPI & Technological Diffusion",
+      "description": "",
+      "page": 24
+    },
+    {
+      "number": "9",
+      "title": "Education, Online Upskilling & Cognitive Human Capital Accumulation",
+      "description": "",
+      "page": 27
+    },
+    {
+      "number": "10",
+      "title": "Institutional Capacity, Governance & Systemic Anticipatory Statecraft",
+      "description": "",
+      "page": 30
+    },
+    {
+      "number": "11",
+      "title": "Financing Preventive Economics: Compressing WACC & Sovereign Debt Armor",
+      "description": "",
+      "page": 33
+    },
+    {
+      "number": "12",
+      "title": "The Century Ledger: Measuring the Long-Term Preventive Dividend (2000–2100)",
+      "description": "",
+      "page": 36
+    },
+    {
+      "number": "",
+      "title": "Scholarly Apparatus I: Century Lexicon & Technical Glossary",
+      "description": "",
+      "page": 39
+    },
+    {
+      "number": "",
+      "title": "Scholarly Apparatus II: Bibliography & Canonical Citations",
+      "description": "",
+      "page": 40
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Preventive Development Economics",
+      "definition": "An approach to economic development that prioritizes investments, policies and structural transformations capable of preventing or reducing future socioeconomic, environmental and systemic vulnerabilities before crises materialize."
+    },
+    {
+      "term": "Development as a Mechanism of Prevention",
+      "definition": "The core thesis that many vulnerabilities amplifying future crises are rooted in existing development deficits, so strategically prioritized development eliminates those vulnerabilities."
+    },
+    {
+      "term": "The Six Core Principles",
+      "definition": "Prevention through Development, Technology-Led Risk Reduction, Infrastructure as Protection, Environmental Vulnerability Reduction, Institutional Capacity, and Long-Term Economic Efficiency (measured as Net Preventive Return)."
+    },
+    {
+      "term": "The Hughes Chronological Law",
+      "definition": "The principle that the speed of vulnerability reduction must outpace the velocity of compounding hazards (\"Risk sets the deadline, development sets the pace\") to avoid irreversible lock-in."
+    },
+    {
+      "term": "Infrastructure as Protection",
+      "definition": "The doctrine that foundational infrastructure (energy, water, sanitation, connectivity) should be engineered to absorb shocks and remove single points of failure."
+    },
+    {
+      "term": "Universal Clean Cooking Transition",
+      "definition": "The replacement of traditional biomass cooking with modern, non-polluting systems (electric induction, LPG, biogas) to end household air pollution."
+    },
+    {
+      "term": "Passive Thermal Civil Defense",
+      "definition": "Zero-operational-energy architectural and urban design (reflective cool roofs, cross-ventilation, shading) that keeps indoor temperatures below physiological hazard limits without grid power."
+    },
+    {
+      "term": "Pollution-Development Trap",
+      "definition": "The dynamic in which pollution-intensive industrialization incurs health, environmental and infrastructure damage that negates its economic gains."
+    },
+    {
+      "term": "Clean Industrialization",
+      "definition": "A strategy of leapfrogging to zero-carbon energy, circular materials, electrified manufacturing and local green value chains, decoupling GDP growth from environmental degradation."
+    },
+    {
+      "term": "Open Digital Public Infrastructure (DPI)",
+      "definition": "Open-source, interoperable digital rails (digital identity, instant payments and consent-based data exchange) giving equitable access to services at population scale."
+    },
+    {
+      "term": "Shock-Responsive Social Protection",
+      "definition": "Safety nets that link satellite hazard monitoring to national digital identity and instant payment switches, so cash transfers arrive within 72 hours of a climate disaster."
+    },
+    {
+      "term": "Education-Climate Trap",
+      "definition": "The cycle in which recurring environmental shocks disrupt schooling, causing learning deficits that trap youth in low-productivity subsistence labor."
+    },
+    {
+      "term": "Anticipatory Statecraft",
+      "definition": "A governance paradigm using real-time telemetry, cross-ministerial risk registries and open GovTech to pre-empt systemic fragilities before they become national crises."
+    },
+    {
+      "term": "WACC Compression Mechanism",
+      "definition": "A de-risking architecture (multilateral first-loss equity, FX hedging buffers, standard policy frameworks) intended to lower developing-country cost of capital from 14% to under 5%."
+    },
+    {
+      "term": "Climate-Resilient Debt Clauses (CRDCs)",
+      "definition": "Sovereign debt covenants that pause principal and interest payments for 24 months after a certified natural catastrophe."
+    },
+    {
+      "term": "Planetary Capability Parity",
+      "definition": "The milestone at which productivity, technological, infrastructural and human-capability gaps between the Global North and South are closed within safe planetary boundaries."
+    }
+  ],
+  "references": [
+    {
+      "text": "Hughes, H. (2026). Preventive Development Economics: Integrating Risk Prevention and Economic Convergence into a Unified Macroeconomic Discipline. H Heuristics Foundational Monograph, HH-2026-PDE-01."
+    },
+    {
+      "text": "Hughes, H. (2026). Century Pathways: Paradoxical Outlook Optimization: An Integrated Research Architecture for Improving Humanity's Long-Term Trajectory Through Positive Development Dynamics. H Heuristics Monograph, HH-2026-CPOO-01."
+    },
+    {
+      "text": "Hughes, H. (2026). Risk Sets the Deadline, Development Sets the Pace: Chronological Imperatives in 21st-Century Statecraft. H Heuristics Substack Dispatch.",
+      "url": "https://hheuristics.substack.com/p/risk-sets-the-deadline-development"
+    },
+    {
+      "text": "Hughes, H. (2026). Positive Pathways: The Development Framework for Compounding Systemic Resilience. H Heuristics Research Monograph.",
+      "url": "https://researchreports.hheuristics.com/reports/positive-pathways/"
+    },
+    {
+      "text": "Hughes, H. (2026). Sustainable Development and Economic Convergence in the Global South: The Sustainable Convergence Framework. H Heuristics Monograph, HH-2026-SCF-01."
+    },
+    {
+      "text": "Hughes, H. (2026). The Polycrisis Resilience Concept Catalogue & Research Architecture: A Strategic Research Agenda for 2026–2030. H Heuristics Monograph, HH-2026-PRCC-01."
+    },
+    {
+      "text": "Morin, E., & Kern, A. B. (1993). Terre-Patrie (Homeland Earth: A Manifesto for the New Millennium). Paris: Éditions du Seuil / Hampton Press."
+    },
+    {
+      "text": "Tooze, A. (2022). Welcome to the World of the Polycrisis. Financial Times, October 28, 2022."
+    },
+    {
+      "text": "Solow, R. M. (1956). A Contribution to the Theory of Economic Growth. The Quarterly Journal of Economics, 70(1), 65–94.",
+      "doi": "10.2307/1884513",
+      "url": "https://doi.org/10.2307/1884513"
+    },
+    {
+      "text": "Sen, A. (1999). Development as Freedom. Oxford: Oxford University Press."
+    },
+    {
+      "text": "World Health Organization (WHO) (2023). Household Air Pollution and Health: Global Fact Sheets and Epidemiological Mortality Audits. Geneva: WHO."
+    },
+    {
+      "text": "International Energy Agency (IEA) (2023). A Vision for Clean Cooking Access by 2030: Executive Strategy. Paris: International Energy Agency."
+    },
+    {
+      "text": "Intergovernmental Panel on Climate Change (IPCC) (2023). Climate Change 2023: Synthesis Report. Contribution of Working Groups I, II and III to the Sixth Assessment Report. Geneva: IPCC."
+    },
+    {
+      "text": "World Bank (2023). Digital Public Infrastructure: Accelerating Inclusion and Economic Transformation. Washington, DC: World Bank Group."
+    },
+    {
+      "text": "Central Bank of Brazil (2023). Pix Management Report: Three Years of Open Financial Rails. Brasília: Banco Central do Brasil."
+    },
+    {
+      "text": "Nilekani, N., & Bhojwani, T. (2023). Unlocking the Potential of Digital Public Infrastructure. IMF Finance & Development, 60(1), 38–41."
+    },
+    {
+      "text": "Mottley, M. A. (2022). The 2022 Bridgetown Initiative for the Reform of the Global Financial Architecture. Government of Barbados."
+    },
+    {
+      "text": "Pomeranz, K. (2000). The Great Divergence: China, Europe, and the Making of the Modern World Economy. Princeton: Princeton University Press."
+    },
+    {
+      "text": "Rodrik, D. (2016). Premature Deindustrialization. Journal of Economic Growth, 21(1), 1–33.",
+      "doi": "10.1007/s10887-015-9122-3",
+      "url": "https://doi.org/10.1007/s10887-015-9122-3"
+    },
+    {
+      "text": "Dasgupta, P. (2021). The Economics of Biodiversity: The Dasgupta Review. London: HM Treasury."
+    },
+    {
+      "text": "Stockholm Resilience Centre (2023). Planetary Boundaries Update: Safe Operating Space for Humanity. Stockholm: SRC."
+    },
+    {
+      "text": "GSMA Intelligence (2025). The State of Mobile Internet Connectivity Report 2025. London: GSMA."
+    }
+  ]
+}
