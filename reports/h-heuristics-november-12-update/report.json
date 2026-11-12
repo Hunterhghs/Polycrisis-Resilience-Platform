@@ -1,0 +1,145 @@
+{
+  "seriesNumber": 54,
+  "title": "The H Heuristics November 12th Update",
+  "subtitle": "Strategy, Scenarios, and the Operational Transition from Concept Genesis to Global Adoption",
+  "type": "Strategic Report",
+  "datePublished": "2026-11-12",
+  "dateModified": "2026-11-12",
+  "doi": "10.5281/zenodo.24177889",
+  "repository": {
+    "name": "Zenodo",
+    "url": "https://zenodo.org/records/24177889"
+  },
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "license": {
+    "name": "Creative Commons Attribution 4.0 International",
+    "shortName": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 40,
+  "language": "en",
+  "description": "Documents the 12 November 2026 shift from publishing concepts to disseminating and testing them: the person-years finding, a five-stage adoption plan and Bass diffusion scenarios.",
+  "contribution": "Records the strategic pivot to adoption and the five publications that carried it, and sets out the adoption plan, scenario assumptions, risk register and 2026–2050 roadmap, with its own limits stated.",
+  "themes": [
+    "Strategic pivot",
+    "Person-years of service deprivation",
+    "Hazard–welfare decoupling",
+    "Theory of change",
+    "Anchor expert network",
+    "Bass diffusion scenarios",
+    "Two-channel engine",
+    "Risk register and roadmap"
+  ],
+  "keywords": [
+    "strategic pivot",
+    "concept adoption",
+    "person-years of basic service deprivation",
+    "decoupling proposition",
+    "Bass diffusion",
+    "theory of change",
+    "polycrisis resilience",
+    "H Heuristics"
+  ],
+  "subjects": [],
+  "abstract": [
+    "On 12 November 2026, H Heuristics shifted its mission from developing and publishing concepts to also disseminating, testing, and applying them. This report documents that pivot and the five coordinated publications that carried it out: Century Pathways (HH-2026-61), The Macroeconomic Architecture (HH-2026-62), the Global Concept Adoption Initiative (HH-2026-63), and two companion Substack essays, supported by Positive Pathways (HH-2026-60) and synthesized in The November 2026 Update (HH-2026-64).",
+    "The pivot rests on a three-step chain: ideas influence decisions, decisions direct investment, and investment changes development trajectories. The empirical anchor is the person-years metric. If access to five basic services (electricity, clean cooking, broadband, piped water, sanitation) stayed frozen at 2025 levels, cumulative deprivation over 2026–2100 would reach 859 billion person-years. At proven peer-pace rollout it falls to 112 billion, a 143 billion person-year gap against the 255 billion current-trend trajectory. The Decoupling Proposition argues that human welfare can improve while planetary hazards rise, provided vulnerability falls faster than hazards grow.",
+    "The operating plan has four parts: a five-stage theory of change (Develop, Disseminate, Adopt, Apply, Improve) with closed-loop feedback; a network of about 100 Anchor Experts, reached through personalized, CAN-SPAM- and GDPR-compliant outreach; a Bass diffusion scenario projecting roughly 140 independent citations by 2030, 670 by 2035, and 2,900 by 2050 (envelope 1,100–7,900), with only third-party citations counted; and a Two-Channel Engine pairing a top-down institutional channel, capped at 10% adoption, with an unbounded open-web channel.",
+    "The report is explicit about its limits. The Bass parameters (p = 0.015, q = 0.28) are assumed rather than calibrated, the institutional ratios are fixed rather than modeled, and the outreach claims are self-reported. It also contrasts the assertive framing of HH-62 with the more cautious “proposed frameworks” framing of HH-63/64, and it closes with a risk register and a 2026–2050 roadmap beginning with a 12-month Clean Cooking Sprint and a first annual audit in November 2027."
+  ],
+  "coreProposition": "Ideas can influence decisions, decisions can direct investment, and investment can change development trajectories, so intellectual influence is treated as an active, measurable instrument of development.",
+  "keyFindings": [
+    {
+      "title": "From publishing to adoption.",
+      "text": "On 12 November 2026 H Heuristics moved from mainly formulating concepts to also spreading, testing and applying them, through five coordinated publications spanning theory, empirical data and operations."
+    },
+    {
+      "title": "The person-years finding.",
+      "text": "With access to five basic services frozen at 2025 levels, cumulative deprivation over 2026–2100 reaches 859 billion person-years; at proven peer-pace rollout it falls to 112 billion, against 255 billion on current trend, a 143 billion person-year gap."
+    },
+    {
+      "title": "The Decoupling Proposition.",
+      "text": "Human welfare can improve even as planetary hazards escalate, provided infrastructure deployment cuts vulnerability faster than hazards grow: risk sets the deadline, development sets the outcome."
+    },
+    {
+      "title": "A five-stage plan and an anchor network.",
+      "text": "A theory of change running Develop, Disseminate, Adopt, Apply, Improve, with four participant roles and about 100 Anchor Experts reached by personalized, rule-compliant outreach."
+    },
+    {
+      "title": "Citation scenarios, not forecasts.",
+      "text": "A Bass diffusion scenario projects about 140 independent citations by 2030, 670 by 2035 and 2,900 by 2050 (envelope 1,100–7,900; no-outreach counterfactual 500), with 148,000 readers, using assumed parameters (p = 0.015, q = 0.28) and fixed institutional ratios."
+    },
+    {
+      "title": "Stated limits and a recalibration.",
+      "text": "The report acknowledges that the parameters are assumed, the outreach claims are self-reported, and the earlier HH-62 projection (3,800 citations, 290,000 readers) was more assertive than the 2,900 and 148,000 used here."
+    },
+    {
+      "title": "A two-channel engine.",
+      "text": "A top-down institutional channel capped at 10% adoption is paired with an unbounded decentralized open-web channel, so reach does not depend on bureaucratic uptake."
+    },
+    {
+      "title": "Roadmap and audit.",
+      "text": "A 12-month Clean Cooking Sprint and a first annual adoption audit in November 2027 open a four-phase roadmap (Seeding, Validation, Institutionalization, Convergence) running to 2050 and beyond."
+    }
+  ],
+  "bottomLine": "A strategy-and-scenarios report on turning published concepts into adopted ones. Its citation and reader figures are assumed-parameter scenarios, its outreach claims are self-reported, and its case studies are illustrative rather than sourced evidence.",
+  "contents": [
+    { "number": "", "title": "Executive Summary", "description": "Strategy, scenarios and the operational pivot; master outline.", "page": 2 },
+    { "number": "1", "title": "The Strategic Pivot: Intellectual Influence as an Instrument of Development", "description": "The shift from publishing to spreading, testing and applying; the three-step chain; research as civil defense.", "page": 3 },
+    { "number": "2", "title": "The Five-Piece Corpus: Deconstructing the November 12 Publications", "description": "Century Pathways, the Macroeconomic Architecture, the Adoption Initiative, two Substack essays, Positive Pathways and the Update.", "page": 6 },
+    { "number": "3", "title": "The Hopeful Finding: Person-Years and Basic Services (2026–2100)", "description": "The 859 billion frozen baseline, the 112 billion peer-pace result and the 143 billion person-year gap.", "page": 9 },
+    { "number": "4", "title": "The Decoupling Proposition: Outpacing Escalating Planetary Hazards", "description": "Decoupling welfare from planetary volatility; the differential velocity equation.", "page": 12 },
+    { "number": "5", "title": "The Six Interlocking Concepts: Diagnostic, Execution and Valuation Rails", "description": "Polycrisis Resilience and HVRE (diagnosis), PDE and Sustainable Convergence (execution), Development Optimization and HSD (valuation).", "page": 15 },
+    { "number": "6", "title": "The Five-Stage Theory of Change and Operational Architecture", "description": "Develop, Disseminate, Adopt, Apply, Improve; closed-loop feedback; early signals to track in the first 24 months.", "page": 18 },
+    { "number": "7", "title": "Social Capital and Participant Roles: The Human Transmission Network", "description": "Validators, Amplifiers, Adopters and Appliers; the 100 Anchor Experts; relational outreach.", "page": 21 },
+    { "number": "8", "title": "Grounded Diffusion Modeling: The Bass Diffusion Scenarios (2026–2050)", "description": "Assumed Bass parameters; 140 citations by 2030 to 2,900 by 2050; counterfactual baseline; derived institutional ratios.", "page": 24 },
+    { "number": "9", "title": "The Epistemic Contrast: Strong Claims vs. Methodological Humility", "description": "Auditing HH-62 against HH-63/64; assumed parameters and self-reported metrics.", "page": 27 },
+    { "number": "10", "title": "Institutional Ceilings and the Two-Channel Diffusion Engine", "description": "The 10% bureaucratic ceiling; top-down versus open-web channels.", "page": 30 },
+    { "number": "11", "title": "Governance, Credibility Safeguards and Risk Management", "description": "CAN-SPAM and GDPR compliance; zero self-citation accounting; the 2026 risk register.", "page": 33 },
+    { "number": "12", "title": "The 2026–2050 Roadmap: Immediate Milestones and Long-Term Horizon", "description": "The 12-month Clean Cooking Sprint, four multi-year epochs and Planetary Capability Parity.", "page": 36 },
+    { "number": "", "title": "Scholarly Apparatus, Part I: Century Lexicon and Technical Glossary", "description": "Sixteen standardized terms.", "page": 39 },
+    { "number": "", "title": "Scholarly Apparatus, Part II: Bibliography and Corpus Citations", "description": "Primary corpus and cross-disciplinary foundation; replication notice.", "page": 40 }
+  ],
+  "glossary": [
+    { "term": "Intellectual Influence as an Instrument of Development", "definition": "The doctrine that economic research should actively direct sovereign and multilateral capital toward preventive civil defense rather than remain passive analysis." },
+    { "term": "Three-Step Chain of Reasoning", "definition": "Ideas influence decisions; decisions direct investment; investment changes development trajectories." },
+    { "term": "Person-Years of Basic Service Deprivation", "definition": "The cumulative number of unserved people multiplied by the duration of their deprivation across electricity, clean cooking, broadband, piped water and sanitation." },
+    { "term": "Frozen Access Baseline", "definition": "The counterfactual in which the share of the global population with basic service access stays at 2025 levels through 2100 (859 billion person-years)." },
+    { "term": "Proven Peer Pace", "definition": "The infrastructure delivery speed already demonstrated by peer developing nations, applied across unserved regions." },
+    { "term": "The 143 Billion Person-Year Gap", "definition": "The difference between the 255 billion person-year current-trend trajectory and the 112 billion person-year peer-pace trajectory." },
+    { "term": "Decoupling Proposition", "definition": "The proposition that human welfare can be decoupled from environmental breakdown if infrastructure deployment cuts vulnerability faster than hazards grow." },
+    { "term": "Tripartite Macroeconomic Sequence", "definition": "The governance pipeline unifying six concepts into diagnosis (Polycrisis Resilience, HVRE), execution (PDE, Sustainable Convergence) and valuation (Development Optimization, HSD)." },
+    { "term": "Human Vulnerability Reduction Economics (HVRE)", "definition": "An economic framework that defines wealth through the security and dignity guaranteed to human biology, auditing six endowments across four exposure arenas." },
+    { "term": "Five-Stage Theory of Change", "definition": "The adoption model in HH-63: Develop (open research), Disseminate (targeted briefs), Adopt (syllabi and policies), Apply (physical capital), Improve (empirical feedback)." },
+    { "term": "100 Anchor Experts Network", "definition": "A curated network of high-credibility scholars, modelers and technocrats whose early adoption is intended to create pull across the wider field." },
+    { "term": "Two-Channel Diffusion Engine", "definition": "A top-down institutional channel capped at 10% paired with an unbounded decentralized open-web channel." },
+    { "term": "Epistemic Humility and Recalibration", "definition": "Presenting frameworks as testable hypotheses and labeling projections as scenarios rather than forecasts." },
+    { "term": "Independent Citation Auditing", "definition": "Counting only third-party, non-self citations in peer-reviewed journals, dissertations and official policy acts." },
+    { "term": "Universal Clean Cooking Sprint", "definition": "The first-year thematic campaign engaging public health and energy ministries on the clean-cooking deficit through electric induction cooking." },
+    { "term": "Planetary Capability Parity", "definition": "The mid-century aim that every person is shielded by modern civil-defense infrastructure within safe planetary boundaries." }
+  ],
+  "references": [
+    { "text": "Hughes, H. (2026). Century Pathways: Paradoxical Outlook Optimization. An Integrated Research Architecture for Improving Humanity’s Long-Term Trajectory Through Positive Development Dynamics. H Heuristics Monograph Series, Ref: HH-2026-61." },
+    { "text": "Hughes, H. (2026). The H Heuristics Macroeconomic Architecture: From Established Concepts to a 21st Century Movement. H Heuristics Monograph Series, Ref: HH-2026-62." },
+    { "text": "Hughes, H. (2026). Global Concept Adoption Initiative: Strategy, Theory of Change, Participant Roles, and Governance Roadmap. H Heuristics Initiative Report, Ref: HH-2026-63." },
+    { "text": "Hughes, H. (2026). The November 2026 Update: Strategic Recalibration, Operational Roadmaps, and the Transition from Concept Genesis to Global Adoption. H Heuristics Policy Dispatch Series, Ref: HH-2026-64." },
+    { "text": "Hughes, H. (2026). Positive Pathways: Framework Dynamics, Technological Leapfrogging, and Multi-Sectoral Convergence Mechanics. H Heuristics Monograph Series, Ref: HH-2026-60." },
+    { "text": "Hughes, H. (2026). The November 2026 Recalibration: How Open-Web Search Traffic and AI Overviews Drive Real-World Resilience Under Institutional Adoption Constraints. H Heuristics Substack Policy Dispatch." },
+    { "text": "Bass, F. M. (1969). A New Product Growth for Model Consumer Durables. Management Science, 15(5), 215–227.", "doi": "10.1287/mnsc.15.5.215" },
+    { "text": "Kremer, M., Luby, S., Maertens, R., Tan, B., & Więcek, W. (2023). Water Treatment and Child Mortality: A Meta-Analysis and Cost-effectiveness Analysis. National Bureau of Economic Research, NBER Working Paper No. 30835.", "doi": "10.3386/w30835" },
+    { "text": "Ostrom, E. (1990). Governing the Commons: The Evolution of Institutions for Collective Action. Cambridge University Press." },
+    { "text": "Piketty, T. (2014). Capital in the Twenty-First Century. Harvard University Press / Belknap Press." },
+    { "text": "Sen, A. (1999). Development as Freedom. Oxford University Press." },
+    { "text": "World Bank (2025). Global Infrastructure Outlook: Closing the Basic Service Access Deficit in Emerging Economies. International Bank for Reconstruction and Development, Washington, DC." }
+  ]
+}
