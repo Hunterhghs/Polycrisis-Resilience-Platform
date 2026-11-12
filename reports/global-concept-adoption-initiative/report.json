@@ -1,0 +1,234 @@
+{
+  "seriesNumber": 53,
+  "title": "The H Heuristics Global Concept Adoption Initiative",
+  "subtitle": "Mobilizing Social Capital, Digital Distribution, and Macroeconomic Frameworks to Optimize Humanity's 21st-Century Trajectory",
+  "type": "Strategy Report",
+  "datePublished": "2026-11-12",
+  "dateModified": "2026-11-12",
+  "doi": "10.5281/zenodo.24175010",
+  "repository": {
+    "name": "Zenodo",
+    "url": "https://zenodo.org/records/24175010"
+  },
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "license": {
+    "name": "Creative Commons Attribution 4.0 International",
+    "shortName": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 30,
+  "language": "en",
+  "description": "A strategy and operating blueprint for getting the H Heuristics frameworks adopted and independently cited, with a six-pillar architecture, outreach design, five-year modeled targets and risk controls.",
+  "contribution": "Documents how the series' six concepts are to be disseminated and measured: a four-layer digital publishing stack, a three-touch outreach cadence, a six-dimension adoption dashboard and illustrative five-year citation targets.",
+  "themes": [
+    "Concept adoption",
+    "Six-pillar architecture",
+    "Digital distribution",
+    "Outreach design",
+    "Adoption dashboard",
+    "Impact projections",
+    "Risk and mitigation"
+  ],
+  "keywords": [
+    "concept adoption",
+    "polycrisis resilience",
+    "sustainable convergence",
+    "preventive development economics",
+    "digital diffusion",
+    "social capital",
+    "development investment",
+    "H Heuristics"
+  ],
+  "abstract": [
+    "This report sets out the strategic architecture and operational blueprint for the H Heuristics Global Concept Adoption Initiative, a research and outreach program that shifts H Heuristics from mainly developing original macroeconomic concepts to actively engineering their global adoption, independent citation, and practical application. The initiative rests on a six-pillar Macroeconomic Architecture: Polycrisis Resilience, Sustainable Convergence, Preventive Development Economics, Development Optimization, Human Vulnerability Reduction Economics, and the Human Survivability Dividend. It argues that institutional capital and policy remain reactive despite abundant risk diagnosis, and that changing the mental models and accounting frameworks of decision-makers is a prerequisite for shifting investment toward prevention.",
+    "The program follows a five-stage theory of change, from intellectual development through dissemination, adoption, and application to improved global outcomes. It uses a four-layer digital publishing stack (open-access reports, Substack synthesis, segmented email campaigns, and search and repository indexing) and a three-touch email cadence aimed at eight multiplier audiences. Under a baseline scenario, the report models cumulative independent citations growing from 80 in Year 1 to 620 in Year 3 and more than 2,100 in Year 5, with 480,000 cumulative qualified readers. Conservative and upside scenarios bracket these figures at roughly 950 and 3,800 citations by Year 5. These projections are illustrative modeled targets, not realized outcomes.",
+    "The report prioritizes credible adoption over raw exposure, emphasizing transparent assumptions, open methodology, constructive peer engagement, and citation-ready packaging. Progress is tracked through a six-dimension Global Adoption Dashboard with a North Star indicator: how many people and institutions have used the ideas to improve their understanding, decisions, or actions. The report also covers regional adoption pathways, a risk and mitigation framework, a 12-month execution roadmap, and a five-document operational suite, led by an Email Campaign Playbook and Six-Pillar One-Pagers. Its long-term aim is to direct capital toward resilience, convergence, and sustainable development over a century-long horizon."
+  ],
+  "coreProposition": "Ideas can influence decisions, decisions can direct investment, and investment can change development trajectories, but only if research is paired with a deliberate transmission and measurement architecture.",
+  "keyFindings": [
+    {
+      "title": "From publishing to engineered adoption.",
+      "text": "The report argues that risk diagnosis is abundant but decision-making stays reactive, so research needs a deliberate dissemination and measurement engine, not just publication."
+    },
+    {
+      "title": "Six pillars, one architecture.",
+      "text": "The initiative promotes Polycrisis Resilience, Sustainable Convergence, Preventive Development Economics, Development Optimization, Human Vulnerability Reduction Economics and the Human Survivability Dividend as one interlocking system."
+    },
+    {
+      "title": "Four-layer distribution and three-touch outreach.",
+      "text": "Open-access reports, Substack, segmented email campaigns and repository indexing, with a capped three-touch email cadence, are the transmission channels."
+    },
+    {
+      "title": "Modeled five-year targets, not outcomes.",
+      "text": "The baseline scenario models cumulative independent citations growing from 80 in Year 1 to 620 in Year 3 and over 2,100 in Year 5, with 480,000 cumulative qualified readers; conservative and upside scenarios give roughly 950 and 3,800 citations by Year 5. The report states these are illustrative modeled targets, not realized outcomes."
+    },
+    {
+      "title": "Credible adoption over raw exposure.",
+      "text": "Four standards (transparent assumptions, open methodology, constructive peer engagement and citation-ready packaging) and a six-dimension dashboard with a North Star indicator govern the programme."
+    },
+    {
+      "title": "A 12-month plan with named risks.",
+      "text": "The report sets out a five-document operational suite, regional adoption pathways and a risk table covering email fatigue, citation lag, superficial citations, overextension and echo chambers."
+    }
+  ],
+  "contents": [
+    {
+      "number": "",
+      "title": "Executive Summary",
+      "description": "",
+      "page": 2
+    },
+    {
+      "number": "",
+      "title": "Contents",
+      "description": "",
+      "page": 3
+    },
+    {
+      "number": "1",
+      "title": "Strategic Mandate & The Global Adoption Imperative",
+      "description": "",
+      "page": 5
+    },
+    {
+      "number": "2",
+      "title": "The Six-Pillar Macroeconomic Architecture",
+      "description": "",
+      "page": 7
+    },
+    {
+      "number": "3",
+      "title": "Social Capital & The Digital Economy Transmission Engine",
+      "description": "",
+      "page": 10
+    },
+    {
+      "number": "4",
+      "title": "Email Campaign Architecture & Multiplier Segmentation",
+      "description": "",
+      "page": 12
+    },
+    {
+      "number": "5",
+      "title": "Reasonable Impact Projections (Years 1–5)",
+      "description": "",
+      "page": 14
+    },
+    {
+      "number": "6",
+      "title": "Credible Adoption vs. Raw Exposure: Governance & Quality Standards",
+      "description": "",
+      "page": 16
+    },
+    {
+      "number": "7",
+      "title": "The Six-Dimension Global Adoption Dashboard",
+      "description": "",
+      "page": 18
+    },
+    {
+      "number": "8",
+      "title": "Translating Adoption into Sustainable Development Investment",
+      "description": "",
+      "page": 20
+    },
+    {
+      "number": "9",
+      "title": "The Century-Long Horizon & Ongoing Concept Development",
+      "description": "",
+      "page": 22
+    },
+    {
+      "number": "10",
+      "title": "Next-Step Document Suite & 12-Month Execution Roadmap",
+      "description": "",
+      "page": 23
+    },
+    {
+      "number": "11",
+      "title": "Regional & Institutional Adoption Pathways",
+      "description": "",
+      "page": 25
+    },
+    {
+      "number": "12",
+      "title": "Risk Analysis, Friction Points & Mitigation Architecture",
+      "description": "",
+      "page": 27
+    },
+    {
+      "number": "13",
+      "title": "Appendix: Email Campaign Sequence Blueprints",
+      "description": "",
+      "page": 29
+    },
+    {
+      "number": "",
+      "title": "References & Methodology Notes",
+      "description": "",
+      "page": 30
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Global Concept Adoption Initiative",
+      "definition": "A research and outreach programme that moves H Heuristics from mainly developing original concepts to actively engineering their global adoption, independent citation and practical application."
+    },
+    {
+      "term": "Six-Pillar Macroeconomic Architecture",
+      "definition": "The six concepts the initiative promotes: Polycrisis Resilience, Sustainable Convergence, Preventive Development Economics, Development Optimization, Human Vulnerability Reduction Economics and the Human Survivability Dividend."
+    },
+    {
+      "term": "Five-Stage Theory of Change",
+      "definition": "The path from intellectual development through dissemination, adoption and application to improved global outcomes."
+    },
+    {
+      "term": "Four-Layer Digital Publishing Stack",
+      "definition": "Open-access reports, Substack synthesis, segmented email campaigns, and search and repository indexing."
+    },
+    {
+      "term": "Three-Touch Campaign Cadence",
+      "definition": "A capped outreach sequence (introduction, a follow-up around day 7, and a final offer around day 18) aimed at eight multiplier audiences."
+    },
+    {
+      "term": "Credibility Filter",
+      "definition": "The rule that independent citations, critical peer engagement, empirical validation and real applications count for more than raw pageviews, and that modeled targets are never presented as realized outcomes."
+    },
+    {
+      "term": "Global Adoption Dashboard",
+      "definition": "A six-dimension scorecard (intellectual diffusion, academic adoption, institutional reach, public engagement, policy engagement, practical application) reviewed quarterly."
+    },
+    {
+      "term": "North Star Indicator",
+      "definition": "How many people and institutions have used the ideas to improve their understanding, decisions or actions."
+    }
+  ],
+  "references": [
+    {
+      "text": "H Heuristics (2026). H Heuristics Macroeconomic Architecture. Research Reports Series.",
+      "url": "https://researchreports.hheuristics.com/reports/h-heuristics-macroeconomic-architecture/"
+    },
+    {
+      "text": "Hughes, H. (2026). How Established Concepts by H Heuristics Interconnect. H Heuristics Substack.",
+      "url": "https://hheuristics.substack.com/p/how-established-concepts-by-h-heuristics"
+    },
+    {
+      "text": "H Heuristics (2026). Human Vulnerability Reduction Economics & Preventive Development Frameworks.",
+      "url": "https://hheuristics.com"
+    },
+    {
+      "text": "H Heuristics (2026). Digital Publishing & Global Research Archive.",
+      "url": "https://hheuristics.substack.com"
+    }
+  ]
+}
