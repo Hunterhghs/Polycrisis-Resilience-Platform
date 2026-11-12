@@ -1,0 +1,535 @@
+{
+  "seriesNumber": 49,
+  "title": "Preventive Development Economics",
+  "subtitle": "Closing development deficits before they become crises",
+  "type": "Research Report",
+  "datePublished": "2026-11-12",
+  "dateModified": "2026-11-12",
+  "doi": "10.6084/m9.figshare.34991710",
+  "repository": {
+    "name": "figshare",
+    "url": "https://figshare.com/articles/preprint/Preventive_Development_Economics_Closing_development_deficits_before_they_become_crises/34991710"
+  },
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "license": {
+    "name": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "shortName": "CC BY-NC-ND 4.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+  },
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 49,
+  "language": "en",
+  "description": "A framework and evidence test for closing development deficits early, with data on 202 economies, benefit-cost ranges, the cost of delay, appraisal tools and a research agenda to 2035.",
+  "contribution": "Supplies the economic logic that links the series' concepts: it treats development deficits as vulnerability, counts both the development and prevention returns of closing them early, tests the idea against public data and proposes appraisal tools.",
+  "themes": [
+    "Preventive development",
+    "Development deficits",
+    "Benefit-cost returns",
+    "Cost of delay",
+    "Clean cooking and cooling",
+    "Infrastructure and digital development",
+    "Prevention appraisal",
+    "Research agenda to 2035"
+  ],
+  "keywords": [
+    "preventive development economics",
+    "development deficits",
+    "vulnerability",
+    "prevention",
+    "clean cooking",
+    "cooling",
+    "infrastructure",
+    "clean industrialization",
+    "digital development",
+    "benefit-cost analysis",
+    "Century Pathways",
+    "H Heuristics"
+  ],
+  "subjects": [
+    {
+      "name": "Socio-economic development",
+      "scheme": "ANZSRC FoR",
+      "code": "440407"
+    },
+    {
+      "name": "Economic development policy",
+      "scheme": "ANZSRC FoR",
+      "code": "440703"
+    },
+    {
+      "name": "Regional analysis and development",
+      "scheme": "ANZSRC FoR",
+      "code": "330406"
+    },
+    {
+      "name": "Risk policy",
+      "scheme": "ANZSRC FoR",
+      "code": "440711"
+    },
+    {
+      "name": "Climate change impacts and adaptation not elsewhere classified",
+      "scheme": "ANZSRC FoR",
+      "code": "410199"
+    },
+    {
+      "name": "Pollution and contamination not elsewhere classified",
+      "scheme": "ANZSRC FoR",
+      "code": "410599"
+    }
+  ],
+  "abstract": [
+    "Many of the most damaging human, economic, and environmental crises do not emerge in isolation. Their severity is shaped by pre-existing development deficits that leave populations exposed to risk. This report introduces Preventive Development Economics (PDE), a conceptual framework developed by Hunter Hughes that treats development as a mechanism of prevention. The framework argues that investments in foundational services such as electricity, clean cooking, water, sanitation, immunization, education, and digital connectivity generate dual returns: improving living standards while simultaneously reducing future vulnerability to interconnected risks.",
+    "Using public data across more than 200 economies, the report examines how development deficits cluster, how they relate to outcomes such as child mortality, life expectancy, hunger, and fertility, and whether stronger foundations are associated with improved long-term development trajectories. The analysis finds that countries with stronger foundational coverage generally experience better human-development outcomes and, in many cases, faster long-term progress, although results vary across indicators and do not establish causation. The report also evaluates the economics of preventive investment, reviews evidence across applications including clean cooking, cooling, infrastructure, clean industrialization, and digital development, and proposes decision-making tools such as prevention-adjusted appraisal frameworks and investment screening methods.",
+    "The findings suggest that closing development deficits before crises occur can provide substantial economic and social returns while reducing exposure to future shocks. At the same time, the report acknowledges important limitations, including reliance on observational evidence and uneven strength across applications. Preventive Development Economics is presented not as a replacement for conventional development, resilience, or risk-reduction frameworks, but as an integrating approach that connects them through a common logic: development investments can function as proactive risk reduction. The report concludes with a research agenda and roadmap designed to test, refine, and operationalize the framework over the coming decade."
+  ],
+  "coreProposition": "Many damaging crises land on gaps that development left open years earlier; closing those deficits first prevents harm and builds prosperity at the same time.",
+  "keyFindings": [
+    {
+      "title": "Development deficits are also vulnerability.",
+      "text": "Missing clean cooking, power, safe water, internet, immunization or schooling both reduce living standards and worsen the damage of floods, heatwaves, price shocks and pandemics. Closing them early earns two returns from one investment."
+    },
+    {
+      "title": "Deficits cluster, and outcomes worsen with each one.",
+      "text": "Across 202 economies, 4.6 billion people live in countries short on at least one of seven foundations and 2.1 billion on three or more. Child mortality is about 11 times higher in countries short on five to seven services (58 per 1,000 births) than in countries short on none (5)."
+    },
+    {
+      "title": "Reported returns are high but slow.",
+      "text": "Published benefit-cost ratios for preventive investments run from about 2:1 to 16:1, with paybacks of about 4 to 27 years, which helps explain why prevention is under-supplied."
+    },
+    {
+      "title": "The test is partial, and the report says so.",
+      "text": "Countries with stronger foundations in 2000 grew faster and cut child mortality faster afterwards, but the link weakens once regions are held fixed, and foundations did not cushion the GDP shocks of 2009 and 2020. The report states that associations are not proof of cause."
+    },
+    {
+      "title": "Delay is costly.",
+      "text": "At proven peer pace, unmet needs across five services fall from 6.7 billion to 1.8 billion by 2050; a five-year delay forfeits 34% of the gain and a ten-year delay 62%. These are benchmark scenarios, not forecasts."
+    },
+    {
+      "title": "From concept to decision tools.",
+      "text": "The report offers a prevention-adjusted appraisal, a screen for ranking investments, budget tagging (only about 8 cents of prevention per dollar of response aid in 2015–24), seven falsifiable research questions and a roadmap to 2035."
+    }
+  ],
+  "contents": [
+    {
+      "number": "",
+      "title": "Executive Summary",
+      "description": "",
+      "page": 4
+    },
+    {
+      "number": "1",
+      "title": "What Preventive Development Economics Is",
+      "description": "",
+      "page": 6
+    },
+    {
+      "number": "2",
+      "title": "The Vulnerability Stack",
+      "description": "",
+      "page": 11
+    },
+    {
+      "number": "3",
+      "title": "The Economics of Prevention",
+      "description": "",
+      "page": 15
+    },
+    {
+      "number": "4",
+      "title": "Six Core Principles",
+      "description": "",
+      "page": 19
+    },
+    {
+      "number": "5",
+      "title": "Household Protection: Clean Cooking and Cooling",
+      "description": "",
+      "page": 22
+    },
+    {
+      "number": "6",
+      "title": "Systems Protection: Infrastructure, Clean Industrialisation and Digital Development",
+      "description": "",
+      "page": 24
+    },
+    {
+      "number": "7",
+      "title": "Does Prevention Show Up in the Data?",
+      "description": "",
+      "page": 27
+    },
+    {
+      "number": "8",
+      "title": "Timing, Demography and the Window for Prevention",
+      "description": "",
+      "page": 31
+    },
+    {
+      "number": "9",
+      "title": "Decision Rules, Institutions and Finance",
+      "description": "",
+      "page": 34
+    },
+    {
+      "number": "10",
+      "title": "Intersections: Bundles, Gates and the Household Stack",
+      "description": "",
+      "page": 37
+    },
+    {
+      "number": "11",
+      "title": "Limits, Harmful Twins and What Would Prove the Idea Wrong",
+      "description": "",
+      "page": 39
+    },
+    {
+      "number": "12",
+      "title": "Research Agenda and Roadmap to 2035",
+      "description": "",
+      "page": 41
+    },
+    {
+      "number": "13",
+      "title": "Data and Method Notes",
+      "description": "",
+      "page": 44
+    },
+    {
+      "number": "",
+      "title": "References",
+      "description": "",
+      "page": 46
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Preventive Development Economics (PDE)",
+      "definition": "The study of how closing development deficits early (clean cooking, electricity, safe water, sanitation, immunization, schooling, internet) both raises living standards and reduces vulnerability to future shocks, so that one investment earns a development return and a prevention return."
+    },
+    {
+      "term": "Development deficit",
+      "definition": "A country's coverage of a basic service falling below 80%. Sensitivity checks at 60% and 90% are reported."
+    },
+    {
+      "term": "Vulnerability stack",
+      "definition": "The number of development deficits (0 to 7) a country has across seven foundations: electricity, clean cooking, basic drinking water, basic sanitation, internet use, DPT3 immunization and primary completion."
+    },
+    {
+      "term": "Foundations Index",
+      "definition": "The simple average of coverage across the seven foundation indicators, requiring at least five of seven and capping coverage at 100%."
+    },
+    {
+      "term": "Person-years of unmet need",
+      "definition": "A count of each person without a service for each year, used to measure the cost of delay."
+    },
+    {
+      "term": "Prevention-adjusted appraisal",
+      "definition": "A benefit-cost appraisal that counts both the development return and the prevention return of an investment."
+    },
+    {
+      "term": "Prevention screen",
+      "definition": "A ranking tool for preventive investments, alongside budget tagging that tracks money as a share of response spending."
+    }
+  ],
+  "references": [
+    {
+      "text": "Aker, J. C. and Mbiti, I. M. (2010). Mobile phones and economic development in Africa. Journal of Economic Perspectives, 24(3), 207–232.",
+      "doi": "10.1257/jep.24.3.207",
+      "url": "https://doi.org/10.1257/jep.24.3.207"
+    },
+    {
+      "text": "Arrow, K. J. and Fisher, A. C. (1974). Environmental preservation, uncertainty, and irreversibility. Quarterly Journal of Economics, 88(2), 312–319.",
+      "doi": "10.2307/1883074",
+      "url": "https://doi.org/10.2307/1883074"
+    },
+    {
+      "text": "Arthur, W. B. (1989). Competing technologies, increasing returns, and lock-in by historical events. Economic Journal, 99(394), 116–131.",
+      "doi": "10.2307/2234208",
+      "url": "https://doi.org/10.2307/2234208"
+    },
+    {
+      "text": "Balboni, C., Bandiera, O., Burgess, R., Ghatak, M. and Heil, A. (2022). Why do people stay poor? Quarterly Journal of Economics, 137(2), 785–844.",
+      "doi": "10.1093/qje/qjab045",
+      "url": "https://doi.org/10.1093/qje/qjab045"
+    },
+    {
+      "text": "Bass, F. M. (1969). A new product growth for model consumer durables. Management Science, 15(5), 215–227.",
+      "doi": "10.1287/mnsc.15.5.215",
+      "url": "https://doi.org/10.1287/mnsc.15.5.215"
+    },
+    {
+      "text": "Bloom, D. E. and Williamson, J. G. (1998). Demographic transitions and economic miracles in emerging Asia. World Bank Economic Review, 12(3), 419–455.",
+      "doi": "10.1093/wber/12.3.419",
+      "url": "https://doi.org/10.1093/wber/12.3.419"
+    },
+    {
+      "text": "Clasen, T. F., et al. (2022). Liquefied petroleum gas or biomass for cooking and effects on birth weight. New England Journal of Medicine, 387(19), 1735–1746.",
+      "doi": "10.1056/NEJMoa2206734",
+      "url": "https://doi.org/10.1056/NEJMoa2206734"
+    },
+    {
+      "text": "Das, I., Galeos, S. K. D., Xue, Y., Zong, J., Lewis, J. J., Fujita-Conrads, R., Williams, K. N., Troncoso, K., Adair-Rohani, H. and Jeuland, M. (2025). The costs and benefits of clean cooking policies in low- and middle-income countries under real-world conditions. Sustainable Development, 33(4), 6108–6123.",
+      "doi": "10.1002/sd.3463",
+      "url": "https://doi.org/10.1002/sd.3463"
+    },
+    {
+      "text": "European Commission Joint Research Centre and Inter-Agency Standing Committee (2026). INFORM Risk Index, Mid 2026. Ispra: JRC.",
+      "url": "https://drmkc.jrc.ec.europa.eu/inform-index/INFORM-Risk/Results-and-data"
+    },
+    {
+      "text": "Fuller, R., Landrigan, P. J., Balakrishnan, K. et al. (2022). Pollution and health: a progress update. The Lancet Planetary Health, 6(6), e535–e547.",
+      "doi": "10.1016/S2542-5196(22)00090-0",
+      "url": "https://doi.org/10.1016/S2542-5196(22)00090-0"
+    },
+    {
+      "text": "Gerschenkron, A. (1962). Economic Backwardness in Historical Perspective. Cambridge, MA: Harvard University Press."
+    },
+    {
+      "text": "Global Commission on Adaptation (2019). Adapt Now: A Global Call for Leadership on Climate Resilience. Rotterdam and Washington, DC: GCA and WRI.",
+      "url": "https://gca.org/reports/adapt-now-a-global-call-for-leadership-on-climate-resilience/"
+    },
+    {
+      "text": "Greenstone, M. and Hanna, R. (2014). Environmental regulations, air and water pollution, and infant mortality in India. American Economic Review, 104(10), 3038–3072.",
+      "doi": "10.1257/aer.104.10.3038",
+      "url": "https://doi.org/10.1257/aer.104.10.3038"
+    },
+    {
+      "text": "GSMA (2025). The State of Mobile Internet Connectivity 2025. London: GSM Association, September 2025.",
+      "url": "https://www.gsma.com/somic/"
+    },
+    {
+      "text": "Hallegatte, S., Rentschler, J. and Rozenberg, J. (2019). Lifelines: The Resilient Infrastructure Opportunity. Washington, DC: World Bank.",
+      "url": "https://openknowledge.worldbank.org/handle/10986/31805"
+    },
+    {
+      "text": "Hallegatte, S., Vogt-Schilb, A., Bangalore, M. and Rozenberg, J. (2017). Unbreakable: Building the Resilience of the Poor in the Face of Natural Disasters. Washington, DC: World Bank.",
+      "url": "https://openknowledge.worldbank.org/handle/10986/25335"
+    },
+    {
+      "text": "HAPIN Investigators (2024). Liquefied petroleum gas or biomass cooking and severe infant pneumonia. New England Journal of Medicine, 390(1).",
+      "url": "https://www.pubmed.gov/38169488/"
+    },
+    {
+      "text": "Haque, U., Hashizume, M., Kolivras, K. N., Overgaard, H. J., Das, B. and Yamamoto, T. (2012). Reduced death rates from cyclones in Bangladesh: what more needs to be done? Bulletin of the World Health Organization, 90(2), 150–156.",
+      "url": "https://scielosp.org/pdf/bwho/2012.v90n2/150-156/en"
+    },
+    {
+      "text": "Healy, A. and Malhotra, N. (2009). Myopic voters and natural disaster policy. American Political Science Review, 103(3), 387–406.",
+      "doi": "10.1017/S0003055409990104",
+      "url": "https://doi.org/10.1017/S0003055409990104"
+    },
+    {
+      "text": "Hjort, J. and Poulsen, J. (2019). The arrival of fast internet and employment in Africa. American Economic Review, 109(3), 1032–1079.",
+      "doi": "10.1257/aer.20161385",
+      "url": "https://doi.org/10.1257/aer.20161385"
+    },
+    {
+      "text": "Hughes, H. (2026a). Century Pathways: Paradoxical Outlook Optimization: How Positive Development Loops Can Improve Humanity's Outlook in a Worsening Century. H Heuristics Research Report, November 2026.",
+      "url": "https://researchreports.hheuristics.com"
+    },
+    {
+      "text": "Hughes, H. (2026b). Positive Pathways: A Framework for the Development Loops That Can Cut Human Exposure to Polycrisis. H Heuristics Research Report HH-2026-60, November 2026.",
+      "url": "https://researchreports.hheuristics.com/reports/positive-pathways/"
+    },
+    {
+      "text": "Hughes, H. (2026c). Polycrisis Resilience: A General Definition and the H Heuristics Framework. H Heuristics Research Report, November 2026.",
+      "url": "https://researchreports.hheuristics.com"
+    },
+    {
+      "text": "Hughes, H. (2026d). Sustainable Development & Economic Convergence: Sustainable Convergence. Figshare preprint, November 2026.",
+      "doi": "10.6084/m9.figshare.34977568",
+      "url": "https://doi.org/10.6084/m9.figshare.34977568"
+    },
+    {
+      "text": "Hughes, H. (2026f). The Economics of Prevention Versus the Cost of Crisis. H Heuristics Digital Report 2026-74, October 2026.",
+      "url": "https://digitalreports.hheuristics.com"
+    },
+    {
+      "text": "Hughes, H. (2026g). Polycrisis Prevention Returns. H Heuristics Digital Report 2026-80, November 2026.",
+      "url": "https://digitalreports.hheuristics.com"
+    },
+    {
+      "text": "Hughes, H. (2026h). The Human Dividend of Polycrisis Prevention. H Heuristics Digital Report 2026-61, October 2026.",
+      "url": "https://digitalreports.hheuristics.com"
+    },
+    {
+      "text": "Hughes, H. (2026i). Polycrisis Resilience and Fiscal Space. H Heuristics Digital Report 2026-79, November 2026.",
+      "url": "https://digitalreports.hheuristics.com"
+    },
+    {
+      "text": "Hutton, G. (2013). Global costs and benefits of reaching universal coverage of sanitation and drinking-water supply. Journal of Water and Health, 11(1), 1–12.",
+      "doi": "10.2166/wh.2012.105",
+      "url": "https://doi.org/10.2166/wh.2012.105"
+    },
+    {
+      "text": "Hutton, G., Rehfuess, E. and Tediosi, F. (2007). Evaluation of the costs and benefits of interventions to reduce indoor air pollution. Energy for Sustainable Development, 11(4), 34–43.",
+      "doi": "10.1016/S0973-0826(08)60408-1",
+      "url": "https://doi.org/10.1016/S0973-0826(08)60408-1"
+    },
+    {
+      "text": "IEA (2024). Reducing the Cost of Capital: Strategies to Unlock Clean Energy Investment in Emerging and Developing Economies. Paris: IEA.",
+      "url": "https://www.iea.org/reports/reducing-the-cost-of-capital"
+    },
+    {
+      "text": "IEA, International Energy Agency (2018). The Future of Cooling: Opportunities for Energy-Efficient Air Conditioning. Paris: IEA.",
+      "url": "https://www.iea.org/reports/the-future-of-cooling"
+    },
+    {
+      "text": "IEA, IRENA, UNSD, World Bank and WHO (2025). Tracking SDG 7: The Energy Progress Report 2025. Washington, DC: World Bank.",
+      "url": "https://www.irena.org/Publications/2025/Jun/Tracking-SDG-7-The-Energy-Progress-Report-2025"
+    },
+    {
+      "text": "Jamison, D. T., Summers, L. H., Alleyne, G. et al. (2013). Global health 2035: a world converging within a generation. The Lancet, 382(9908), 1898–1955.",
+      "doi": "10.1016/S0140-6736(13)62105-4",
+      "url": "https://doi.org/10.1016/S0140-6736(13)62105-4"
+    },
+    {
+      "text": "Kraay, A. and McKenzie, D. (2014). Do poverty traps exist? Assessing the evidence. Journal of Economic Perspectives, 28(3), 127–148.",
+      "doi": "10.1257/jep.28.3.127",
+      "url": "https://doi.org/10.1257/jep.28.3.127"
+    },
+    {
+      "text": "Laibson, D. (1997). Golden eggs and hyperbolic discounting. Quarterly Journal of Economics, 112(2), 443–478.",
+      "doi": "10.1162/003355397555253",
+      "url": "https://doi.org/10.1162/003355397555253"
+    },
+    {
+      "text": "Lee, K., Miguel, E. and Wolfram, C. (2020). Experimental evidence on the economics of rural electrification. Journal of Political Economy, 128(4), 1523–1565.",
+      "doi": "10.1086/705417",
+      "url": "https://doi.org/10.1086/705417"
+    },
+    {
+      "text": "Mechler, R. (2016). Reviewing estimates of the economic efficiency of disaster risk management: opportunities and limitations of using risk-based cost–benefit analysis. Natural Hazards, 81(3), 2121–2147.",
+      "doi": "10.1007/s11069-016-2170-y",
+      "url": "https://doi.org/10.1007/s11069-016-2170-y"
+    },
+    {
+      "text": "OECD (2026). International aid fell sharply in 2025, says OECD (preliminary ODA data). Paris: OECD, April 2026.",
+      "url": "https://www.oecd.org/en/about/news/press-releases/2026/04/international-aid-fell-sharply-in-2025-says-oecd.html"
+    },
+    {
+      "text": "Otis, N., Clarke, R., Delecourt, S., Holtz, D. and Koning, R. (2024). The uneven impact of generative AI on entrepreneurial performance. Harvard Business School Working Paper 24-042.",
+      "url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=65088"
+    },
+    {
+      "text": "Our World in Data (2025). Solar photovoltaic module prices, based on Nemet (2009), Farmer & Lafond (2016) and IRENA.",
+      "url": "https://ourworldindata.org/grapher/solar-pv-prices"
+    },
+    {
+      "text": "Our World in Data (2025c). Levelized cost of energy by technology, based on IRENA. Oxford: Our World in Data.",
+      "url": "https://ourworldindata.org/grapher/levelized-cost-of-energy"
+    },
+    {
+      "text": "Ozawa, S., Clark, S., Portnoy, A., Grewal, S., Brenzel, L. and Walker, D. G. (2016). Return on investment from childhood immunization in low- and middle-income countries, 2011–20. Health Affairs, 35(2), 199–207.",
+      "doi": "10.1377/hlthaff.2015.1086",
+      "url": "https://doi.org/10.1377/hlthaff.2015.1086"
+    },
+    {
+      "text": "Ritchie, H., Rosado, P. and Roser, M. (2025). Natural disasters. Our World in Data. Data from EM-DAT, CRED/UCLouvain.",
+      "url": "https://ourworldindata.org/natural-disasters"
+    },
+    {
+      "text": "Rodin, J. (2014). The Resilience Dividend: Being Strong in a World Where Things Go Wrong. New York: PublicAffairs.",
+      "url": "https://search.worldcat.org/search?q=Rodin+The+Resilience+Dividend"
+    },
+    {
+      "text": "Rodrik, D. (2016). Premature deindustrialization. Journal of Economic Growth, 21, 1–33.",
+      "doi": "10.1007/s10887-015-9122-3",
+      "url": "https://doi.org/10.1007/s10887-015-9122-3"
+    },
+    {
+      "text": "Rogers, E. M. (2003). Diffusion of Innovations (5th ed.). New York: Free Press.",
+      "url": "https://search.worldcat.org/search?q=Rogers+Diffusion+of+Innovations+5th+edition"
+    },
+    {
+      "text": "Romanello, M., et al. (2025). The 2025 report of the Lancet Countdown on health and climate change. The Lancet. Summary released by WHO, 29 October 2025.",
+      "url": "https://www.who.int/news/item/29-10-2025-climate-inaction-is-claiming-millions-of-lives-every-year--warns-new-lancet-countdown-report"
+    },
+    {
+      "text": "Rose, G. (1985). Sick individuals and sick populations. International Journal of Epidemiology, 14(1), 32–38.",
+      "doi": "10.1093/ije/14.1.32",
+      "url": "https://doi.org/10.1093/ije/14.1.32"
+    },
+    {
+      "text": "Sen, A. (1999). Development as Freedom. Oxford: Oxford University Press.",
+      "url": "https://search.worldcat.org/search?q=Sen+Development+as+Freedom"
+    },
+    {
+      "text": "Stern, N. (2007). The Economics of Climate Change: The Stern Review. Cambridge: Cambridge University Press.",
+      "url": "https://www.cambridge.org/core/books/economics-of-climate-change/summary-of-conclusions/24EE5904FA4F9BEE88B862E7FF123462"
+    },
+    {
+      "text": "Suri, T. and Jack, W. (2016). The long-run poverty and gender impacts of mobile money. Science, 354(6317), 1288–1292.",
+      "doi": "10.1126/science.aah5309",
+      "url": "https://doi.org/10.1126/science.aah5309"
+    },
+    {
+      "text": "Sustainable Energy for All (2025). Chilling Prospects 2025: Tracking Global Cooling Needs. Vienna: SEforALL, July 2025.",
+      "url": "https://www.seforall.org/news/new-report-shows-one-billion-people-exposed-to-deadly-heat-without-cooling-solutions"
+    },
+    {
+      "text": "United Nations (2022). Early Warnings for All: Executive Action Plan 2023–2027. Geneva: WMO and UNDRR.",
+      "url": "https://www.un.org/en/climatechange/early-warnings-for-all"
+    },
+    {
+      "text": "United Nations Environment Programme (2025). Global Cooling Watch 2025: The Free Degrees. Nairobi: UNEP, 11 November.",
+      "url": "https://www.unep.org/resources/global-cooling-watch-2025"
+    },
+    {
+      "text": "United Nations, Department of Economic and Social Affairs, Population Division (2024). World Population Prospects 2024. Medium variant, via Our World in Data.",
+      "url": "https://population.un.org/wpp/"
+    },
+    {
+      "text": "United Nations, Department of Economic and Social Affairs, Population Division (2025). World Urbanization Prospects 2025: Key Messages. New York: United Nations, November 2025.",
+      "url": "https://www.un.org/development/desa/pd/sites/www.un.org.development.desa.pd/files/undesa_pd_2024_key_messages_wup_2025.pdf"
+    },
+    {
+      "text": "Unruh, G. C. (2000). Understanding carbon lock-in. Energy Policy, 28(12), 817–830.",
+      "doi": "10.1016/S0301-4215(00)00070-7",
+      "url": "https://doi.org/10.1016/S0301-4215(00)00070-7"
+    },
+    {
+      "text": "Weitzman, M. L. (2001). Gamma discounting. American Economic Review, 91(1), 260–271.",
+      "doi": "10.1257/aer.91.1.260",
+      "url": "https://doi.org/10.1257/aer.91.1.260"
+    },
+    {
+      "text": "WHO (2021). WHO Global Air Quality Guidelines: Particulate Matter (PM2.5 and PM10), Ozone, Nitrogen Dioxide, Sulfur Dioxide and Carbon Monoxide. Geneva: World Health Organization.",
+      "url": "https://www.who.int/publications/i/item/9789240034228"
+    },
+    {
+      "text": "WHO (2023). Burden of Disease Attributable to Unsafe Drinking-Water, Sanitation and Hygiene: 2019 Update. Geneva: WHO.",
+      "url": "https://www.who.int/news/item/28-06-2023-improving-access-to-water--sanitation-and-hygiene-can-save-1.4-million-lives-per-year--says-new-who-report"
+    },
+    {
+      "text": "WHO, World Health Organization (2024). Household air pollution. Fact sheet.",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/household-air-pollution-and-health"
+    },
+    {
+      "text": "World Bank (2025). The Global Findex Database 2025. Washington, DC: World Bank.",
+      "url": "https://www.worldbank.org/en/publication/globalfindex"
+    },
+    {
+      "text": "World Bank (2026). World Development Indicators. Washington, DC: World Bank. Accessed November 2026.",
+      "url": "https://databank.worldbank.org/source/world-development-indicators"
+    },
+    {
+      "text": "World Bank and African Development Bank (2024). Mission 300: Energizing Africa, connecting 300 million people to electricity by 2030.",
+      "url": "https://www.worldbank.org/en/programs/energizing-africa"
+    },
+    {
+      "text": "Wright, T. P. (1936). Factors affecting the cost of airplanes. Journal of the Aeronautical Sciences, 3(4), 122–128.",
+      "doi": "10.2514/8.155",
+      "url": "https://doi.org/10.2514/8.155"
+    }
+  ]
+}
