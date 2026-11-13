@@ -1,0 +1,561 @@
+{
+  "seriesNumber": 55,
+  "title": "Convergence Economics",
+  "subtitle": "The mechanisms, constraints, incentives and policies governing convergence between economies",
+  "type": "Research Report",
+  "datePublished": "2026-11-13",
+  "dateModified": "2026-11-13",
+  "doi": "10.6084/m9.figshare.34999798",
+  "repository": {
+    "name": "figshare",
+    "url": "https://figshare.com/articles/preprint/Convergence_Economics_The_mechanisms_constraints_incentives_and_policies_governing_convergence_between_economies/34999798"
+  },
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "license": {
+    "name": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+    "shortName": "CC BY-NC-ND 4.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+  },
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 44,
+  "language": "en",
+  "description": "Proposes Convergence Economics as a field and tests its core claims on public data: seven kinds of convergence, eight mechanisms, binding constraints and the arithmetic of catch-up speed.",
+  "contribution": "Defines Convergence Economics, audits eight mechanisms across 76 developing economies and sets out constraints, incentives, policy levers, speed scenarios to 2100 and ten testable propositions.",
+  "themes": [
+    "Convergence Economics",
+    "Seven convergences",
+    "Eight mechanisms",
+    "Mechanism audit",
+    "Structural transformation",
+    "Binding constraints",
+    "Incentives and policy",
+    "Speed of convergence",
+    "Ten propositions"
+  ],
+  "keywords": [
+    "convergence economics",
+    "economic convergence",
+    "catch-up growth",
+    "beta convergence",
+    "structural transformation",
+    "premature deindustrialization",
+    "middle-income trap",
+    "development economics",
+    "global south"
+  ],
+  "subjects": [
+    {
+      "name": "Socio-economic development",
+      "scheme": "ANZSRC FoR",
+      "code": "440407"
+    },
+    {
+      "name": "Economic development policy",
+      "scheme": "ANZSRC FoR",
+      "code": "440703"
+    },
+    {
+      "name": "Urban and regional economics",
+      "scheme": "ANZSRC FoR",
+      "code": "380118"
+    },
+    {
+      "name": "Political economy and social change",
+      "scheme": "ANZSRC FoR",
+      "code": "440404"
+    },
+    {
+      "name": "Public policy",
+      "scheme": "ANZSRC FoR",
+      "code": "440709"
+    }
+  ],
+  "abstract": [
+    "Whether poorer economies will catch up with richer ones has been asked for two centuries, yet no single field integrates the answer. This report proposes Convergence Economics, the study of the mechanisms, conditions, constraints, incentives and policies that govern the narrowing of economic disparities between countries, and tests its core claims against public data. Between 2000 and 2024, Global South income rose from 13% to 24% of the high-income level, but only from 18% to 20% without China and India, while low-income countries slipped from 4.2% to 3.7%. Sustained catch-up is rare: just 20% of 25-year windows for lagging economies show a growth advantage of two points a year or more.",
+    "Convergence is plural. Across seven dimensions (productivity, technology, structure, capital, human capital, institutions and infrastructure, sustainability), changes are only weakly correlated (mean rank correlation 0.20). An audit of 76 developing economies finds no single mechanism sufficient. Even in the top third on the strongest mechanism, 23% failed to converge, whereas 90% of economies strong on five or six of eight mechanisms did converge. Only 2 of 10 tested complementarities are significant. The industrial route has narrowed, and binding constraints in debt service, power and governance limit speed. At a steady two-point annual advantage, the Global South would reach half of the high-income level in about 38 years and low-income countries in 130. The report closes with ten testable propositions and a research programme built on open data."
+  ],
+  "coreProposition": "Convergence is plural, conditional and slow: it happens through combinations of mechanisms, within limits set by finance, capacity, power, population and climate, and through incentives that can be aligned or not.",
+  "keyFindings": [
+    {
+      "title": "Real but narrow, and period-dependent.",
+      "text": "Global South income rose from 13% to 24% of the high-income level in 2000–2024, but only from 18% to 20% without China and India; low-income countries slipped from 4.2% to 3.7%. Of 99 developing economies, 71% outgrew high-income countries in 2000–19 but only 48% in 2019–24."
+    },
+    {
+      "title": "Sustained catch-up is rare.",
+      "text": "Only 20% of 25-year windows for lagging economies show a growth advantage of two points a year or more, and 10% show three. Of 99 economies below a quarter of US income in 1960, 76 were still below it in 2022."
+    },
+    {
+      "title": "Convergence comes in seven kinds.",
+      "text": "Changes across productivity, technology, structure, capital, human capital, institutions and infrastructure, and sustainability have a mean rank correlation of only 0.20. Only 4 of 62 economies narrowed the gap on all eight dimensions."
+    },
+    {
+      "title": "No single mechanism is sufficient.",
+      "text": "Even in the top third on the strongest mechanism, 23% of 76 economies failed to converge. The share that converged rises from 32% (strong on 0–2 of eight mechanisms) to 90% (strong on 5–6), though the audit is descriptive and the top group is small."
+    },
+    {
+      "title": "Complementarity is real but not simple.",
+      "text": "Only 2 of 10 tested pairings show a significant interaction, and in one of them the mechanism matters less where its supposed complement is strong. The evidence favours bundles over single gates."
+    },
+    {
+      "title": "The industrial route has narrowed.",
+      "text": "The predicted manufacturing share of GDP at ,000 of income fell from 17% in the 1990s to 13% in 2015–19, and the share fell in 47 of 82 developing economies after 2000. Resource booms, not manufacturing, dominate the fastest 25-year catch-up windows."
+    },
+    {
+      "title": "Finance and power bind hardest.",
+      "text": "Median interest payments take 13% of government revenue in low-income countries, up from 3% in 2010, and electricity use is 170 kWh per person against 8,804 in high-income countries."
+    },
+    {
+      "title": "The clock is long.",
+      "text": "At a steady two-point annual advantage the Global South reaches half of the high-income level in about 38 years, lower-middle-income countries in 62 and low-income countries in 130. The scenarios are arithmetic illustrations, not forecasts."
+    },
+    {
+      "title": "Ten testable propositions.",
+      "text": "Five find first support in the report's data, four are partly supported or mixed and one (finance) is untested. The report presents the field as a proposed framework open to testing and notes that the phrase has been used before in a narrower sense (De Grauwe, 1996)."
+    }
+  ],
+  "bottomLine": "A data-grounded case for treating convergence as a field. Its statistical results are descriptive associations on small samples, its scenarios are constant-advantage arithmetic, and the report says so itself.",
+  "contents": [
+    {
+      "number": "",
+      "title": "Executive Summary",
+      "description": "Principal findings and priorities.",
+      "page": 4
+    },
+    {
+      "number": "1",
+      "title": "The Case for a Field",
+      "description": "A question without a home; growth is not convergence; why now.",
+      "page": 6
+    },
+    {
+      "number": "2",
+      "title": "Definition and Scope",
+      "description": "The proposed definition, central question, unit of analysis and boundaries with adjacent fields.",
+      "page": 8
+    },
+    {
+      "number": "3",
+      "title": "Intellectual Foundations",
+      "description": "Six traditions and the empirical turn.",
+      "page": 10
+    },
+    {
+      "number": "4",
+      "title": "The Empirical Record",
+      "description": "Four decades of mixed results then an exception; beta convergence; long-run mobility.",
+      "page": 12
+    },
+    {
+      "number": "5",
+      "title": "Seven Convergences",
+      "description": "The seven kinds, a dashboard against the frontier, and how weakly they move together.",
+      "page": 14
+    },
+    {
+      "number": "6",
+      "title": "Eight Mechanisms",
+      "description": "Functions, evidence and typical failures; why none is automatically sufficient.",
+      "page": 17
+    },
+    {
+      "number": "7",
+      "title": "Testing the Mechanisms",
+      "description": "An audit of 76 developing economies: association, sufficiency, stacks and complements.",
+      "page": 19
+    },
+    {
+      "number": "8",
+      "title": "Structural Transformation and the Industrial Route",
+      "description": "The flattened industrial hump, which catch-up lasted, and routes beyond manufacturing.",
+      "page": 22
+    },
+    {
+      "number": "9",
+      "title": "Constraints on Speed",
+      "description": "Absorptive capacity, finance and debt, power and infrastructure, governance.",
+      "page": 25
+    },
+    {
+      "number": "10",
+      "title": "Incentives",
+      "description": "Four sets of actors, four incentive failures and international incentives.",
+      "page": 27
+    },
+    {
+      "number": "11",
+      "title": "Policies",
+      "description": "Principles, a policy map by mechanism, industrial policy, EU regional policy and international levers.",
+      "page": 29
+    },
+    {
+      "number": "12",
+      "title": "The Speed of Convergence",
+      "description": "Convergence arithmetic, achieved speeds and scenarios to 2100.",
+      "page": 31
+    },
+    {
+      "number": "13",
+      "title": "Sustainability, Demography and Systemic Risk",
+      "description": "The environmental route, population growth and setbacks.",
+      "page": 34
+    },
+    {
+      "number": "14",
+      "title": "A Research Programme",
+      "description": "Ten propositions, data and methods, from concept to use, conclusion.",
+      "page": 37
+    },
+    {
+      "number": "",
+      "title": "Data and Methods",
+      "description": "Sources, definitions, methods and limits.",
+      "page": 39
+    },
+    {
+      "number": "",
+      "title": "References",
+      "description": "Seventy-one references.",
+      "page": 41
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Convergence Economics",
+      "definition": "The study of the mechanisms, conditions, constraints and policies governing the reduction of economic disparities between countries and regions, with emphasis on how developing economies approach the productivity, technology, income and productive sophistication of advanced economies."
+    },
+    {
+      "term": "Seven convergences",
+      "definition": "The seven dimensions along which an economy can close its gap with the frontier: productivity, technology, structure, capital, human capital, institutions and infrastructure, and sustainability."
+    },
+    {
+      "term": "Eight mechanisms",
+      "definition": "Technology diffusion, capital accumulation, human capital development, industrialization, international trade, foreign direct investment, institutional development and infrastructure investment."
+    },
+    {
+      "term": "Beta convergence",
+      "definition": "The test of whether economies that start poorer grow faster, estimated as the slope of growth on initial log income."
+    },
+    {
+      "term": "Growth advantage",
+      "definition": "The annual difference in log income per person between a developing economy and the high-income average; \"converged\" here means at least one point a year over 2000–19."
+    },
+    {
+      "term": "Premature deindustrialization",
+      "definition": "The pattern in which latecomer economies reach their peak manufacturing share earlier and at lower income than earlier industrializers."
+    },
+    {
+      "term": "Binding constraint",
+      "definition": "A limit whose relaxation would raise growth most, while relaxing others would raise it little."
+    },
+    {
+      "term": "Absorptive capacity",
+      "definition": "The skills, management, institutions and infrastructure that determine whether imported technology and capital become productivity."
+    },
+    {
+      "term": "Stack count",
+      "definition": "The number of the eight mechanisms in which an economy ranks in the top third, used to show that convergence is a property of bundles."
+    },
+    {
+      "term": "Proven pace and frontier pace",
+      "definition": "The 75th (about 1.6 points a year) and 90th (about 3 points a year) percentiles of the growth advantage sustained over 25 years by lagging economies."
+    },
+    {
+      "term": "Setback",
+      "definition": "A country-year in which income per person falls; used as an indicator of how exposed convergence is to shocks."
+    }
+  ],
+  "references": [
+    {
+      "text": "Abramovitz, M. (1986). Catching up, forging ahead, and falling behind. Journal of Economic History, 46(2), 385–406.",
+      "doi": "10.1017/S0022050700046209"
+    },
+    {
+      "text": "Acemoglu, D., Johnson, S. and Robinson, J. A. (2001). The colonial origins of comparative development: an empirical investigation. American Economic Review, 91(5), 1369–1401.",
+      "doi": "10.1257/aer.91.5.1369"
+    },
+    {
+      "text": "Aghion, P. and Howitt, P. (1992). A model of growth through creative destruction. Econometrica, 60(2), 323–351.",
+      "doi": "10.2307/2951599"
+    },
+    {
+      "text": "Aghion, P., Cai, J., Dewatripont, M., Du, L., Harrison, A. and Legros, P. (2015). Industrial policy and competition. American Economic Journal: Macroeconomics, 7(4), 1–32.",
+      "doi": "10.1257/mac.20120103"
+    },
+    {
+      "text": "Andrews, M., Pritchett, L. and Woolcock, M. (2013). Escaping capability traps through problem driven iterative adaptation (PDIA). World Development, 51, 234–244.",
+      "doi": "10.1016/j.worlddev.2013.05.011"
+    },
+    {
+      "text": "Atkin, D., Khandelwal, A. K. and Osman, A. (2017). Exporting and firm performance: evidence from a randomized experiment. Quarterly Journal of Economics, 132(2), 551–615.",
+      "doi": "10.1093/qje/qjx002"
+    },
+    {
+      "text": "Barro, R. J. (1991). Economic growth in a cross section of countries. Quarterly Journal of Economics, 106(2), 407–443.",
+      "doi": "10.2307/2937943"
+    },
+    {
+      "text": "Barro, R. J. and Sala-i-Martin, X. (1992). Convergence. Journal of Political Economy, 100(2), 223–251.",
+      "doi": "10.1086/261816"
+    },
+    {
+      "text": "Baumol, W. J. (1986). Productivity growth, convergence, and welfare: what the long-run data show. American Economic Review, 76(5), 1072–1085.",
+      "url": "https://www.jstor.org/stable/1816469"
+    },
+    {
+      "text": "Becker, S. O., Egger, P. H. and von Ehrlich, M. (2010). Going NUTS: the effect of EU Structural Funds on regional performance. Journal of Public Economics, 94(9–10), 578–590.",
+      "doi": "10.1016/j.jpubeco.2010.06.006"
+    },
+    {
+      "text": "Bloom, D. E. and Williamson, J. G. (1998). Demographic transitions and economic miracles in emerging Asia. World Bank Economic Review, 12(3), 419–455.",
+      "doi": "10.1093/wber/12.3.419"
+    },
+    {
+      "text": "Bloom, N., Eifert, B., Mahajan, A., McKenzie, D. and Roberts, J. (2013). Does management matter? Evidence from India. Quarterly Journal of Economics, 128(1), 1–51.",
+      "doi": "10.1093/qje/qjs044"
+    },
+    {
+      "text": "Bolt, J. and van Zanden, J. L. (2024). Maddison-style estimates of the evolution of the world economy: a new 2023 update. Journal of Economic Surveys. Maddison Project Database 2023, accessed via Our World in Data.",
+      "url": "https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-project-database-2023"
+    },
+    {
+      "text": "Borensztein, E., De Gregorio, J. and Lee, J.-W. (1998). How does foreign direct investment affect economic growth? Journal of International Economics, 45(1), 115–135.",
+      "doi": "10.1016/S0022-1996(97)00033-0"
+    },
+    {
+      "text": "Boston University Global Development Policy Center (2025). The Cost of Inaction: Explaining Africa's Debt Distress in 10 Charts and Five Fixes for the G20. Boston, MA: BU GDP Center.",
+      "url": "https://www.bu.edu/gdp/2025/06/18/the-cost-of-inaction-explaining-africas-debt-distress-in-10-charts-and-five-fixes-for-the-g20"
+    },
+    {
+      "text": "Caselli, F. (2005). Accounting for cross-country income differences. In P. Aghion and S. Durlauf (eds.), Handbook of Economic Growth, vol. 1A, 679–741. Amsterdam: Elsevier.",
+      "doi": "10.1016/S1574-0684(05)01009-9"
+    },
+    {
+      "text": "Cerra, V. and Saxena, S. C. (2008). Growth dynamics: the myth of economic recovery. American Economic Review, 98(1), 439–457.",
+      "doi": "10.1257/aer.98.1.439"
+    },
+    {
+      "text": "Comin, D. and Hobijn, B. (2010). An exploration of technology diffusion. American Economic Review, 100(5), 2031–2059.",
+      "doi": "10.1257/aer.100.5.2031"
+    },
+    {
+      "text": "Commission on Growth and Development (2008). The Growth Report: Strategies for Sustained Growth and Inclusive Development. Washington, DC: World Bank.",
+      "url": "https://openknowledge.worldbank.org/handle/10986/6507"
+    },
+    {
+      "text": "De Grauwe, P. (1996). Monetary union and convergence economics. European Economic Review, 40(3–5), 1091–1101.",
+      "doi": "10.1016/0014-2921(95)00117-4"
+    },
+    {
+      "text": "Donaldson, D. (2018). Railroads of the Raj: estimating the impact of transportation infrastructure. American Economic Review, 108(4–5), 899–934.",
+      "doi": "10.1257/aer.20101199"
+    },
+    {
+      "text": "Forster, P. M., Smith, C., Walsh, T. et al. (2025). Indicators of Global Climate Change 2024: annual update of key indicators of the state of the climate system and human influence. Earth System Science Data, 17, 2641–2680.",
+      "doi": "10.5194/essd-17-2641-2025"
+    },
+    {
+      "text": "Frankel, J. A. and Romer, D. (1999). Does trade cause growth? American Economic Review, 89(3), 379–399.",
+      "doi": "10.1257/aer.89.3.379"
+    },
+    {
+      "text": "Gerschenkron, A. (1962). Economic Backwardness in Historical Perspective. Cambridge, MA: Harvard University Press."
+    },
+    {
+      "text": "Gollin, D., Lagakos, D. and Waugh, M. E. (2014). The agricultural productivity gap. Quarterly Journal of Economics, 129(2), 939–993.",
+      "doi": "10.1093/qje/qjt056"
+    },
+    {
+      "text": "Groningen Growth and Development Centre (2025). Penn World Table version 11.0. University of Groningen, Dataverse NL.",
+      "doi": "10.34894/FABVLR"
+    },
+    {
+      "text": "Hanushek, E. A. and Woessmann, L. (2012). Do better schools lead to more growth? Cognitive skills, economic outcomes, and causation. Journal of Economic Growth, 17(4), 267–321.",
+      "doi": "10.1007/s10887-012-9081-x"
+    },
+    {
+      "text": "Hausmann, R. and Rodrik, D. (2003). Economic development as self-discovery. Journal of Development Economics, 72(2), 603–633.",
+      "doi": "10.1016/S0304-3878(03)00124-X"
+    },
+    {
+      "text": "Hausmann, R., Hwang, J. and Rodrik, D. (2007). What you export matters. Journal of Economic Growth, 12(1), 1–25.",
+      "doi": "10.1007/s10887-006-9009-4"
+    },
+    {
+      "text": "Hidalgo, C. A. and Hausmann, R. (2009). The building blocks of economic complexity. Proceedings of the National Academy of Sciences, 106(26), 10570–10575.",
+      "doi": "10.1073/pnas.0900943106"
+    },
+    {
+      "text": "Hirschman, A. O. (1958). The Strategy of Economic Development. New Haven, CT: Yale University Press.",
+      "url": "https://yalebooks.yale.edu/book/9780300001358/the-strategy-of-economic-development/"
+    },
+    {
+      "text": "Hsiang, S. M. and Jina, A. S. (2014). The Causal Effect of Environmental Catastrophe on Long-Run Economic Growth: Evidence from 6,700 Cyclones. NBER Working Paper 20352.",
+      "url": "https://www.nber.org/papers/w20352"
+    },
+    {
+      "text": "Hsieh, C.-T. and Klenow, P. J. (2009). Misallocation and manufacturing TFP in China and India. Quarterly Journal of Economics, 124(4), 1403–1448.",
+      "doi": "10.1162/qjec.2009.124.4.1403"
+    },
+    {
+      "text": "Hughes, H. (2026a). Sustainable Development & Economic Convergence: Sustainable Convergence. Figshare preprint, November 2026.",
+      "doi": "10.6084/m9.figshare.34977568"
+    },
+    {
+      "text": "Hughes, H. (2026b). Sustainable Global Economic Convergence: A Framework for Advancing Prosperity, Environmental Quality and Systemic Resilience Together. H Heuristics Research Report, November 2026.",
+      "url": "https://researchreports.hheuristics.com"
+    },
+    {
+      "text": "Hughes, H. (2026c). Global Economic Convergence as a Polycrisis Resilience Strategy. H Heuristics Research Report, November 2026.",
+      "url": "https://researchreports.hheuristics.com"
+    },
+    {
+      "text": "Hughes, H. (2026d). Closing the Global Productivity Gap Through Technology Adoption. H Heuristics Research Report, November 2026.",
+      "url": "https://researchreports.hheuristics.com"
+    },
+    {
+      "text": "Hughes, H. (2026e). Polycrisis Resilience: A General Definition and the H Heuristics Framework. H Heuristics Research Report, November 2026.",
+      "url": "https://researchreports.hheuristics.com"
+    },
+    {
+      "text": "Hughes, H. (2026h). Preventive Development Economics. H Heuristics Research Report, November 2026.",
+      "url": "https://researchreports.hheuristics.com"
+    },
+    {
+      "text": "International Energy Agency (2024a). Reducing the Cost of Capital: Strategies to Unlock Clean Energy Investment in Emerging and Developing Economies. Paris: IEA.",
+      "url": "https://www.iea.org/reports/reducing-the-cost-of-capital"
+    },
+    {
+      "text": "International Monetary Fund (2025). Resilience and Sustainability Trust. Washington, DC: IMF.",
+      "url": "https://www.imf.org/en/Topics/Resilience-and-Sustainability-Trust"
+    },
+    {
+      "text": "International Renewable Energy Agency (2025). Renewable Power Generation Costs in 2024. Abu Dhabi: IRENA, July.",
+      "url": "https://www.irena.org/Publications/2025/Jun/Renewable-Power-Generation-Costs-in-2024"
+    },
+    {
+      "text": "Johnson, P. and Papageorgiou, C. (2020). What remains of cross-country convergence? Journal of Economic Literature, 58(1), 129–175.",
+      "doi": "10.1257/jel.20181207"
+    },
+    {
+      "text": "Juhász, R. (2018). Temporary protection and technology adoption: evidence from the Napoleonic blockade. American Economic Review, 108(11), 3339–3376.",
+      "doi": "10.1257/aer.20151730"
+    },
+    {
+      "text": "Kremer, M., Willis, J. and You, Y. (2022). Converging to convergence. NBER Macroeconomics Annual, 36, 337–412.",
+      "doi": "10.1086/718672"
+    },
+    {
+      "text": "Lewis, W. A. (1954). Economic development with unlimited supplies of labour. The Manchester School, 22(2), 139–191.",
+      "doi": "10.1111/j.1467-9957.1954.tb00021.x"
+    },
+    {
+      "text": "Lucas, R. E. (1988). On the mechanics of economic development. Journal of Monetary Economics, 22(1), 3–42.",
+      "doi": "10.1016/0304-3932(88)90168-7"
+    },
+    {
+      "text": "Mankiw, N. G., Romer, D. and Weil, D. N. (1992). A contribution to the empirics of economic growth. Quarterly Journal of Economics, 107(2), 407–437.",
+      "doi": "10.2307/2118477"
+    },
+    {
+      "text": "McMillan, M., Rodrik, D. and Verduzco-Gallo, Í. (2014). Globalization, structural change, and productivity growth, with an update on Africa. World Development, 63, 11–32.",
+      "doi": "10.1016/j.worlddev.2013.10.012"
+    },
+    {
+      "text": "Nelson, R. R. and Phelps, E. S. (1966). Investment in humans, technological diffusion, and economic growth. American Economic Review, 56(1/2), 69–75.",
+      "url": "https://www.jstor.org/stable/1821269"
+    },
+    {
+      "text": "North, D. C. (1990). Institutions, Institutional Change and Economic Performance. Cambridge: Cambridge University Press.",
+      "doi": "10.1017/CBO9780511808678"
+    },
+    {
+      "text": "Our World in Data (2025). CO₂ and Greenhouse Gas Emissions dataset, based on the Global Carbon Project. Oxford: Our World in Data.",
+      "url": "https://github.com/owid/co2-data"
+    },
+    {
+      "text": "Our World in Data (2025b). Solar photovoltaic module prices, based on Nemet (2009), Farmer and Lafond (2016) and IRENA. Oxford: Our World in Data.",
+      "url": "https://ourworldindata.org/grapher/solar-pv-prices"
+    },
+    {
+      "text": "Patel, D., Sandefur, J. and Subramanian, A. (2021). The new era of unconditional convergence. Journal of Development Economics, 152, 102687.",
+      "doi": "10.1016/j.jdeveco.2021.102687"
+    },
+    {
+      "text": "Pomeranz, K. (2000). The Great Divergence: China, Europe, and the Making of the Modern World Economy. Princeton, NJ: Princeton University Press.",
+      "url": "https://press.princeton.edu/books/paperback/9780691090108/the-great-divergence"
+    },
+    {
+      "text": "Pritchett, L. (1997). Divergence, big time. Journal of Economic Perspectives, 11(3), 3–17.",
+      "doi": "10.1257/jep.11.3.3"
+    },
+    {
+      "text": "Pritchett, L. (2001). Where has all the education gone? World Bank Economic Review, 15(3), 367–391.",
+      "doi": "10.1093/wber/15.3.367"
+    },
+    {
+      "text": "Pritchett, L. and Summers, L. H. (2014). Asiaphoria Meets Regression to the Mean. NBER Working Paper 20573. Cambridge, MA: National Bureau of Economic Research.",
+      "doi": "10.3386/w20573"
+    },
+    {
+      "text": "Rodrik, D. (2004). Industrial Policy for the Twenty-First Century. Faculty Research Working Paper, Harvard Kennedy School.",
+      "url": "https://drodrik.scholar.harvard.edu/publications/industrial-policy-twenty-first-century"
+    },
+    {
+      "text": "Rodrik, D. (2013). Unconditional convergence in manufacturing. Quarterly Journal of Economics, 128(1), 165–204.",
+      "doi": "10.1093/qje/qjs047"
+    },
+    {
+      "text": "Rodrik, D. (2016). Premature deindustrialization. Journal of Economic Growth, 21, 1–33.",
+      "doi": "10.1007/s10887-015-9122-3"
+    },
+    {
+      "text": "Rodrik, D. (2018). New Technologies, Global Value Chains, and Developing Economies. NBER Working Paper 25164. Cambridge, MA: National Bureau of Economic Research.",
+      "doi": "10.3386/w25164"
+    },
+    {
+      "text": "Romer, P. M. (1990). Endogenous technological change. Journal of Political Economy, 98(5), S71–S102.",
+      "doi": "10.1086/261725"
+    },
+    {
+      "text": "Rosenstein-Rodan, P. N. (1943). Problems of industrialisation of Eastern and South-Eastern Europe. Economic Journal, 53(210/211), 202–211.",
+      "doi": "10.2307/2226317"
+    },
+    {
+      "text": "Solow, R. M. (1956). A contribution to the theory of economic growth. Quarterly Journal of Economics, 70(1), 65–94.",
+      "doi": "10.2307/1884513"
+    },
+    {
+      "text": "United Nations Development Programme (2025). Human Development Report 2025: A Matter of Choice: People and Possibilities in the Age of AI. New York: UNDP. Composite indices time series used for the HDI and schooling.",
+      "url": "https://hdr.undp.org/content/human-development-report-2025"
+    },
+    {
+      "text": "United Nations, Department of Economic and Social Affairs (2024). World Population Prospects 2024. New York: United Nations.",
+      "url": "https://population.un.org/wpp/"
+    },
+    {
+      "text": "World Bank (2024). World Development Report 2024: The Middle-Income Trap (press release: middle-income trap hinders progress in 108 developing countries). Washington, DC: World Bank, 1 August.",
+      "url": "https://www.worldbank.org/en/news/press-release/2024/07/22/middle-income-trap-hinders-progress-in-108-developing-countries"
+    },
+    {
+      "text": "World Bank (2025a). Worldwide Governance Indicators, 2025 update. Washington, DC: World Bank.",
+      "url": "https://www.worldbank.org/en/publication/worldwide-governance-indicators"
+    },
+    {
+      "text": "World Bank (2025b). World Bank Country and Lending Groups. Washington, DC: World Bank.",
+      "url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups"
+    },
+    {
+      "text": "World Bank (2026). World Development Indicators. Washington, DC: World Bank.",
+      "url": "https://databank.worldbank.org/source/world-development-indicators"
+    }
+  ]
+}
