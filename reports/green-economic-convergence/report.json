@@ -1,0 +1,283 @@
+{
+  "seriesNumber": 57,
+  "title": "Green Economic Convergence",
+  "subtitle": "Clean Technology Diffusion, Productive Catch-Up, and Sustainable Growth Pathways",
+  "type": "Research Report",
+  "datePublished": "2026-11-14",
+  "dateModified": "2026-11-14",
+  "doi": "10.5281/zenodo.24224026",
+  "repository": {
+    "name": "Zenodo",
+    "url": "https://zenodo.org/records/24224026"
+  },
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "license": {
+    "name": "Creative Commons Attribution 4.0 International",
+    "shortName": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 31,
+  "language": "en",
+  "description": "Argues that income catch-up and sustainability reinforce each other, drawing on a 184-economy decoupling panel, solar and storage learning curves and cost-of-capital data.",
+  "contribution": "Proposes Green Economic Convergence, the green strand of the series' convergence concept, and shows with a 184-economy panel and 2040 scenarios that finance costs, not hardware costs, now block clean catch-up.",
+  "themes": [
+    "Green Economic Convergence",
+    "Carbon intensity decoupling",
+    "Green latecomer advantage",
+    "Convergence clubs",
+    "Clean energy learning curves",
+    "Cost of capital and blended finance",
+    "Clean cooking and energy access",
+    "2040 convergence scenarios"
+  ],
+  "keywords": [
+    "green economic convergence",
+    "carbon intensity decoupling",
+    "latecomer advantage",
+    "convergence clubs",
+    "clean energy learning curves",
+    "EMDE cost of capital",
+    "clean cooking access"
+  ],
+  "abstract": [
+    "Green Economic Convergence establishes an empirical and policy framework showing that economic catch-up and environmental sustainability are reinforcing complements rather than competing objectives. Rather than replicating the coal- and carbon-intensive industrialization of the nineteenth and twentieth centuries under delayed Environmental Kuznets Curve assumptions, emerging and developing economies (EMDEs) can capture a clean latecomer advantage. Green technology diffusion, sustainable industrialization, clean infrastructure and institutional capacity narrow disparities in income, productive capabilities, technology and living standards.",
+    "The report synthesizes a 184-economy PPP CO2/GDP panel (2000–2022), Malmquist–Luenberger green total-factor productivity (GTFP) club analysis, Kaya identity decomposition, IRENA hardware learning curves (2010–2025), IEA World Energy Investment and Cost of Capital Observatory benchmarks, and World Bank/ESMAP/WHO Tracking SDG 7 metrics. Carbon intensity per PPP dollar of GDP fell in 124 of 184 economies between 2000 and 2022 (global median drop of 21%), though EMDE GDP scale expansion (+68%) outpaced energy efficiency (−24%) and clean fuel substitution (−11%). Convergence is conditional: economies sort into clubs governed by institutional quality, utility bankability, STEM skills and technological absorption capacity.",
+    "Between 2010 and 2024, utility-scale solar PV LCOE fell 90% to $44/MWh and utility battery storage installed costs fell 93% to about $192/kWh, placing firm solar-plus-storage below new coal or imported LNG across major emerging corridors. Capital markets, not hardware costs, block catch-up: clean-to-fossil investment stands at 12:1 in advanced economies and 6:1 in China against 2:1 in other EMDEs, where borrowing costs (11.7% average clean WACC against about 4.6% in the OECD) erase natural renewable cost advantages. Closing Sub-Saharan Africa's 970 million clean-cooking deficit and electrification gap, alongside foreign-exchange guarantees, digital grid modernization and green industrial upgrading, can lift aggregate EMDE per-capita income toward 50.3% of the OECD average by 2040 while avoiding $4.3 trillion in stranded fossil assets."
+  ],
+  "coreProposition": "Green Economic Convergence is the process through which economies reduce disparities in economic development, productive capabilities, technological advancement and living standards while converging toward environmentally sustainable models of growth. Development and sustainability are complements: green technology diffusion lowers energy costs, builds productive capability and reduces systemic vulnerability.",
+  "keyFindings": [
+    {
+      "title": "Complements, not trade-offs.",
+      "text": "Green technology diffusion lowers energy costs, relieves fossil import pressure, builds productive capabilities and lowers fiscal and climate vulnerability. The report describes a four-stage mechanism: technology diffusion, productivity and economic development, sustainable convergence, then lower systemic vulnerability."
+    },
+    {
+      "title": "Relative decoupling is widespread; absolute decoupling is not.",
+      "text": "Carbon intensity fell in 124 of 184 economies (67.4%) in 2000–2022, median −21%. Only 44 economies (24%) show absolute green convergence with falling emissions; 80 (43%) are high-growth relative decouplers whose emissions still rose 15%–95%. For EMDEs, scale (+68%) outran efficiency (−24) and clean fuels (−11), leaving emissions +33% against 2000."
+    },
+    {
+      "title": "Hardware learning curves opened a leapfrog window.",
+      "text": "Utility solar PV LCOE fell 90% to $44/MWh and utility BESS costs 93% to about $192/kWh, making firm solar-plus-storage cheaper than new coal or imported LNG in major emerging corridors."
+    },
+    {
+      "title": "Capital costs now block convergence.",
+      "text": "Global clean energy investment is about $2.2 trillion a year, yet clean-to-fossil ratios are 12:1 in advanced economies, 6:1 in China and about 2:1 elsewhere. EMDE clean WACC of about 11.7% against 4.6% (a 7.1-point spread) raises solar LCOE by 55–70%."
+    },
+    {
+      "title": "Convergence is conditional and sorts into clubs.",
+      "text": "Malmquist–Luenberger green TFP analysis finds clubs governed by institutional quality, utility bankability, human capital and technological absorption capacity, not automatic beta-convergence."
+    },
+    {
+      "title": "Household inclusion decides legitimacy.",
+      "text": "About 2.0–2.1 billion people lack clean cooking, 970 million of them in Sub-Saharan Africa (growing by about 14 million a year), and about 85% of people without electricity live in the region."
+    },
+    {
+      "title": "Three 2040 scenarios.",
+      "text": "EMDE per-capita income relative to the OECD reaches 29.1% under fragmented divergence, 39.2% in the base case and 50.3% under accelerated convergence, which also avoids $4.3 trillion in stranded fossil assets and adds $16.7 trillion in cumulative EMDE GDP over 2026–2040."
+    },
+    {
+      "title": "Ten working heuristics.",
+      "text": "The report closes with ten principles for governments, DFIs and investors, among them attacking the WACC spread before subsidizing hardware, shifting DFI capital to first-loss guarantees, pairing solar with digital grid modernization and building the absorptive capacity that turns cheap hardware into local productivity."
+    }
+  ],
+  "bottomLine": "A clear, well-structured case that finance, not hardware, is now the binding constraint on green catch-up. Its scenario and panel figures come from the author's own models and database, and a few cost figures differ between sections.",
+  "contents": [
+    {
+      "number": "",
+      "title": "Report Overview, Key Findings and Methodology",
+      "description": "Publication metadata, evidence grading, principal findings and source architecture.",
+      "page": 2
+    },
+    {
+      "number": "",
+      "title": "Executive Summary and Core Thesis",
+      "description": "Complementarity over trade-off, a proposed definition, the four-stage mechanism, report architecture and implications for policymakers.",
+      "page": 4
+    },
+    {
+      "number": "1",
+      "title": "Theoretical Foundations: Latecomer Advantage, GTFP and Convergence Clubs",
+      "description": "The Environmental Kuznets Curve, Gerschenkron's latecomer advantage, directed technical change and why catch-up is not automatic.",
+      "page": 7
+    },
+    {
+      "number": "2",
+      "title": "Decoupling Growth from Carbon: Evidence Across 184 Economies",
+      "description": "Carbon-intensity trends, the Kaya scale-versus-technique split, four decoupling regimes and country contrasts.",
+      "page": 9
+    },
+    {
+      "number": "3",
+      "title": "Clean Energy Economics, Learning Curves and the Leapfrog Window",
+      "description": "Solar and storage cost declines, firm 24/7 clean power versus new coal and gas, and sequencing storage and transmission.",
+      "page": 12
+    },
+    {
+      "number": "4",
+      "title": "Energy Access, Clean Cooking and Rural-Urban Inclusion",
+      "description": "The dual access gap, the health and gender dividend, decentralized renewables and electric cooking finance.",
+      "page": 15
+    },
+    {
+      "number": "5",
+      "title": "Green Industrialization, Value Chains and Export Complexity",
+      "description": "Moving beyond commodity extraction, value-chain entry points, resource-efficient parks and border carbon adjustments.",
+      "page": 18
+    },
+    {
+      "number": "6",
+      "title": "Climate Finance Asymmetries, WACC Penalties and Blended De-Risking",
+      "description": "The $2.2 trillion capital paradox, the cost-of-capital trap, FX hedging, guarantees and local green bond markets.",
+      "page": 21
+    },
+    {
+      "number": "7",
+      "title": "Institutional Absorption, Digital Grids and Green Skills",
+      "description": "Why diffusion stalls without absorptive capacity: utility solvency, smart grids, skills pipelines and governance.",
+      "page": 24
+    },
+    {
+      "number": "8",
+      "title": "2040 Convergence Scenarios and Ten Operational Policy Heuristics",
+      "description": "Three scenarios, the stranded-asset and GDP dividend, early-warning indicators and the ten-point playbook.",
+      "page": 26
+    },
+    {
+      "number": "A",
+      "title": "Methodological Appendix: Malmquist–Luenberger GTFP and Data Notes",
+      "description": "Econometric framework, dataset coverage, scenario parameters, glossary and caveats.",
+      "page": 29
+    },
+    {
+      "number": "",
+      "title": "References and Primary Sources",
+      "description": "Twenty-four sources.",
+      "page": 31
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Green Economic Convergence",
+      "definition": "The process through which economies reduce disparities in economic development, productive capabilities, technological advancement and living standards while converging toward environmentally sustainable growth, across eight mutually reinforcing pillars from clean energy to green skills and international investment."
+    },
+    {
+      "term": "Green Latecomer Advantage",
+      "definition": "The ability of developing nations to leapfrog legacy fossil infrastructure by adopting low-cost modular solar, storage and digital grids directly."
+    },
+    {
+      "term": "Relative Decoupling",
+      "definition": "Carbon intensity per unit of GDP falls, though rapid economic growth may still cause total emissions to rise."
+    },
+    {
+      "term": "Absolute Decoupling",
+      "definition": "Real economic output grows while total territorial emissions fall."
+    },
+    {
+      "term": "Convergence Clubs",
+      "definition": "Subgroups of economies converging toward distinct local steady states for growth and green productivity, determined by shared institutions, skills and capital access."
+    },
+    {
+      "term": "Malmquist–Luenberger Index (ML)",
+      "definition": "A non-parametric directional productivity index that rewards GDP growth alongside simultaneous reductions in undesirable outputs such as CO2."
+    },
+    {
+      "term": "Firm LCOE",
+      "definition": "The levelized cost of delivering dispatchable or peak-shifted electricity, including storage, firming backup and integration costs."
+    },
+    {
+      "term": "WACC (weighted average cost of capital)",
+      "definition": "The blended cost of debt and equity financing that governs the bankability of capital-intensive clean infrastructure."
+    },
+    {
+      "term": "CBAM (Carbon Border Adjustment Mechanism)",
+      "definition": "A border measure that equalizes embedded carbon pricing on imports of energy-intensive goods into regulated markets such as the EU."
+    }
+  ],
+  "references": [
+    {
+      "text": "Hughes, H. (2025–2026). Green Economic Convergence: Carbon Intensity Decoupling Across 184 Economies (2000–2022) & Concept Development Series. H Heuristics / Substack."
+    },
+    {
+      "text": "International Energy Agency (2025–2026). World Energy Investment 2025 & 2026: Clean Capital Flows and Emerging Economy Financing Gaps. Paris: IEA Publications."
+    },
+    {
+      "text": "International Energy Agency (2025). Cost of Capital Observatory: Financing Clean Power in Emerging Market and Developing Economies. Paris: IEA."
+    },
+    {
+      "text": "International Renewable Energy Agency (2025). Renewable Power Generation Costs in 2024 & 24/7 Renewables: The Economics of Firm Solar and Wind. Abu Dhabi: IRENA."
+    },
+    {
+      "text": "World Bank, IEA, IRENA, UNSD & WHO (2025). Tracking SDG 7: The Energy Progress Report 2025. Washington, DC: World Bank."
+    },
+    {
+      "text": "World Bank ESMAP (2025). The State of Access to Modern Energy Cooking Services & Clean Cooking Transition Finance in Sub-Saharan Africa. Washington, DC."
+    },
+    {
+      "text": "Acemoglu, D., Aghion, P., Bursztyn, L., & Hemous, D. (2012). The Environment and Directed Technical Change. American Economic Review, 102(1), 131–166.",
+      "doi": "10.1257/aer.102.1.131"
+    },
+    {
+      "text": "Gerschenkron, A. (1962). Economic Backwardness in Historical Perspective: A Book of Essays. Cambridge, MA: Harvard University Press."
+    },
+    {
+      "text": "Chung, Y. H., Färe, R., & Grosskopf, S. (1997). Productivity and Undesirable Outputs: A Directional Distance Function Approach. Journal of Environmental Management, 51(3), 229–240.",
+      "doi": "10.1006/jema.1997.0146"
+    },
+    {
+      "text": "Phillips, P. C. B., & Sul, D. (2007). Transition Modeling and Econometric Convergence Tests. Econometrica, 75(6), 1771–1855.",
+      "doi": "10.1111/j.1468-0262.2007.00811.x"
+    },
+    {
+      "text": "Rodrik, D. (2014). Green Industrial Policy. Oxford Review of Economic Policy, 30(3), 469–491.",
+      "doi": "10.1093/oxrep/gru025"
+    },
+    {
+      "text": "UNCTAD (2025). World Investment Report & Technology and Innovation Report: Green Windows of Opportunity for Developing Countries. Geneva: United Nations."
+    },
+    {
+      "text": "UNIDO (2025). Industrial Development Report: Turning Green Industrialization into Structural Catch-Up. Vienna."
+    },
+    {
+      "text": "Stern, N. (2024). The Economics of Climate-Resilient Growth and Sustainable Convergence. London School of Economics / Grantham Research Institute."
+    },
+    {
+      "text": "International Monetary Fund (2025). World Economic Outlook: Green Transition, Debt Sustainability, and Fiscal Space in EMDEs. Washington, DC: IMF."
+    },
+    {
+      "text": "Global Carbon Project (2024). Global Carbon Budget & National Territorial CO2 Emissions Dataset (1990–2023). Exeter / CICERO."
+    },
+    {
+      "text": "European Commission (2025). Carbon Border Adjustment Mechanism (CBAM): Definitive Phase Reporting and Third-Country Industrial Impacts. Brussels."
+    },
+    {
+      "text": "African Development Bank & Sustainable Energy for All (2025). Africa Energy Transition & Mini-Grid Acceleration Report. Abidjan / Vienna."
+    },
+    {
+      "text": "Clean Cooking Alliance & Dalberg (2025). Accelerating Clean Cooking Investment Across Sub-Saharan Africa. Washington, DC."
+    },
+    {
+      "text": "Organisation for Economic Co-operation and Development (2025). Blended Finance and Guarantee Instruments for Developing Country Clean Infrastructure. Paris: OECD."
+    },
+    {
+      "text": "Network for Greening the Financial System (2025). Climate Scenarios and Sovereign Risk Premia in Emerging Markets. Paris: NGFS."
+    },
+    {
+      "text": "Hausmann, R., Hidalgo, C. A., et al. (2014–2025). Atlas of Economic Complexity & Greenplexity Trade Metrics. Harvard Growth Lab."
+    },
+    {
+      "text": "Clean Air Fund & WHO (2025). Household Air Pollution, Particulate Mortality, and Human Capital Productivity Losses. Geneva."
+    },
+    {
+      "text": "H Heuristics (2026). Global Green Convergence Simulation Model (v3.1) & 184-Economy PPP Decoupling Database. New Castle, DE."
+    }
+  ]
+}
