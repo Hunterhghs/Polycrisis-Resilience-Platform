@@ -1,0 +1,198 @@
+{
+  "seriesNumber": 58,
+  "title": "Polycrisis Resilience through Sustainable Convergence",
+  "subtitle": "Connecting Economic Advancement, Technological Diffusion, Environmental Sustainability, and Systemic Risk Reduction",
+  "type": "Research Report",
+  "datePublished": "2026-11-15",
+  "dateModified": "2026-11-15",
+  "doi": "10.5281/zenodo.24270134",
+  "repository": {
+    "name": "Zenodo",
+    "url": "https://zenodo.org/records/24270134"
+  },
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "license": {
+    "name": "Creative Commons Attribution 4.0 International",
+    "shortName": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 32,
+  "language": "en",
+  "description": "Sustainable convergence is not simply a strategy for closing income gaps between countries; it is a principal mechanism for reducing the structural…",
+  "contribution": "Establishes how sustainable convergence across five dimensions—economic, technological, environmental, human, and institutional—functions as a primary mechanism for building polycrisis resilience, particularly across the Global South.",
+  "themes": [
+    "Polycrisis",
+    "Sustainable Convergence",
+    "Economic Development",
+    "Technology Diffusion",
+    "Clean Energy",
+    "Global South",
+    "Governance"
+  ],
+  "keywords": [
+    "Polycrisis Resilience",
+    "Sustainable Convergence",
+    "Structural Vulnerability Reduction",
+    "Technology Diffusion",
+    "Clean Energy Transition",
+    "Climate-Resilient Development",
+    "Global South",
+    "Five-Dimension Convergence",
+    "Development-to-Resilience Cycle"
+  ],
+  "abstract": [
+    "Concept developed and originated by Hunter Hughes, Founder of H Heuristics. Polycrisis Resilience through Sustainable Convergence proposes an integrated development approach connecting two complementary objectives: reducing human and systemic vulnerability to interconnected, cascading crises (Polycrisis Resilience) and enabling lower-income economies to approach frontier levels of productivity, technological capability, infrastructure quality, and human development while maintaining environmental sustainability (Sustainable Convergence).\nRather than treating resilience as an isolated emergency-management function, this report positions long-term, multi-dimensional development as the primary mechanism for reducing the structural vulnerabilities that make populations and economic systems—especially across the Global South—susceptible to compounding global shocks."
+  ],
+  "keyFindings": [
+    {
+      "title": "Economic convergence without environmental sustainability reproduces severe pollution, resource dependency, and climate exposure (scoring just 29/100 on environmental quality), while environmental sustainability without economic convergence leaves developing countries without the fiscal or technological buffers to protect their populations (31/100 fiscal protection).",
+      "text": ""
+    },
+    {
+      "title": "Connecting Sustainable Convergence and Polycrisis Resilience establishes a four-tier causal chain: multi-dimensional convergence reduces structural vulnerability, which strengthens the capacity to anticipate, withstand, adapt to, and recover from interconnected crises, ultimately improving long-term human prospects.",
+      "text": ""
+    },
+    {
+      "title": "Convergence must advance simultaneously across five dimensions—economic, technological, environmental, human, and institutional—allowing developing economies to leapfrog historical high-pollution industrialization stages in 15–20 years rather than 40–60 years.",
+      "text": ""
+    },
+    {
+      "title": "Eight coordinated development pathways—led by clean energy transitions (10.5x combined BCR), climate-resilient infrastructure (9.4x), water and sanitation (9.4x), and healthcare and human development (9.2x)—interact with four principal drivers across five interconnected systems.",
+      "text": ""
+    },
+    {
+      "title": "An iterative five-stage Development-to-Resilience Cycle (identify vulnerabilities, prioritize convergent development, accelerate convergence, strengthen resilience, measure and reinvest) progressively cuts structural vulnerability from 68 to 11 across successive policy cycles.",
+      "text": ""
+    },
+    {
+      "title": "An academically credible evaluation architecture must track three distinct levels—development convergence, vulnerability reduction, and realized resilience performance—incorporating subnational distributional analysis and explicitly accounting for six structural limitations.",
+      "text": ""
+    }
+  ],
+  "contents": [
+    {
+      "number": "",
+      "title": "Executive Summary: Connecting Sustainable Convergence and Polycrisis Resilience",
+      "description": "",
+      "page": 4
+    },
+    {
+      "number": "",
+      "title": "The Dual Imperative: Why Convergence and Sustainability Must Advance Together",
+      "description": "",
+      "page": 7
+    },
+    {
+      "number": "",
+      "title": "Convergence Across Five Dimensions: Economic, Technological, Environmental, Human, and Institutional",
+      "description": "",
+      "page": 10
+    },
+    {
+      "number": "",
+      "title": "Eight Practical Development Pathways for Multi-Vulnerability Reduction",
+      "description": "",
+      "page": 13
+    },
+    {
+      "number": "",
+      "title": "Four Drivers, Five Systems, and the Iterative Development-to-Resilience Cycle",
+      "description": "",
+      "page": 16
+    },
+    {
+      "number": "",
+      "title": "The Pivotal Role of Developing Economies and a Differentiated National Approach",
+      "description": "",
+      "page": 19
+    },
+    {
+      "number": "",
+      "title": "Clean Energy, Sustainable Industrialization, and the Food–Water–Health Nexus",
+      "description": "",
+      "page": 22
+    },
+    {
+      "number": "",
+      "title": "Academic Measurement Structure, Three Evaluation Levels, and Distributional Equity",
+      "description": "",
+      "page": 25
+    },
+    {
+      "number": "",
+      "title": "Structural Limitations, International Development Priorities, and Century Outlook",
+      "description": "",
+      "page": 27
+    },
+    {
+      "number": "",
+      "title": "Analytical Methodology, Model Calibration, and Empirical Research Agenda",
+      "description": "",
+      "page": 30
+    },
+    {
+      "number": "",
+      "title": "References & Primary Sources",
+      "description": "",
+      "page": 32
+    }
+  ],
+  "references": [
+    {
+      "text": "United Nations Department of Economic and Social Affairs (2024). World Social Report 2024: Social Development in Times of Converging Crises. New York: United Nations."
+    },
+    {
+      "text": "IPCC (2023). Climate Change 2023: Synthesis Report — Climate-Resilient Development Pathways. Contribution of Working Groups I, II and III to the Sixth Assessment Report. Geneva: IPCC."
+    },
+    {
+      "text": "World Bank (2024). Rising to the Challenge: Priority Actions for Climate-Resilient Development and Poverty Reduction. Washington, DC: World Bank."
+    },
+    {
+      "text": "Lawrence, M., Homer-Dixon, T., Janzwood, S., Rockström, J., Renn, O. & Donges, J. F. (2024). Global polycrisis: the causal mechanisms of crisis entanglement. Global Sustainability, 7, e6. https://doi.org/10.1017/sus.2024.1",
+      "url": "https://doi.org/10.1017/sus.2024.1",
+      "doi": "10.1017/sus.2024.1"
+    },
+    {
+      "text": "Hallegatte, S., Rentschler, J. & Rozenberg, J. (2019). Lifelines: The Resilient Infrastructure Opportunity. Washington, DC: World Bank."
+    },
+    {
+      "text": "Global Commission on Adaptation (2019). Adapt Now: A Global Call for Leadership on Climate Resilience. Rotterdam and Washington, DC: GCA & WRI."
+    },
+    {
+      "text": "IEA, IRENA, UNSD, World Bank & WHO (2025). Tracking SDG 7: The Energy Progress Report 2025. Washington, DC: World Bank."
+    },
+    {
+      "text": "United Nations Environment Programme (2025). Adaptation Gap Report 2025: Running on Empty. Nairobi: UNEP."
+    },
+    {
+      "text": "World Health Organization (2026). Global Health Observatory: Ambient and Household Air Pollution Attributable Mortality. Geneva: WHO."
+    },
+    {
+      "text": "World Bank (2026). World Development Indicators (WDI), Worldwide Governance Indicators (WGI) & ASPIRE Social Protection Database. Washington, DC: World Bank."
+    },
+    {
+      "text": "Kahn, M. E. (2005). The death toll from natural disasters: the role of income, geography, and institutions. Review of Economics and Statistics, 87(2), 271–284."
+    },
+    {
+      "text": "Lutz, W., Muttarak, R. & Striessnig, E. (2014). Universal education is key to enhanced climate adaptation. Science, 346(6213), 1061–1062."
+    },
+    {
+      "text": "UNIDO (2025). Industrial Development Report: Sustainable Industrialization and Clean Technology Diffusion in Emerging Economies. Vienna: UNIDO."
+    },
+    {
+      "text": "Hughes, H. (2026). Polycrisis Resilience: A Framework for Reducing Human and Systemic Vulnerability in an Era of Interconnected Global Risks. H Heuristics Research Report HH-2026-58. https://doi.org/10.5281/zenodo.24267636",
+      "url": "https://doi.org/10.5281/zenodo.24267636",
+      "doi": "10.5281/zenodo.24267636"
+    }
+  ]
+}
