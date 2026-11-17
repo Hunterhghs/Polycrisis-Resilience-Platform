@@ -1,0 +1,378 @@
+{
+  "seriesNumber": 61,
+  "title": "Polycrisis Resilience Pathways in the Global South This Century",
+  "subtitle": "A development framework for reducing interconnected vulnerability, 2026 to 2100",
+  "type": "Flagship Research Report",
+  "datePublished": "2026-11-17",
+  "dateModified": "2026-11-17",
+  "doi": "10.6084/m9.figshare.35036524",
+  "repository": {
+    "name": "figshare",
+    "url": "https://figshare.com/articles/preprint/Polycrisis_resilience_pathways_in_the_global_south_this_century/35036524"
+  },
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "license": {
+    "name": "All rights reserved",
+    "shortName": "All rights reserved"
+  },
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 61,
+  "language": "en",
+  "description": "Applies seven reinforcing development pathways to 131 low- and middle-income economies, showing where vulnerabilities stack and how the binding constraint differs across six regions.",
+  "contribution": "Adapts the Polycrisis Resilience Pathways framework to the Global South: vulnerability stacks across 131 economies, which ones income leaves in place, six regional binding constraints, and three planning horizons to 2100.",
+  "themes": [
+    "Polycrisis Resilience Pathways",
+    "Global South",
+    "Stacked vulnerabilities",
+    "Income-blind vulnerabilities",
+    "Sustainable convergence",
+    "Regional binding constraints",
+    "Three planning horizons",
+    "Prototype resilience index"
+  ],
+  "keywords": [
+    "polycrisis",
+    "resilience",
+    "Global South",
+    "vulnerability",
+    "sustainable convergence",
+    "development pathways",
+    "climate adaptation",
+    "measurement"
+  ],
+  "subjects": [
+    {
+      "name": "Socio-economic development",
+      "scheme": "ANZSRC FoR",
+      "code": "440407"
+    },
+    {
+      "name": "Economic development policy",
+      "scheme": "ANZSRC FoR",
+      "code": "440703"
+    },
+    {
+      "name": "Urban and regional economics",
+      "scheme": "ANZSRC FoR",
+      "code": "380118"
+    },
+    {
+      "name": "Sustainable design",
+      "scheme": "ANZSRC FoR",
+      "code": "330314"
+    },
+    {
+      "name": "Pollution and contamination not elsewhere classified",
+      "scheme": "ANZSRC FoR",
+      "code": "410599"
+    },
+    {
+      "name": "Human impacts of climate change and human adaptation",
+      "scheme": "ANZSRC FoR",
+      "code": "410103"
+    }
+  ],
+  "abstract": [
+    "Climate hazard, polluted air, water stress, hunger, debt and weak institutions strike the same people at the same time across the Global South. This report treats that pattern as a development problem and sets out seven mutually reinforcing pathways that lower vulnerability before the next shock arrives. It uses World Bank data on 131 low- and middle-income economies to show where vulnerabilities stack, which ones income growth leaves in place, and how the binding constraint differs across six regions. It closes with three planning horizons to 2100 and a prototype resilience index.",
+    "The seven pathways are sustainable economic convergence, clean energy and technology diffusion, climate adaptation and resilient infrastructure, human development and essential services, environmental and pollution risk reduction, agricultural, food and water security, and institutional and financial resilience. The report's thesis is that the long-term resilience of the Global South depends less on how well countries absorb individual crises than on how fast they converge, diffuse critical technology, build human development and shrink the systemic vulnerabilities that make each crisis harmful. The index, the co-benefit scores and the scenarios are prototypes and are labelled as such."
+  ],
+  "coreProposition": "Resilience in the Global South is a stock that development builds. When convergence and technological progress follow sustainable routes, development itself becomes a mechanism of resilience, provided the pathways income does not supply (air, fiscal and water capacity) are built on purpose.",
+  "keyFindings": [
+    {
+      "title": "Convergence is real in aggregate and absent at the bottom.",
+      "text": "Low- and middle-income economies rose from 6.6% to 13.2% of the high-income income level between 1990 and 2024, but Sub-Saharan Africa fell from 5.2% to 3.8% and 12 economies are poorer than in 1995. Extreme poverty at $3.00 a day fell from 55.5% to 12.1%."
+    },
+    {
+      "title": "Vulnerabilities stack.",
+      "text": "Thirty-nine of 126 scored economies, holding about 1.5 billion people (22% of the group), score below 40 out of 100 on three or more of five vulnerability dimensions, including 76% of Sub-Saharan African economies and none in Southeast Asia, Latin America or the Middle East and North Africa."
+    },
+    {
+      "title": "Income removes some vulnerabilities and not others.",
+      "text": "Income explains 71% of the variation in clean cooking access, 60% in electricity access and 58% in child mortality, but only 4% of PM2.5 exposure, 4% of tax effort and 1% of water stress. Those three need pathways built for them."
+    },
+    {
+      "title": "The pathways reinforce one another.",
+      "text": "Each of the seven pathways touches all five vulnerability dimensions, and none scores above 12 of 15 in the author's co-benefit matrix, so none is a stand-alone answer."
+    },
+    {
+      "title": "The pace gap is the planning problem.",
+      "text": "At the 2010–2024 pace, Sub-Saharan Africa would need 99 years for universal clean cooking and 29 for electricity. Reaching universal access by 2035 needs about 9 times its recent pace in clean cooking and safe water (2.6 to 15 times across services)."
+    },
+    {
+      "title": "Binding constraints differ by region.",
+      "text": "The prototype index scores Sub-Saharan Africa 32, South Asia 48, Southeast Asia 58, Latin America and the Caribbean 66, the Middle East and North Africa 56 and small island developing states 55, against 85 for high-income economies. Sub-Saharan Africa ranks lowest and Latin America highest under all 3,000 random weightings; the weakest domain is human development in Sub-Saharan Africa, environment in South Asia and institutions elsewhere."
+    },
+    {
+      "title": "Long-run outcomes hinge on the growth gap.",
+      "text": "Sub-Saharan Africa reaches 18% of the high-income income level by 2100 at a growth gap of 1.0 point a year and 56% at 2.5 points, close to the 2.2 to 2.8 points East and South Asia have averaged since 1990. The three horizons (to 2035, 2050 and 2100) are planning frames, not forecasts."
+    },
+    {
+      "title": "Priorities follow the binding constraint.",
+      "text": "Five tests (binding constraint, co-benefit, time to benefit, income-blindness and delivery capacity) turn the pathway list into a priority order for one economy. The report asks governments to treat the stack as the unit of planning and development partners to tie finance to pace."
+    }
+  ],
+  "bottomLine": "A data-led regional adaptation of the Pathways framework with candid limits: the index ranks the ends of the distribution robustly and the middle loosely, and the co-benefit scores and scenarios are the author's judgement, not estimates.",
+  "contents": [
+    {
+      "number": "",
+      "title": "Summary",
+      "description": "Key findings, the central thesis and the evidence base.",
+      "page": 4
+    },
+    {
+      "number": "1",
+      "title": "Resilience in the Global South is built through development",
+      "description": "The central thesis, the five objectives and the proxy used for the Global South.",
+      "page": 6
+    },
+    {
+      "number": "2",
+      "title": "Resilience has three dimensions, and prevention is the one most often skipped",
+      "description": "Reactive, adaptive and preventive resilience, and why prevention carries the most weight.",
+      "page": 9
+    },
+    {
+      "number": "3",
+      "title": "Vulnerabilities stack where development has stalled",
+      "description": "Five vulnerability dimensions, measured across 126 economies, and how they cluster.",
+      "page": 12
+    },
+    {
+      "number": "4",
+      "title": "Seven pathways turn development into resilience",
+      "description": "The seven pathways, why growth alone does not finish the job, and income-blind vulnerabilities.",
+      "page": 17
+    },
+    {
+      "number": "5",
+      "title": "Sustainable convergence is the mechanism that links the pathways",
+      "description": "A four-link chain from convergence to structural change to lower systemic vulnerability.",
+      "page": 27
+    },
+    {
+      "number": "6",
+      "title": "Regional pathways differ because binding constraints differ",
+      "description": "Six regions: Sub-Saharan Africa, South Asia, Southeast Asia, Latin America and the Caribbean, the Middle East and North Africa, and small island developing states.",
+      "page": 31
+    },
+    {
+      "number": "7",
+      "title": "Three development horizons organise the century into planning frames",
+      "description": "Horizons to 2035, 2050 and 2100, the pace arithmetic and income scenarios.",
+      "page": 40
+    },
+    {
+      "number": "8",
+      "title": "Measuring Polycrisis Resilience requires a framework before it requires an index",
+      "description": "Eight domains, a six-question assessment framework and the prototype index.",
+      "page": 45
+    },
+    {
+      "number": "9",
+      "title": "Priorities follow the binding constraint, the co-benefit and the time to benefit",
+      "description": "Five tests for ranking pathways in a given economy.",
+      "page": 51
+    },
+    {
+      "number": "10",
+      "title": "The Global South builds resilience by finishing development and by building what growth leaves out",
+      "description": "Seven findings, what they ask of three groups, and what remains to be done.",
+      "page": 55
+    },
+    {
+      "number": "",
+      "title": "Method and data",
+      "description": "Country grouping, indicator scaling, sensitivity runs and the status of each exhibit.",
+      "page": 58
+    },
+    {
+      "number": "",
+      "title": "References",
+      "description": "Thirty-eight sources.",
+      "page": 59
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Polycrisis Resilience",
+      "definition": "The capacity of societies and development systems to anticipate, withstand, adapt to, recover from and reduce their vulnerability to several interacting crises."
+    },
+    {
+      "term": "Reactive, adaptive and preventive resilience",
+      "definition": "Three dimensions ordered by when they act on a crisis: withstanding disruption and recovering, adjusting institutions and systems as conditions change, and reducing underlying vulnerabilities so future crises do less damage."
+    },
+    {
+      "term": "Polycrisis Resilience Pathways",
+      "definition": "Seven mutually reinforcing development pathways, judged by the vulnerabilities they remove rather than the sector they belong to."
+    },
+    {
+      "term": "Stacked vulnerabilities",
+      "definition": "Weaknesses on several vulnerability dimensions at once. The report counts an economy as stacked when it scores below 40 out of 100 on three or more of five dimensions."
+    },
+    {
+      "term": "Income-blind vulnerabilities",
+      "definition": "Vulnerabilities that income growth explains little of, such as PM2.5 exposure, tax effort and water stress, which need pathways built for them."
+    },
+    {
+      "term": "Binding constraint",
+      "definition": "The weakest domain in a region or economy, which decides where the next unit of effort removes the most vulnerability."
+    },
+    {
+      "term": "Sustainable convergence",
+      "definition": "Closing the gap with high-income economies through productivity, technology and structural change on a route that avoids the pollution and emissions of the older high-income path."
+    },
+    {
+      "term": "Pace gap",
+      "definition": "The difference between the recent rate of progress on access to a service and the rate needed to reach universal access by a target year, treated as arithmetic rather than a forecast."
+    },
+    {
+      "term": "Prototype Polycrisis Resilience Index",
+      "definition": "An index scoring eight domains from 0 to 100 between the 5th and 95th percentile across economies, averaged with equal weights; it is a prototype, and its climate and institutional domains use proxies."
+    },
+    {
+      "term": "Global South (as used here)",
+      "definition": "No official definition exists; the report uses the 131 economies the World Bank classes as low, lower-middle or upper-middle income, home to 6.8 billion people."
+    }
+  ],
+  "references": [
+    {
+      "text": "Acemoglu, D. and Robinson, J.A. (2012). Why Nations Fail: The Origins of Power, Prosperity, and Poverty. Crown Business."
+    },
+    {
+      "text": "Adger, W. N. (2006). Vulnerability. Global Environmental Change.",
+      "doi": "10.1016/j.gloenvcha.2006.02.006"
+    },
+    {
+      "text": "Barro, R. J. and Sala-i-Martin, X. (1992). Convergence. Journal of Political Economy.",
+      "doi": "10.1086/261816"
+    },
+    {
+      "text": "BloombergNEF (2024). Lithium-Ion Battery Pack Prices See Largest Drop Since 2017, Falling to $115 per Kilowatt-Hour."
+    },
+    {
+      "text": "Burke, M., Hsiang, S. and Miguel, E. (2015). Global non-linear effect of temperature on economic production. Nature.",
+      "doi": "10.1038/nature15725"
+    },
+    {
+      "text": "ESMAP (2025). Tracking SDG 7: The Energy Progress Report 2025. IEA, IRENA, UNSD, World Bank, and WHO."
+    },
+    {
+      "text": "FAO et al. (2025). The State of Food Security and Nutrition in the World 2025. FAO, IFAD, UNICEF, WFP, and WHO."
+    },
+    {
+      "text": "Fuller, R. et al. (2022). Pollution and health: a progress update. The Lancet Planetary Health.",
+      "doi": "10.1016/S2542-5196(22)00090-0"
+    },
+    {
+      "text": "Gaspar, V., Jaramillo, L. and Wingender, P. (2016). Tax Capacity and Growth: Is There a Tipping Point?. IMF Working Paper WP/16/234."
+    },
+    {
+      "text": "GCA (2019). Adapt Now: A Global Call for Leadership on Climate Resilience. Global Commission on Adaptation."
+    },
+    {
+      "text": "Hallegatte, S. et al. (2017). Unbreakable: Building the Resilience of the Poor in the Face of Natural Disasters. World Bank."
+    },
+    {
+      "text": "Hallegatte, S., Rentschler, J. and Rozenberg, J. (2019). Lifelines: The Resilient Infrastructure Opportunity. World Bank and GFDRR."
+    },
+    {
+      "text": "Hess, J. J. et al. (2018). Building resilience to climate change: pilot evaluation of the impact of India's first heat action plan on all-cause mortality. Journal of Environmental and Public Health.",
+      "doi": "10.1155/2018/7973519"
+    },
+    {
+      "text": "Holling, C. S. (1973). Resilience and stability of ecological systems. Annual Review of Ecology and Systematics.",
+      "doi": "10.1146/annurev.es.04.110173.000245"
+    },
+    {
+      "text": "ILO (2019). Working on a warmer planet: the impact of heat stress on labour productivity and decent work. International Labour Organization."
+    },
+    {
+      "text": "IPCC (2022). Climate Change 2022: Impacts, Adaptation and Vulnerability. Intergovernmental Panel on Climate Change."
+    },
+    {
+      "text": "IRENA (2024). Renewable Power Generation Costs in 2023. International Renewable Energy Agency."
+    },
+    {
+      "text": "ITU (2024). Facts and Figures 2024. International Telecommunication Union."
+    },
+    {
+      "text": "Kahn, M. E. (2005). The death toll from natural disasters: the role of income, geography, and institutions. Review of Economics and Statistics.",
+      "doi": "10.1162/0034653053970339"
+    },
+    {
+      "text": "Kaufmann, D. and Kraay, A. (2025). Worldwide Governance Indicators, 2025 update. World Bank."
+    },
+    {
+      "text": "Lawrence, M. et al. (2024). Global polycrisis: the causal mechanisms of crisis entanglement. Global Sustainability.",
+      "doi": "10.1017/sus.2024.1"
+    },
+    {
+      "text": "Morin, E. and Kern, A.-B. (1999). Homeland Earth: A Manifesto for the New Millennium. Hampton Press."
+    },
+    {
+      "text": "Preston, S. H. (1975). The changing relation between mortality and level of economic development. Population Studies.",
+      "doi": "10.1080/00324728.1975.10410201"
+    },
+    {
+      "text": "Pritchett, L. (1997). Divergence, big time. Journal of Economic Perspectives.",
+      "doi": "10.1257/jep.11.3.3"
+    },
+    {
+      "text": "Richardson, K. et al. (2023). Earth beyond six of nine planetary boundaries. Science Advances.",
+      "doi": "10.1126/sciadv.adh2458"
+    },
+    {
+      "text": "Rodrik, D. (2013). Unconditional convergence in manufacturing. Quarterly Journal of Economics.",
+      "doi": "10.1093/qje/qjs047"
+    },
+    {
+      "text": "Rodrik, D. (2016). Premature deindustrialization. Journal of Economic Growth 21(1).",
+      "doi": "10.1007/s10887-015-9122-3"
+    },
+    {
+      "text": "Sen, A. (1999). Development as Freedom. Oxford University Press."
+    },
+    {
+      "text": "Tooze, A. (2022). Welcome to the world of the polycrisis. Financial Times."
+    },
+    {
+      "text": "Toya, H. and Skidmore, M. (2007). Economic development and the impacts of natural disasters. Economics Letters.",
+      "doi": "10.1016/j.econlet.2006.06.020"
+    },
+    {
+      "text": "Turner, B. L. et al. (2003). A framework for vulnerability analysis in sustainability science. Proceedings of the National Academy of Sciences.",
+      "doi": "10.1073/pnas.1231335100"
+    },
+    {
+      "text": "UNEP (2025). Adaptation Gap Report 2025: Running on Empty. United Nations Environment Programme."
+    },
+    {
+      "text": "United Nations Office of the High Representative for the Least Developed Countries, Landlocked Developing Countries and Small Island Developing States (2024). About Small Island Developing States. UN-OHRLLS."
+    },
+    {
+      "text": "Walker, B. et al. (2004). Resilience, adaptability and transformability in social-ecological systems. Ecology and Society.",
+      "doi": "10.5751/ES-00650-090205"
+    },
+    {
+      "text": "WHO (2021). WHO global air quality guidelines. World Health Organization."
+    },
+    {
+      "text": "WHO and UNICEF (2023). Progress on household drinking water, sanitation and hygiene 2000-2022. WHO and UNICEF Joint Monitoring Programme."
+    },
+    {
+      "text": "WMO (2025). State of the Global Climate 2024. World Meteorological Organization."
+    },
+    {
+      "text": "World Bank (2026). World Development Indicators."
+    }
+  ]
+}
