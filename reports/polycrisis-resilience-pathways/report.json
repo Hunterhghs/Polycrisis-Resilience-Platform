@@ -1,0 +1,470 @@
+{
+  "seriesNumber": 60,
+  "title": "Polycrisis Resilience Pathways",
+  "subtitle": "Strategic Pathways for Reducing Human and Systemic Vulnerability in the 21st Century",
+  "type": "Flagship Research Report",
+  "datePublished": "2026-11-17",
+  "dateModified": "2026-11-17",
+  "doi": "10.6084/m9.figshare.35036401",
+  "repository": {
+    "name": "figshare",
+    "url": "https://figshare.com/articles/preprint/Polycrisis_Resilience_Pathways/35036401"
+  },
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "license": {
+    "name": "All rights reserved",
+    "shortName": "All rights reserved"
+  },
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 48,
+  "language": "en",
+  "description": "Turns the polycrisis diagnosis into eight development pathways, scores their resilience co-benefits, and adds a prototype vulnerability index and a three-phase route to 2050.",
+  "contribution": "Moves Polycrisis Resilience from diagnosis to programme: eight pathways, a co-benefit matrix, a nine-indicator prototype index for five regions, and a pace-based route to 2050, all built on World Bank data.",
+  "themes": [
+    "Polycrisis Resilience Pathways",
+    "Vulnerability reduction",
+    "Resilience co-benefits",
+    "Sustainable convergence",
+    "Reinforcing cycles",
+    "Regional binding constraints",
+    "Prototype resilience index",
+    "Route to 2050"
+  ],
+  "keywords": [
+    "polycrisis",
+    "resilience",
+    "vulnerability",
+    "development pathways",
+    "sustainable convergence",
+    "resilience co-benefits",
+    "clean energy",
+    "climate adaptation",
+    "measurement"
+  ],
+  "subjects": [
+    {
+      "name": "Socio-economic development",
+      "scheme": "ANZSRC FoR",
+      "code": "440407"
+    },
+    {
+      "name": "Economic development policy",
+      "scheme": "ANZSRC FoR",
+      "code": "440703"
+    },
+    {
+      "name": "Sustainable design",
+      "scheme": "ANZSRC FoR",
+      "code": "330314"
+    },
+    {
+      "name": "Public policy",
+      "scheme": "ANZSRC FoR",
+      "code": "440709"
+    },
+    {
+      "name": "Pollution and contamination not elsewhere classified",
+      "scheme": "ANZSRC FoR",
+      "code": "410599"
+    },
+    {
+      "name": "Human impacts of climate change and human adaptation",
+      "scheme": "ANZSRC FoR",
+      "code": "410103"
+    }
+  ],
+  "abstract": [
+    "Climate hazards, polluted air, water and food stress, poverty, conflict and weak institutions now act on the same people at the same time. This report turns that diagnosis into a programme. It sets out eight development pathways that lower human and systemic vulnerability, shows with World Bank data where each gap is widest, and scores which pathways deliver the most resilience co-benefits. It also proposes a prototype index and a three-phase route to 2050.",
+    "The eight pathways are economic convergence, clean energy, technology diffusion, climate adaptation, pollution reduction, water, food and resource security, human development, and infrastructure with institutions. The evidence comes from World Bank indicators for more than 180 countries, and the report labels each exhibit as published evidence, processed data, author judgement or an illustrative model. The index, the co-benefit scores and the modelled paths are prototypes, and the report presents its claim as integration and application rather than the founding of new fields."
+  ],
+  "coreProposition": "Polycrisis Resilience can be strengthened through coordinated development pathways that reduce underlying human and systemic vulnerabilities while improving the capacity of societies to anticipate, absorb, adapt to and recover from interconnected disruptions. Development is a resilience strategy, sustainable convergence is essential, and transformation must be coordinated.",
+  "keyFindings": [
+    {
+      "title": "Development gaps are vulnerability gaps.",
+      "text": "Across 188 countries, income per person explains about 73% of the variation in under-five mortality on a log scale, and each doubling of income goes with a rate about 43% lower. The report stresses that this is an association, not proof of cause."
+    },
+    {
+      "title": "Convergence is strong in the middle and absent at the bottom.",
+      "text": "From 1990 to 2024 GDP per person rose 322% in upper-middle-income countries, 169% in lower-middle-income countries and 18% in low-income countries, which now sit at 1.7% of the high-income level. Electricity use in low-income countries (190 kWh a person) is where it stood in 1990."
+    },
+    {
+      "title": "Access gaps close slowest where they matter most.",
+      "text": "At the 2010–2024 pace, low-income countries need about 380 years for universal clean cooking, 120 for safe water and 32 for electricity. Universal access by 2050 would need 15 times the current pace for cooking and 4.7 times for water. The report calls this a pace comparison, not a forecast."
+    },
+    {
+      "title": "Pollution does not fall on its own with growth.",
+      "text": "PM2.5 exposure in 2023 was 49.6 µg/m³ in lower-middle-income countries, 31.3 in low-income and 13.0 in high-income countries, and 94% of countries exceed the WHO guideline."
+    },
+    {
+      "title": "Three pathways lead on co-benefits.",
+      "text": "In an author-scored matrix (eight pathways against seven vulnerability components, 21 points), infrastructure and institutions score 16, economic convergence and clean energy 15 each, and pollution reduction 11. Scores within two points are treated as ties."
+    },
+    {
+      "title": "A prototype index orders five regions.",
+      "text": "Built from nine indicators in seven components, the index runs from 24 in Sub-Saharan Africa to 91 in high-income economies (South Asia 51, Southeast Asia 63, Latin America and the Caribbean 73). The order holds in all ten weighting variants tested."
+    },
+    {
+      "title": "The binding constraint differs by region.",
+      "text": "The weakest indicator is water and income in Sub-Saharan Africa, air quality in South Asia, water and governance in Southeast Asia and governance in Latin America, so pathways must be sequenced locally."
+    },
+    {
+      "title": "Five loops compound in both directions.",
+      "text": "Energy and industrialization, climate and food, pollution and health, education and technology, and infrastructure and institutions can each run as a virtuous or vicious cycle. Across 142 countries electricity use and income move together (squared correlation 0.84 on logs)."
+    },
+    {
+      "title": "Cost of capital is a resilience variable.",
+      "text": "The same solar farm costs 82% more at a 15% cost of capital than at 6%, so lowering financing costs is one of the report's five practical priorities, with clearing the binding constraint first, counting every return, funding maintenance and publishing a repeated baseline."
+    }
+  ],
+  "bottomLine": "A restrained, data-led framework whose own prototypes are clearly labelled. The index and co-benefit scores are the author's judgement on public data, not a validated model, and the report says the next step is to back-test them.",
+  "contents": [
+    {
+      "number": "",
+      "title": "Summary",
+      "description": "Six key findings and the central thesis.",
+      "page": 2
+    },
+    {
+      "number": "1",
+      "title": "Polycrisis Resilience is a case about vulnerability",
+      "description": "The polycrisis literature, the evidence that vulnerability, not hazard alone, decides harm, and the question the report asks.",
+      "page": 5
+    },
+    {
+      "number": "2",
+      "title": "Resilience lowers vulnerability before it absorbs shocks",
+      "description": "Definitions of resilience and vulnerability, and the report's definition of Polycrisis Resilience.",
+      "page": 7
+    },
+    {
+      "number": "3",
+      "title": "The framework turns interconnected risks into pathways",
+      "description": "The four-tier framework, eight pathways and six contributions.",
+      "page": 10
+    },
+    {
+      "number": "4",
+      "title": "Economic development and convergence set the ceiling",
+      "description": "Income as the pathway that funds the others, and the evidence on convergence.",
+      "page": 12
+    },
+    {
+      "number": "5",
+      "title": "The clean energy transition pays back in four ways at once",
+      "description": "Energy access gaps and the pollution, security, productivity and climate returns of clean energy.",
+      "page": 14
+    },
+    {
+      "number": "6",
+      "title": "Technology diffusion is limited by access, not invention",
+      "description": "Adoption lags, internet access and the cost of capital.",
+      "page": 16
+    },
+    {
+      "number": "7",
+      "title": "Climate adaptation works best on top of development",
+      "description": "Heat, productivity, the evidence on adaptation and the risk of maladaptation.",
+      "page": 18
+    },
+    {
+      "number": "8",
+      "title": "Pollution reduction is a public health strategy",
+      "description": "The burden of pollution and why exposure has not fallen in poorer countries.",
+      "page": 20
+    },
+    {
+      "number": "9",
+      "title": "Water, food, and resource security fail together",
+      "description": "Safe water, sanitation and hunger as one linked system.",
+      "page": 22
+    },
+    {
+      "number": "10",
+      "title": "Human development and institutions decide recovery speed",
+      "description": "Child mortality, schooling and the capacities that decide how fast societies recover.",
+      "page": 24
+    },
+    {
+      "number": "11",
+      "title": "Infrastructure is where systemic resilience is built",
+      "description": "Infrastructure disruption costs, interdependence and the case for resilient design.",
+      "page": 26
+    },
+    {
+      "number": "12",
+      "title": "Sustainable convergence turns growth into resilience",
+      "description": "Convergence across nine indicators, the pace gap and why the word sustainable matters.",
+      "page": 28
+    },
+    {
+      "number": "13",
+      "title": "Reinforcing cycles make gains and losses compound",
+      "description": "Five virtuous and vicious development cycles and their binding variables.",
+      "page": 30
+    },
+    {
+      "number": "14",
+      "title": "Integrated investment beats fragmented intervention",
+      "description": "The co-benefit matrix, how far to trust it, and synergies, trade-offs and guardrails.",
+      "page": 32
+    },
+    {
+      "number": "15",
+      "title": "Regional pathways differ in their binding constraints",
+      "description": "Scoring five regions on nine indicators and using the regional view.",
+      "page": 34
+    },
+    {
+      "number": "16",
+      "title": "The route to 2050 runs through three phases",
+      "description": "The pace needed for universal access, clean cooking as a test case and a three-phase route.",
+      "page": 37
+    },
+    {
+      "number": "17",
+      "title": "Resilience is measured by tracking vulnerability",
+      "description": "The prototype index, its results, its robustness and its limits.",
+      "page": 40
+    },
+    {
+      "number": "18",
+      "title": "Development that lowers risk optimises humanity's outlook",
+      "description": "Five priorities and the work that would turn the prototypes into tools.",
+      "page": 43
+    },
+    {
+      "number": "",
+      "title": "Method and data",
+      "description": "Data sources, index construction, scoring rules and which exhibits are illustrative.",
+      "page": 45
+    },
+    {
+      "number": "",
+      "title": "References",
+      "description": "Fifty sources.",
+      "page": 46
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Polycrisis Resilience",
+      "definition": "The capacity of people, institutions, economies and the systems that connect them to anticipate, absorb, adapt to and recover from interconnected disruptions, while reducing the underlying human and systemic vulnerabilities that make those disruptions harmful."
+    },
+    {
+      "term": "Polycrisis Resilience Pathways",
+      "definition": "Eight development-oriented pathways that act on interconnected risks to reduce human and systemic vulnerability: economic convergence, clean energy, technology diffusion, climate adaptation, pollution reduction, water, food and resource security, human development, and infrastructure with institutions."
+    },
+    {
+      "term": "Resilience co-benefits",
+      "definition": "The idea that an investment is valuable for all the vulnerabilities it removes together, not only the one it targets."
+    },
+    {
+      "term": "Sustainable convergence",
+      "definition": "The closing of gaps in income, energy, services and technology between poorer and richer economies on a path that does not raise exposure to the hazards it is meant to reduce."
+    },
+    {
+      "term": "Binding constraint",
+      "definition": "The weakest indicator or component of vulnerability in a place, which determines which pathway should come first."
+    },
+    {
+      "term": "Co-benefit matrix",
+      "definition": "The report's author-judged scoring of eight pathways against seven vulnerability components on a 0 to 3 scale, summed to a total out of 21."
+    },
+    {
+      "term": "Prototype resilience index",
+      "definition": "A 0 to 100 index built from nine World Bank indicators in seven components, scored against the 5th and 95th percentile of countries and averaged with equal weights."
+    },
+    {
+      "term": "Pace gap",
+      "definition": "The difference between the 2010–2024 rate of progress on access to a service and the rate needed to reach universal access by 2050, treated as arithmetic rather than a forecast."
+    },
+    {
+      "term": "Synchronous failure",
+      "definition": "Stress in one system propagating to others until several fail together, the worst case of a polycrisis (Homer-Dixon and colleagues)."
+    }
+  ],
+  "references": [
+    {
+      "text": "Adger, W. N. (2006). Vulnerability. Global Environmental Change.",
+      "doi": "10.1016/j.gloenvcha.2006.02.006"
+    },
+    {
+      "text": "Barreca, A. et al. (2016). Adapting to climate change: the remarkable decline in the US temperature-mortality relationship over the twentieth century. Journal of Political Economy.",
+      "doi": "10.1086/684582"
+    },
+    {
+      "text": "Barro, R. J. and Sala-i-Martin, X. (1992). Convergence. Journal of Political Economy.",
+      "doi": "10.1086/261816"
+    },
+    {
+      "text": "BloombergNEF (2024). Lithium-Ion Battery Pack Prices See Largest Drop Since 2017, Falling to $115 per Kilowatt-Hour."
+    },
+    {
+      "text": "Burke, M., Hsiang, S. and Miguel, E. (2015). Global non-linear effect of temperature on economic production. Nature.",
+      "doi": "10.1038/nature15725"
+    },
+    {
+      "text": "Comin, D. and Hobijn, B. (2010). An exploration of technology diffusion. American Economic Review.",
+      "doi": "10.1257/aer.100.5.2031"
+    },
+    {
+      "text": "Cutter, S. L. et al. (2008). A place-based model for understanding community resilience to natural disasters. Global Environmental Change.",
+      "doi": "10.1016/j.gloenvcha.2008.07.013"
+    },
+    {
+      "text": "ESMAP (2025). Tracking SDG 7: The Energy Progress Report 2025. IEA, IRENA, UNSD, World Bank, and WHO."
+    },
+    {
+      "text": "FAO et al. (2025). The State of Food Security and Nutrition in the World 2025. FAO, IFAD, UNICEF, WFP, and WHO."
+    },
+    {
+      "text": "Fuller, R. et al. (2022). Pollution and health: a progress update. The Lancet Planetary Health.",
+      "doi": "10.1016/S2542-5196(22)00090-0"
+    },
+    {
+      "text": "Fuso Nerini, F. et al. (2018). Mapping synergies and trade-offs between energy and the Sustainable Development Goals. Nature Energy.",
+      "doi": "10.1038/s41560-017-0036-5"
+    },
+    {
+      "text": "GCA (2019). Adapt Now: A Global Call for Leadership on Climate Resilience. Global Commission on Adaptation."
+    },
+    {
+      "text": "Graff Zivin, J. and Neidell, M. (2012). The impact of pollution on worker productivity. American Economic Review.",
+      "doi": "10.1257/aer.102.7.3652"
+    },
+    {
+      "text": "Hallegatte, S. et al. (2017). Unbreakable: Building the Resilience of the Poor in the Face of Natural Disasters. World Bank."
+    },
+    {
+      "text": "Hallegatte, S., Rentschler, J. and Rozenberg, J. (2019). Lifelines: The Resilient Infrastructure Opportunity. World Bank and GFDRR."
+    },
+    {
+      "text": "Hanushek, E. A. and Woessmann, L. (2015). The Knowledge Capital of Nations: Education and the Economics of Growth. MIT Press."
+    },
+    {
+      "text": "Helbing, D. (2013). Globally networked risks and how to respond. Nature.",
+      "doi": "10.1038/nature12047"
+    },
+    {
+      "text": "Hess, J. J. et al. (2018). Building resilience to climate change: pilot evaluation of the impact of India's first heat action plan on all-cause mortality. Journal of Environmental and Public Health.",
+      "doi": "10.1155/2018/7973519"
+    },
+    {
+      "text": "Holling, C. S. (1973). Resilience and stability of ecological systems. Annual Review of Ecology and Systematics.",
+      "doi": "10.1146/annurev.es.04.110173.000245"
+    },
+    {
+      "text": "Homer-Dixon, T. et al. (2015). Synchronous failure: the emerging causal architecture of global crisis. Ecology and Society.",
+      "doi": "10.5751/es-07681-200306"
+    },
+    {
+      "text": "IEA (2018). The Future of Cooling. International Energy Agency."
+    },
+    {
+      "text": "IEA (2024). Cost of Capital Observatory. International Energy Agency."
+    },
+    {
+      "text": "ILO (2019). Working on a warmer planet: the impact of heat stress on labour productivity and decent work. International Labour Organization."
+    },
+    {
+      "text": "INFORM (2024). INFORM Risk Index. European Commission Joint Research Centre and IASC."
+    },
+    {
+      "text": "IPCC (2022). Climate Change 2022: Impacts, Adaptation and Vulnerability. Intergovernmental Panel on Climate Change."
+    },
+    {
+      "text": "IRENA (2024). Renewable Power Generation Costs in 2023. International Renewable Energy Agency."
+    },
+    {
+      "text": "ITU (2024). Facts and Figures 2024. International Telecommunication Union."
+    },
+    {
+      "text": "Kahn, M. E. (2005). The death toll from natural disasters: the role of income, geography, and institutions. Review of Economics and Statistics.",
+      "doi": "10.1162/0034653053970339"
+    },
+    {
+      "text": "Kaufmann, D. and Kraay, A. (2025). Worldwide Governance Indicators, 2025 update. World Bank."
+    },
+    {
+      "text": "Lawrence, M. et al. (2024). Global polycrisis: the causal mechanisms of crisis entanglement. Global Sustainability.",
+      "doi": "10.1017/sus.2024.1"
+    },
+    {
+      "text": "Magnan, A. K. et al. (2016). Addressing the risk of maladaptation to climate change. WIREs Climate Change.",
+      "doi": "10.1002/wcc.409"
+    },
+    {
+      "text": "Morin, E. and Kern, A.-B. (1999). Homeland Earth: A Manifesto for the New Millennium. Hampton Press."
+    },
+    {
+      "text": "ND-GAIN (2024). ND-GAIN Country Index. University of Notre Dame Global Adaptation Initiative."
+    },
+    {
+      "text": "Preston, S. H. (1975). The changing relation between mortality and level of economic development. Population Studies.",
+      "doi": "10.1080/00324728.1975.10410201"
+    },
+    {
+      "text": "Pritchett, L. (1997). Divergence, big time. Journal of Economic Perspectives.",
+      "doi": "10.1257/jep.11.3.3"
+    },
+    {
+      "text": "Richardson, K. et al. (2023). Earth beyond six of nine planetary boundaries. Science Advances.",
+      "doi": "10.1126/sciadv.adh2458"
+    },
+    {
+      "text": "Rodrik, D. (2013). Unconditional convergence in manufacturing. Quarterly Journal of Economics.",
+      "doi": "10.1093/qje/qjs047"
+    },
+    {
+      "text": "Sen, A. (1999). Development as Freedom. Oxford University Press."
+    },
+    {
+      "text": "Tooze, A. (2022). Welcome to the world of the polycrisis. Financial Times."
+    },
+    {
+      "text": "Toya, H. and Skidmore, M. (2007). Economic development and the impacts of natural disasters. Economics Letters.",
+      "doi": "10.1016/j.econlet.2006.06.020"
+    },
+    {
+      "text": "Turner, B. L. et al. (2003). A framework for vulnerability analysis in sustainability science. Proceedings of the National Academy of Sciences.",
+      "doi": "10.1073/pnas.1231335100"
+    },
+    {
+      "text": "UN DESA (2024). World Population Prospects 2024. United Nations Department of Economic and Social Affairs."
+    },
+    {
+      "text": "UNDRR (2022). Global Assessment Report on Disaster Risk Reduction 2022: Our World at Risk. United Nations Office for Disaster Risk Reduction."
+    },
+    {
+      "text": "UNEP (2025). Adaptation Gap Report 2025: Running on Empty. United Nations Environment Programme."
+    },
+    {
+      "text": "Walker, B. et al. (2004). Resilience, adaptability and transformability in social-ecological systems. Ecology and Society.",
+      "doi": "10.5751/ES-00650-090205"
+    },
+    {
+      "text": "WHO (2021). WHO global air quality guidelines. World Health Organization."
+    },
+    {
+      "text": "WHO (2023). Household air pollution and health. World Health Organization."
+    },
+    {
+      "text": "WHO and UNICEF (2023). Progress on household drinking water, sanitation and hygiene 2000-2022. WHO and UNICEF Joint Monitoring Programme."
+    },
+    {
+      "text": "WMO (2025). State of the Global Climate 2024. World Meteorological Organization."
+    },
+    {
+      "text": "World Bank (2026). World Development Indicators."
+    }
+  ]
+}
