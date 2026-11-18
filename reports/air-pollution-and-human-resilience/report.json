@@ -1,0 +1,242 @@
+{
+  "seriesNumber": 66,
+  "title": "Air Pollution and Human Resilience",
+  "subtitle": "Development Pathways for Reducing Environmental Health Risks",
+  "type": "Research Report",
+  "datePublished": "2026-11-17",
+  "dateModified": "2026-11-17",
+  "doi": "10.6084/m9.figshare.35044135",
+  "repository": {
+    "name": "figshare",
+    "url": "https://figshare.com/articles/report/35044135"
+  },
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "license": {
+    "name": "Creative Commons Attribution 4.0 International",
+    "shortName": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 31,
+  "language": "en",
+  "description": "A foundational monograph establishing that reducing air pollution is a core component of human resilience—because improving air quality reduces chronic…",
+  "contribution": "Establishes a development-oriented framework for Air Pollution and Human Resilience—originated by Hunter Hughes, Founder of H Heuristics—showing how clean energy, clean cooking, industrial modernization, sustainable transport, and technological diffusion allow emerging economies to leapfrog pollution-intensive growth.",
+  "themes": [
+    "Air Pollution and Human Resilience",
+    "Polycrisis Resilience",
+    "Environmental Health",
+    "Clean Cooking",
+    "Technology Diffusion",
+    "Sustainable Industrialization",
+    "Urban Infrastructure"
+  ],
+  "keywords": [
+    "Air Pollution and Human Resilience",
+    "Polycrisis Resilience",
+    "Environmental Health Risks",
+    "PM2.5",
+    "Clean Cooking",
+    "Clean Energy Transitions",
+    "Technological Diffusion",
+    "Development Pathways",
+    "Public Health"
+  ],
+  "abstract": [
+    "Air Pollution and Human Resilience is a foundational publication within the H Heuristics Polycrisis Resilience Series, based on the concept developed by Hunter Hughes, Founder of H Heuristics (https://polycrisisresilience.hheuristics.com/).\nIt advances a development-oriented strategy for clean air—connecting affordable clean energy, clean household cooking, sustainable industrialization, modern transportation, urban planning, and international technology transfer to strengthen human resilience globally."
+  ],
+  "keyFindings": [
+    {
+      "title": "Reducing air pollution is a fundamental component of human resilience because improving air quality reduces chronic environmental exposure, strengthens population health, and improves the underlying conditions that enable individuals and societies to withstand interconnected risks.",
+      "text": ""
+    },
+    {
+      "title": "Economic development and environmental health must be mutually reinforcing rather than sequential objectives; developing economies can expand energy access, industrial capacity, and living standards without reproducing pollution-intensive historical trajectories.",
+      "text": ""
+    },
+    {
+      "title": "Technological diffusion across clean cooking, renewable electrification, industrial emissions controls, electric transport, and air-quality monitoring delivers 7.2x–11.0x social benefit-cost ratios compared with 1.6x for reactive respiratory care.",
+      "text": ""
+    },
+    {
+      "title": "Following a Clean Development Pathway compresses global population-weighted PM2.5 exposure from 42.0 µg/m³ (2025) to 13.0 µg/m³ by 2050 and 5.5 µg/m³ by 2100 (-86.9%).",
+      "text": ""
+    }
+  ],
+  "contents": [
+    {
+      "number": "",
+      "title": "Executive Summary: Air Quality as a Pillar of Human Resilience",
+      "description": "",
+      "page": 4
+    },
+    {
+      "number": "",
+      "title": "The Central Conceptual Model: From Sources to Human Resilience",
+      "description": "",
+      "page": 6
+    },
+    {
+      "number": "",
+      "title": "Air Pollution as a Source of Chronic Human Vulnerability",
+      "description": "",
+      "page": 8
+    },
+    {
+      "number": "",
+      "title": "Development and Environmental Health: Breaking the Sequential Trap",
+      "description": "",
+      "page": 10
+    },
+    {
+      "number": "",
+      "title": "Household Energy Dependence and Clean Cooking Transitions",
+      "description": "",
+      "page": 12
+    },
+    {
+      "number": "",
+      "title": "Sustainable Industrialization, Power Generation, and Electrification",
+      "description": "",
+      "page": 14
+    },
+    {
+      "number": "",
+      "title": "Urbanization, Modern Transportation, and Clean-Air City Planning",
+      "description": "",
+      "page": 16
+    },
+    {
+      "number": "",
+      "title": "Technological Diffusion as a Mechanism of Pollution Reduction",
+      "description": "",
+      "page": 17
+    },
+    {
+      "number": "",
+      "title": "Air-Quality Monitoring, Forecasting, and Preventative Health Systems",
+      "description": "",
+      "page": 18
+    },
+    {
+      "number": "",
+      "title": "Economic Productivity, Unequal Exposure, and Human-Capital Returns",
+      "description": "",
+      "page": 19
+    },
+    {
+      "number": "",
+      "title": "Regional Diagnostics: South Asia, Sub-Saharan Africa, and Global Convergence",
+      "description": "",
+      "page": 20
+    },
+    {
+      "number": "",
+      "title": "A Development-Oriented Strategy for Clean Air and Technology Transfer",
+      "description": "",
+      "page": 22
+    },
+    {
+      "number": "",
+      "title": "Development Financing, Institutional Capacity, and Governance Reform",
+      "description": "",
+      "page": 23
+    },
+    {
+      "number": "",
+      "title": "Applied Clean-Air Development Pathways: Lessons from Global Transitions",
+      "description": "",
+      "page": 24
+    },
+    {
+      "number": "",
+      "title": "Environmental Health Equity: Bridging Urban Hotspots and Rural Exposure",
+      "description": "",
+      "page": 25
+    },
+    {
+      "number": "",
+      "title": "Strategic Synthesis and Phased Clean-Air Roadmap (2026–2050)",
+      "description": "",
+      "page": 26
+    },
+    {
+      "number": "",
+      "title": "International Technology Transfer and Clean-Tech Trade Corridors",
+      "description": "",
+      "page": 27
+    },
+    {
+      "number": "",
+      "title": "Energy-Efficient Buildings and Indoor Air-Quality Resilience",
+      "description": "",
+      "page": 28
+    },
+    {
+      "number": "",
+      "title": "Concluding Synthesis: Clean Air as a Foundation of Human Resilience",
+      "description": "",
+      "page": 29
+    },
+    {
+      "number": "",
+      "title": "Methodology, Data Architecture, Sensitivity Analysis, and Limitations",
+      "description": "",
+      "page": 30
+    },
+    {
+      "number": "",
+      "title": "References & Primary Sources",
+      "description": "",
+      "page": 31
+    }
+  ],
+  "references": [
+    {
+      "text": "Hughes, H. (2026). The Theory of Polycrisis Resilience: Toward a Unified Framework for Human and Systemic Vulnerability Reduction. H Heuristics Polycrisis Resilience Series (HH-2026-61). doi:10.6084/m9.figshare.35043985.",
+      "doi": "10.6084/m9.figshare.35043985",
+      "url": "https://doi.org/10.6084/m9.figshare.35043985"
+    },
+    {
+      "text": "Hughes, H. (2026). The Foundations of Polycrisis Resilience: Defining Resilience in an Era of Interconnected Global Risks. H Heuristics Polycrisis Resilience Series (HH-2026-62). doi:10.6084/m9.figshare.35044018.",
+      "doi": "10.6084/m9.figshare.35044018",
+      "url": "https://doi.org/10.6084/m9.figshare.35044018"
+    },
+    {
+      "text": "Hughes, H. (2026). The Environmental Foundations of Polycrisis Resilience: Climate Adaptation, Pollution Reduction and Human Vulnerability. H Heuristics Polycrisis Resilience Series (HH-2026-63). doi:10.6084/m9.figshare.35044063.",
+      "doi": "10.6084/m9.figshare.35044063",
+      "url": "https://doi.org/10.6084/m9.figshare.35044063"
+    },
+    {
+      "text": "Hughes, H. (2026). The Climate-Pollution Convergence: Interconnected Environmental Risks and the Future of Human Exposure. H Heuristics Polycrisis Resilience Series (HH-2026-64). doi:10.6084/m9.figshare.35044117.",
+      "doi": "10.6084/m9.figshare.35044117",
+      "url": "https://doi.org/10.6084/m9.figshare.35044117"
+    },
+    {
+      "text": "World Health Organization (WHO) (2025). Ambient and Household Air Pollution Burden of Disease. Geneva: WHO."
+    },
+    {
+      "text": "Health Effects Institute (HEI) (2025). State of Global Air 2025. Boston, MA: HEI."
+    },
+    {
+      "text": "International Energy Agency (IEA) (2025). Tracking SDG 7: The Energy Progress Report. Paris: IEA."
+    },
+    {
+      "text": "World Bank (2025). The Global Health Cost of PM2.5 Air Pollution. Washington, DC: World Bank Group."
+    },
+    {
+      "text": "United Nations Environment Programme (UNEP) (2025). Actions on Air Quality: Global Summary. Nairobi: UNEP."
+    },
+    {
+      "text": "European Commission JRC & DRMKC (2025). INFORM Risk Index 2025."
+    }
+  ]
+}
