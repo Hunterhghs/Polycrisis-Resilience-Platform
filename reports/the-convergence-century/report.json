@@ -1,0 +1,231 @@
+{
+  "seriesNumber": 82,
+  "title": "The Convergence Century",
+  "subtitle": "Closing Global Gaps in Income, Technology, Infrastructure and Living Standards",
+  "type": "Research Report",
+  "datePublished": "2026-11-18",
+  "dateModified": "2026-11-18",
+  "doi": "10.6084/m9.figshare.35051581",
+  "repository": {
+    "name": "figshare",
+    "url": "https://figshare.com/articles/report/35051581"
+  },
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "license": {
+    "name": "Creative Commons Attribution 4.0 International",
+    "shortName": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 31,
+  "language": "en",
+  "description": "An H Heuristics flagship monograph within the Polycrisis Resilience Series—concept developed by Hunter Hughes—establishing the 21st century as The Convergence…",
+  "contribution": "Establishes the 21st century as The Convergence Century—concept developed by Hunter Hughes, Founder of H Heuristics—uniting Income, Technology, Infrastructure, and Living Standards with sustainable development, institutional capacity, and Polycrisis Resilience through 2100.",
+  "themes": [
+    "Income & Productivity Catch-Up",
+    "Technology Diffusion",
+    "Infrastructure Capacity",
+    "Living Standards & Human Dev",
+    "Polycrisis Resilience",
+    "2100 Global Convergence"
+  ],
+  "keywords": [
+    "The Convergence Century",
+    "Polycrisis Resilience",
+    "Global Income Convergence",
+    "Technology Diffusion",
+    "Infrastructure Capacity",
+    "Living Standards",
+    "Sustainable Development",
+    "2100 Global Pathways"
+  ],
+  "abstract": [
+    "The Convergence Century is a flagship publication within the H Heuristics Polycrisis Resilience Series, based on the concept developed by Hunter Hughes, Founder of H Heuristics (https://polycrisisresilience.hheuristics.com/)."
+  ],
+  "keyFindings": [
+    {
+      "title": "Establishing the 21st century as The Convergence Century aligns global development around closing four interconnected gaps—Income, Technology, Infrastructure, and Living Standards— rather than managing crises in fragmented silos.",
+      "text": ""
+    },
+    {
+      "title": "Under The Convergence Century pathway, the Global Convergence Index rises from 42.0 (2025) to 73.5 by 2050 and 92.5 by 2100, compared with stagnation at 37.5 under Divergent Fragmentation.",
+      "text": ""
+    },
+    {
+      "title": "Global South GDP per capita rises from 24.5% to 86.0% of the OECD frontier by 2100, clean-tech and digital access reaches 96–99%, and composite Living Standards climb from 51 to 95.",
+      "text": ""
+    },
+    {
+      "title": "Embedding Polycrisis Resilience and clean technology into catch-up infrastructure yields a 12.3x 25-year social benefit-cost ratio and lifts all emerging macro-regions to 87.5–94.0 by 2100.",
+      "text": ""
+    }
+  ],
+  "contents": [
+    {
+      "number": "",
+      "title": "Executive Summary: Defining the 21st Century as The Convergence Century",
+      "description": "",
+      "page": 4
+    },
+    {
+      "number": "",
+      "title": "The Convergence Century: Closing Four Interconnected Global Gaps",
+      "description": "",
+      "page": 6
+    },
+    {
+      "number": "",
+      "title": "Four-Pillar Architecture: Income, Technology, Infrastructure, Living Standards",
+      "description": "",
+      "page": 7
+    },
+    {
+      "number": "",
+      "title": "Pillar 1 — Income: Economic Convergence and Productivity Growth",
+      "description": "",
+      "page": 8
+    },
+    {
+      "number": "",
+      "title": "Structural Upgrading, Formal Employment, and Middle-Income Catch-Up",
+      "description": "",
+      "page": 9
+    },
+    {
+      "number": "",
+      "title": "Pillar 2 — Technology: Global Diffusion and Innovation Access",
+      "description": "",
+      "page": 10
+    },
+    {
+      "number": "",
+      "title": "AI, Digital Public Infrastructure, and Clean-Tech Leapfrogging",
+      "description": "",
+      "page": 11
+    },
+    {
+      "number": "",
+      "title": "Pillar 3 — Infrastructure: Energy, Transport, Water, and Connectivity",
+      "description": "",
+      "page": 12
+    },
+    {
+      "number": "",
+      "title": "Productive Capacity, Resilient Corridors, and Secondary Cities",
+      "description": "",
+      "page": 13
+    },
+    {
+      "number": "",
+      "title": "Pillar 4 — Living Standards: The Ultimate Human-Development Outcome",
+      "description": "",
+      "page": 14
+    },
+    {
+      "number": "",
+      "title": "Universal Health, STEM Education, and Clean-Air Environments",
+      "description": "",
+      "page": 15
+    },
+    {
+      "number": "",
+      "title": "Connecting Convergence to Sustainable Development and Clean Technology",
+      "description": "",
+      "page": 16
+    },
+    {
+      "number": "",
+      "title": "Institutional Capacity as the Bedrock of Century-Scale Catch-Up",
+      "description": "",
+      "page": 17
+    },
+    {
+      "number": "",
+      "title": "Integrating Polycrisis Resilience Into The Convergence Century",
+      "description": "",
+      "page": 18
+    },
+    {
+      "number": "",
+      "title": "Prevention Economics: Social Returns of Closing Global Gaps",
+      "description": "",
+      "page": 19
+    },
+    {
+      "number": "",
+      "title": "Regional Convergence Pathways Through 2100",
+      "description": "",
+      "page": 21
+    },
+    {
+      "number": "",
+      "title": "Demographic Frontiers: Sub-Saharan Africa and South Asia",
+      "description": "",
+      "page": 22
+    },
+    {
+      "number": "",
+      "title": "Frontier Upgrading: Southeast Asia, Latin America, and MENA",
+      "description": "",
+      "page": 23
+    },
+    {
+      "number": "",
+      "title": "Financing The Convergence Century Through Blended Capital",
+      "description": "",
+      "page": 24
+    },
+    {
+      "number": "",
+      "title": "Open Standards, Resilient Trade, and Clean Supply Chains",
+      "description": "",
+      "page": 25
+    },
+    {
+      "number": "",
+      "title": "Century-Scale Telemetry: Tracking Gap Closure Through 2100",
+      "description": "",
+      "page": 26
+    },
+    {
+      "number": "",
+      "title": "Phased Implementation Roadmap (2026–2100)",
+      "description": "",
+      "page": 27
+    },
+    {
+      "number": "",
+      "title": "A Global Compact for The Convergence Century",
+      "description": "",
+      "page": 28
+    },
+    {
+      "number": "",
+      "title": "Operational Action Checklist for Policymakers and Lenders",
+      "description": "",
+      "page": 29
+    },
+    {
+      "number": "",
+      "title": "Conclusion: Achieving a Prosperous, Connected, and Resilient Century",
+      "description": "",
+      "page": 30
+    },
+    {
+      "number": "",
+      "title": "Methodology and Calibration Appendix",
+      "description": "",
+      "page": 31
+    }
+  ],
+  "references": []
+}
