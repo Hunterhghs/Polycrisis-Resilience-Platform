@@ -1,0 +1,264 @@
+{
+  "seriesNumber": 73,
+  "title": "Mitigating Secondary Effects and Feedback Loops",
+  "subtitle": "Multi-Century Climate Outlook, Population Growth and the Future of Human Vulnerability",
+  "type": "Research Report",
+  "datePublished": "2026-11-17",
+  "dateModified": "2026-11-17",
+  "doi": "10.6084/m9.figshare.35044630",
+  "repository": {
+    "name": "figshare",
+    "url": "https://figshare.com/articles/report/35044630"
+  },
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "license": {
+    "name": "Creative Commons Attribution 4.0 International",
+    "shortName": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 30,
+  "language": "en",
+  "description": "A foundational monograph establishing that reducing the propagation and amplification of interconnected risks is a core component of long-term human and…",
+  "contribution": "Formalizes the vulnerability-centered mitigation of secondary effects and feedback loops within Polycrisis Resilience—originated by Hunter Hughes, Founder of H Heuristics—analyzing the climate–poverty, pollution–development, and economic–institutional loops, six-system drought cascades, and high-leverage multi-pathway interventions.",
+  "themes": [
+    "Secondary Effects",
+    "Reinforcing Feedback Loops",
+    "Cascading Propagation",
+    "Polycrisis Resilience",
+    "Vulnerability-Centered Mitigation",
+    "Strategic Intervention Points",
+    "Multi-Century Resilience"
+  ],
+  "keywords": [
+    "Mitigating Secondary Effects and Feedback Loops",
+    "Polycrisis Resilience",
+    "Secondary Effects",
+    "Feedback Loops",
+    "Cascading Disruptions",
+    "Climate–Poverty Loop",
+    "Pollution–Development Loop",
+    "Economic–Institutional Loop",
+    "Multi-Century Resilience"
+  ],
+  "abstract": [
+    "Mitigating Secondary Effects and Feedback Loops is a foundational publication within the H Heuristics Polycrisis Resilience Series, based on the concept developed by Hunter Hughes, Founder of H Heuristics (https://polycrisisresilience.hheuristics.com/).\nIt examines how secondary effects, reinforcing feedback loops, and cascading disruptions multiply interconnected risks across multi-century climate and demographic horizons, and establishes a vulnerability-centered mitigation strategy to prevent cumulative harm."
+  ],
+  "keyFindings": [
+    {
+      "title": "Reducing the propagation and amplification of interconnected risks is a fundamental component of long-term human and systemic resilience; secondary effects frequently exceed the magnitude of the initial disruption by 2.5x to 4.5x.",
+      "text": ""
+    },
+    {
+      "title": "Three reinforcing traps—the Climate–Poverty, Pollution–Development, and Economic–Institutional feedback loops—turn temporary shocks into self-perpetuating cycles of rising vulnerability across decades and centuries.",
+      "text": ""
+    },
+    {
+      "title": "A vulnerability-centered mitigation strategy unites five complementary pillars: preventing secondary effects, interrupting harmful feedback loops, limiting cascading disruptions, reducing underlying vulnerability, and accelerating adaptive technologies.",
+      "text": ""
+    },
+    {
+      "title": "The greatest resilience gains come from interventions that weaken several interconnected vulnerability pathways simultaneously—such as clean cooking, reliable electricity, clean water, and climate-resilient agriculture—delivering 9.6x–11.6x social benefit-cost ratios.",
+      "text": ""
+    }
+  ],
+  "contents": [
+    {
+      "number": "",
+      "title": "Executive Summary: Reducing Risk Propagation and Amplification",
+      "description": "",
+      "page": 4
+    },
+    {
+      "number": "",
+      "title": "The Problem of Secondary Effects: When Aftershocks Exceed Initial Crises",
+      "description": "",
+      "page": 6
+    },
+    {
+      "number": "",
+      "title": "Feedback Loop 1: The Climate–Poverty Reinforcing Trap",
+      "description": "",
+      "page": 7
+    },
+    {
+      "number": "",
+      "title": "Feedback Loop 2: The Pollution–Development Reinforcing Trap",
+      "description": "",
+      "page": 8
+    },
+    {
+      "number": "",
+      "title": "Feedback Loop 3: The Economic–Institutional Reinforcing Trap",
+      "description": "",
+      "page": 9
+    },
+    {
+      "number": "",
+      "title": "Cascading Effects and Systemic Propagation Across Six Societal Systems",
+      "description": "",
+      "page": 10
+    },
+    {
+      "number": "",
+      "title": "The H Heuristics Vulnerability-Centered Approach to Mitigation",
+      "description": "",
+      "page": 12
+    },
+    {
+      "number": "",
+      "title": "Strategy 1: Preventing Secondary Effects Upstream",
+      "description": "",
+      "page": 13
+    },
+    {
+      "number": "",
+      "title": "Strategy 2: Interrupting Harmful Feedback Loops at Leverage Nodes",
+      "description": "",
+      "page": 14
+    },
+    {
+      "number": "",
+      "title": "Strategy 3: Limiting Cascading Disruptions Through Redundancy",
+      "description": "",
+      "page": 15
+    },
+    {
+      "number": "",
+      "title": "Strategy 4: Reducing Underlying Socioeconomic and Institutional Vulnerability",
+      "description": "",
+      "page": 16
+    },
+    {
+      "number": "",
+      "title": "Strategy 5: Accelerating Adaptive Technologies and Clean Diffusion",
+      "description": "",
+      "page": 17
+    },
+    {
+      "number": "",
+      "title": "Strategic Intervention Points: Multi-Pathway Leverage Investments",
+      "description": "",
+      "page": 18
+    },
+    {
+      "number": "",
+      "title": "High-Leverage Case: Clean Cooking as a Multi-Loop Breaker",
+      "description": "",
+      "page": 19
+    },
+    {
+      "number": "",
+      "title": "High-Leverage Cases: Reliable Electricity, Clean Water, and Climate-Smart Agri",
+      "description": "",
+      "page": 20
+    },
+    {
+      "number": "",
+      "title": "Long-Term Resilience: Demographic Growth, Climate, and the Global South",
+      "description": "",
+      "page": 21
+    },
+    {
+      "number": "",
+      "title": "Multi-Century Cascade Dynamics (2025–2300): Preventing Generational Lock-In",
+      "description": "",
+      "page": 22
+    },
+    {
+      "number": "",
+      "title": "Prevention Economics: Evaluating Downstream Risk Reduction",
+      "description": "",
+      "page": 23
+    },
+    {
+      "number": "",
+      "title": "Institutional Circuit Breakers, Early Warning, and Shock-Responsive Finance",
+      "description": "",
+      "page": 24
+    },
+    {
+      "number": "",
+      "title": "Mitigating Global Supply-Chain and Trade-Corridor Cascades",
+      "description": "",
+      "page": 25
+    },
+    {
+      "number": "",
+      "title": "Interrupting Ecological and Biosphere Feedback Loops",
+      "description": "",
+      "page": 26
+    },
+    {
+      "number": "",
+      "title": "Regional Diagnostics: Breaking Cascade Traps Across Continents",
+      "description": "",
+      "page": 27
+    },
+    {
+      "number": "",
+      "title": "Concluding Synthesis: Preventing Secondary Consequences Across Time",
+      "description": "",
+      "page": 28
+    },
+    {
+      "number": "",
+      "title": "Methodology, Loop Calibration, Sensitivity Analysis, and Limitations",
+      "description": "",
+      "page": 29
+    },
+    {
+      "number": "",
+      "title": "References & Primary Sources",
+      "description": "",
+      "page": 30
+    }
+  ],
+  "references": [
+    {
+      "text": "Hughes, H. (2026). The Theory of Polycrisis Resilience: Toward a Unified Framework for Human and Systemic Vulnerability Reduction. H Heuristics Polycrisis Resilience Series (HH-2026-61). doi:10.6084/m9.figshare.35043985.",
+      "doi": "10.6084/m9.figshare.35043985",
+      "url": "https://doi.org/10.6084/m9.figshare.35043985"
+    },
+    {
+      "text": "Hughes, H. (2026). The Climate–Pollution Feedback Loop. H Heuristics Polycrisis Resilience Series (HH-2026-70). doi:10.6084/m9.figshare.35044570.",
+      "doi": "10.6084/m9.figshare.35044570",
+      "url": "https://doi.org/10.6084/m9.figshare.35044570"
+    },
+    {
+      "text": "Hughes, H. (2026). Polycrisis Resilience – Global Warming in the Global South. H Heuristics Polycrisis Resilience Series (HH-2026-71). doi:10.6084/m9.figshare.35044582.",
+      "doi": "10.6084/m9.figshare.35044582",
+      "url": "https://doi.org/10.6084/m9.figshare.35044582"
+    },
+    {
+      "text": "Lawrence, M., Homer-Dixon, T., Janzwood, S., Rockström, J., Renn, O., & Donges, J. F. (2024). Global polycrisis: the causal mechanisms of crisis entanglement. Global Sustainability, 7, e6."
+    },
+    {
+      "text": "Hallegatte, S., Rentschler, J., & Rozenberg, J. (2019). Lifelines: The Resilient Infrastructure Opportunity. World Bank Group."
+    },
+    {
+      "text": "Intergovernmental Panel on Climate Change (IPCC) (2023). Sixth Assessment Report (AR6): Synthesis Report."
+    },
+    {
+      "text": "United Nations Department of Economic and Social Affairs (UN DESA) (2024). World Population Prospects 2024."
+    },
+    {
+      "text": "World Health Organization (WHO) (2025). Global Health Observatory & Household Air Pollution."
+    },
+    {
+      "text": "European Commission JRC & DRMKC (2025). INFORM Risk Index 2025."
+    },
+    {
+      "text": "Global Commission on Adaptation (2019). Adapt Now: A Global Call for Leadership on Climate Resilience."
+    }
+  ]
+}
