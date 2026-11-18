@@ -1,0 +1,266 @@
+{
+  "seriesNumber": 71,
+  "title": "The Climate–Pollution Feedback Loop",
+  "subtitle": "Polycrisis Resilience and the Interconnected Dynamics of Environmental Risk, Human Exposure, and Long-Term Vulnerability",
+  "type": "Research Report",
+  "datePublished": "2026-11-17",
+  "dateModified": "2026-11-17",
+  "doi": "10.6084/m9.figshare.35044570",
+  "repository": {
+    "name": "figshare",
+    "url": "https://figshare.com/articles/report/35044570"
+  },
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "license": {
+    "name": "Creative Commons Attribution 4.0 International",
+    "shortName": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 30,
+  "language": "en",
+  "description": "A foundational monograph establishing that climate change and pollution are interconnected, mutually reinforcing processes—and that breaking the…",
+  "contribution": "Formalizes the Climate–Pollution Feedback Loop within Polycrisis Resilience—originated by Hunter Hughes, Founder of H Heuristics—mapping the six-stage systems loop from emissions-intensive development to compounding vulnerability and detailing five development pathways and Sustainable Convergence across 2026–2050, 2050–2100, and beyond 2100.",
+  "themes": [
+    "Climate–Pollution Feedback Loop",
+    "Polycrisis Resilience",
+    "Sustainable Convergence",
+    "Intergenerational Horizons",
+    "Clean Energy Transition",
+    "Global South Demographics",
+    "Systems Transformation"
+  ],
+  "keywords": [
+    "The Climate–Pollution Feedback Loop",
+    "Polycrisis Resilience",
+    "Sustainable Convergence",
+    "Environmental Risk",
+    "Human Exposure",
+    "Long-Term Vulnerability",
+    "Clean Energy Transition",
+    "Pollution Reduction",
+    "Technology Diffusion"
+  ],
+  "abstract": [
+    "The Climate–Pollution Feedback Loop is a foundational publication within the H Heuristics Polycrisis Resilience Series, based on the concept developed by Hunter Hughes, Founder of H Heuristics (https://polycrisisresilience.hheuristics.com/).\nIt formalizes the six-stage conceptual systems model of the climate–pollution feedback loop, examines Global South demographic and infrastructure dynamics, pairs Sustainable Convergence with Polycrisis Resilience, and charts an intergenerational strategy across 2026–2050, 2050–2100, and beyond 2100."
+  ],
+  "keyFindings": [
+    {
+      "title": "Climate change and pollution are not independent environmental challenges; they originate from overlapping economic and industrial systems and reinforce one another across atmospheric, ecological, infrastructural, and demographic channels to amplify human vulnerability.",
+      "text": ""
+    },
+    {
+      "title": "Breaking the climate–pollution feedback loop requires transforming interconnected development systems through five pathways: clean energy transitions, direct pollution reduction, climate adaptation, technology diffusion, and human/institutional capacity building.",
+      "text": ""
+    },
+    {
+      "title": "Sustainable Convergence and Polycrisis Resilience are complementary H Heuristics concepts: enabling lower- and middle-income economies to raise living standards without reproducing pollution-intensive industrialization compresses global loop intensity by 85.5% through 2200.",
+      "text": ""
+    },
+    {
+      "title": "Intergenerational policies spanning 2026–2050, 2050–2100, and beyond 2100 deliver 9.2x–11.1x social benefit-cost ratios compared with 2.1x for fragmented end-of-pipe remediation.",
+      "text": ""
+    }
+  ],
+  "contents": [
+    {
+      "number": "",
+      "title": "Executive Summary: Breaking the Climate–Pollution Feedback Loop",
+      "description": "",
+      "page": 4
+    },
+    {
+      "number": "",
+      "title": "Central Conceptual Systems Model: Six Stages of the Feedback Loop",
+      "description": "",
+      "page": 6
+    },
+    {
+      "number": "",
+      "title": "Interconnected Origins: Overlapping Economic and Industrial Pressures",
+      "description": "",
+      "page": 7
+    },
+    {
+      "number": "",
+      "title": "Atmospheric and Ecological Feedback Mechanisms: Heat, Ozone, Wildfires, and Sinks",
+      "description": "",
+      "page": 8
+    },
+    {
+      "number": "",
+      "title": "Global South Dynamics: Population Growth, Urbanization, and Infrastructure Deficits",
+      "description": "",
+      "page": 9
+    },
+    {
+      "number": "",
+      "title": "Twenty-First-Century Scenarios: Avoiding Determinism in Environmental Risk",
+      "description": "",
+      "page": 10
+    },
+    {
+      "number": "",
+      "title": "Development Pathway A: Clean Energy Transition and Modern Electrification",
+      "description": "",
+      "page": 11
+    },
+    {
+      "number": "",
+      "title": "Development Pathway B: Direct Pollution Reduction Across Air, Water, and Agriculture",
+      "description": "",
+      "page": 12
+    },
+    {
+      "number": "",
+      "title": "Development Pathway C: Climate Adaptation, Urban Cooling, and Water Security",
+      "description": "",
+      "page": 13
+    },
+    {
+      "number": "",
+      "title": "Development Pathway D: Technology Diffusion, Affordability, and Implementation",
+      "description": "",
+      "page": 14
+    },
+    {
+      "number": "",
+      "title": "Development Pathway E: Human Development and Institutional Capacity",
+      "description": "",
+      "page": 15
+    },
+    {
+      "number": "",
+      "title": "Sustainable Convergence and Polycrisis Resilience as Complementary Concepts",
+      "description": "",
+      "page": 16
+    },
+    {
+      "number": "",
+      "title": "An Intergenerational Perspective: 2026–2050, 2050–2100, and Beyond 2100",
+      "description": "",
+      "page": 17
+    },
+    {
+      "number": "",
+      "title": "Regional Diagnostics: South Asia, Sub-Saharan Africa, MENA, and Global Corridors",
+      "description": "",
+      "page": 18
+    },
+    {
+      "number": "",
+      "title": "Prevention Economics: Integrated Loop-Breaking vs. End-of-Pipe Remediation",
+      "description": "",
+      "page": 20
+    },
+    {
+      "number": "",
+      "title": "Applied Systems Cases: Breaking Feedback Loops in Cities and River Basins",
+      "description": "",
+      "page": 21
+    },
+    {
+      "number": "",
+      "title": "Protecting Natural Carbon Sinks, Watersheds, and Agricultural Resilience",
+      "description": "",
+      "page": 22
+    },
+    {
+      "number": "",
+      "title": "Short-Lived Climate Pollutants: Fast Levers to Break the Loop",
+      "description": "",
+      "page": 23
+    },
+    {
+      "number": "",
+      "title": "Clean Industrialization: Breaking Energy, Air, and Water Loops",
+      "description": "",
+      "page": 24
+    },
+    {
+      "number": "",
+      "title": "Blended Climate–Health Financing for Loop-Breaking Transitions",
+      "description": "",
+      "page": 25
+    },
+    {
+      "number": "",
+      "title": "Joint Heat–Pollution Early Warning and Clean-Air Cooling Shelters",
+      "description": "",
+      "page": 26
+    },
+    {
+      "number": "",
+      "title": "Integrated Environmental Governance, Joint Monitoring, and Accountability",
+      "description": "",
+      "page": 27
+    },
+    {
+      "number": "",
+      "title": "Concluding Synthesis: Transforming Systems Under Challenging Futures",
+      "description": "",
+      "page": 28
+    },
+    {
+      "number": "",
+      "title": "Methodology, Systems Calibration, Sensitivity Analysis, and Limitations",
+      "description": "",
+      "page": 29
+    },
+    {
+      "number": "",
+      "title": "References & Primary Sources",
+      "description": "",
+      "page": 30
+    }
+  ],
+  "references": [
+    {
+      "text": "Hughes, H. (2026). The Theory of Polycrisis Resilience: Toward a Unified Framework for Human and Systemic Vulnerability Reduction. H Heuristics Polycrisis Resilience Series (HH-2026-61). doi:10.6084/m9.figshare.35043985.",
+      "doi": "10.6084/m9.figshare.35043985",
+      "url": "https://doi.org/10.6084/m9.figshare.35043985"
+    },
+    {
+      "text": "Hughes, H. (2026). The Environmental Foundations of Polycrisis Resilience: Climate Adaptation, Pollution Reduction and Human Vulnerability. H Heuristics Polycrisis Resilience Series (HH-2026-63). doi:10.6084/m9.figshare.35044063.",
+      "doi": "10.6084/m9.figshare.35044063",
+      "url": "https://doi.org/10.6084/m9.figshare.35044063"
+    },
+    {
+      "text": "Hughes, H. (2026). The Climate-Pollution Convergence: Interconnected Environmental Risks and the Future of Human Exposure. H Heuristics Polycrisis Resilience Series (HH-2026-64). doi:10.6084/m9.figshare.35044117.",
+      "doi": "10.6084/m9.figshare.35044117",
+      "url": "https://doi.org/10.6084/m9.figshare.35044117"
+    },
+    {
+      "text": "Hughes, H. (2026). Polycrisis Resilience While Conditions Worsen Over Centuries. H Heuristics Polycrisis Resilience Series (HH-2026-69). doi:10.6084/m9.figshare.35044537.",
+      "doi": "10.6084/m9.figshare.35044537",
+      "url": "https://doi.org/10.6084/m9.figshare.35044537"
+    },
+    {
+      "text": "Intergovernmental Panel on Climate Change (IPCC) (2023). Sixth Assessment Report (AR6): Synthesis Report. Geneva: IPCC."
+    },
+    {
+      "text": "World Health Organization (WHO) (2025). Ambient and Household Air Pollution Burden of Disease. Geneva: WHO."
+    },
+    {
+      "text": "International Energy Agency (IEA) (2025). World Energy Outlook 2025. Paris: IEA."
+    },
+    {
+      "text": "United Nations Department of Economic and Social Affairs (UN DESA) (2024). World Population Prospects 2024."
+    },
+    {
+      "text": "European Commission JRC & DRMKC (2025). INFORM Risk Index 2025."
+    },
+    {
+      "text": "Lawrence, M., Homer-Dixon, T., Janzwood, S., Rockström, J., Renn, O., & Donges, J. F. (2024). Global polycrisis: the causal mechanisms of crisis entanglement. Global Sustainability, 7, e6."
+    }
+  ]
+}
