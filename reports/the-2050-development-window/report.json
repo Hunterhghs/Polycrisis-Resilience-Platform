@@ -26,7 +26,7 @@
   },
   "pdf": "report.pdf",
   "cover": "cover.jpg",
-  "pages": 31,
+  "pages": 30,
   "language": "en",
   "description": "An interdisciplinary H Heuristics flagship assessment within the Polycrisis Resilience Series— concept developed by Hunter Hughes—demonstrating why decisions…",
   "contribution": "Establishes The 2050 Development Window—concept developed by Hunter Hughes, Founder of H Heuristics—proving that 64–74% of 21st-century power, urban, industrial, and water capital stock is locked in between 2025 and 2050, making the next 25 years decisive for humanity's long-term trajectory.",
@@ -78,153 +78,105 @@
     },
     {
       "number": "",
-      "title": "The Urgency of 2025–2050: Capital-Stock and Demographic Lock-In",
+      "title": "The Urgency of 2025–2050 and Six-Theme Architecture",
       "description": "",
       "page": 6
     },
     {
       "number": "",
-      "title": "Six Central Research Themes of The 2050 Development Window",
-      "description": "",
-      "page": 7
-    },
-    {
-      "number": "",
-      "title": "Theme 1: The Global Development Gap in Income, Productivity, and Living Standards",
+      "title": "Theme 1: Closing the Global Development and Productivity Gap",
       "description": "",
       "page": 8
     },
     {
       "number": "",
-      "title": "Closing Productivity and Human-Capital Disparities Before 2050",
+      "title": "Theme 2: The Technology Diffusion Imperative and Digital Leapfrogging",
       "description": "",
       "page": 9
     },
     {
       "number": "",
-      "title": "Theme 2: The Technology Diffusion Imperative (2025–2050)",
-      "description": "",
-      "page": 10
-    },
-    {
-      "number": "",
-      "title": "AI, Digital Public Infrastructure, and Clean-Tech Scaling",
+      "title": "Theme 3: Infrastructure Buildout and Secondary-City Engineering",
       "description": "",
       "page": 11
     },
     {
       "number": "",
-      "title": "Theme 3: Infrastructure and Productive Capacity Buildout",
-      "description": "",
-      "page": 12
-    },
-    {
-      "number": "",
-      "title": "The 25-Year Urbanization Surge and Secondary-City Engineering",
+      "title": "Theme 4: Sustainable Economic Convergence and Clean Industrial Corridors",
       "description": "",
       "page": 13
     },
     {
       "number": "",
-      "title": "Theme 4: Sustainable Economic Convergence Without Carbon Lock-In",
+      "title": "Theme 5: The Polycrisis Challenge, Clean Air, and Multi-Hazard Adaptation",
       "description": "",
       "page": 14
     },
     {
       "number": "",
-      "title": "Building Clean Industrial Corridors and Zero-Carbon Exports",
-      "description": "",
-      "page": 15
-    },
-    {
-      "number": "",
-      "title": "Theme 5: The Polycrisis Challenge — Compressing Systemic Risk by 2050",
+      "title": "Theme 6: The 2050 Opportunity and the Cost of Post-2050 Retrofits",
       "description": "",
       "page": 16
     },
     {
       "number": "",
-      "title": "Climate Adaptation, Clean Air, and Multi-Hazard Early Warning",
-      "description": "",
-      "page": 17
-    },
-    {
-      "number": "",
-      "title": "Theme 6: The 2050 Development Opportunity — High-Return Pathways",
+      "title": "Regional 2050 Development Pathways Across Emerging Economies",
       "description": "",
       "page": 18
     },
     {
       "number": "",
-      "title": "The Cost of Delay: Why Post-2050 Retrofits Yield One-Third the Return",
-      "description": "",
-      "page": 19
-    },
-    {
-      "number": "",
-      "title": "Regional 2050 Window Pathways Across Emerging Economies",
+      "title": "Financing the 25-Year Window and Institutional Execution Speed",
       "description": "",
       "page": 20
     },
     {
       "number": "",
-      "title": "The 2025–2050 Demographic Surge in Sub-Saharan Africa and South Asia",
+      "title": "2030–2050 Telemetry Milestones and Five-Year Launch Plan",
+      "description": "",
+      "page": 21
+    },
+    {
+      "number": "",
+      "title": "Global 2050 Compact and Operational Policy Checklist",
       "description": "",
       "page": 22
     },
     {
-      "number": "2050",
-      "title": "Upgrading in Southeast Asia, Latin America, and MENA",
+      "number": "",
+      "title": "Municipal Resilience, Land-Use Planning, and Secondary Cities",
       "description": "",
       "page": 23
     },
     {
       "number": "",
-      "title": "Mobilizing Capital Inside the 25-Year Window (2026–2050)",
-      "description": "",
-      "page": 24
-    },
-    {
-      "number": "",
-      "title": "Institutional Speed: Procurement, Permitting, and Delivery Capacity",
+      "title": "Sovereign Fiscal Space, DSA Reform, and WACC Compression",
       "description": "",
       "page": 25
     },
     {
       "number": "",
-      "title": "2030, 2040, and 2050 Milestones: Telemetry for Accountability",
-      "description": "",
-      "page": 26
-    },
-    {
-      "number": "",
-      "title": "Immediate Five-Year Launch Plan (2026–2030)",
+      "title": "Clean Energy Grids, Storage, and Regional Power Pools (2025–2050)",
       "description": "",
       "page": 27
     },
     {
       "number": "",
-      "title": "A Global Compact for The 2050 Development Window",
+      "title": "Supply Chains, Critical Minerals, and Technical Workforce Scaling",
       "description": "",
       "page": 28
     },
     {
       "number": "",
-      "title": "Operational Policy Checklist for Decision-Makers",
+      "title": "Human Capital, Youth Compacts, and Adaptive Social Protection",
       "description": "",
       "page": 29
     },
     {
       "number": "",
-      "title": "Conclusion: Seizing the Next 25 Years for Humanity's Future",
+      "title": "Conclusion and Vintage Lock-In Methodology Appendix",
       "description": "",
       "page": 30
-    },
-    {
-      "number": "",
-      "title": "Methodology and Calibration Appendix",
-      "description": "",
-      "page": 31
     }
   ],
   "references": []
