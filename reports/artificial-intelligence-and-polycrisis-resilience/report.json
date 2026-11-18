@@ -3,8 +3,8 @@
   "title": "Artificial Intelligence and Polycrisis Resilience",
   "subtitle": "Emerging Technologies and the Future of Global Risk Reduction",
   "type": "Research Report",
-  "datePublished": "2026-11-17",
-  "dateModified": "2026-11-17",
+  "datePublished": "2026-11-18",
+  "dateModified": "2026-11-18",
   "doi": "10.6084/m9.figshare.35044666",
   "repository": {
     "name": "figshare",
@@ -74,147 +74,93 @@
   "contents": [
     {
       "number": "",
-      "title": "Executive Summary: Artificial Intelligence as an Enabling Technology for Resilience",
+      "title": "Executive Summary: AI, Emerging Tech, and Polycrisis Resilience",
       "description": "",
       "page": 4
     },
     {
       "number": "",
-      "title": "Proposed Conceptual Architecture: Integrating AI Into Polycrisis Resilience",
+      "title": "Conceptual Architecture and Multi-Hazard Risk Anticipation",
       "description": "",
       "page": 6
     },
     {
       "number": "",
-      "title": "Channel 1: Risk Anticipation, Multi-Hazard Forecasting, and Early Warning",
-      "description": "",
-      "page": 7
-    },
-    {
-      "number": "",
-      "title": "Channel 2: Technology Diffusion, Access, and Broad-Based Productivity",
+      "title": "Technology Diffusion, Grid Efficiency, and Institutional Capacity",
       "description": "",
       "page": 8
     },
     {
       "number": "",
-      "title": "Channel 3: Sustainable Development, Smart Grids, and Resource Efficiency",
-      "description": "",
-      "page": 9
-    },
-    {
-      "number": "",
-      "title": "Channel 4: Institutional Capacity, Planning, and Cross-System Coordination",
+      "title": "AI for Climate Adaptation and Environmental Pollution Control",
       "description": "",
       "page": 10
     },
     {
       "number": "",
-      "title": "AI Applications in Climate Adaptation, Hydrology, and Disaster Response",
+      "title": "AI in Public Health, Biotechnology, Food, and Water Security",
       "description": "",
       "page": 11
     },
     {
       "number": "",
-      "title": "AI Applications in Air-Quality Forecasting, Pollution Control, and Ecosystems",
+      "title": "AI's New Systemic Vulnerabilities and the Energy–Compute Paradox",
       "description": "",
       "page": 12
     },
     {
       "number": "",
-      "title": "AI Applications in Public Health, Epidemic Surveillance, and Diagnostics",
-      "description": "",
-      "page": 13
-    },
-    {
-      "number": "",
-      "title": "AI Applications in Precision Agriculture, Food Security, and Water Systems",
+      "title": "Global South AI Diffusion and Four 21st-Century Horizons",
       "description": "",
       "page": 14
     },
     {
       "number": "",
-      "title": "Systemic Risks of AI: Inequality, Concentration, Energy, Cyber, and Labor",
-      "description": "",
-      "page": 15
-    },
-    {
-      "number": "",
-      "title": "Resolving the AI Energy and Water Paradox Through Clean Compute",
+      "title": "Prevention Economics and Social Returns to AI Resilience",
       "description": "",
       "page": 16
     },
     {
       "number": "",
-      "title": "The Global South Imperative: Seven Prerequisites for Equitable AI Diffusion",
-      "description": "",
-      "page": 17
-    },
-    {
-      "number": "",
-      "title": "Analytical Time Horizons: 2026–2035, 2035–2050, 2050–2075, and 2075–2100",
+      "title": "Infrastructure Cybersecurity and AI-Enabled Disaster Logistics",
       "description": "",
       "page": 18
     },
     {
       "number": "",
-      "title": "Prevention Economics: Social Benefit-Cost Ratios of AI Resilience Systems",
+      "title": "Labor Transitions, Human Capital, and the Open Compute Commons",
       "description": "",
       "page": 19
     },
     {
       "number": "",
-      "title": "Managing Cybersecurity Threats and Systemic Technological Dependence",
+      "title": "International AI Governance and Continuous Field Auditing",
       "description": "",
-      "page": 21
+      "page": 20
     },
     {
       "number": "",
-      "title": "Workforce Transitions, Education, and Local Technological Capacity",
+      "title": "Regional AI Readiness vs. Polycrisis Exposure Diagnostics",
       "description": "",
       "page": 22
     },
     {
       "number": "",
-      "title": "Accessible Computing, Open-Weight Models, and Digital Public Goods",
-      "description": "",
-      "page": 23
-    },
-    {
-      "number": "",
-      "title": "International Technology Transfer, AI Governance, and Regulatory Frameworks",
+      "title": "Sovereign Digital Public Infrastructure and Financing AI Resilience",
       "description": "",
       "page": 24
     },
     {
       "number": "",
-      "title": "AI in Disaster Logistics, Cold Chains, and Supply-Chain Resilience",
-      "description": "",
-      "page": 25
-    },
-    {
-      "number": "",
-      "title": "Validation, Auditing, and Reliability Under Unprecedented Extremes",
+      "title": "AI Safety, Algorithmic Accountability, and Dual-Use Safeguards",
       "description": "",
       "page": 26
     },
     {
       "number": "",
-      "title": "Regional Diagnostics: Mapping AI Readiness Against Polycrisis Exposure",
-      "description": "",
-      "page": 27
-    },
-    {
-      "number": "",
-      "title": "Concluding Proposition: Governing AI for Human Vulnerability Reduction",
+      "title": "Concluding Synthesis and AI-Resilience Methodology Appendix",
       "description": "",
       "page": 28
-    },
-    {
-      "number": "",
-      "title": "Methodology, Readiness Calibration, Sensitivity Analysis, and Limitations",
-      "description": "",
-      "page": 29
     },
     {
       "number": "",
@@ -259,6 +205,43 @@
     },
     {
       "text": "World Health Organization (WHO) (2025). Digital Health and AI for Public Health Surveillance."
+    },
+    {
+      "text": "United Nations Department of Economic and Social Affairs (UN DESA). (2024). World Population Prospects 2024: Summary of Results. New York: United Nations."
+    },
+    {
+      "text": "Intergovernmental Panel on Climate Change (IPCC). (2023). Climate Change 2023: Synthesis Report (AR6). Geneva: IPCC."
+    },
+    {
+      "text": "International Energy Agency (IEA). (2025). Electricity 2025 & Energy and AI: Grid Demand, Efficiency, and Clean Additionality. Paris: IEA."
+    },
+    {
+      "text": "World Bank. (2025). World Development Indicators (WDI) & Digital Public Infrastructure (DPI) Global Benchmarks. Washington, DC: World Bank Group."
+    },
+    {
+      "text": "International Telecommunication Union (ITU). (2024). Measuring Digital Development: Facts and Figures 2024. Geneva: ITU."
+    },
+    {
+      "text": "European Commission Joint Research Centre (JRC). (2025). INFORM Risk Index 2025: Global Humanitarian and Polycrisis Risk Assessment. Luxembourg: Publications Office of the EU."
+    },
+    {
+      "text": "Global Commission on Adaptation (GCA). (2019/2024). Adapt Now: Early Warning Systems and Climate Resilience Benefit-Cost Analysis. Rotterdam & Washington, DC: GCA."
+    },
+    {
+      "text": "World Health Organization (WHO). (2024). Global Burden of Disease & Digital Health Readiness in Low-Resource Settings. Geneva: WHO."
+    },
+    {
+      "text": "Oxford Insights. (2024). Government AI Readiness Index 2024: Global South Diagnostics. London: Oxford Insights."
+    },
+    {
+      "text": "Hughes, H. (2026). Sustainable Convergence and Polycrisis Resilience: Integrating Economic Development, Environmental Sustainability and Systemic Risk Reduction. H Heuristics Polycrisis Resilience Series (HH-2026-77). doi:10.6084/m9.figshare.35045068.",
+      "doi": "10.6084/m9.figshare.35045068",
+      "url": "https://doi.org/10.6084/m9.figshare.35045068"
+    },
+    {
+      "text": "Hughes, H. (2026). Optimizing Humanity's Outlook in an Age of Polycrisis: Development Pathways for Reducing Global Vulnerability Through 2100. H Heuristics Polycrisis Resilience Series (HH-2026-74). doi:10.6084/m9.figshare.35044732.",
+      "doi": "10.6084/m9.figshare.35044732",
+      "url": "https://doi.org/10.6084/m9.figshare.35044732"
     }
   ]
 }
