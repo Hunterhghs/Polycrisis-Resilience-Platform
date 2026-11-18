@@ -1,0 +1,256 @@
+{
+  "seriesNumber": 69,
+  "title": "The Geography of Polycrisis Resilience",
+  "subtitle": "Spatial Inequality, Regional Vulnerability and the Geography of Global Resilience",
+  "type": "Research Report",
+  "datePublished": "2026-11-17",
+  "dateModified": "2026-11-17",
+  "doi": "10.6084/m9.figshare.35044510",
+  "repository": {
+    "name": "figshare",
+    "url": "https://figshare.com/articles/report/35044510"
+  },
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "license": {
+    "name": "Creative Commons Attribution 4.0 International",
+    "shortName": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 30,
+  "language": "en",
+  "description": "A foundational monograph establishing that Polycrisis Resilience must be developed geographically—mapping the spatial distribution of exposure, development…",
+  "contribution": "Establishes the geographical framework of Polycrisis Resilience—originated by Hunter Hughes, Founder of H Heuristics—connecting Geographic Exposure, Regional Vulnerability, Resilience Capacity, and Resilience Development across six Global South regions and demographic shifts through 2100.",
+  "themes": [
+    "Geography of Polycrisis Resilience",
+    "Spatial Inequality",
+    "Regional Vulnerability",
+    "Global South",
+    "Demographic Growth 2025–2100",
+    "Urban–Rural Disparities",
+    "Targeted Resilience Development"
+  ],
+  "keywords": [
+    "The Geography of Polycrisis Resilience",
+    "Polycrisis Resilience",
+    "Spatial Inequality",
+    "Regional Vulnerability",
+    "Global South",
+    "Sub-Saharan Africa",
+    "Demographic Change",
+    "Climate Adaptation",
+    "Infrastructure Development"
+  ],
+  "abstract": [
+    "The Geography of Polycrisis Resilience is a foundational publication within the H Heuristics Polycrisis Resilience Series, based on the concept developed by Hunter Hughes, Founder of H Heuristics (https://polycrisisresilience.hheuristics.com/).\nIt introduces a four-variable geographical analytical framework—Geographic Exposure, Regional Vulnerability, Resilience Capacity, and Resilience Development—and examines spatial inequality, demographic shifts (2025–2100), and targeted regional development across the Global South."
+  ],
+  "keyFindings": [
+    {
+      "title": "Polycrisis resilience is fundamentally geographical: the capacity of populations, economies, and institutions to withstand interconnected risks is unevenly distributed across environmental conditions, economic development, infrastructure, technology access, and institutional capacity.",
+      "text": ""
+    },
+    {
+      "title": "Reducing humanity's vulnerability requires directing technological, economic, environmental, and institutional improvements toward the regions where they produce the greatest vulnerability reductions—delivering 8.1x–11.8x social BCRs versus 2.4x for untargeted uniform allocation.",
+      "text": ""
+    },
+    {
+      "title": "Under UN World Population Prospects 2024, Sub-Saharan Africa's population is projected to grow from ~1.2 billion in 2024 to 2.2 billion by 2054 and 3.3 billion by 2100, making infrastructure and development acceleration faster than demographic growth the central analytical imperative.",
+      "text": ""
+    },
+    {
+      "title": "The Global South is not homogeneous: Sub-Saharan Africa, South Asia, Southeast Asia, MENA, Latin America, and Small Island Developing States face distinct binding geographical constraints requiring tailored resilience development pathways.",
+      "text": ""
+    }
+  ],
+  "contents": [
+    {
+      "number": "",
+      "title": "Executive Summary: Why Polycrisis Resilience Must Be Developed Geographically",
+      "description": "",
+      "page": 4
+    },
+    {
+      "number": "",
+      "title": "Central Analytical Framework: Four Geographical Variables of Resilience",
+      "description": "",
+      "page": 6
+    },
+    {
+      "number": "",
+      "title": "Spatial Inequality: Why Exposure and Capacity Diverge Across Regions",
+      "description": "",
+      "page": 7
+    },
+    {
+      "number": "",
+      "title": "Demographic Change and Population Growth (2025–2100): The Spatial Shift",
+      "description": "",
+      "page": 9
+    },
+    {
+      "number": "",
+      "title": "How Population Growth Interacts With Urbanization, Energy, Food, and Health",
+      "description": "",
+      "page": 11
+    },
+    {
+      "number": "",
+      "title": "Regional Focus 1: Sub-Saharan Africa—Growth, Energy, Urbanization, and Food",
+      "description": "",
+      "page": 12
+    },
+    {
+      "number": "",
+      "title": "Regional Focus 2: South Asia—Density, Extreme Heat, Air Pollution, and Water",
+      "description": "",
+      "page": 13
+    },
+    {
+      "number": "",
+      "title": "Regional Focus 3: Southeast Asia—Coastal Exposure, Industrialization, and Cities",
+      "description": "",
+      "page": 14
+    },
+    {
+      "number": "",
+      "title": "Regional Focus 4: Middle East and North Africa—Water Scarcity, Heat, and Energy",
+      "description": "",
+      "page": 15
+    },
+    {
+      "number": "",
+      "title": "Regional Focus 5: Latin America—Urban Inequality, Forests, and Water Security",
+      "description": "",
+      "page": 16
+    },
+    {
+      "number": "",
+      "title": "Regional Focus 6: Small Island Developing States—Sea-Level Rise and Constraints",
+      "description": "",
+      "page": 17
+    },
+    {
+      "number": "",
+      "title": "Sub-National Geography: Urban Cores, Informal Peri-Urban Belts, and Rural Basins",
+      "description": "",
+      "page": 18
+    },
+    {
+      "number": "",
+      "title": "Coastal and Delta Geography: Sea-Level Rise, Storm Surges, and Port Corridors",
+      "description": "",
+      "page": 19
+    },
+    {
+      "number": "",
+      "title": "Spatial Capital Allocation: Directing Investments to Maximum Vulnerability Impact",
+      "description": "",
+      "page": 20
+    },
+    {
+      "number": "",
+      "title": "Avoiding One-Size-Fits-All Policy: Heterogeneity Across the Global South",
+      "description": "",
+      "page": 21
+    },
+    {
+      "number": "",
+      "title": "Transboundary Geography: Shared Watersheds, Airsheds, and Trade Corridors",
+      "description": "",
+      "page": 22
+    },
+    {
+      "number": "",
+      "title": "Geospatial Intelligence: Satellite Telemetry, Risk Mapping, and Local Planning",
+      "description": "",
+      "page": 23
+    },
+    {
+      "number": "",
+      "title": "Regional Policy, Multilateral Development Finance, and Governance Agenda",
+      "description": "",
+      "page": 24
+    },
+    {
+      "number": "",
+      "title": "Spatial Mobility: Rural-to-Urban Migration Corridors and Planned Absorption",
+      "description": "",
+      "page": 25
+    },
+    {
+      "number": "",
+      "title": "A Geographical Resilience Financing Compact for the Global South",
+      "description": "",
+      "page": 26
+    },
+    {
+      "number": "",
+      "title": "Coastal Delta and Small Island Spatial Engineering",
+      "description": "",
+      "page": 27
+    },
+    {
+      "number": "",
+      "title": "Concluding Synthesis: Can Development Outpace Demographic & Climate Pressures?",
+      "description": "",
+      "page": 28
+    },
+    {
+      "number": "",
+      "title": "Methodology, Data Architecture, Sensitivity Analysis, and Limitations",
+      "description": "",
+      "page": 29
+    },
+    {
+      "number": "",
+      "title": "References & Primary Sources",
+      "description": "",
+      "page": 30
+    }
+  ],
+  "references": [
+    {
+      "text": "Hughes, H. (2026). The Theory of Polycrisis Resilience: Toward a Unified Framework for Human and Systemic Vulnerability Reduction. H Heuristics Polycrisis Resilience Series (HH-2026-61). doi:10.6084/m9.figshare.35043985.",
+      "doi": "10.6084/m9.figshare.35043985",
+      "url": "https://doi.org/10.6084/m9.figshare.35043985"
+    },
+    {
+      "text": "Hughes, H. (2026). Polycrisis Resilience: Human Exposure—Understanding and Reducing Human Exposure to Interconnected Global Risks. H Heuristics Polycrisis Resilience Series (HH-2026-67). doi:10.6084/m9.figshare.35044447.",
+      "doi": "10.6084/m9.figshare.35044447",
+      "url": "https://doi.org/10.6084/m9.figshare.35044447"
+    },
+    {
+      "text": "United Nations Department of Economic and Social Affairs (UN DESA) (2024). World Population Prospects 2024. New York: United Nations."
+    },
+    {
+      "text": "European Commission JRC & DRMKC (2025). INFORM Risk Index 2025: Global Risk Assessment for Humanitarian Crises and Disasters."
+    },
+    {
+      "text": "World Bank (2025). World Development Indicators (WDI) Database. Washington, DC: World Bank Group."
+    },
+    {
+      "text": "UN-Habitat (2024). World Cities Report 2024: Cities and Climate Action. Nairobi: UN-Habitat."
+    },
+    {
+      "text": "Intergovernmental Panel on Climate Change (IPCC) (2023). Sixth Assessment Report (AR6): Impacts, Adaptation and Vulnerability."
+    },
+    {
+      "text": "International Energy Agency (IEA) (2025). Africa Energy Outlook & SDG 7 Tracking. Paris: IEA."
+    },
+    {
+      "text": "Global Commission on Adaptation (2019). Adapt Now: A Global Call for Leadership on Climate Resilience. World Resources Institute."
+    },
+    {
+      "text": "Hallegatte, S., Rentschler, J., & Rozenberg, J. (2019). Lifelines: The Resilient Infrastructure Opportunity. World Bank Group."
+    }
+  ]
+}
