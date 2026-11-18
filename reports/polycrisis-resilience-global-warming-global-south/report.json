@@ -3,8 +3,8 @@
   "title": "Polycrisis Resilience – Global Warming in the Global South",
   "subtitle": "Multi-Century Climate Outlook, Population Growth and the Future of Human Vulnerability",
   "type": "Research Report",
-  "datePublished": "2026-11-17",
-  "dateModified": "2026-11-17",
+  "datePublished": "2026-11-18",
+  "dateModified": "2026-11-18",
   "doi": "10.6084/m9.figshare.35044582",
   "repository": {
     "name": "figshare",
@@ -74,139 +74,91 @@
   "contents": [
     {
       "number": "",
-      "title": "Executive Summary: Global Warming, Demographics, and the Global South",
+      "title": "Executive Summary: Global Warming and Polycrisis Resilience in the Global South",
       "description": "",
       "page": 4
     },
     {
       "number": "",
-      "title": "Central Analytical Framework: The Climate–Population–Development Feedback System",
+      "title": "The Climate–Population–Development Feedback System",
       "description": "",
       "page": 6
     },
     {
       "number": "",
-      "title": "Population Growth and the Changing Geography of Vulnerability (2024–2100+)",
+      "title": "Probabilistic Demographic Geography and Multi-Century Climate Outlook",
       "description": "",
       "page": 8
     },
     {
       "number": "",
-      "title": "Multi-Century Climate Outlook: 21st, 22nd, and 23rd+ Century Horizons",
-      "description": "",
-      "page": 9
-    },
-    {
-      "number": "",
-      "title": "Physical Climate Commitments: Multi-Century Sea-Level Rise and Ice Melt",
+      "title": "Multi-Century Sea-Level Commitments and Global South Heterogeneity",
       "description": "",
       "page": 10
     },
     {
       "number": "",
-      "title": "Avoiding Uniformity: Heterogeneous Exposure Across Seven Global South Regions",
-      "description": "",
-      "page": 11
-    },
-    {
-      "number": "",
-      "title": "Region 1: Sub-Saharan Africa—Heat, Agriculture, Water, and 3.34B Population Scale",
+      "title": "Regional Epicenters: Sub-Saharan Africa and South Asia",
       "description": "",
       "page": 13
     },
     {
       "number": "",
-      "title": "Region 2: South Asia—Extreme Heat, Monsoon Variability, Floods, and Coasts",
+      "title": "Regional Profiles: Southeast Asia, MENA, Latin America, and SIDS",
       "description": "",
       "page": 14
     },
     {
       "number": "",
-      "title": "Region 3: Southeast Asia—Sea-Level Rise, Typhoons, and Coastal Urbanization",
-      "description": "",
-      "page": 15
-    },
-    {
-      "number": "",
-      "title": "Region 4: Middle East and North Africa—Heat Stress, Water Scarcity, and Energy",
+      "title": "Development as Adaptation: Structural Vulnerability Reduction",
       "description": "",
       "page": 16
     },
     {
       "number": "",
-      "title": "Region 5: Central America and the Caribbean—Hurricanes, Coasts, and Agriculture",
-      "description": "",
-      "page": 17
-    },
-    {
-      "number": "",
-      "title": "Region 6: South America—Amazon Ecosystem Change, Drought, and Heat",
+      "title": "Interventions 1–4: Adaptation, Technology, Convergence, and Human Capital",
       "description": "",
       "page": 18
     },
     {
       "number": "",
-      "title": "Region 7: Small Island Developing States—Sea-Level Rise and Freshwater Security",
+      "title": "Interventions 5–6: Infrastructure, Institutions, and Prevention Economics",
       "description": "",
       "page": 19
     },
     {
       "number": "",
-      "title": "Why Climate Adaptation Cannot Be Separated From Economic Development",
-      "description": "",
-      "page": 20
-    },
-    {
-      "number": "",
-      "title": "H Heuristics Interventions 1 & 2: Climate Adaptation and Technological Diffusion",
+      "title": "Urban Heat Exposure and Passive-First Cooling Architecture",
       "description": "",
       "page": 21
     },
     {
       "number": "",
-      "title": "H Heuristics Interventions 3 & 4: Sustainable Convergence and Human Development",
+      "title": "Food–Water Resilience and the Global Climate Finance Agenda",
       "description": "",
       "page": 22
     },
     {
       "number": "",
-      "title": "H Heuristics Interventions 5 & 6: Infrastructure Development and Institutional Resilience",
+      "title": "Multi-Century Coastal Adaptation, Blue-Green Buffers, and Port Hardening",
       "description": "",
       "page": 23
     },
     {
       "number": "",
-      "title": "Prevention Economics: Development-Led Adaptation vs. Reactive Aid",
-      "description": "",
-      "page": 24
-    },
-    {
-      "number": "",
-      "title": "Urban Expansion, Clean Cooling, and Thermal Resilience in Growing Cities",
+      "title": "Sovereign Debt Reform, Resilience DSAs, and Parametric Risk Pools",
       "description": "",
       "page": 25
     },
     {
       "number": "",
-      "title": "Food Security, Rain-Fed Agriculture, and Multi-Century Water Systems",
-      "description": "",
-      "page": 26
-    },
-    {
-      "number": "",
-      "title": "Global Climate Finance, Technology Transfer, and Multi-Century Governance",
+      "title": "Digital Public Infrastructure, AI Early Warning, and Adaptive Safety Nets",
       "description": "",
       "page": 27
     },
     {
       "number": "",
-      "title": "Concluding Synthesis: Strengthening Growing Populations Across Generations",
-      "description": "",
-      "page": 28
-    },
-    {
-      "number": "",
-      "title": "Methodology, Probabilistic Uncertainty, Sensitivity Analysis, and Limitations",
+      "title": "Concluding Synthesis and Multi-Century Methodology Appendix",
       "description": "",
       "page": 29
     },
@@ -255,6 +207,45 @@
     },
     {
       "text": "Global Commission on Adaptation (2019). Adapt Now: A Global Call for Leadership on Climate Resilience. World Resources Institute."
+    },
+    {
+      "text": "United Nations Department of Economic and Social Affairs (UN DESA). (2024). World Population Prospects 2024: Probabilistic Projections to 2100. New York: United Nations."
+    },
+    {
+      "text": "Intergovernmental Panel on Climate Change (IPCC). (2023). Climate Change 2023: Synthesis Report (AR6) & Long-Term Sea-Level Commitments. Geneva: IPCC."
+    },
+    {
+      "text": "World Bank. (2025). World Development Indicators (WDI) & Groundswell Internal Climate Migration Assessments. Washington, DC: World Bank Group."
+    },
+    {
+      "text": "International Energy Agency (IEA). (2025). The Future of Cooling & Clean Energy Transitions in Emerging Economies. Paris: IEA."
+    },
+    {
+      "text": "World Health Organization (WHO). (2024). Heat-Health Action Plans and Global Burden of Ambient PM2.5. Geneva: WHO."
+    },
+    {
+      "text": "European Commission Joint Research Centre (JRC). (2025). INFORM Risk Index 2025: Global Humanitarian and Polycrisis Risk Assessment. Luxembourg: Publications Office of the EU."
+    },
+    {
+      "text": "Global Commission on Adaptation (GCA). (2019/2024). Adapt Now: A Global Call for Leadership on Climate Resilience. Rotterdam & Washington, DC: GCA."
+    },
+    {
+      "text": "International Monetary Fund (IMF). (2024). Debt Sustainability Frameworks, State-Contingent Debt Clauses, and Climate Resilience. Washington, DC: IMF."
+    },
+    {
+      "text": "Hughes, H. (2026). Mitigating Secondary Effects and Feedback Loops: Multi-Century Climate Outlook, Population Growth and the Future of Human Vulnerability. H Heuristics Polycrisis Resilience Series (HH-2026-72). doi:10.6084/m9.figshare.35044630.",
+      "doi": "10.6084/m9.figshare.35044630",
+      "url": "https://doi.org/10.6084/m9.figshare.35044630"
+    },
+    {
+      "text": "Hughes, H. (2026). Artificial Intelligence and Polycrisis Resilience: Emerging Technologies and the Future of Global Risk Reduction. H Heuristics Polycrisis Resilience Series (HH-2026-73). doi:10.6084/m9.figshare.35044666.",
+      "doi": "10.6084/m9.figshare.35044666",
+      "url": "https://doi.org/10.6084/m9.figshare.35044666"
+    },
+    {
+      "text": "Hughes, H. (2026). Optimizing Humanity's Outlook in an Age of Polycrisis: Development Pathways for Reducing Global Vulnerability Through 2100. H Heuristics Polycrisis Resilience Series (HH-2026-74). doi:10.6084/m9.figshare.35044732.",
+      "doi": "10.6084/m9.figshare.35044732",
+      "url": "https://doi.org/10.6084/m9.figshare.35044732"
     }
   ]
 }
