@@ -1,0 +1,264 @@
+{
+  "seriesNumber": 74,
+  "title": "Artificial Intelligence and Polycrisis Resilience",
+  "subtitle": "Emerging Technologies and the Future of Global Risk Reduction",
+  "type": "Research Report",
+  "datePublished": "2026-11-17",
+  "dateModified": "2026-11-17",
+  "doi": "10.6084/m9.figshare.35044666",
+  "repository": {
+    "name": "figshare",
+    "url": "https://figshare.com/articles/report/35044666"
+  },
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "license": {
+    "name": "Creative Commons Attribution 4.0 International",
+    "shortName": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 30,
+  "language": "en",
+  "description": "A foundational monograph examining how artificial intelligence and emerging technologies can be developed, diffused, and applied to reduce human and systemic…",
+  "contribution": "Establishes the conceptual architecture for integrating Artificial Intelligence into Polycrisis Resilience—originated by Hunter Hughes, Founder of H Heuristics—connecting Risk Anticipation, Technology Diffusion, Sustainable Development, and Institutional Capacity across four 21st-century horizons (2026–2035, 2035–2050, 2050–2075, and 2075–2100).",
+  "themes": [
+    "Artificial Intelligence",
+    "Polycrisis Resilience",
+    "Risk Anticipation & Early Warning",
+    "Global South AI Diffusion",
+    "Sustainable Development",
+    "AI Energy & Infrastructure",
+    "Technology Governance"
+  ],
+  "keywords": [
+    "Artificial Intelligence and Polycrisis Resilience",
+    "Polycrisis Resilience",
+    "Artificial Intelligence",
+    "Global Risk Reduction",
+    "Early Warning Systems",
+    "Technology Diffusion",
+    "Global South",
+    "Sustainable Convergence",
+    "AI Governance"
+  ],
+  "abstract": [
+    "Artificial Intelligence and Polycrisis Resilience is a foundational publication within the H Heuristics Polycrisis Resilience Series, based on the concept developed by Hunter Hughes, Founder of H Heuristics (https://polycrisisresilience.hheuristics.com/).\nIt answers the central research question of how artificial intelligence and emerging technologies can be developed, diffused, and applied to reduce human and systemic vulnerability to the global polycrisis across four analytical horizons (2026–2035, 2035–2050, 2050–2075, and 2075–2100)."
+  ],
+  "keyFindings": [
+    {
+      "title": "Artificial intelligence is a potentially transformative enabling technology for Polycrisis Resilience, but its contribution to global risk reduction depends not merely on frontier computational capabilities—it depends on how equitably AI is distributed, governed, and integrated into sustainable development.",
+      "text": ""
+    },
+    {
+      "title": "AI strengthens resilience through four core channels: Risk Anticipation (forecasting and early warning), Technology Diffusion (access and productivity), Sustainable Development (energy and resource efficiency), and Institutional Capacity (planning and cross-system coordination).",
+      "text": ""
+    },
+    {
+      "title": "AI simultaneously introduces systemic risks—unequal access, compute and talent concentration, electricity and water strain, infrastructure dependencies, cybersecurity threats, and labor disruption—that can widen global vulnerability unless proactively governed.",
+      "text": ""
+    },
+    {
+      "title": "Deploying equitable, energy-efficient AI across early warning (12.4x BCR), smart grids (10.8x), epidemic surveillance (10.5x), and precision agriculture (9.9x) compresses global vulnerability from 65.0 (2025) to 25.0 by 2050 and 11.0 by 2100 (-83.1%).",
+      "text": ""
+    }
+  ],
+  "contents": [
+    {
+      "number": "",
+      "title": "Executive Summary: Artificial Intelligence as an Enabling Technology for Resilience",
+      "description": "",
+      "page": 4
+    },
+    {
+      "number": "",
+      "title": "Proposed Conceptual Architecture: Integrating AI Into Polycrisis Resilience",
+      "description": "",
+      "page": 6
+    },
+    {
+      "number": "",
+      "title": "Channel 1: Risk Anticipation, Multi-Hazard Forecasting, and Early Warning",
+      "description": "",
+      "page": 7
+    },
+    {
+      "number": "",
+      "title": "Channel 2: Technology Diffusion, Access, and Broad-Based Productivity",
+      "description": "",
+      "page": 8
+    },
+    {
+      "number": "",
+      "title": "Channel 3: Sustainable Development, Smart Grids, and Resource Efficiency",
+      "description": "",
+      "page": 9
+    },
+    {
+      "number": "",
+      "title": "Channel 4: Institutional Capacity, Planning, and Cross-System Coordination",
+      "description": "",
+      "page": 10
+    },
+    {
+      "number": "",
+      "title": "AI Applications in Climate Adaptation, Hydrology, and Disaster Response",
+      "description": "",
+      "page": 11
+    },
+    {
+      "number": "",
+      "title": "AI Applications in Air-Quality Forecasting, Pollution Control, and Ecosystems",
+      "description": "",
+      "page": 12
+    },
+    {
+      "number": "",
+      "title": "AI Applications in Public Health, Epidemic Surveillance, and Diagnostics",
+      "description": "",
+      "page": 13
+    },
+    {
+      "number": "",
+      "title": "AI Applications in Precision Agriculture, Food Security, and Water Systems",
+      "description": "",
+      "page": 14
+    },
+    {
+      "number": "",
+      "title": "Systemic Risks of AI: Inequality, Concentration, Energy, Cyber, and Labor",
+      "description": "",
+      "page": 15
+    },
+    {
+      "number": "",
+      "title": "Resolving the AI Energy and Water Paradox Through Clean Compute",
+      "description": "",
+      "page": 16
+    },
+    {
+      "number": "",
+      "title": "The Global South Imperative: Seven Prerequisites for Equitable AI Diffusion",
+      "description": "",
+      "page": 17
+    },
+    {
+      "number": "",
+      "title": "Analytical Time Horizons: 2026–2035, 2035–2050, 2050–2075, and 2075–2100",
+      "description": "",
+      "page": 18
+    },
+    {
+      "number": "",
+      "title": "Prevention Economics: Social Benefit-Cost Ratios of AI Resilience Systems",
+      "description": "",
+      "page": 19
+    },
+    {
+      "number": "",
+      "title": "Managing Cybersecurity Threats and Systemic Technological Dependence",
+      "description": "",
+      "page": 21
+    },
+    {
+      "number": "",
+      "title": "Workforce Transitions, Education, and Local Technological Capacity",
+      "description": "",
+      "page": 22
+    },
+    {
+      "number": "",
+      "title": "Accessible Computing, Open-Weight Models, and Digital Public Goods",
+      "description": "",
+      "page": 23
+    },
+    {
+      "number": "",
+      "title": "International Technology Transfer, AI Governance, and Regulatory Frameworks",
+      "description": "",
+      "page": 24
+    },
+    {
+      "number": "",
+      "title": "AI in Disaster Logistics, Cold Chains, and Supply-Chain Resilience",
+      "description": "",
+      "page": 25
+    },
+    {
+      "number": "",
+      "title": "Validation, Auditing, and Reliability Under Unprecedented Extremes",
+      "description": "",
+      "page": 26
+    },
+    {
+      "number": "",
+      "title": "Regional Diagnostics: Mapping AI Readiness Against Polycrisis Exposure",
+      "description": "",
+      "page": 27
+    },
+    {
+      "number": "",
+      "title": "Concluding Proposition: Governing AI for Human Vulnerability Reduction",
+      "description": "",
+      "page": 28
+    },
+    {
+      "number": "",
+      "title": "Methodology, Readiness Calibration, Sensitivity Analysis, and Limitations",
+      "description": "",
+      "page": 29
+    },
+    {
+      "number": "",
+      "title": "References & Primary Sources",
+      "description": "",
+      "page": 30
+    }
+  ],
+  "references": [
+    {
+      "text": "Hughes, H. (2026). The Theory of Polycrisis Resilience: Toward a Unified Framework for Human and Systemic Vulnerability Reduction. H Heuristics Polycrisis Resilience Series (HH-2026-61). doi:10.6084/m9.figshare.35043985.",
+      "doi": "10.6084/m9.figshare.35043985",
+      "url": "https://doi.org/10.6084/m9.figshare.35043985"
+    },
+    {
+      "text": "Hughes, H. (2026). Technology Diffusion and Polycrisis Resilience: Accelerating the Adoption of Technologies That Reduce Global Vulnerability. H Heuristics Polycrisis Resilience Series (HH-2026-66). doi:10.6084/m9.figshare.35044165.",
+      "doi": "10.6084/m9.figshare.35044165",
+      "url": "https://doi.org/10.6084/m9.figshare.35044165"
+    },
+    {
+      "text": "Hughes, H. (2026). Mitigating Secondary Effects and Feedback Loops. H Heuristics Polycrisis Resilience Series (HH-2026-72). doi:10.6084/m9.figshare.35044630.",
+      "doi": "10.6084/m9.figshare.35044630",
+      "url": "https://doi.org/10.6084/m9.figshare.35044630"
+    },
+    {
+      "text": "UNCTAD (2025). Technology and Innovation Report 2025: Inclusive Artificial Intelligence and Green Technologies for Development. Geneva: United Nations."
+    },
+    {
+      "text": "International Energy Agency (IEA) (2025). Energy and AI: World Energy Outlook Special Report. Paris: IEA."
+    },
+    {
+      "text": "International Telecommunication Union (ITU) (2025). Measuring Digital Development: Facts and Figures 2025. Geneva: ITU."
+    },
+    {
+      "text": "World Meteorological Organization (WMO) (2025). Early Warnings for All & AI Weather Forecasting."
+    },
+    {
+      "text": "World Bank (2025). World Development Indicators (WDI) Database. Washington, DC: World Bank Group."
+    },
+    {
+      "text": "European Commission JRC & DRMKC (2025). INFORM Risk Index 2025."
+    },
+    {
+      "text": "World Health Organization (WHO) (2025). Digital Health and AI for Public Health Surveillance."
+    }
+  ]
+}
