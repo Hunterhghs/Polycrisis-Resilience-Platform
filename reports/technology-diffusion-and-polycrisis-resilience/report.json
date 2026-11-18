@@ -1,0 +1,262 @@
+{
+  "seriesNumber": 67,
+  "title": "Technology Diffusion and Polycrisis Resilience",
+  "subtitle": "Accelerating the Adoption of Technologies That Reduce Global Vulnerability",
+  "type": "Research Report",
+  "datePublished": "2026-11-17",
+  "dateModified": "2026-11-17",
+  "doi": "10.6084/m9.figshare.35044165",
+  "repository": {
+    "name": "figshare",
+    "url": "https://figshare.com/articles/report/35044165"
+  },
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "license": {
+    "name": "Creative Commons Attribution 4.0 International",
+    "shortName": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 30,
+  "language": "en",
+  "description": "A foundational monograph establishing that accelerating the global diffusion of technologies that reduce human and systemic vulnerability is a fundamental…",
+  "contribution": "Develops the Technology Diffusion and Polycrisis Resilience framework—originated by Hunter Hughes, Founder of H Heuristics—demonstrating that humanity's resilience depends not only on what technologies it invents, but on how rapidly, affordably, and equitably it deploys vulnerability-reducing technologies worldwide.",
+  "themes": [
+    "Technology Diffusion",
+    "Polycrisis Resilience",
+    "Global Vulnerability Reduction",
+    "Clean Energy",
+    "Digital Systems",
+    "Technology Transfer",
+    "Economic Convergence"
+  ],
+  "keywords": [
+    "Technology Diffusion and Polycrisis Resilience",
+    "Polycrisis Resilience",
+    "Technology Diffusion",
+    "Global Vulnerability Reduction",
+    "Clean Energy",
+    "Digital Public Infrastructure",
+    "International Technology Transfer",
+    "Affordability",
+    "Economic Convergence"
+  ],
+  "abstract": [
+    "Technology Diffusion and Polycrisis Resilience is a foundational publication within the H Heuristics Polycrisis Resilience Series, based on the concept developed by Hunter Hughes, Founder of H Heuristics (https://polycrisisresilience.hheuristics.com/).\nIt develops a unified framework connecting technological innovation, international technology transfer, affordability, infrastructure development, institutional capacity, and economic convergence to the broader objective of reducing global vulnerability."
+  ],
+  "keyFindings": [
+    {
+      "title": "Accelerating the global diffusion of technologies that reduce human and systemic vulnerability is a fundamental mechanism for strengthening Polycrisis Resilience; innovation alone does not build resilience until adoption reaches vulnerable populations at scale.",
+      "text": ""
+    },
+    {
+      "title": "Humanity's resilience depends not only on what technologies it develops, but on how effectively it distributes and deploys technologies capable of improving human development and strengthening interconnected systems across energy, health, agriculture, water, and digital infrastructure.",
+      "text": ""
+    },
+    {
+      "title": "Financial, infrastructural, institutional, and tariff barriers currently create up to 24 years of cumulative adoption lag between frontier invention and last-mile deployment in low-income economies.",
+      "text": ""
+    },
+    {
+      "title": "Treating technology diffusion as a central global resilience strategy compresses systemic vulnerability from 66.0 (2025) to 21.5 by 2050 and 8.5 by 2100 (-87.1%), delivering 7.4x–11.6x social benefit-cost ratios.",
+      "text": ""
+    }
+  ],
+  "contents": [
+    {
+      "number": "",
+      "title": "Executive Summary: Diffusion as a Central Resilience Strategy",
+      "description": "",
+      "page": 4
+    },
+    {
+      "number": "",
+      "title": "The Central Conceptual Model: From Innovation to Polycrisis Resilience",
+      "description": "",
+      "page": 6
+    },
+    {
+      "number": "",
+      "title": "Why Invention Is Not Enough: Speed, Affordability, and Distribution",
+      "description": "",
+      "page": 8
+    },
+    {
+      "number": "",
+      "title": "Clean Energy and Distributed Microgrids as Multi-Risk Buffers",
+      "description": "",
+      "page": 9
+    },
+    {
+      "number": "",
+      "title": "Healthcare, Diagnostics, and Telemedicine Diffusion",
+      "description": "",
+      "page": 10
+    },
+    {
+      "number": "",
+      "title": "Agricultural Productivity and Water-Security Technologies",
+      "description": "",
+      "page": 11
+    },
+    {
+      "number": "",
+      "title": "Digital Systems, Early Warning, and Digital Public Infrastructure",
+      "description": "",
+      "page": 12
+    },
+    {
+      "number": "",
+      "title": "Climate Adaptation and Resilient Infrastructure Technologies",
+      "description": "",
+      "page": 13
+    },
+    {
+      "number": "",
+      "title": "Financial, Infrastructural, Institutional, and Tariff Barriers",
+      "description": "",
+      "page": 14
+    },
+    {
+      "number": "",
+      "title": "Affordability, Learning Curves, and Leapfrogging Dynamics",
+      "description": "",
+      "page": 15
+    },
+    {
+      "number": "",
+      "title": "International Technology Transfer, IP, and Trade Corridors",
+      "description": "",
+      "page": 16
+    },
+    {
+      "number": "",
+      "title": "Infrastructure Prerequisites and Institutional Absorptive Capacity",
+      "description": "",
+      "page": 17
+    },
+    {
+      "number": "",
+      "title": "Technology Diffusion and Global Economic Convergence",
+      "description": "",
+      "page": 18
+    },
+    {
+      "number": "",
+      "title": "Regional Diffusion Gaps and High-Leverage Adoption Corridors",
+      "description": "",
+      "page": 19
+    },
+    {
+      "number": "",
+      "title": "Financing Accelerated Diffusion: Blended Finance and De-Risking",
+      "description": "",
+      "page": 21
+    },
+    {
+      "number": "",
+      "title": "Applied Diffusion Cases: Solar, Mobile Money, and Precision Agriculture",
+      "description": "",
+      "page": 22
+    },
+    {
+      "number": "",
+      "title": "Treating Technology Diffusion as Core Global Resilience Strategy",
+      "description": "",
+      "page": 23
+    },
+    {
+      "number": "",
+      "title": "Diffusion Governance, Adoption Metrics, and Accountability",
+      "description": "",
+      "page": 24
+    },
+    {
+      "number": "",
+      "title": "Local Workforce Skills, Maintenance Ecosystems, and Uptime",
+      "description": "",
+      "page": 25
+    },
+    {
+      "number": "",
+      "title": "Open-Source Digital and Scientific Public Goods for Diffusion",
+      "description": "",
+      "page": 26
+    },
+    {
+      "number": "",
+      "title": "Diversified Supply Chains for Global Resilience Technologies",
+      "description": "",
+      "page": 27
+    },
+    {
+      "number": "",
+      "title": "Concluding Synthesis: Distributing the Tools of Human Resilience",
+      "description": "",
+      "page": 28
+    },
+    {
+      "number": "",
+      "title": "Methodology, Data Architecture, Sensitivity Analysis, and Limitations",
+      "description": "",
+      "page": 29
+    },
+    {
+      "number": "",
+      "title": "References & Primary Sources",
+      "description": "",
+      "page": 30
+    }
+  ],
+  "references": [
+    {
+      "text": "Hughes, H. (2026). The Theory of Polycrisis Resilience: Toward a Unified Framework for Human and Systemic Vulnerability Reduction. H Heuristics Polycrisis Resilience Series (HH-2026-61). doi:10.6084/m9.figshare.35043985.",
+      "doi": "10.6084/m9.figshare.35043985",
+      "url": "https://doi.org/10.6084/m9.figshare.35043985"
+    },
+    {
+      "text": "Hughes, H. (2026). The Foundations of Polycrisis Resilience: Defining Resilience in an Era of Interconnected Global Risks. H Heuristics Polycrisis Resilience Series (HH-2026-62). doi:10.6084/m9.figshare.35044018.",
+      "doi": "10.6084/m9.figshare.35044018",
+      "url": "https://doi.org/10.6084/m9.figshare.35044018"
+    },
+    {
+      "text": "Hughes, H. (2026). The Environmental Foundations of Polycrisis Resilience: Climate Adaptation, Pollution Reduction and Human Vulnerability. H Heuristics Polycrisis Resilience Series (HH-2026-63). doi:10.6084/m9.figshare.35044063.",
+      "doi": "10.6084/m9.figshare.35044063",
+      "url": "https://doi.org/10.6084/m9.figshare.35044063"
+    },
+    {
+      "text": "Hughes, H. (2026). The Climate-Pollution Convergence: Interconnected Environmental Risks and the Future of Human Exposure. H Heuristics Polycrisis Resilience Series (HH-2026-64). doi:10.6084/m9.figshare.35044117.",
+      "doi": "10.6084/m9.figshare.35044117",
+      "url": "https://doi.org/10.6084/m9.figshare.35044117"
+    },
+    {
+      "text": "Hughes, H. (2026). Air Pollution and Human Resilience: Development Pathways for Reducing Environmental Health Risks. H Heuristics Polycrisis Resilience Series (HH-2026-65). doi:10.6084/m9.figshare.35044135.",
+      "doi": "10.6084/m9.figshare.35044135",
+      "url": "https://doi.org/10.6084/m9.figshare.35044135"
+    },
+    {
+      "text": "UNCTAD (2025). Technology and Innovation Report 2025: Inclusive Artificial Intelligence and Green Technologies for Development. Geneva: United Nations."
+    },
+    {
+      "text": "International Energy Agency (IEA) (2025). Clean Energy Technology Guide & Energy Technology Perspectives. Paris: IEA."
+    },
+    {
+      "text": "International Telecommunication Union (ITU) (2025). Measuring Digital Development: Facts and Figures 2025. Geneva: ITU."
+    },
+    {
+      "text": "World Bank (2025). World Development Indicators (WDI) Database. Washington, DC: World Bank Group."
+    },
+    {
+      "text": "European Commission JRC & DRMKC (2025). INFORM Risk Index 2025."
+    }
+  ]
+}
