@@ -1,0 +1,178 @@
+{
+  "seriesNumber": 87,
+  "title": "Technology Diffusion and the Development Multiplier",
+  "subtitle": "How Innovation Adoption Accelerates Economic and Human Development",
+  "type": "Research Report",
+  "datePublished": "2026-11-18",
+  "dateModified": "2026-11-18",
+  "doi": "10.6084/m9.figshare.35052304",
+  "repository": {
+    "name": "figshare",
+    "url": "https://figshare.com/articles/report/35052304"
+  },
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "license": {
+    "name": "Creative Commons Attribution 4.0 International",
+    "shortName": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 30,
+  "language": "en",
+  "description": "An H Heuristics flagship monograph within the Polycrisis Resilience Series—concept developed by Hunter Hughes—demonstrating how technology adoption in…",
+  "contribution": "Establishes the Development Multiplier framework within the H Heuristics Polycrisis Resilience Series—concept developed by Hunter Hughes, Founder of H Heuristics—quantifying how seven core technology domains generate 4.8x–6.4x total economic and human-development spillovers and 10.1x–12.1x 25-year social benefit-cost ratios.",
+  "themes": [
+    "Clean Cooking",
+    "Broadband Connectivity",
+    "Renewable Energy",
+    "Agricultural Technology",
+    "Digital Financial Services",
+    "Healthcare Technology",
+    "Industrial Technology"
+  ],
+  "keywords": [
+    "Technology Diffusion and the Development Multiplier",
+    "Polycrisis Resilience",
+    "Technology Diffusion",
+    "Development Multiplier",
+    "Economic and Human Development",
+    "Clean Cooking",
+    "Broadband Connectivity",
+    "Renewable Energy"
+  ],
+  "abstract": [
+    "Technology Diffusion and the Development Multiplier is a flagship monograph within the H Heuristics Polycrisis Resilience Series, based on the concept developed by Hunter Hughes, Founder of H Heuristics (https://polycrisisresilience.hheuristics.com/)."
+  ],
+  "keyFindings": [
+    {
+      "title": "Technology adoption produces benefits that extend far beyond the technology itself: across seven core domains, each dollar of technology deployment generates a 4.8x–6.4x Development Multiplier across income, health, education, financial inclusion, and resilience.",
+      "text": ""
+    },
+    {
+      "title": "Broadband Connectivity (6.4x), Renewable Energy & Storage (6.1x), and Clean Cooking (5.8x) lead multiplier returns, lifting the Global Development Multiplier Index (2025=100) to 236 by 2050 and 455 by 2100.",
+      "text": ""
+    },
+    {
+      "title": "Compressing historical 22–31 year technology diffusion lags down to 5–8 years unlocks a 12.1x 25-year social benefit-cost ratio across the integrated seven-technology portfolio.",
+      "text": ""
+    },
+    {
+      "title": "Rural inclusion rises from 15–32% (2025) to 82–91% (2050), generating +310% to +510% regional multiplier gains across Sub-Saharan Africa, South Asia, MENA, LatAm, and SE Asia.",
+      "text": ""
+    }
+  ],
+  "contents": [
+    {
+      "number": "",
+      "title": "Executive Summary: Technology Diffusion and the Development Multiplier",
+      "description": "",
+      "page": 5
+    },
+    {
+      "number": "",
+      "title": "Theoretical Foundations: Why Technology Adoption Multiplies Development",
+      "description": "",
+      "page": 8
+    },
+    {
+      "number": "",
+      "title": "Compressing Global Diffusion Lags From Decades to Years",
+      "description": "",
+      "page": 10
+    },
+    {
+      "number": "",
+      "title": "Clean Cooking and Renewable Energy: Health, Time, and Industrial Multipliers",
+      "description": "",
+      "page": 12
+    },
+    {
+      "number": "",
+      "title": "Broadband Connectivity and Digital Financial Services: Inclusion and Scale",
+      "description": "",
+      "page": 14
+    },
+    {
+      "number": "",
+      "title": "Agricultural, Healthcare, and Industrial Technologies: Sectoral Catch-Up",
+      "description": "",
+      "page": 16
+    },
+    {
+      "number": "",
+      "title": "Closing the Rural Access Gap and Building Absorptive Capacity",
+      "description": "",
+      "page": 17
+    },
+    {
+      "number": "",
+      "title": "Prevention Economics: 25-Year Social Returns Across Seven Domains",
+      "description": "",
+      "page": 19
+    },
+    {
+      "number": "",
+      "title": "Regional Multiplier Pathways: Africa, South Asia, MENA, LatAm, and SE Asia",
+      "description": "",
+      "page": 21
+    },
+    {
+      "number": "",
+      "title": "Financing, Open Standards, and Institutional Governance of Diffusion",
+      "description": "",
+      "page": 23
+    },
+    {
+      "number": "",
+      "title": "Human Capital, Gender Inclusion, and Intergenerational Multipliers",
+      "description": "",
+      "page": 24
+    },
+    {
+      "number": "",
+      "title": "Technology Diffusion as an Instrument of Polycrisis Resilience",
+      "description": "",
+      "page": 25
+    },
+    {
+      "number": "",
+      "title": "Open-Weight AI and Digital Public Infrastructure as Global Public Goods",
+      "description": "",
+      "page": 26
+    },
+    {
+      "number": "",
+      "title": "District Telemetry and a Global Technology Diffusion Compact",
+      "description": "",
+      "page": 27
+    },
+    {
+      "number": "",
+      "title": "Empirical Case Studies: Leapfrogging and Multipliers in Action",
+      "description": "",
+      "page": 28
+    },
+    {
+      "number": "",
+      "title": "Phased Implementation Roadmap (2026–2100) and Operational Playbook",
+      "description": "",
+      "page": 29
+    },
+    {
+      "number": "",
+      "title": "Conclusion and Quantitative Methodology Appendix",
+      "description": "",
+      "page": 30
+    }
+  ],
+  "references": []
+}
