@@ -26,7 +26,7 @@
   },
   "pdf": "report.pdf",
   "cover": "cover.jpg",
-  "pages": 31,
+  "pages": 30,
   "language": "en",
   "description": "An H Heuristics flagship monograph within the Polycrisis Resilience Series—concept developed by Hunter Hughes—establishing the 21st century as The Convergence…",
   "contribution": "Establishes the 21st century as The Convergence Century—concept developed by Hunter Hughes, Founder of H Heuristics—uniting Income, Technology, Infrastructure, and Living Standards with sustainable development, institutional capacity, and Polycrisis Resilience through 2100.",
@@ -72,159 +72,105 @@
   "contents": [
     {
       "number": "",
-      "title": "Executive Summary: Defining the 21st Century as The Convergence Century",
+      "title": "Executive Summary: Closing Global Gaps by 2100",
       "description": "",
       "page": 4
     },
     {
       "number": "",
-      "title": "The Convergence Century: Closing Four Interconnected Global Gaps",
+      "title": "Century Vision and the Four-Pillar Architecture",
       "description": "",
       "page": 6
     },
     {
       "number": "",
-      "title": "Four-Pillar Architecture: Income, Technology, Infrastructure, Living Standards",
-      "description": "",
-      "page": 7
-    },
-    {
-      "number": "",
-      "title": "Pillar 1 — Income: Economic Convergence and Productivity Growth",
+      "title": "Pillar 1: Income Convergence, Productivity, and Structural Upgrading",
       "description": "",
       "page": 8
     },
     {
       "number": "",
-      "title": "Structural Upgrading, Formal Employment, and Middle-Income Catch-Up",
-      "description": "",
-      "page": 9
-    },
-    {
-      "number": "",
-      "title": "Pillar 2 — Technology: Global Diffusion and Innovation Access",
+      "title": "Pillar 2: Technology Diffusion, AI, and Digital Leapfrogging",
       "description": "",
       "page": 10
     },
     {
       "number": "",
-      "title": "AI, Digital Public Infrastructure, and Clean-Tech Leapfrogging",
-      "description": "",
-      "page": 11
-    },
-    {
-      "number": "",
-      "title": "Pillar 3 — Infrastructure: Energy, Transport, Water, and Connectivity",
+      "title": "Pillar 3: Universal Infrastructure and Multimodal Corridors",
       "description": "",
       "page": 12
     },
     {
       "number": "",
-      "title": "Productive Capacity, Resilient Corridors, and Secondary Cities",
-      "description": "",
-      "page": 13
-    },
-    {
-      "number": "",
-      "title": "Pillar 4 — Living Standards: The Ultimate Human-Development Outcome",
+      "title": "Pillar 4: Living Standards, Health, Education, and Clean Air",
       "description": "",
       "page": 14
     },
     {
       "number": "",
-      "title": "Universal Health, STEM Education, and Clean-Air Environments",
-      "description": "",
-      "page": 15
-    },
-    {
-      "number": "",
-      "title": "Connecting Convergence to Sustainable Development and Clean Technology",
+      "title": "Sustainable Convergence and Institutional Governance Capacity",
       "description": "",
       "page": 16
     },
     {
       "number": "",
-      "title": "Institutional Capacity as the Bedrock of Century-Scale Catch-Up",
+      "title": "Polycrisis Resilience and Century-Scale Prevention Economics",
       "description": "",
       "page": 17
     },
     {
       "number": "",
-      "title": "Integrating Polycrisis Resilience Into The Convergence Century",
-      "description": "",
-      "page": 18
-    },
-    {
-      "number": "",
-      "title": "Prevention Economics: Social Returns of Closing Global Gaps",
+      "title": "Regional Convergence Pathways Through 2100",
       "description": "",
       "page": 19
     },
     {
       "number": "",
-      "title": "Regional Convergence Pathways Through 2100",
+      "title": "Financing the Convergence Century and Open Clean Trade",
       "description": "",
       "page": 21
     },
     {
       "number": "",
-      "title": "Demographic Frontiers: Sub-Saharan Africa and South Asia",
+      "title": "Century Telemetry Scorecard and Phased Implementation Roadmap",
       "description": "",
       "page": 22
     },
     {
       "number": "",
-      "title": "Frontier Upgrading: Southeast Asia, Latin America, and MENA",
+      "title": "Global Convergence Compact and Operational Action Checklist",
       "description": "",
       "page": 23
     },
     {
       "number": "",
-      "title": "Financing The Convergence Century Through Blended Capital",
+      "title": "Sovereign Debt Sustainability, WACC Compression, and Capital Markets",
       "description": "",
       "page": 24
     },
     {
       "number": "",
-      "title": "Open Standards, Resilient Trade, and Clean Supply Chains",
+      "title": "Climate Adaptation, Natural Capital, and Ecological Buffers",
       "description": "",
       "page": 25
     },
     {
       "number": "",
-      "title": "Century-Scale Telemetry: Tracking Gap Closure Through 2100",
-      "description": "",
-      "page": 26
-    },
-    {
-      "number": "",
-      "title": "Phased Implementation Roadmap (2026–2100)",
+      "title": "Human Capital, Demographic Transitions, and Secondary-City Frontiers",
       "description": "",
       "page": 27
     },
     {
       "number": "",
-      "title": "A Global Compact for The Convergence Century",
+      "title": "Clean Industrialization, Critical Minerals, and Global Value Chains",
       "description": "",
       "page": 28
     },
     {
       "number": "",
-      "title": "Operational Action Checklist for Policymakers and Lenders",
-      "description": "",
-      "page": 29
-    },
-    {
-      "number": "",
-      "title": "Conclusion: Achieving a Prosperous, Connected, and Resilient Century",
+      "title": "Conclusion and Four-Pillar Gap-Closure Methodology Appendix",
       "description": "",
       "page": 30
-    },
-    {
-      "number": "",
-      "title": "Methodology and Calibration Appendix",
-      "description": "",
-      "page": 31
     }
   ],
   "references": []
