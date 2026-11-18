@@ -3,8 +3,8 @@
   "title": "Mitigating Secondary Effects and Feedback Loops",
   "subtitle": "Multi-Century Climate Outlook, Population Growth and the Future of Human Vulnerability",
   "type": "Research Report",
-  "datePublished": "2026-11-17",
-  "dateModified": "2026-11-17",
+  "datePublished": "2026-11-18",
+  "dateModified": "2026-11-18",
   "doi": "10.6084/m9.figshare.35044630",
   "repository": {
     "name": "figshare",
@@ -74,147 +74,93 @@
   "contents": [
     {
       "number": "",
-      "title": "Executive Summary: Reducing Risk Propagation and Amplification",
+      "title": "Executive Summary: Mitigating Secondary Effects and Feedback Loops",
       "description": "",
       "page": 4
     },
     {
       "number": "",
-      "title": "The Problem of Secondary Effects: When Aftershocks Exceed Initial Crises",
+      "title": "Secondary Effects and the Climate–Poverty Feedback Loop",
       "description": "",
       "page": 6
     },
     {
       "number": "",
-      "title": "Feedback Loop 1: The Climate–Poverty Reinforcing Trap",
-      "description": "",
-      "page": 7
-    },
-    {
-      "number": "",
-      "title": "Feedback Loop 2: The Pollution–Development Reinforcing Trap",
+      "title": "The Pollution–Development and Economic–Institutional Loops",
       "description": "",
       "page": 8
     },
     {
       "number": "",
-      "title": "Feedback Loop 3: The Economic–Institutional Reinforcing Trap",
+      "title": "Six-System Cascading Propagation and Vulnerability Mitigation",
       "description": "",
       "page": 9
     },
     {
       "number": "",
-      "title": "Cascading Effects and Systemic Propagation Across Six Societal Systems",
+      "title": "Strategies 1 & 2: Preventing Secondary Effects and Interrupting Loops",
       "description": "",
-      "page": 10
+      "page": 11
     },
     {
       "number": "",
-      "title": "The H Heuristics Vulnerability-Centered Approach to Mitigation",
-      "description": "",
-      "page": 12
-    },
-    {
-      "number": "",
-      "title": "Strategy 1: Preventing Secondary Effects Upstream",
+      "title": "Strategies 3 & 4: Limiting Cascades and Structural Vulnerability",
       "description": "",
       "page": 13
     },
     {
       "number": "",
-      "title": "Strategy 2: Interrupting Harmful Feedback Loops at Leverage Nodes",
+      "title": "Strategy 5: Adaptive Technologies and High-Leverage Intervention Points",
       "description": "",
       "page": 14
     },
     {
       "number": "",
-      "title": "Strategy 3: Limiting Cascading Disruptions Through Redundancy",
-      "description": "",
-      "page": 15
-    },
-    {
-      "number": "",
-      "title": "Strategy 4: Reducing Underlying Socioeconomic and Institutional Vulnerability",
+      "title": "Empirical Case Studies: Clean Cooking, Power, Water, and Agriculture",
       "description": "",
       "page": 16
     },
     {
       "number": "",
-      "title": "Strategy 5: Accelerating Adaptive Technologies and Clean Diffusion",
-      "description": "",
-      "page": 17
-    },
-    {
-      "number": "",
-      "title": "Strategic Intervention Points: Multi-Pathway Leverage Investments",
+      "title": "Global South Outlook and Multi-Century Cascade Dynamics (2025–2300)",
       "description": "",
       "page": 18
     },
     {
       "number": "",
-      "title": "High-Leverage Case: Clean Cooking as a Multi-Loop Breaker",
+      "title": "Prevention Economics and Institutional Governance Circuit Breakers",
       "description": "",
       "page": 19
     },
     {
       "number": "",
-      "title": "High-Leverage Cases: Reliable Electricity, Clean Water, and Climate-Smart Agri",
-      "description": "",
-      "page": 20
-    },
-    {
-      "number": "",
-      "title": "Long-Term Resilience: Demographic Growth, Climate, and the Global South",
+      "title": "Supply-Chain Cascades, Biosphere Loops, and Regional Diagnostics",
       "description": "",
       "page": 21
     },
     {
       "number": "",
-      "title": "Multi-Century Cascade Dynamics (2025–2300): Preventing Generational Lock-In",
+      "title": "Breaking Sovereign Fiscal Loops With Parametric Finance and SCDCs",
       "description": "",
       "page": 22
     },
     {
       "number": "",
-      "title": "Prevention Economics: Evaluating Downstream Risk Reduction",
-      "description": "",
-      "page": 23
-    },
-    {
-      "number": "",
-      "title": "Institutional Circuit Breakers, Early Warning, and Shock-Responsive Finance",
+      "title": "Severing Urban Heat–Water–Grid Loops in Secondary Cities",
       "description": "",
       "page": 24
     },
     {
       "number": "",
-      "title": "Mitigating Global Supply-Chain and Trade-Corridor Cascades",
-      "description": "",
-      "page": 25
-    },
-    {
-      "number": "",
-      "title": "Interrupting Ecological and Biosphere Feedback Loops",
+      "title": "Multi-Hazard Early Warning, DPI, and Household Social Buffers",
       "description": "",
       "page": 26
     },
     {
       "number": "",
-      "title": "Regional Diagnostics: Breaking Cascade Traps Across Continents",
-      "description": "",
-      "page": 27
-    },
-    {
-      "number": "",
-      "title": "Concluding Synthesis: Preventing Secondary Consequences Across Time",
+      "title": "Concluding Synthesis and Systems-Dynamics Methodology Appendix",
       "description": "",
       "page": 28
-    },
-    {
-      "number": "",
-      "title": "Methodology, Loop Calibration, Sensitivity Analysis, and Limitations",
-      "description": "",
-      "page": 29
     },
     {
       "number": "",
@@ -259,6 +205,54 @@
     },
     {
       "text": "Global Commission on Adaptation (2019). Adapt Now: A Global Call for Leadership on Climate Resilience."
+    },
+    {
+      "text": "United Nations Department of Economic and Social Affairs (UN DESA). (2024). World Population Prospects 2024: Summary of Results. New York: United Nations."
+    },
+    {
+      "text": "Intergovernmental Panel on Climate Change (IPCC). (2023). Climate Change 2023: Synthesis Report (AR6) & Multi-Century Sea-Level Projections. Geneva: IPCC."
+    },
+    {
+      "text": "World Bank. (2025). World Development Indicators (WDI) & Shock-Responsive Social Protection Benchmarks. Washington, DC: World Bank Group."
+    },
+    {
+      "text": "International Energy Agency (IEA). (2025). World Energy Outlook & Clean Cooking Access Database. Paris: IEA."
+    },
+    {
+      "text": "World Health Organization (WHO). (2024). Global Burden of Disease: Household Air Pollution and PM2.5 Mortality. Geneva: WHO."
+    },
+    {
+      "text": "European Commission Joint Research Centre (JRC). (2025). INFORM Risk Index 2025: Global Humanitarian and Polycrisis Risk Assessment. Luxembourg: Publications Office of the EU."
+    },
+    {
+      "text": "Global Commission on Adaptation (GCA). (2019/2024). Adapt Now: A Global Call for Leadership on Climate Resilience. Rotterdam & Washington, DC: GCA."
+    },
+    {
+      "text": "Food and Agriculture Organization (FAO). (2024). The State of Food Security and Nutrition in the World: Climate Shocks & Supply Cascades. Rome: FAO."
+    },
+    {
+      "text": "Hughes, H. (2026). Artificial Intelligence and Polycrisis Resilience: Emerging Technologies and the Future of Global Risk Reduction. H Heuristics Polycrisis Resilience Series (HH-2026-73). doi:10.6084/m9.figshare.35044666.",
+      "doi": "10.6084/m9.figshare.35044666",
+      "url": "https://doi.org/10.6084/m9.figshare.35044666"
+    },
+    {
+      "text": "Hughes, H. (2026). Optimizing Humanity's Outlook in an Age of Polycrisis: Development Pathways for Reducing Global Vulnerability Through 2100. H Heuristics Polycrisis Resilience Series (HH-2026-74). doi:10.6084/m9.figshare.35044732.",
+      "doi": "10.6084/m9.figshare.35044732",
+      "url": "https://doi.org/10.6084/m9.figshare.35044732"
+    },
+    {
+      "text": "EM-DAT / CRED. (2025). The International Disaster Database: Compound Hazard Losses and Economic Cascades (1980–2024). Brussels: UCLouvain."
+    },
+    {
+      "text": "Hallegatte, S., Rentschler, J., & Rozenberg, J. (2019). Lifelines: The Resilient Infrastructure Opportunity. Washington, DC: World Bank Group."
+    },
+    {
+      "text": "International Monetary Fund (IMF). (2024). Debt Sustainability Frameworks, State-Contingent Debt Clauses, and Climate Resilience. Washington, DC: IMF."
+    },
+    {
+      "text": "Hughes, H. (2026). The Economics of Optimizing Humanity's Outlook: The Global Returns to Development, Prevention and Resilience Investment. H Heuristics Polycrisis Resilience Series (HH-2026-83). doi:10.6084/m9.figshare.35051644.",
+      "doi": "10.6084/m9.figshare.35051644",
+      "url": "https://doi.org/10.6084/m9.figshare.35051644"
     }
   ]
 }
