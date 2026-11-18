@@ -1,0 +1,182 @@
+{
+  "seriesNumber": 63,
+  "title": "The Foundations of Polycrisis Resilience",
+  "subtitle": "Defining Resilience in an Era of Interconnected Global Risks",
+  "type": "Research Report",
+  "datePublished": "2026-11-17",
+  "dateModified": "2026-11-17",
+  "doi": "10.6084/m9.figshare.35044018",
+  "repository": {
+    "name": "figshare",
+    "url": "https://figshare.com/articles/report/35044018"
+  },
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "license": {
+    "name": "Creative Commons Attribution 4.0 International",
+    "shortName": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 30,
+  "language": "en",
+  "description": "A foundational publication establishing that humanity's capacity to withstand interconnected global risks depends not only on responding to individual crises…",
+  "contribution": "Defines the conceptual foundations of Polycrisis Resilience—originated by Hunter Hughes, Founder of H Heuristics—advancing the core thesis and three central arguments that vulnerability is interconnected, development is a mechanism of resilience, and resilience must be systemic and preventative.",
+  "themes": [
+    "Polycrisis Resilience",
+    "Interconnected Vulnerability",
+    "Development as Resilience",
+    "Preventative Strategy",
+    "Sustainable Convergence",
+    "Technology Diffusion",
+    "Institutional Strengthening"
+  ],
+  "keywords": [
+    "The Foundations of Polycrisis Resilience",
+    "Polycrisis Resilience",
+    "Interconnected Global Risks",
+    "Vulnerability Reduction",
+    "Development as Resilience",
+    "Preventative Resilience",
+    "Economic Convergence",
+    "Technology Diffusion",
+    "Institutional Strengthening"
+  ],
+  "abstract": [
+    "The Foundations of Polycrisis Resilience serves as a foundational conceptual publication within the H Heuristics Polycrisis Resilience Series, based on the concept developed by Hunter Hughes, Founder of H Heuristics (https://polycrisisresilience.hheuristics.com/).\nIt defines resilience in an era of interconnected global risks, advancing the central thesis that improving humanity's long-term resilience requires improving the underlying conditions of human development and systemic stability through sustainable development, economic convergence, technological diffusion, climate adaptation, environmental improvement, and institutional strengthening."
+  ],
+  "keyFindings": [
+    {
+      "title": "Humanity's capacity to withstand interconnected global risks depends not only on responding to individual crises, but on systematically reducing the underlying human and systemic vulnerabilities that allow those risks to emerge, compound, and propagate.",
+      "text": ""
+    },
+    {
+      "title": "Vulnerability is interconnected: economic deprivation, environmental degradation, inadequate infrastructure, technological exclusion, institutional weaknesses, and climate exposure reinforce one another, amplifying a 16.0% primary climate shock into a 58.0% compounded systemic loss.",
+      "text": ""
+    },
+    {
+      "title": "Development is a mechanism of resilience: improvements in living standards, infrastructure, public health, energy systems, education, technology access, and institutional capacity reduce vulnerability across multiple risk dimensions simultaneously.",
+      "text": ""
+    },
+    {
+      "title": "Resilience must be systemic and preventative: ex-ante structural investments deliver 6.8x–11.4x social benefit-cost ratios compared with 1.3x–1.7x for reactive crisis relief and bailouts.",
+      "text": ""
+    }
+  ],
+  "contents": [
+    {
+      "number": "",
+      "title": "Executive Summary: Defining Resilience in an Era of Interconnected Global Risks",
+      "description": "",
+      "page": 4
+    },
+    {
+      "number": "",
+      "title": "Conceptual Foundations: From Reactive Endurance to Polycrisis Resilience",
+      "description": "",
+      "page": 7
+    },
+    {
+      "number": "",
+      "title": "Argument 1: Why Vulnerability Is Interconnected Across Human and Natural Systems",
+      "description": "",
+      "page": 10
+    },
+    {
+      "number": "",
+      "title": "Argument 2: Development as a Primary Mechanism of Systemic Resilience",
+      "description": "",
+      "page": 13
+    },
+    {
+      "number": "",
+      "title": "Argument 3: Why Resilience Must Be Systemic and Preventative",
+      "description": "",
+      "page": 16
+    },
+    {
+      "number": "",
+      "title": "The Six Integrated Pillars of Polycrisis Resilience",
+      "description": "",
+      "page": 18
+    },
+    {
+      "number": "",
+      "title": "Multiscale Architecture: Household, Community, National, and Global Resilience",
+      "description": "",
+      "page": 20
+    },
+    {
+      "number": "",
+      "title": "Empirical Diagnostics, Vulnerability Typologies, and Measurement",
+      "description": "",
+      "page": 22
+    },
+    {
+      "number": "",
+      "title": "Strategic Policy Agenda, Capital Allocation, and Institutional Reform",
+      "description": "",
+      "page": 24
+    },
+    {
+      "number": "",
+      "title": "Applied Case Perspectives: Breaking Cascades in Practice",
+      "description": "",
+      "page": 26
+    },
+    {
+      "number": "",
+      "title": "Methodology, Data Architecture, Limitations, and Technical Appendix",
+      "description": "",
+      "page": 28
+    },
+    {
+      "number": "",
+      "title": "References & Primary Sources",
+      "description": "",
+      "page": 30
+    }
+  ],
+  "references": [
+    {
+      "text": "Hughes, H. (2026). Polycrisis Resilience: A Unified Framework for Reducing Systemic Vulnerability. H Heuristics Research Reports."
+    },
+    {
+      "text": "Hughes, H. (2026). The Theory of Polycrisis Resilience: Toward a Unified Framework for Human and Systemic Vulnerability Reduction. H Heuristics Polycrisis Resilience Series (HH-2026-61). doi:10.6084/m9.figshare.35043985.",
+      "doi": "10.6084/m9.figshare.35043985",
+      "url": "https://doi.org/10.6084/m9.figshare.35043985"
+    },
+    {
+      "text": "Lawrence, M., Homer-Dixon, T., Janzwood, S., Rockstöm, J., Renn, O., & Donges, J. F. (2024). Global polycrisis: the causal mechanisms of crisis entanglement. Global Sustainability, 7, e6."
+    },
+    {
+      "text": "Hallegatte, S., Rentschler, J., & Rozenberg, J. (2019). Lifelines: The Resilient Infrastructure Opportunity. World Bank Group."
+    },
+    {
+      "text": "Global Commission on Adaptation (2019). Adapt Now: A Global Call for Leadership on Climate Resilience. World Resources Institute."
+    },
+    {
+      "text": "World Bank (2025). World Development Indicators (WDI) Database. Washington, DC: World Bank Group."
+    },
+    {
+      "text": "European Commission JRC & DRMKC (2025). INFORM Risk Index 2025: Global Risk Assessment for Humanitarian Crises and Disasters."
+    },
+    {
+      "text": "Centre for Research on the Epidemiology of Disasters (CRED) (2025). EM-DAT International Disaster Database. UCLouvain."
+    },
+    {
+      "text": "International Energy Agency (IEA) (2025). Tracking SDG 7: The Energy Progress Report. Paris: IEA."
+    },
+    {
+      "text": "United Nations Environment Programme (UNEP) (2025). Adaptation Gap Report 2025. Nairobi: UNEP."
+    }
+  ]
+}
