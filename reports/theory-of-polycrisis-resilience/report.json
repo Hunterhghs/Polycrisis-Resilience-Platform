@@ -1,0 +1,190 @@
+{
+  "seriesNumber": 62,
+  "title": "The Theory of Polycrisis Resilience",
+  "subtitle": "Toward a Unified Framework for Human and Systemic Vulnerability Reduction",
+  "type": "Research Report",
+  "datePublished": "2026-11-17",
+  "dateModified": "2026-11-17",
+  "doi": "10.6084/m9.figshare.35043985",
+  "repository": {
+    "name": "figshare",
+    "url": "https://figshare.com/articles/report/35043985"
+  },
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "license": {
+    "name": "Creative Commons Attribution 4.0 International",
+    "shortName": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 30,
+  "language": "en",
+  "description": "A foundational theoretical publication explaining how human societies, economies, and interconnected systems can systematically reduce their vulnerability to…",
+  "contribution": "Establishes the formal theoretical architecture of Polycrisis Resilience: connecting six integrated disciplines, answering one central and six supporting research questions, and investigating six proposed foundational dimensions linking interconnected risks to human and systemic vulnerability reduction.",
+  "themes": [
+    "Polycrisis Resilience",
+    "Systemic Risk Theory",
+    "Structural Vulnerability",
+    "Development Economics",
+    "Technology Diffusion",
+    "Sustainable Convergence",
+    "Prevention Economics"
+  ],
+  "keywords": [
+    "Theory of Polycrisis Resilience",
+    "Polycrisis Resilience",
+    "Systemic Vulnerability Reduction",
+    "Interconnected Global Risks",
+    "Development Economics",
+    "Sustainable Convergence",
+    "Technology Diffusion",
+    "Institutional Capacity",
+    "Prevention Economics"
+  ],
+  "abstract": [
+    "The Theory of Polycrisis Resilience serves as a foundational theoretical publication within the H Heuristics Polycrisis Resilience Research Series, building on the flagship framework originated by Hunter Hughes (https://researchreports.hheuristics.com/reports/polycrisis-resilience-flagship-report/).\nIts primary purpose is to develop a coherent theoretical explanation of how human societies, economies, and interconnected systems can systematically reduce their vulnerability to multiple, interacting, and compounding global risks—uniting polycrisis theory, development economics, sustainable convergence, technology diffusion, human and institutional development, and prevention economics into a single testable framework."
+  ],
+  "keyFindings": [
+    {
+      "title": "Resilience should not be understood exclusively as the capacity to withstand or recover from crises, but also as the capacity to systematically reduce the underlying structural conditions that generate vulnerability to interconnected global risks.",
+      "text": ""
+    },
+    {
+      "title": "When structural vulnerability is high across exposure, sensitivity, development deficits, and adaptive gaps, an 18.0% primary climate shock cascades across grids, food, health, fiscal, and institutional systems to produce a 61.0% compounded systemic impact.",
+      "text": ""
+    },
+    {
+      "title": "The H Heuristics theoretical model proposes six foundational dimensions—economic development, technological diffusion, environmental sustainability, human development, institutional capacity, and infrastructure resilience—exhibiting positive cross-dimensional correlations (r = 0.68–0.86) while remaining an open, empirically testable taxonomy rather than a closed dogma.",
+      "text": ""
+    },
+    {
+      "title": "Integrating development economics, sustainable convergence, technology diffusion, and prevention economics shifts capital allocation from low-return reactive bailouts (1.3x–1.8x social BCR) to high-return ex-ante vulnerability reduction (6.8x–11.0x social BCR).",
+      "text": ""
+    }
+  ],
+  "contents": [
+    {
+      "number": "",
+      "title": "Executive Summary & Theoretical Overview",
+      "description": "",
+      "page": 4
+    },
+    {
+      "number": "",
+      "title": "From Conventional Resilience to Polycrisis Resilience",
+      "description": "",
+      "page": 7
+    },
+    {
+      "number": "",
+      "title": "Interconnected Global Risks and the Anatomy of Structural Vulnerability",
+      "description": "",
+      "page": 10
+    },
+    {
+      "number": "",
+      "title": "The Six Foundational Dimensions of the H Heuristics Theoretical Model",
+      "description": "",
+      "page": 13
+    },
+    {
+      "number": "",
+      "title": "Economic Development, Exposure, and Adaptive Capacity",
+      "description": "",
+      "page": 16
+    },
+    {
+      "number": "",
+      "title": "Technology Diffusion, Sustainable Convergence, and Human Development",
+      "description": "",
+      "page": 19
+    },
+    {
+      "number": "",
+      "title": "Multi-Scale Systems Architecture: Individual, Societal, National, and Global",
+      "description": "",
+      "page": 22
+    },
+    {
+      "number": "",
+      "title": "Theoretical Modeling and Empirical Evaluation of Polycrisis Resilience",
+      "description": "",
+      "page": 24
+    },
+    {
+      "number": "",
+      "title": "Institutional Design, Capital Allocation, and Future Research Agenda",
+      "description": "",
+      "page": 26
+    },
+    {
+      "number": "",
+      "title": "Mathematical Specification, Empirical Calibration & Methodological Caveats",
+      "description": "",
+      "page": 28
+    },
+    {
+      "number": "",
+      "title": "References & Primary Sources",
+      "description": "",
+      "page": 30
+    }
+  ],
+  "references": [
+    {
+      "text": "Hughes, H. (2026). Polycrisis Resilience: A General Definition and the H Heuristics Framework (Report No. 2026-87). H Heuristics Research Reports. https://researchreports.hheuristics.com/reports/polycrisis-resilience-flagship-report/",
+      "url": "https://researchreports.hheuristics.com/reports/polycrisis-resilience-flagship-report/"
+    },
+    {
+      "text": "Hughes, H. (2026). The Origin and Development of Polycrisis Resilience (HH-2026-60). H Heuristics Polycrisis Resilience Series."
+    },
+    {
+      "text": "Hughes, H. (2026). The Economics of Polycrisis Resilience (HH-2026-51). H Heuristics Global Outlook Series."
+    },
+    {
+      "text": "Lawrence, M., Homer-Dixon, T., Janzwood, S., Rockström, J., Renn, O. & Donges, J. F. (2024). Global polycrisis: the causal mechanisms of crisis entanglement. Global Sustainability, 7, e6."
+    },
+    {
+      "text": "Lawrence, M., Janzwood, S. & Homer-Dixon, T. (2022). What Is a Global Polycrisis? And How Is It Different from a Systemic Risk? Cascade Institute Technical Paper 2022-4."
+    },
+    {
+      "text": "Hallegatte, S., Rentschler, J. & Rozenberg, J. (2019). Lifelines: The Resilient Infrastructure Opportunity. Washington, DC: World Bank."
+    },
+    {
+      "text": "Global Commission on Adaptation (2019). Adapt Now: A Global Call for Leadership on Climate Resilience. Rotterdam and Washington, DC: GCA & WRI."
+    },
+    {
+      "text": "United Nations Environment Programme (2025). Adaptation Gap Report 2025. Nairobi: UNEP."
+    },
+    {
+      "text": "IEA, IRENA, UNSD, World Bank & WHO (2025). Tracking SDG 7: The Energy Progress Report 2025. Washington, DC: World Bank."
+    },
+    {
+      "text": "World Health Organization (2026). Global Health Observatory: Air Pollution Attributable Deaths. Geneva: WHO."
+    },
+    {
+      "text": "European Commission JRC & IASC (2026). INFORM Risk Index, Mid-2026 Release. Ispra: Joint Research Centre."
+    },
+    {
+      "text": "World Bank (2026). World Development Indicators & Worldwide Governance Indicators. Washington, DC: World Bank."
+    },
+    {
+      "text": "Kahn, M. E. (2005). The death toll from natural disasters: the role of income, geography, and institutions. Review of Economics and Statistics, 87(2), 271–284."
+    },
+    {
+      "text": "Toya, H. & Skidmore, M. (2007). Economic development and the impacts of natural disasters. Economics Letters, 94(1), 20–25."
+    },
+    {
+      "text": "Lutz, W., Muttarak, R. & Striessnig, E. (2014). Universal education is key to enhanced climate adaptation. Science, 346(6213), 1061–1062."
+    }
+  ]
+}
