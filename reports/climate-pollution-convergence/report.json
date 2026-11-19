@@ -3,8 +3,8 @@
   "title": "The Climate-Pollution Convergence",
   "subtitle": "Interconnected Environmental Risks and the Future of Human Exposure",
   "type": "Research Report",
-  "datePublished": "2026-11-17",
-  "dateModified": "2026-11-17",
+  "datePublished": "2026-11-18",
+  "dateModified": "2026-11-18",
   "doi": "10.6084/m9.figshare.35044117",
   "repository": {
     "name": "figshare",
@@ -26,7 +26,7 @@
   },
   "pdf": "report.pdf",
   "cover": "cover.jpg",
-  "pages": 30,
+  "pages": 31,
   "language": "en",
   "description": "A foundational monograph developing the concept of Climate-Pollution Convergence—demonstrating that climate change and pollution must be understood as…",
   "contribution": "Develops the concept of Climate-Pollution Convergence—originated by Hunter Hughes, Founder of H Heuristics—analyzing how climate pressures and pollution pressures interact through shared sources and atmospheric feedback loops to compound human exposure, and how integrated risk reduction strengthens Polycrisis Resilience.",
@@ -80,61 +80,49 @@
     },
     {
       "number": "",
-      "title": "The Central Conceptual Model of Climate-Pollution Convergence",
+      "title": "Conceptual Model and Shared Combustion Sources",
       "description": "",
       "page": 7
     },
     {
       "number": "",
-      "title": "Shared Combustion Sources and Industrial-Urban Drivers",
+      "title": "Atmospheric Feedbacks and Compounding Human Exposure",
       "description": "",
-      "page": 9
+      "page": 10
     },
     {
       "number": "",
-      "title": "Atmospheric Interactions: Heat, Ozone, Particulate Matter, and Wildfires",
+      "title": "Socioeconomic Mediators and Climate-Resilient Clean-Air Urban Design",
       "description": "",
-      "page": 11
-    },
-    {
-      "number": "",
-      "title": "Compounding Human Exposure and Cardiopulmonary Health Burdens",
-      "description": "",
-      "page": 13
-    },
-    {
-      "number": "",
-      "title": "Socioeconomic Determinants: Development, Urbanization, and Infrastructure",
-      "description": "",
-      "page": 14
+      "page": 12
     },
     {
       "number": "",
       "title": "Integrated Risk Reduction: Clean Energy, Pollution Prevention, and Adaptation",
       "description": "",
-      "page": 16
+      "page": 14
     },
     {
       "number": "",
       "title": "Environmental Infrastructure and Clean Technology Diffusion",
       "description": "",
-      "page": 18
+      "page": 17
     },
     {
       "number": "",
-      "title": "Regional Hotspots and the Future of Human Exposure (2025–2100)",
+      "title": "Regional Hotspots, Basin Convergence, and Adaptive Capacity",
       "description": "",
-      "page": 20
+      "page": 19
     },
     {
       "number": "",
       "title": "Applied Urban and Regional Case Perspectives",
       "description": "",
-      "page": 22
+      "page": 21
     },
     {
       "number": "",
-      "title": "Integrated Policy, Capital Allocation, and Governance Agenda",
+      "title": "Integrated Policy Agenda, Macroeconomic Stakes, and Capital Allocation",
       "description": "",
       "page": 23
     },
@@ -142,31 +130,13 @@
       "number": "",
       "title": "Joint Climate-Pollution Monitoring, Metrics, and Accountability",
       "description": "",
-      "page": 24
-    },
-    {
-      "number": "",
-      "title": "Macroeconomic Implications: Labor Productivity, Health Budgets, and Food Security",
-      "description": "",
       "page": 25
     },
     {
       "number": "",
       "title": "Strategic Synthesis: Governing the Climate-Pollution Convergence",
       "description": "",
-      "page": 26
-    },
-    {
-      "number": "",
-      "title": "Rural & Basin Convergence: Ozone Crop Losses and Water Contamination",
-      "description": "",
       "page": 27
-    },
-    {
-      "number": "",
-      "title": "Urban Cooling and Clean-Air Design for Resilient Cities",
-      "description": "",
-      "page": 28
     },
     {
       "number": "",
@@ -178,7 +148,7 @@
       "number": "",
       "title": "References & Primary Sources",
       "description": "",
-      "page": 30
+      "page": 31
     }
   ],
   "references": [
@@ -223,6 +193,42 @@
     },
     {
       "text": "Global Commission on Adaptation (2019). Adapt Now: A Global Call for Leadership on Climate Resilience. World Resources Institute."
+    },
+    {
+      "text": "Health Effects Institute (HEI) (2025). State of Global Air 2025: Heat, Ozone, and Particulate Convergence. Boston, MA: HEI."
+    },
+    {
+      "text": "C40 Cities Climate Leadership Group (2025). Urban Cooling, Clean Transit, and Air Quality Co-Benefits Report. London: C40."
+    },
+    {
+      "text": "United Nations Environment Programme (UNEP) (2025). Emissions Gap Report 2025: Bridging Short-Lived Climate Forcers and Clean Air. Nairobi: UNEP."
+    },
+    {
+      "text": "World Meteorological Organization (WMO) (2025). WMO Air Quality and Climate Bulletin: Heat, Ozone, and Wildfire Smoke Interactions. Geneva: WMO."
+    },
+    {
+      "text": "Clean Air Fund (2025). The State of Global Air Quality Funding 2025. London: Clean Air Fund."
+    },
+    {
+      "text": "International Monetary Fund (IMF) (2024). Climate-Resilient Fiscal Policy and Fossil-Fuel Subsidy Reform. Washington, DC: IMF."
+    },
+    {
+      "text": "United Nations Children's Fund (UNICEF) (2024). Protecting Children from Compounding Heat and Air Pollution Shocks. New York: UNICEF."
+    },
+    {
+      "text": "Food and Agriculture Organization (FAO) (2024). Ground-Level Ozone, Heat Stress, and Global Staple Crop Security. Rome: FAO."
+    },
+    {
+      "text": "International Labour Organization (ILO) (2024). Heat at Work: Implications for Safety, Health, and Productivity. Geneva: ILO."
+    },
+    {
+      "text": "United Nations Office for Disaster Risk Reduction (UNDRR) (2025). Global Assessment Report on Disaster Risk Reduction. Geneva: UNDRR."
+    },
+    {
+      "text": "World Resources Institute (WRI) (2025). Accelerating Cool Cities and Clean Urban Transport Transitions. Washington, DC: WRI."
+    },
+    {
+      "text": "Asian Development Bank (ADB) (2025). Clean Air, Heat Resilience, and Sustainable Urban Infrastructure in Asia and the Pacific. Manila: ADB."
     },
     {
       "text": "Lawrence, M., Homer-Dixon, T., Janzwood, S., Rockström, J., Renn, O., & Donges, J. F. (2024). Global polycrisis: the causal mechanisms of crisis entanglement. Global Sustainability, 7, e6."
