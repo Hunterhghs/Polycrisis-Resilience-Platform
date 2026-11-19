@@ -3,8 +3,8 @@
   "title": "Polycrisis Resilience: Human Exposure",
   "subtitle": "Understanding and Reducing Human Exposure to Interconnected Global Risks",
   "type": "Research Report",
-  "datePublished": "2026-11-17",
-  "dateModified": "2026-11-17",
+  "datePublished": "2026-11-18",
+  "dateModified": "2026-11-18",
   "doi": "10.6084/m9.figshare.35044447",
   "repository": {
     "name": "figshare",
@@ -92,39 +92,21 @@
     },
     {
       "number": "",
-      "title": "Dimension 1: Environmental Exposure—Air, Water, Heat, and Ecosystem Degradation",
+      "title": "Dimensions 1 & 2: Environmental, Climate, and Physical Exposure",
       "description": "",
       "page": 10
     },
     {
       "number": "",
-      "title": "Dimension 2: Climate and Physical Exposure—Floods, Droughts, and Sea-Level Rise",
-      "description": "",
-      "page": 11
-    },
-    {
-      "number": "",
-      "title": "Dimension 3: Socioeconomic Exposure—Poverty, Food Insecurity, and Housing",
+      "title": "Dimensions 3 & 4: Socioeconomic Deprivation and Health Exposure",
       "description": "",
       "page": 12
     },
     {
       "number": "",
-      "title": "Dimension 4: Health Exposure—Infectious Disease, Malnutrition, and Care Deficits",
-      "description": "",
-      "page": 13
-    },
-    {
-      "number": "",
-      "title": "Dimension 5: Infrastructure and Technological Exposure—Energy, Water, and Digital Gaps",
+      "title": "Dimensions 5 & 6: Infrastructure, Conflict, and Institutional Exposure",
       "description": "",
       "page": 14
-    },
-    {
-      "number": "",
-      "title": "Dimension 6: Conflict and Institutional Exposure—Fragility, Displacement, and Governance",
-      "description": "",
-      "page": 15
     },
     {
       "number": "",
@@ -134,27 +116,15 @@
     },
     {
       "number": "",
-      "title": "Strategic Pathways 1 & 2: Clean Energy Transitions and Technology Diffusion",
+      "title": "Strategic Pathways 1–4: Clean Energy, Tech Diffusion, Convergence, and Adaptation",
       "description": "",
       "page": 18
     },
     {
       "number": "",
-      "title": "Strategic Pathways 3 & 4: Sustainable Convergence and Climate Adaptation",
-      "description": "",
-      "page": 19
-    },
-    {
-      "number": "",
-      "title": "Strategic Pathways 5, 6 & 7: Infrastructure, Human Development, and Institutions",
+      "title": "Strategic Pathways 5–7 and Prevention Economics",
       "description": "",
       "page": 20
-    },
-    {
-      "number": "",
-      "title": "Prevention Economics: Shifting Capital From Crisis Management to Exposure Reduction",
-      "description": "",
-      "page": 21
     },
     {
       "number": "",
@@ -164,39 +134,21 @@
     },
     {
       "number": "",
-      "title": "Applied Case Perspectives: Reducing Multi-Dimensional Exposure in Practice",
+      "title": "Applied Case Perspectives and Forced Displacement Resilience",
       "description": "",
       "page": 24
     },
     {
       "number": "",
-      "title": "Compounding Exposure, Forced Displacement, and Mobility Resilience",
-      "description": "",
-      "page": 25
-    },
-    {
-      "number": "",
-      "title": "Measuring Human Exposure Reduction: Diagnostics and National Scorecards",
+      "title": "Exposure Scorecards and Global Governance Reform Agenda",
       "description": "",
       "page": 26
     },
     {
       "number": "",
-      "title": "Global Policy, Multilateral Finance, and Institutional Reform Agenda",
-      "description": "",
-      "page": 27
-    },
-    {
-      "number": "",
-      "title": "Concluding Synthesis: Building a World With Fewer Exposed Populations",
+      "title": "Concluding Synthesis and Exposure Systems Methodology",
       "description": "",
       "page": 28
-    },
-    {
-      "number": "",
-      "title": "Methodology, Data Architecture, Sensitivity Analysis, and Limitations",
-      "description": "",
-      "page": 29
     },
     {
       "number": "",
@@ -247,6 +199,39 @@
     },
     {
       "text": "United Nations Office for Disaster Risk Reduction (UNDRR) (2025). Global Assessment Report on Disaster Risk Reduction."
+    },
+    {
+      "text": "UNHCR & Internal Displacement Monitoring Centre (IDMC) (2025). Global Trends in Forced Displacement and Internal Displacement."
+    },
+    {
+      "text": "International Energy Agency (IEA) (2025). World Energy Outlook and SDG 7 Energy Access Tracking. Paris: IEA."
+    },
+    {
+      "text": "Global Commission on Adaptation (2019). Adapt Now: A Global Call for Leadership on Climate Resilience. Rotterdam & Washington, DC: GCA."
+    },
+    {
+      "text": "Hallegatte, S., Rentschler, J., & Rozenberg, J. (2019). Lifelines: The Resilient Infrastructure Opportunity. Washington, DC: World Bank."
+    },
+    {
+      "text": "Intergovernmental Panel on Climate Change (IPCC) (2023). Sixth Assessment Report (AR6): Impacts, Adaptation and Vulnerability. Geneva: IPCC."
+    },
+    {
+      "text": "UN-Habitat (2024). World Cities Report 2024: Cities and Climate Action. Nairobi: UN-Habitat."
+    },
+    {
+      "text": "Food and Agriculture Organization (FAO) (2024). The State of Food Security and Nutrition in the World 2024. Rome: FAO."
+    },
+    {
+      "text": "Lawrence, M., Homer-Dixon, T., Janzwood, S., Rockström, J., Renn, O., & Donges, J. F. (2024). Global polycrisis: the causal mechanisms of crisis entanglement. Global Sustainability, 7, e6."
+    },
+    {
+      "text": "United Nations Department of Economic and Social Affairs (UN DESA) (2024). World Population Prospects 2024. New York: United Nations."
+    },
+    {
+      "text": "International Monetary Fund (IMF) (2025). Fiscal Monitor: Resilience Finance and Sovereign Fiscal Space. Washington, DC: IMF."
+    },
+    {
+      "text": "Organisation for Economic Co-operation and Development (OECD) (2025). Blended Finance for Clean Infrastructure and Human Resilience. Paris: OECD."
     }
   ]
 }
