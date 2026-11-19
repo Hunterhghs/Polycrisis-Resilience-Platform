@@ -3,8 +3,8 @@
   "title": "Technology Diffusion and Polycrisis Resilience",
   "subtitle": "Accelerating the Adoption of Technologies That Reduce Global Vulnerability",
   "type": "Research Report",
-  "datePublished": "2026-11-17",
-  "dateModified": "2026-11-17",
+  "datePublished": "2026-11-18",
+  "dateModified": "2026-11-18",
   "doi": "10.6084/m9.figshare.35044165",
   "repository": {
     "name": "figshare",
@@ -80,135 +80,75 @@
     },
     {
       "number": "",
-      "title": "The Central Conceptual Model: From Innovation to Polycrisis Resilience",
+      "title": "Conceptual Model and Why Invention Is Not Enough",
       "description": "",
       "page": 6
     },
     {
       "number": "",
-      "title": "Why Invention Is Not Enough: Speed, Affordability, and Distribution",
+      "title": "Clean Energy Microgrids and Healthcare Technology Diffusion",
       "description": "",
       "page": 8
     },
     {
       "number": "",
-      "title": "Clean Energy and Distributed Microgrids as Multi-Risk Buffers",
-      "description": "",
-      "page": 9
-    },
-    {
-      "number": "",
-      "title": "Healthcare, Diagnostics, and Telemedicine Diffusion",
+      "title": "Agricultural Water Tech and Digital Public Infrastructure",
       "description": "",
       "page": 10
     },
     {
       "number": "",
-      "title": "Agricultural Productivity and Water-Security Technologies",
-      "description": "",
-      "page": 11
-    },
-    {
-      "number": "",
-      "title": "Digital Systems, Early Warning, and Digital Public Infrastructure",
+      "title": "Climate Adaptation Technologies and Structural Diffusion Barriers",
       "description": "",
       "page": 12
     },
     {
       "number": "",
-      "title": "Climate Adaptation and Resilient Infrastructure Technologies",
-      "description": "",
-      "page": 13
-    },
-    {
-      "number": "",
-      "title": "Financial, Infrastructural, Institutional, and Tariff Barriers",
+      "title": "Affordability, Learning Curves, and International Technology Transfer",
       "description": "",
       "page": 14
     },
     {
       "number": "",
-      "title": "Affordability, Learning Curves, and Leapfrogging Dynamics",
-      "description": "",
-      "page": 15
-    },
-    {
-      "number": "",
-      "title": "International Technology Transfer, IP, and Trade Corridors",
+      "title": "Infrastructure Prerequisites, Institutional Capacity, and Convergence",
       "description": "",
       "page": 16
     },
     {
       "number": "",
-      "title": "Infrastructure Prerequisites and Institutional Absorptive Capacity",
-      "description": "",
-      "page": 17
-    },
-    {
-      "number": "",
-      "title": "Technology Diffusion and Global Economic Convergence",
+      "title": "Regional Diffusion Gaps and High-Leverage Adoption Corridors",
       "description": "",
       "page": 18
     },
     {
       "number": "",
-      "title": "Regional Diffusion Gaps and High-Leverage Adoption Corridors",
+      "title": "Blended Financing Mechanisms and Applied Diffusion Cases",
       "description": "",
-      "page": 19
+      "page": 20
     },
     {
       "number": "",
-      "title": "Financing Accelerated Diffusion: Blended Finance and De-Risking",
-      "description": "",
-      "page": 21
-    },
-    {
-      "number": "",
-      "title": "Applied Diffusion Cases: Solar, Mobile Money, and Precision Agriculture",
+      "title": "Local Workforce Maintenance and Open-Source Public Goods",
       "description": "",
       "page": 22
     },
     {
       "number": "",
-      "title": "Treating Technology Diffusion as Core Global Resilience Strategy",
-      "description": "",
-      "page": 23
-    },
-    {
-      "number": "",
-      "title": "Diffusion Governance, Adoption Metrics, and Accountability",
+      "title": "Diversified Supply Chains and Global Resilience Strategy",
       "description": "",
       "page": 24
     },
     {
       "number": "",
-      "title": "Local Workforce Skills, Maintenance Ecosystems, and Uptime",
-      "description": "",
-      "page": 25
-    },
-    {
-      "number": "",
-      "title": "Open-Source Digital and Scientific Public Goods for Diffusion",
+      "title": "Diffusion Governance, Adoption Metrics, and Accountability",
       "description": "",
       "page": 26
     },
     {
       "number": "",
-      "title": "Diversified Supply Chains for Global Resilience Technologies",
-      "description": "",
-      "page": 27
-    },
-    {
-      "number": "",
-      "title": "Concluding Synthesis: Distributing the Tools of Human Resilience",
+      "title": "Concluding Synthesis and Diffusion Systems Methodology",
       "description": "",
       "page": 28
-    },
-    {
-      "number": "",
-      "title": "Methodology, Data Architecture, Sensitivity Analysis, and Limitations",
-      "description": "",
-      "page": 29
     },
     {
       "number": "",
@@ -257,6 +197,39 @@
     },
     {
       "text": "European Commission JRC & DRMKC (2025). INFORM Risk Index 2025."
+    },
+    {
+      "text": "Comin, D., & Mestieri, M. (2018). If technology has arrived everywhere, why has income diverged? American Economic Journal: Macroeconomics, 10(3), 137–178."
+    },
+    {
+      "text": "International Renewable Energy Agency (IRENA) (2025). Renewable Power Generation Costs in 2024. Abu Dhabi: IRENA."
+    },
+    {
+      "text": "World Health Organization (WHO) (2025). Global Strategy on Digital Health and Primary Care Cold Chains. Geneva: WHO."
+    },
+    {
+      "text": "Global Commission on Adaptation (2019). Adapt Now: A Global Call for Leadership on Climate Resilience. Rotterdam & Washington, DC: GCA."
+    },
+    {
+      "text": "United Nations Department of Economic and Social Affairs (UN DESA) (2024). World Population Prospects 2024. New York: United Nations."
+    },
+    {
+      "text": "Food and Agriculture Organization (FAO) (2024). The State of Food and Agriculture: Innovation and Technology Diffusion. Rome: FAO."
+    },
+    {
+      "text": "International Monetary Fund (IMF) (2025). Fiscal Monitor: Clean Technology Diffusion and Sovereign Space. Washington, DC: IMF."
+    },
+    {
+      "text": "Hallegatte, S., Rentschler, J., & Rozenberg, J. (2019). Lifelines: The Resilient Infrastructure Opportunity. Washington, DC: World Bank."
+    },
+    {
+      "text": "Lawrence, M., Homer-Dixon, T., Janzwood, S., Rockström, J., Renn, O., & Donges, J. F. (2024). Global polycrisis: the causal mechanisms of crisis entanglement. Global Sustainability, 7, e6."
+    },
+    {
+      "text": "United Nations Environment Programme (UNEP) (2024). Adaptation Gap Report 2024. Nairobi: UNEP."
+    },
+    {
+      "text": "World Trade Organization (WTO) (2024). World Trade Report 2024: Trade and Inclusiveness in Clean Technology Diffusion. Geneva: WTO."
     }
   ]
 }
