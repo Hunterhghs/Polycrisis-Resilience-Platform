@@ -3,8 +3,8 @@
   "title": "The Geography of Polycrisis Resilience",
   "subtitle": "Spatial Inequality, Regional Vulnerability and the Geography of Global Resilience",
   "type": "Research Report",
-  "datePublished": "2026-11-17",
-  "dateModified": "2026-11-17",
+  "datePublished": "2026-11-18",
+  "dateModified": "2026-11-18",
   "doi": "10.6084/m9.figshare.35044510",
   "repository": {
     "name": "figshare",
@@ -80,133 +80,73 @@
     },
     {
       "number": "",
-      "title": "Central Analytical Framework: Four Geographical Variables of Resilience",
+      "title": "Four Geographical Variables and Global Spatial Inequality",
       "description": "",
       "page": 6
     },
     {
       "number": "",
-      "title": "Spatial Inequality: Why Exposure and Capacity Diverge Across Regions",
-      "description": "",
-      "page": 7
-    },
-    {
-      "number": "",
-      "title": "Demographic Change and Population Growth (2025–2100): The Spatial Shift",
+      "title": "Demographic Shift Through 2100 and System Interactions",
       "description": "",
       "page": 9
     },
     {
       "number": "",
-      "title": "How Population Growth Interacts With Urbanization, Energy, Food, and Health",
+      "title": "Regional Focus: Sub-Saharan Africa and South Asia",
       "description": "",
       "page": 11
     },
     {
       "number": "",
-      "title": "Regional Focus 1: Sub-Saharan Africa—Growth, Energy, Urbanization, and Food",
-      "description": "",
-      "page": 12
-    },
-    {
-      "number": "",
-      "title": "Regional Focus 2: South Asia—Density, Extreme Heat, Air Pollution, and Water",
+      "title": "Regional Focus: Southeast Asia and Middle East & North Africa",
       "description": "",
       "page": 13
     },
     {
       "number": "",
-      "title": "Regional Focus 3: Southeast Asia—Coastal Exposure, Industrialization, and Cities",
-      "description": "",
-      "page": 14
-    },
-    {
-      "number": "",
-      "title": "Regional Focus 4: Middle East and North Africa—Water Scarcity, Heat, and Energy",
+      "title": "Regional Focus: Latin America and Small Island Developing States",
       "description": "",
       "page": 15
     },
     {
       "number": "",
-      "title": "Regional Focus 5: Latin America—Urban Inequality, Forests, and Water Security",
-      "description": "",
-      "page": 16
-    },
-    {
-      "number": "",
-      "title": "Regional Focus 6: Small Island Developing States—Sea-Level Rise and Constraints",
+      "title": "Sub-National Geography: Urban Cores, Rural Basins, and Migration Corridors",
       "description": "",
       "page": 17
     },
     {
       "number": "",
-      "title": "Sub-National Geography: Urban Cores, Informal Peri-Urban Belts, and Rural Basins",
-      "description": "",
-      "page": 18
-    },
-    {
-      "number": "",
-      "title": "Coastal and Delta Geography: Sea-Level Rise, Storm Surges, and Port Corridors",
+      "title": "Coastal, Delta, and Small Island Spatial Engineering",
       "description": "",
       "page": 19
     },
     {
       "number": "",
-      "title": "Spatial Capital Allocation: Directing Investments to Maximum Vulnerability Impact",
-      "description": "",
-      "page": 20
-    },
-    {
-      "number": "",
-      "title": "Avoiding One-Size-Fits-All Policy: Heterogeneity Across the Global South",
+      "title": "Spatial Capital Allocation and Geographical Financing Compact",
       "description": "",
       "page": 21
     },
     {
       "number": "",
-      "title": "Transboundary Geography: Shared Watersheds, Airsheds, and Trade Corridors",
-      "description": "",
-      "page": 22
-    },
-    {
-      "number": "",
-      "title": "Geospatial Intelligence: Satellite Telemetry, Risk Mapping, and Local Planning",
+      "title": "Avoiding One-Size-Fits-All Policy: Global South Heterogeneity",
       "description": "",
       "page": 23
     },
     {
       "number": "",
-      "title": "Regional Policy, Multilateral Development Finance, and Governance Agenda",
-      "description": "",
-      "page": 24
-    },
-    {
-      "number": "",
-      "title": "Spatial Mobility: Rural-to-Urban Migration Corridors and Planned Absorption",
+      "title": "Transboundary Corridors and Geospatial Intelligence",
       "description": "",
       "page": 25
     },
     {
       "number": "",
-      "title": "A Geographical Resilience Financing Compact for the Global South",
-      "description": "",
-      "page": 26
-    },
-    {
-      "number": "",
-      "title": "Coastal Delta and Small Island Spatial Engineering",
+      "title": "Regional Policy, Multilateral Finance, and Governance Agenda",
       "description": "",
       "page": 27
     },
     {
       "number": "",
-      "title": "Concluding Synthesis: Can Development Outpace Demographic & Climate Pressures?",
-      "description": "",
-      "page": 28
-    },
-    {
-      "number": "",
-      "title": "Methodology, Data Architecture, Sensitivity Analysis, and Limitations",
+      "title": "Concluding Synthesis and Spatial Systems Methodology",
       "description": "",
       "page": 29
     },
@@ -251,6 +191,42 @@
     },
     {
       "text": "Hallegatte, S., Rentschler, J., & Rozenberg, J. (2019). Lifelines: The Resilient Infrastructure Opportunity. World Bank Group."
+    },
+    {
+      "text": "McGranahan, G., Balk, D., & Anderson, B. (2007). The rising tide: assessing the risks of climate change and human settlements in low elevation coastal zones. Environment and Urbanization, 19(1), 17–37."
+    },
+    {
+      "text": "African Development Bank (AfDB) (2025). African Economic Outlook 2025: Climate Finance and Resilient Infrastructure. Abidjan: AfDB."
+    },
+    {
+      "text": "Asian Development Bank (ADB) (2025). Asian Development Outlook: Urban Cooling and Delta Resilience. Manila: ADB."
+    },
+    {
+      "text": "WHO & UNICEF Joint Monitoring Programme (JMP) (2025). Progress on Household Drinking Water, Sanitation and Hygiene. Geneva & New York."
+    },
+    {
+      "text": "United Nations Environment Programme (UNEP) (2024). Adaptation Gap Report 2024. Nairobi: UNEP."
+    },
+    {
+      "text": "International Monetary Fund (IMF) (2025). Regional Economic Outlook: Sub-Saharan Africa and Climate Resilience. Washington, DC: IMF."
+    },
+    {
+      "text": "Food and Agriculture Organization (FAO) (2024). The State of Food Security and Nutrition in the World 2024. Rome: FAO."
+    },
+    {
+      "text": "World Meteorological Organization (WMO) (2025). State of the Global Climate 2024. Geneva: WMO."
+    },
+    {
+      "text": "Organisation for Economic Co-operation and Development (OECD) (2025). Regions and Cities at a Glance: Spatial Resilience and Infrastructure. Paris: OECD."
+    },
+    {
+      "text": "Inter-American Development Bank (IDB) (2024). Resilient Infrastructure and Urban Upgrading in Latin America and the Caribbean. Washington, DC: IDB."
+    },
+    {
+      "text": "Lawrence, M., Homer-Dixon, T., Janzwood, S., Rockström, J., Renn, O., & Donges, J. F. (2024). Global polycrisis: the causal mechanisms of crisis entanglement. Global Sustainability, 7, e6."
+    },
+    {
+      "text": "United Nations Office for Disaster Risk Reduction (UNDRR) (2024). Global Assessment Report on Disaster Risk Reduction. Geneva: UNDRR."
     }
   ]
 }
