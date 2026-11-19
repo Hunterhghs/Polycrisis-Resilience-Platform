@@ -3,8 +3,8 @@
   "title": "The Environmental Foundations of Polycrisis Resilience",
   "subtitle": "Climate Adaptation, Pollution Reduction and Human Vulnerability",
   "type": "Research Report",
-  "datePublished": "2026-11-17",
-  "dateModified": "2026-11-17",
+  "datePublished": "2026-11-18",
+  "dateModified": "2026-11-18",
   "doi": "10.6084/m9.figshare.35044063",
   "repository": {
     "name": "figshare",
@@ -191,6 +191,45 @@
     },
     {
       "text": "Lawrence, M., Homer-Dixon, T., Janzwood, S., Rockström, J., Renn, O., & Donges, J. F. (2024). Global polycrisis: the causal mechanisms of crisis entanglement. Global Sustainability, 7, e6."
+    },
+    {
+      "text": "Intergovernmental Panel on Climate Change (IPCC) (2023). Climate Change 2023: Synthesis Report (AR6). Geneva: IPCC."
+    },
+    {
+      "text": "World Health Organization (WHO) & UNICEF (2025). Joint Monitoring Programme (JMP) for Water Supply, Sanitation and Hygiene. Geneva & New York."
+    },
+    {
+      "text": "Health Effects Institute (HEI) (2025). State of Global Air 2025. Boston, MA: HEI."
+    },
+    {
+      "text": "United Nations Office for Disaster Risk Reduction (UNDRR) (2025). Global Assessment Report on Disaster Risk Reduction. Geneva: UNDRR."
+    },
+    {
+      "text": "World Bank (2025). Changing Wealth of Nations: Natural Capital Accounting for Resilient Development. Washington, DC: World Bank Group."
+    },
+    {
+      "text": "Food and Agriculture Organization (FAO) (2024). State of Food and Agriculture: Watershed and Soil Resilience. Rome: FAO."
+    },
+    {
+      "text": "Clean Air Fund (2025). The State of Global Air Quality Funding 2025. London: Clean Air Fund."
+    },
+    {
+      "text": "United Nations Department of Economic and Social Affairs (UN DESA) (2024). World Population Prospects 2024. New York: United Nations."
+    },
+    {
+      "text": "Romanello, M., et al. (2024). The 2024 report of the Lancet Countdown on health and climate change. The Lancet."
+    },
+    {
+      "text": "United Nations Human Settlements Programme (UN-Habitat) (2024). World Cities Report: Climate Resilience and Urban Infrastructure. Nairobi: UN-Habitat."
+    },
+    {
+      "text": "International Monetary Fund (IMF) (2024). Climate-Resilient Fiscal Policy and Sustainable Public Investment. Washington, DC: IMF."
+    },
+    {
+      "text": "World Resources Institute (WRI) (2025). Nature-Based Solutions and Urban Cooling Pathways. Washington, DC: WRI."
+    },
+    {
+      "text": "Clean Cooking Alliance (CCA) (2025). Clean Cooking Industry Snapshot and Health-Impact Benchmarks. Washington, DC: CCA."
     }
   ]
 }
