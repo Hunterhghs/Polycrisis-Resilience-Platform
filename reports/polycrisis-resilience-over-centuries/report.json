@@ -3,8 +3,8 @@
   "title": "Polycrisis Resilience While Conditions Worsen Over Centuries",
   "subtitle": "Human and Systemic Vulnerability Reduction Under Long-Term Environmental, Economic, and Geopolitical Deterioration",
   "type": "Research Report",
-  "datePublished": "2026-11-17",
-  "dateModified": "2026-11-17",
+  "datePublished": "2026-11-18",
+  "dateModified": "2026-11-18",
   "doi": "10.6084/m9.figshare.35044537",
   "repository": {
     "name": "figshare",
@@ -80,27 +80,15 @@
     },
     {
       "number": "",
-      "title": "Proposed Contribution: Long-Horizon Polycrisis Resilience",
+      "title": "Long-Horizon Polycrisis Resilience and Worsening Baselines",
       "description": "",
       "page": 6
     },
     {
       "number": "",
-      "title": "The Long-Term Deterioration of Baseline Conditions",
-      "description": "",
-      "page": 7
-    },
-    {
-      "number": "",
-      "title": "Two Dimensions of Resilience: Discrete Shock vs. Secular Deterioration",
+      "title": "Discrete Shock Recovery vs. Secular Deterioration Across 2025–2500+",
       "description": "",
       "page": 8
-    },
-    {
-      "number": "",
-      "title": "The Century-Scale and Multicentury Analytical Perspective (2025–2500+)",
-      "description": "",
-      "page": 9
     },
     {
       "number": "",
@@ -110,105 +98,57 @@
     },
     {
       "number": "",
-      "title": "The Global South, Demographic Exposure, and Inherited Vulnerability",
+      "title": "Global South Demographics, Inherited Vulnerability, and Regional Pathways",
       "description": "",
-      "page": 11
+      "page": 12
     },
     {
       "number": "",
       "title": "Technological Progress as a Countervailing Force Across Centuries",
       "description": "",
-      "page": 13
+      "page": 14
     },
     {
       "number": "",
-      "title": "Maintaining Resilience Across Successive Generations",
-      "description": "",
-      "page": 15
-    },
-    {
-      "number": "",
-      "title": "Knowledge Transmission, Educational Continuity, and Institutional Longevity",
+      "title": "Maintaining Resilience Across Generations and Knowledge Transmission",
       "description": "",
       "page": 16
     },
     {
       "number": "",
-      "title": "Navigating Persistent and Irreversible Environmental Changes",
-      "description": "",
-      "page": 17
-    },
-    {
-      "number": "",
-      "title": "Evaluating Resilience Through Absolute Capabilities and Changing Baselines",
+      "title": "Evaluating Relative Vulnerability and Intergenerational Prevention Economics",
       "description": "",
       "page": 18
     },
     {
       "number": "",
-      "title": "Intergenerational Prevention Economics and Long-Horizon Capital",
-      "description": "",
-      "page": 19
-    },
-    {
-      "number": "",
-      "title": "Regional Multicentury Pathways: Africa, Asia, MENA, Latin America, and SIDS",
+      "title": "Infrastructure Durability and Biosphere Stewardship Under Stress",
       "description": "",
       "page": 20
     },
     {
       "number": "",
-      "title": "Infrastructure Durability, Modularity, and Multi-Century Maintenance",
-      "description": "",
-      "page": 21
-    },
-    {
-      "number": "",
-      "title": "Biosphere Stewardship and Resource Management Under Long-Term Stress",
+      "title": "Adaptive Governance, Geopolitical Stability, and Open Science",
       "description": "",
       "page": 22
     },
     {
       "number": "",
-      "title": "Adaptive Governance for Unfamiliar Future Crises",
-      "description": "",
-      "page": 23
-    },
-    {
-      "number": "",
-      "title": "Multicentury Energy Transitions and Circular Resource Systems",
+      "title": "Multicentury Energy Transitions and Durable Food–Water Architectures",
       "description": "",
       "page": 24
     },
     {
       "number": "",
-      "title": "Durable Food and Freshwater Architectures Across Centuries",
-      "description": "",
-      "page": 25
-    },
-    {
-      "number": "",
-      "title": "Geopolitical Stability, Open Science, and Global Cooperation",
+      "title": "Long-Horizon Policy Agenda: Actions Today That Shape Centuries",
       "description": "",
       "page": 26
     },
     {
       "number": "",
-      "title": "Long-Horizon Policy Agenda: Actions Today That Shape Centuries",
-      "description": "",
-      "page": 27
-    },
-    {
-      "number": "",
-      "title": "Concluding Synthesis: Preserving Human Development Under Challenging Futures",
+      "title": "Concluding Synthesis and Multicentury Systems Methodology",
       "description": "",
       "page": 28
-    },
-    {
-      "number": "",
-      "title": "Methodology, Multicentury Calibration, Sensitivity Analysis, and Limitations",
-      "description": "",
-      "page": 29
     },
     {
       "number": "",
@@ -251,10 +191,46 @@
       "text": "World Bank (2025). World Development Indicators (WDI) Database. Washington, DC: World Bank Group."
     },
     {
+      "text": "World Bank & Hallegatte, S., Rentschler, J., & Rozenberg, J. (2019). Lifelines: The Resilient Infrastructure Opportunity. Washington, DC: World Bank."
+    },
+    {
+      "text": "Global Commission on Adaptation (2019). Adapt Now: A Global Call for Leadership on Climate Resilience. Rotterdam & Washington, DC: GCA."
+    },
+    {
+      "text": "International Energy Agency (IEA) (2025). World Energy Outlook 2025. Paris: IEA."
+    },
+    {
+      "text": "Food and Agriculture Organization (FAO) (2024). The State of Food Security and Nutrition in the World 2024. Rome: FAO."
+    },
+    {
+      "text": "United Nations Environment Programme (UNEP) (2024). Adaptation Gap Report 2024. Nairobi: UNEP."
+    },
+    {
       "text": "Ord, T. (2020). The Precipice: Existential Risk and the Future of Humanity. Hachette Books."
     },
     {
       "text": "Lawrence, M., Homer-Dixon, T., Janzwood, S., Rockström, J., Renn, O., & Donges, J. F. (2024). Global polycrisis: the causal mechanisms of crisis entanglement. Global Sustainability, 7, e6."
+    },
+    {
+      "text": "Stern, N. (2007). The Economics of Climate Change: The Stern Review. Cambridge: Cambridge University Press."
+    },
+    {
+      "text": "Dasgupta, P. (2021). The Economics of Biodiversity: The Dasgupta Review. London: HM Treasury."
+    },
+    {
+      "text": "Rockström, J., et al. (2023). Safe and just Earth system boundaries. Nature, 619, 102–111."
+    },
+    {
+      "text": "International Monetary Fund (IMF) (2025). Fiscal Monitor: Long-Horizon Climate Resilience and Sovereign Debt. Washington, DC: IMF."
+    },
+    {
+      "text": "World Health Organization (WHO) (2025). Climate Change, Air Pollution, and Long-Term Public Health Resilience. Geneva: WHO."
+    },
+    {
+      "text": "United Nations Educational, Scientific and Cultural Organization (UNESCO) (2024). Global Education Monitoring Report: Knowledge Continuity and Climate Resilience. Paris: UNESCO."
+    },
+    {
+      "text": "Organisation for Economic Co-operation and Development (OECD) (2025). Governing Long-Term Risks and Intergenerational Fiscal Frameworks. Paris: OECD."
     }
   ]
 }
