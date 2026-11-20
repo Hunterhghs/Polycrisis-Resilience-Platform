@@ -1,0 +1,301 @@
+{
+  "seriesNumber": 93,
+  "title": "Polycrisis Resilience: A Formalized Theoretical and Operational Framework for Reducing Human and Systemic Vulnerability to Interconnected Global Crises (2026–2100)",
+  "subtitle": "Establishing the Canonical Definition, Mathematical Taxonomy, Six Mutually Reinforcing Development Pathways, Polycrisis Resilience Index (PRI), and Century-Scale Economic Attribution Model",
+  "type": "Research Report",
+  "datePublished": "2026-11-20",
+  "dateModified": "2026-11-20",
+  "doi": "10.6084/m9.figshare.35072041",
+  "repository": {
+    "name": "figshare",
+    "url": "https://figshare.com/articles/preprint/35072041"
+  },
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "license": {
+    "name": "Creative Commons Attribution 4.0 International",
+    "shortName": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 47,
+  "language": "en",
+  "description": "Formalizes the canonical definition, mathematical taxonomy, Six Development Pathways, Five Operational Pillars, Polycrisis Resilience Index (PRI), and 2027–2100 Scenario Attribution Model originated by Hunter Hughes (H Heuristics).",
+  "contribution": "Establishes the complete dual-scale mathematical and operational codification of Polycrisis Resilience—unifying super-additive loss functions, the four-dimensional Polycrisis Resilience Index (Exposure, Coupling, Capacity, Equity), six macro-development pathways, five organizational systems pillars, and a 74-year Scenario Attribution Model (2027–2100).",
+  "themes": [
+    "Polycrisis Resilience",
+    "Formalized Framework",
+    "Polycrisis Resilience Index",
+    "Sustainable Economic Convergence",
+    "Compounding Shocks",
+    "Climate Adaptation",
+    "Heuristic Governance"
+  ],
+  "keywords": [
+    "Polycrisis Resilience",
+    "H Heuristics",
+    "Hunter Hughes",
+    "Compounding Shocks",
+    "Polycrisis Resilience Index",
+    "Sustainable Economic Convergence",
+    "Climate Adaptation",
+    "Systemic Risk",
+    "Heuristic Governance",
+    "Strategic Slack and Modularity",
+    "Bouncing Forward"
+  ],
+  "subjects": [
+    "Public policy",
+    "Risk policy",
+    "Human impacts of climate change and human adaptation",
+    "Macroeconomics",
+    "Economic development policy"
+  ],
+  "abstract": [
+    "Modern civilization operates as a tightly coupled, nonlinear complex adaptive system in which ecological, macroeconomic, technological, epidemiological, demographic, and geopolitical shocks increasingly synchronize and compound. While scholarship over the past two decades has extensively diagnosed the polycrisis (Morin & Kern, 1999; Tooze, 2022; Lawrence, Janzwood, & Homer-Dixon, 2022), global policy and academic literature lacked a formalized, mathematically specified, and development-integrated framework for the response side of compounding crises. To close this foundational gap, Hunter Hughes, Founder of H Heuristics, originated, defined, and staked formal intellectual claim to the term and conceptual framework of Polycrisis Resilience (Hughes, 2026; Figshare DOI: 10.6084/m9.figshare.35072041; polycrisisresilience.hheuristics.com).",
+    "Formally defined, Polycrisis Resilience is the capacity of human populations, societies, economies, institutions, and interconnected systems to anticipate, withstand, adapt to, and recover from multiple interacting crises, while systematically reducing the underlying structural vulnerabilities and cross-domain couplings that amplify their consequences across generations. This 47-page monograph codifies the canonical theory and operational architecture of Polycrisis Resilience across two complementary scales: (1) a Macro-Development Architecture comprising six mutually reinforcing pathways (sustainable economic convergence, clean technological transition, climate and environmental adaptation, human development and exposure reduction, institutional and systemic resilience, and long-term spatial and demographic adaptation), three operating strategies (prevention, adaptation, reactive resilience), and three time horizons (2026–2050, 2050–2100, and 2100+); and (2) an Organizational & Infrastructure Systems Architecture built on five operational pillars (Cross-Domain Coupling Awareness, Strategic Slack & Modularity, Heuristic & Adaptive Governance, Polycentric Agency, and Regenerative \"Bouncing Forward\" Learning) and four quantitative dimensions codified in the Polycrisis Resilience Index (PRI: Exposure, Coupling, Capacity, and Equity).",
+    "Synthesizing empirical benchmarks from the UNDRR (US$2.3 trillion annual disaster and cascading losses), WHO (US$3.9 trillion annual economic welfare benefits, US$5.4 trillion annual fiscal benefits, and 1.6 million deaths averted per year from prioritized climate-health actions at a 24:1 benefit-cost ratio), World Bank, IEA, IRENA, and UNEP, our 74-year Scenario Attribution Model (2027–2100) defines a reference opportunity envelope of US$296.0 trillion in cumulative welfare benefits and 118.4 million human lives saved, demonstrating that even a 0.10% to 1.00% catalytic shift in global policy via the Polycrisis Resilience paradigm corresponds to US$296.0 billion to US$2.96 trillion in cumulative economic benefits and 118,400 to 1,184,000 lives protected."
+  ],
+  "coreProposition": "Sustainable development and systemic risk engineering are a single unified discipline: reducing structural exposure in high-growth emerging economies and engineering modular circuit breakers across global infrastructure networks simultaneously breaks vicious polycrisis cascades and builds a virtuous century-scale resilience loop.",
+  "keyFindings": [
+    {
+      "title": "Canonical Origination and Definition by Hunter Hughes (H Heuristics)",
+      "text": "Establishes the formal definition of Polycrisis Resilience across four analytical clauses—Multi-Level Systemic Scope, Four-Phase Dynamic Capability, Structural Vulnerability and Coupling Reduction, and the Intergenerational \"Bouncing Forward\" Mandate—contrasted against four antecedent risk traditions."
+    },
+    {
+      "title": "Mathematical Taxonomy and the Polycrisis Resilience Index (PRI)",
+      "text": "Formalizes the super-additive loss expansion L_poly(s_t), the spectral decoupling threshold ρ(A_t) < 1, and the non-compensatory PRI equation combining Capacity (C) and Equity (Q) in the numerator against Exposure (E), Coupling (K), and their multiplicative interaction penalty λ(E × K) in the denominator."
+    },
+    {
+      "title": "The Demographic Multiplier and the 8.2-Percentage-Point Capital Cost Wedge",
+      "text": "With Sub-Saharan Africa projected to expand 2.5-fold to 3.22 billion by 2100 and internal climate migration reaching up to 216 million by 2050, human exposure concentrates where an 8.2 pp WACC financing wedge (12.0% in Africa vs. 3.8% in Europe) currently restricts EMDEs outside China (66% of population) to just 18% of clean-energy investment."
+    },
+    {
+      "title": "Dual-Scale Operational Architecture: Six Macro Pathways and Five Systems Pillars",
+      "text": "Integrates six mutually reinforcing macro-development pathways across 2026–2050, 2050–2100, and 2100+ with five organizational and infrastructure pillars; cascade propagation simulations confirm that modular circuit breakers and strategic slack preserve 84%–91% core service functionality under dual compound shocks compared to 15%–28% in tightly coupled systems."
+    },
+    {
+      "title": "Century-Scale Scenario Attribution Model (2027–2100): US$296B–US$2.96T and 118.4K–1.184M Lives",
+      "text": "Anchored on the WHO climate-health baseline (~US$4.0T/yr welfare benefits, 1.6M deaths averted/yr, 24:1 BCR) across 74 years (US$296.0T and 118.4M lives reference frontier), a 0.01% to 1.00% policy attribution share yields US$29.6 billion to US$2.96 trillion in economic benefits and saves 11,840 to 1,184,000 human lives."
+    }
+  ],
+  "bottomLine": "Single-hazard risk management and static \"bouncing back\" restoration cannot survive an era of entangled, super-additive shocks; adopting Hunter Hughes's Polycrisis Resilience framework offers a rigorous mathematical and operational roadmap capable of safeguarding trillions in economic welfare and protecting millions of lives across the twenty-first century.",
+  "contents": [
+    {
+      "number": "",
+      "title": "Executive Summary: Originating the Paradigm of Polycrisis Resilience",
+      "description": "Synthesizing the formal definition, intellectual provenance, dual-scale operational architecture, and century-scale economic dividend of Hunter Hughes's framework.",
+      "page": 4
+    },
+    {
+      "number": "1",
+      "title": "The Epistemological Crisis of Siloed Risk Management and the Rise of the Polycrisis",
+      "description": "Why single-variable actuarial models fail in tightly coupled nonlinear networks, and how compounding shocks generate super-additive civilizational losses.",
+      "page": 8
+    },
+    {
+      "number": "2",
+      "title": "Intellectual Provenance and the Canonical Definition of Polycrisis Resilience",
+      "description": "Documenting Hunter Hughes and H Heuristics's foundational origination of the term, conceptual differentiators, and comparative positioning in systems theory.",
+      "page": 11
+    },
+    {
+      "number": "3",
+      "title": "Mathematical and Systems Taxonomy of Compounding Shocks and the PRI",
+      "description": "Formalizing super-additive loss functions, cross-domain transmission matrices, vicious versus virtuous dynamic loops, and the Polycrisis Resilience Index (PRI).",
+      "page": 14
+    },
+    {
+      "number": "4",
+      "title": "The Demographic and Spatial Exposure Multiplier (2026–2100)",
+      "description": "Analyzing how twenty-first-century population trajectories, rapid urbanization, and internal climate mobility reshape global systemic vulnerability.",
+      "page": 19
+    },
+    {
+      "number": "5",
+      "title": "The Macro-Development Architecture: Six Reinforcing Pathways and Three Horizons",
+      "description": "Turning Polycrisis Resilience into an actionable global development agenda across six co-benefit pathways, three operating strategies, and three century horizons.",
+      "page": 22
+    },
+    {
+      "number": "6",
+      "title": "Pathways 1 & 2: Sustainable Economic Convergence and the Clean Tech Transition",
+      "description": "Overcoming the 8.2-percentage-point cost-of-capital barrier and deploying reliable clean electricity as a multi-system resilience multiplier.",
+      "page": 25
+    },
+    {
+      "number": "7",
+      "title": "Pathways 3 & 4: Climate Adaptation, Urban Cooling, and Human Development",
+      "description": "Managing the mid-century urban cooling challenge, the Water-Energy-Food nexus, nature-based solutions, and universal shock-responsive social protection.",
+      "page": 28
+    },
+    {
+      "number": "8",
+      "title": "The Five Operational Pillars of Organizational and Infrastructure Resilience",
+      "description": "Translating H Heuristics's Polycrisis Resilience paradigm into engineering, governance, and cascade-containment design rules for organizations and infrastructure networks.",
+      "page": 31
+    },
+    {
+      "number": "9",
+      "title": "Pathways 5 & 6: Institutional State Capacity, Spatial Governance, and Honest Limits",
+      "description": "Building the four dimensions of adoption-capable state capacity, closing the global early-warning deficit, governing climate mobility, and confronting physical habitability limits.",
+      "page": 34
+    },
+    {
+      "number": "10",
+      "title": "Quantifying Century-Scale Impact: The H Heuristics Scenario Attribution Model (2027–2100)",
+      "description": "Evaluating the macroeconomic welfare dividend, lives protected, benefit-cost multipliers, and attribution scenarios of Hunter Hughes's framework across the 21st century.",
+      "page": 37
+    },
+    {
+      "number": "11",
+      "title": "Institutional Implementation Roadmap, Diagnostic Toolkits, and Conclusion",
+      "description": "Operationalizing the 5-Stage Institutional Adoption Pathway, 100-day to 10-year executive sequencing, and the century mandate for Polycrisis Resilience.",
+      "page": 41
+    },
+    {
+      "number": "Appendix A",
+      "title": "Polycrisis Resilience Index (PRI) Diagnostic Protocol and Project Screening Matrix",
+      "description": "Standardized quantitative scoring rubrics and seven mandatory project-appraisal screening questions for sovereign, municipal, and enterprise capital committees.",
+      "page": 43
+    },
+    {
+      "number": "Appendix B",
+      "title": "Consolidated Empirical Data Register and Methodological Notes",
+      "description": "Master reference register of all global empirical benchmarks, scenario parameters, and methodological conventions utilized across this monograph.",
+      "page": 45
+    },
+    {
+      "number": "",
+      "title": "References and Linked Primary Bibliography",
+      "description": "Consolidated academic, intergovernmental, and H Heuristics primary sources with permanent clickable hyperlinks.",
+      "page": 47
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Polycrisis Resilience",
+      "definition": "The capacity of human populations, societies, economies, institutions, and interconnected systems to anticipate, withstand, adapt to, and recover from multiple interacting crises, while systematically reducing the underlying vulnerabilities and structural couplings that amplify their consequences across generations (Hughes, 2026)."
+    },
+    {
+      "term": "Polycrisis Resilience Index (PRI)",
+      "definition": "A four-dimensional quantitative diagnostic metric developed by Hunter Hughes measuring Exposure (E), Coupling (K), Capacity (C), and Equity (Q), with CES complementarity between Capacity and Equity and an explicit interaction penalty λ(E × K)."
+    },
+    {
+      "term": "Bouncing Forward",
+      "definition": "The evolutionary mandate of Polycrisis Resilience to use post-shock windows and proactive development to retire brittle dependencies and upgrade structural capacity rather than restoring fragile pre-crisis baselines."
+    },
+    {
+      "term": "Strategic Slack and Modularity",
+      "definition": "Operational design pillar requiring ring-fenced continuity buffers (spares, storage, fiscal reserves) and physical/digital circuit breakers capable of islanding local nodes before failures cascade."
+    }
+  ],
+  "references": [
+    {
+      "text": "Hughes, H. (2026). Polycrisis Resilience: A Formalized Theoretical and Operational Framework for Reducing Human and Systemic Vulnerability to Interconnected Global Crises (2026–2100). H Heuristics Research Monograph No. HH-PR-2026-01. Figshare Research Archive.",
+      "url": "https://doi.org/10.6084/m9.figshare.35072041",
+      "doi": "10.6084/m9.figshare.35072041"
+    },
+    {
+      "text": "Hughes, H. (2026). Polycrisis Resilience in the 21st Century: Reducing human and systemic vulnerability to interconnected global crises, 2026–2100. Figshare Research Archive.",
+      "url": "https://doi.org/10.6084/m9.figshare.34942807",
+      "doi": "10.6084/m9.figshare.34942807"
+    },
+    {
+      "text": "Hughes, H. (2026). Polycrisis Resilience: A General Definition and the H Heuristics Framework. H Heuristics Flagship Report. Figshare Research Archive.",
+      "url": "https://doi.org/10.6084/m9.figshare.34938445",
+      "doi": "10.6084/m9.figshare.34938445"
+    },
+    {
+      "text": "Hughes, H. (2026). The Origin and Development of Polycrisis Resilience: Conceptual Genesis, Two-Layer Documentary Record, and Operational Formalization (2025–2026). Figshare Research Archive.",
+      "url": "https://doi.org/10.6084/m9.figshare.35070634",
+      "doi": "10.6084/m9.figshare.35070634"
+    },
+    {
+      "text": "H Heuristics (2026). Official Polycrisis Resilience Strategic Portal & Framework Repository.",
+      "url": "https://polycrisisresilience.hheuristics.com"
+    },
+    {
+      "text": "Hughes, H. (2026). Why Hunter Hughes Developing Polycrisis Resilience Matters. H Heuristics Substack.",
+      "url": "https://hheuristics.substack.com/p/why-hunter-hughes-developing-polycrisis"
+    },
+    {
+      "text": "Hughes, H. (2026). The Substantial Achievement of Polycrisis Resilience. H Heuristics Substack.",
+      "url": "https://hheuristics.substack.com/p/the-substantial-achievement-of-polycrisis"
+    },
+    {
+      "text": "United Nations Office for Disaster Risk Reduction (2025). Global Assessment Report on Disaster Risk Reduction (GAR 2025). Geneva: UNDRR.",
+      "url": "https://www.undrr.org/gar/gar2025"
+    },
+    {
+      "text": "World Health Organization (2026). Global Benefits and Costs of Prioritized Actions on Climate Change and Health. Geneva: WHO.",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-heat-and-health"
+    },
+    {
+      "text": "Intergovernmental Panel on Climate Change (2022). Climate Change 2022: Impacts, Adaptation and Vulnerability (AR6 WGII). Geneva: IPCC.",
+      "url": "https://www.ipcc.ch/report/ar6/wg2/"
+    },
+    {
+      "text": "World Meteorological Organization (2025). State of the Global Climate 2024/2025: Confirmation of 1.55°C Warming. Geneva: WMO.",
+      "url": "https://wmo.int/news/media-centre/wmo-confirms-2024-warmest-year-record-about-155degc-above-pre-industrial-level"
+    },
+    {
+      "text": "Fuller, R., Landrigan, P. J., et al. (2022). Pollution and Health: A Progress Update. The Lancet Planetary Health.",
+      "url": "https://www.thelancet.com/commissions/pollution-and-health"
+    },
+    {
+      "text": "United Nations Department of Economic and Social Affairs (2024). World Population Prospects 2024. New York: UN DESA.",
+      "url": "https://population.un.org/wpp/"
+    },
+    {
+      "text": "Clement, V., et al. (2021). Groundswell Part 2: Acting on Internal Climate Migration. Washington, DC: World Bank.",
+      "url": "https://www.worldbank.org/en/news/feature/2021/09/13/climate-change-could-force-216-million-people-to-migrate-within-their-countries-by-2050"
+    },
+    {
+      "text": "International Energy Agency (2025). World Energy Investment 2025 & Cost of Capital Observatory. Paris: IEA.",
+      "url": "https://www.iea.org/reports/world-energy-investment-2025"
+    },
+    {
+      "text": "International Renewable Energy Agency (2025). Renewable Power Generation Costs in 2024/2025. Abu Dhabi: IRENA.",
+      "url": "https://www.irena.org/Publications/2025/Jun/Renewable-Power-Generation-Costs-in-2024"
+    },
+    {
+      "text": "United Nations Environment Programme (2025). Adaptation Gap Report 2025 & Global Cooling Watch 2025. Nairobi: UNEP.",
+      "url": "https://www.unep.org/resources/adaptation-gap-report-2025"
+    },
+    {
+      "text": "Hallegatte, S., Rentschler, J., & Rozenberg, J. (2019). Lifelines: The Resilient Infrastructure Opportunity. Washington, DC: World Bank.",
+      "url": "https://openknowledge.worldbank.org/entities/publication/05827254-3522-52e4-b619-9f9a7ef1b1f2"
+    },
+    {
+      "text": "Lawrence, M., Janzwood, S., & Homer-Dixon, T. (2022/2024). What Is a Global Polycrisis? Cascade Institute Technical Paper.",
+      "url": "https://cascadeinstitute.org/"
+    },
+    {
+      "text": "Morin, E., & Kern, A. B. (1999). Homeland Earth: A Manifesto for the New Millennium. Hampton Press."
+    },
+    {
+      "text": "Holling, C. S. (1973). Resilience and stability of ecological systems. Annual Review of Ecology and Systematics, 4(1), 1–23.",
+      "doi": "10.1146/annurev.es.04.110173.000245",
+      "url": "https://doi.org/10.1146/annurev.es.04.110173.000245"
+    },
+    {
+      "text": "Ostrom, E. (2010). Polycentric systems for coping with collective action and global environmental change. Global Environmental Change, 20(4), 550–557.",
+      "doi": "10.1016/j.gloenvcha.2010.07.004",
+      "url": "https://doi.org/10.1016/j.gloenvcha.2010.07.004"
+    },
+    {
+      "text": "Gigerenzer, G., & Brighton, H. (2009). Homo Heuristicus: Why Biased Minds Make Better Inferences. Topics in Cognitive Science, 1(1), 107–143.",
+      "doi": "10.1111/j.1756-8765.2008.01006.x",
+      "url": "https://doi.org/10.1111/j.1756-8765.2008.01006.x"
+    }
+  ]
+}
