@@ -1,0 +1,448 @@
+{
+  "seriesNumber": 98,
+  "title": "Climate Adaptation and Polycrisis Resilience",
+  "subtitle": "A Systemic Vulnerability-Reduction Research Agenda for 2026–2035",
+  "type": "Research Report",
+  "datePublished": "2026-11-21",
+  "dateModified": "2026-11-21",
+  "doi": "10.6084/m9.figshare.35081812",
+  "repository": {
+    "name": "figshare",
+    "url": "https://figshare.com/articles/preprint/Climate_Adaptation_and_Polycrisis_Resilience_A_Systemic_Vulnerability-Reduction_Research_Agenda_for_2026_2035/35081812"
+  },
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "license": {
+    "name": "Creative Commons Attribution 4.0 International",
+    "shortName": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 47,
+  "language": "en",
+  "description": "Why climate adaptation should be treated as systemic vulnerability reduction, with seven research pillars, regional priorities and a ten-point agenda for 2026–2035.",
+  "contribution": "Develops climate adaptation as a pillar of Polycrisis Resilience: seven research pillars, a map of interventions to interconnected vulnerabilities, six strategic research questions, regional priorities, ten priorities for 2026–2035 and a proposed Adaptation Resilience Dividend.",
+  "themes": [
+    "Polycrisis Resilience",
+    "Climate Adaptation",
+    "Human Vulnerability Reduction",
+    "Preventive Development",
+    "Sustainable Convergence"
+  ],
+  "keywords": [
+    "climate adaptation",
+    "Polycrisis Resilience",
+    "vulnerability reduction",
+    "climate-resilient infrastructure",
+    "water security",
+    "heat adaptation",
+    "ecosystem-based adaptation",
+    "adaptation finance",
+    "early warning systems"
+  ],
+  "subjects": [
+    "Climate change adaptation",
+    "Disaster risk reduction",
+    "Development economics",
+    "Public health"
+  ],
+  "abstract": [
+    "Climate change interacts with poverty, food insecurity, water scarcity, public-health risk, infrastructure deficits, economic instability, migration and geopolitical pressure, and where adaptive capacity is thin these interactions can amplify vulnerabilities into cascading crises. This paper asks what changes if climate adaptation is planned as a system rather than as a set of separate sector projects, and proposes that effective adaptation strengthens the underlying systems that let societies withstand, absorb and respond to interconnected disruptions.",
+    "It organizes the field into seven research pillars (climate-resilient infrastructure; agricultural and food-system adaptation; water security; public health and heat adaptation; ecosystem-based adaptation; energy resilience and technological diffusion; and institutional and economic adaptive capacity), maps interventions to the interconnected vulnerabilities they address, and sets out six strategic research questions, a financing analysis centred on avoiding unsustainable debt, regional priorities for five regions, and ten research priorities for 2026–2035 in three phases.",
+    "It proposes nine outcome families for measuring success and a candidate measure, the Adaptation Resilience Dividend, to be tested, and sets out the risks of maladaptation, equity gaps and the limits to adaptation. All frameworks are proposals open to testing; illustrative scores and projections are labelled as such and are not forecasts."
+  ],
+  "coreProposition": "Climate adaptation should be understood as a systemic vulnerability-reduction strategy rather than a narrowly defined environmental intervention: effective adaptation strengthens the underlying systems that enable societies to withstand, absorb and respond to interconnected disruptions.",
+  "keyFindings": [
+    {
+      "title": "Adaptation is a vulnerability problem, not only a hazard problem.",
+      "text": "Risk combines hazard, exposure and vulnerability; the last two are shaped by development choices and are where policy has most influence."
+    },
+    {
+      "title": "Seven pillars cover the main channels of risk.",
+      "text": "Infrastructure, food, water, health and heat, ecosystems, energy and institutions each reduce several vulnerabilities at once, and none works well alone."
+    },
+    {
+      "title": "Adaptation can interrupt cascades.",
+      "text": "The same intervention often addresses several interconnected vulnerabilities, for example water infrastructure that reduces drought exposure, protects health and stabilizes farm income."
+    },
+    {
+      "title": "Finance, capacity and sequencing are the binding constraints.",
+      "text": "International public adaptation finance was about $26 billion in 2023 against estimated needs of $310 to $365 billion a year by 2035 (UNEP, 2025)."
+    },
+    {
+      "title": "Priorities differ by region.",
+      "text": "Sub-Saharan Africa needs agriculture, water and energy; South Asia heat, flooding and food systems; Southeast Asia coastal and urban flood protection; Latin America water and biodiversity; small island states coastal protection and economic resilience."
+    },
+    {
+      "title": "Outcomes, not projects, should be measured.",
+      "text": "Nine outcome families and a proposed Adaptation Resilience Dividend (illustrative, grade D) would add avoided losses and co-benefits while removing double-counting."
+    }
+  ],
+  "bottomLine": "The task is not to eliminate climate risk, which is not possible, but to ensure that when shocks come, systems bend rather than break and the most exposed are not left to face them alone.",
+  "contents": [
+    {
+      "number": "1",
+      "title": "Climate Adaptation in an Age of Polycrisis",
+      "description": "Why adaptation now, and why a systemic framing",
+      "page": 6
+    },
+    {
+      "number": "2",
+      "title": "The Central Research Proposition",
+      "description": "Five testable claims and what would count against them",
+      "page": 9
+    },
+    {
+      "number": "3",
+      "title": "Climate Hazards, Exposure and Vulnerability",
+      "description": "Risk structure, hazards and who is vulnerable",
+      "page": 11
+    },
+    {
+      "number": "4",
+      "title": "Pillar 1: Climate-Resilient Infrastructure",
+      "description": "",
+      "page": 14
+    },
+    {
+      "number": "5",
+      "title": "Pillar 2: Agricultural and Food-System Adaptation",
+      "description": "",
+      "page": 16
+    },
+    {
+      "number": "6",
+      "title": "Pillar 3: Water Security",
+      "description": "",
+      "page": 18
+    },
+    {
+      "number": "7",
+      "title": "Pillar 4: Public Health and Heat Adaptation",
+      "description": "",
+      "page": 20
+    },
+    {
+      "number": "8",
+      "title": "Pillar 5: Ecosystem-Based Adaptation",
+      "description": "",
+      "page": 22
+    },
+    {
+      "number": "9",
+      "title": "Pillar 6: Energy Resilience and Technological Diffusion",
+      "description": "",
+      "page": 24
+    },
+    {
+      "number": "10",
+      "title": "Pillar 7: Institutional and Economic Adaptive Capacity",
+      "description": "",
+      "page": 26
+    },
+    {
+      "number": "11",
+      "title": "Connecting Adaptation to the Polycrisis",
+      "description": "Interventions mapped to interconnected vulnerabilities",
+      "page": 28
+    },
+    {
+      "number": "12",
+      "title": "Strategic Research Questions",
+      "description": "Six questions with hypotheses and methods",
+      "page": 31
+    },
+    {
+      "number": "13",
+      "title": "Financing Adaptation Without Unsustainable Debt",
+      "description": "",
+      "page": 34
+    },
+    {
+      "number": "14",
+      "title": "Regional Priorities",
+      "description": "Five regions",
+      "page": 36
+    },
+    {
+      "number": "15",
+      "title": "Research Priorities for 2026 to 2035",
+      "description": "Ten objectives in three phases",
+      "page": 39
+    },
+    {
+      "number": "16",
+      "title": "Measuring Success",
+      "description": "Nine outcome families and the Adaptation Resilience Dividend",
+      "page": 41
+    },
+    {
+      "number": "17",
+      "title": "Risks, Trade-offs and Limitations",
+      "description": "",
+      "page": 43
+    },
+    {
+      "number": "18",
+      "title": "Conclusion",
+      "description": "",
+      "page": 45
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Adaptation",
+      "definition": "Adjustment to actual or expected climate and its effects in order to moderate harm or exploit opportunity."
+    },
+    {
+      "term": "Adaptation Resilience Dividend (ARD)",
+      "definition": "Proposed measure of the net value of losses avoided and well-being gained through adaptation, with explicit rules against double-counting (grade D)."
+    },
+    {
+      "term": "Adaptive capacity",
+      "definition": "The ability of systems, institutions and people to adjust to potential damage, take advantage of opportunities or respond to consequences."
+    },
+    {
+      "term": "Basis risk",
+      "definition": "In insurance, the mismatch between a payout trigger (such as rainfall) and the loss a policyholder actually suffers."
+    },
+    {
+      "term": "Cascade",
+      "definition": "A sequence in which failure in one system transmits to others, amplifying harm beyond the original shock."
+    },
+    {
+      "term": "Development Optimization",
+      "definition": "H Heuristics concept on sequencing: risk sets the deadline, development sets the pace."
+    },
+    {
+      "term": "Ecosystem-based adaptation",
+      "definition": "Use of biodiversity and ecosystem services as part of an overall adaptation strategy."
+    },
+    {
+      "term": "Exposure",
+      "definition": "The presence of people, livelihoods, infrastructure and assets in places that could be adversely affected."
+    },
+    {
+      "term": "Hazard",
+      "definition": "A potentially damaging physical event or trend, such as heat, flood, drought or storm."
+    },
+    {
+      "term": "Human Survivability Dividend",
+      "definition": "H Heuristics concept that values lives and capital protected, using value-of-statistical-life accounting."
+    },
+    {
+      "term": "HVRE",
+      "definition": "Human Vulnerability Reduction Economics: the H Heuristics concept on who is exposed, across four exposure arenas."
+    },
+    {
+      "term": "Last mile",
+      "definition": "The final step in an early-warning system, in which a warning reaches and is acted on by the people at risk."
+    },
+    {
+      "term": "Loss and damage",
+      "definition": "Harm from climate impacts that adaptation cannot or does not prevent, and the arrangements to address it."
+    },
+    {
+      "term": "Maladaptation",
+      "definition": "Action that increases rather than reduces vulnerability, for the actor, for others or for the future."
+    },
+    {
+      "term": "No-regret option",
+      "definition": "A measure that delivers net benefits under all plausible climate futures."
+    },
+    {
+      "term": "Polycrisis",
+      "definition": "A set of interconnected crises whose combined effect exceeds the sum of their separate effects."
+    },
+    {
+      "term": "Polycrisis Resilience",
+      "definition": "Capacity of people, communities, economies, institutions and systems to anticipate, withstand, adapt to, recover from and reduce cascading and compounding crises."
+    },
+    {
+      "term": "Preventive Development Economics",
+      "definition": "H Heuristics concept that investing before disasters costs less than paying after them."
+    },
+    {
+      "term": "Risk layering",
+      "definition": "Matching different instruments (reduction, reserves, contingent finance, insurance) to events of different frequency and severity."
+    },
+    {
+      "term": "Sustainable Convergence",
+      "definition": "H Heuristics concept on closing the gap between richer and developing economies without past growth's damage."
+    },
+    {
+      "term": "Vulnerability",
+      "definition": "The propensity or predisposition to be adversely affected, including sensitivity and lack of capacity to cope and adapt."
+    }
+  ],
+  "references": [
+    {
+      "text": "Buhr, B., Volz, U., Donovan, C., et al. (2018). Climate Change and the Cost of Capital in Developing Countries. Imperial College London, SOAS University of London and UN Environment.",
+      "url": "",
+      "doi": ""
+    },
+    {
+      "text": "Cinner, J. E., Adger, W. N., Allison, E. H., et al. (2018). Building adaptive capacity to climate change in tropical coastal communities. Nature Climate Change, 8, 117–123.",
+      "url": "",
+      "doi": ""
+    },
+    {
+      "text": "Clement, V., Rigaud, K. K., de Sherbinin, A., et al. (2021). Groundswell Part 2: Acting on Internal Climate Migration. World Bank.",
+      "url": "",
+      "doi": ""
+    },
+    {
+      "text": "Climate Policy Initiative (2023). Global Landscape of Climate Finance 2023. CPI.",
+      "url": "",
+      "doi": ""
+    },
+    {
+      "text": "Ebi, K. L., Capon, A., Berry, P., et al. (2021). Extreme weather and climate change: population health and health system implications. Annual Review of Public Health, 42, 293–315.",
+      "url": "",
+      "doi": ""
+    },
+    {
+      "text": "FAO, IFAD, UNICEF, WFP and WHO (2025). The State of Food Security and Nutrition in the World 2025. FAO.",
+      "url": "",
+      "doi": ""
+    },
+    {
+      "text": "Global Commission on Adaptation (2019). Adapt Now: A Global Call for Leadership on Climate Resilience. GCA and World Resources Institute.",
+      "url": "",
+      "doi": ""
+    },
+    {
+      "text": "Hallegatte, S., Bangalore, M., Bonzanigo, L., et al. (2016). Shock Waves: Managing the Impacts of Climate Change on Poverty. World Bank.",
+      "url": "",
+      "doi": ""
+    },
+    {
+      "text": "Hallegatte, S., Rentschler, J. and Rozenberg, J. (2019). Lifelines: The Resilient Infrastructure Opportunity. World Bank.",
+      "url": "",
+      "doi": ""
+    },
+    {
+      "text": "Hughes, H. (2026). Century Pathways (HH-2026-61); The H Heuristics Macroeconomic Architecture (HH-2026-62); The Global Concept Adoption Initiative (HH-2026-63); The November 2026 Update (HH-2026-64). H Heuristics.",
+      "url": "",
+      "doi": ""
+    },
+    {
+      "text": "Hughes, H. (2026). Polycrisis Resilience: Clean Transition. H Heuristics Research Report.",
+      "url": "",
+      "doi": ""
+    },
+    {
+      "text": "IPCC (2022). Climate Change 2022: Impacts, Adaptation and Vulnerability. Contribution of Working Group II to the Sixth Assessment Report. Cambridge University Press.",
+      "url": "",
+      "doi": ""
+    },
+    {
+      "text": "Kotz, M., Levermann, A. and Wenz, L. (2024). The economic commitment of climate change. Nature, 628, 551–557.",
+      "url": "",
+      "doi": ""
+    },
+    {
+      "text": "Lawrence, M., Homer-Dixon, T., Janzwood, S., et al. (2022). Global polycrisis: the causal mechanisms of crisis entanglement. Global Sustainability, 7, e6.",
+      "url": "",
+      "doi": ""
+    },
+    {
+      "text": "Linnerooth-Bayer, J. and Hochrainer-Stigler, S. (2015). Financial instruments for disaster risk management and climate change adaptation. Climatic Change, 133, 85–100.",
+      "url": "",
+      "doi": ""
+    },
+    {
+      "text": "Lobell, D. B., Schlenker, W. and Costa-Roberts, J. (2011). Climate trends and global crop production since 1980. Science, 333, 616–620.",
+      "url": "",
+      "doi": ""
+    },
+    {
+      "text": "Magnan, A. K., Schipper, E. L. F., Burkett, M., et al. (2016). Addressing the risk of maladaptation to climate change. WIREs Climate Change, 7, 646–665.",
+      "url": "",
+      "doi": ""
+    },
+    {
+      "text": "Menéndez, P., Losada, I. J., Torres-Ortega, S., et al. (2020). The global flood protection benefits of mangroves. Scientific Reports, 10, 4404.",
+      "url": "",
+      "doi": ""
+    },
+    {
+      "text": "Ortiz-Bobea, A., Ault, T. R., Carrillo, C. M., et al. (2021). Anthropogenic climate change has slowed global agricultural productivity growth. Nature Climate Change, 11, 306–312.",
+      "url": "",
+      "doi": ""
+    },
+    {
+      "text": "Rentschler, J., Salhab, M. and Jafino, B. A. (2022). Flood exposure and poverty in 188 countries. Nature Communications, 13, 3527.",
+      "url": "",
+      "doi": ""
+    },
+    {
+      "text": "Romanello, M., Di Napoli, C., Green, C., et al. (2024). The 2024 report of the Lancet Countdown on health and climate change. The Lancet, 404.",
+      "url": "",
+      "doi": ""
+    },
+    {
+      "text": "Rozenberg, J. and Fay, M. (2019). Beyond the Gap: How Countries Can Afford the Infrastructure They Need while Protecting the Planet. World Bank.",
+      "url": "",
+      "doi": ""
+    },
+    {
+      "text": "Schipper, E. L. F. (2020). Maladaptation: when adaptation to climate change goes very wrong. One Earth, 3, 409–414.",
+      "url": "",
+      "doi": ""
+    },
+    {
+      "text": "Seddon, N., Chausson, A., Berry, P., et al. (2020). Understanding the value and limits of nature-based solutions to climate change and other global challenges. Philosophical Transactions of the Royal Society B, 375, 20190120.",
+      "url": "",
+      "doi": ""
+    },
+    {
+      "text": "Simpson, N. P., Mach, K. J., Constable, A., et al. (2021). A framework for complex climate change risk assessment. One Earth, 4, 489–501.",
+      "url": "",
+      "doi": ""
+    },
+    {
+      "text": "United Nations (2022). Early Warnings for All: Executive Action Plan 2023–2027. UN, WMO and partners.",
+      "url": "",
+      "doi": ""
+    },
+    {
+      "text": "UNEP (2024). Adaptation Gap Report 2024: Come Hell and High Water. United Nations Environment Programme.",
+      "url": "",
+      "doi": ""
+    },
+    {
+      "text": "UNEP (2025). Adaptation Gap Report 2025. United Nations Environment Programme.",
+      "url": "",
+      "doi": ""
+    },
+    {
+      "text": "Volz, U., Beirne, J., Ambrosio Preudhomme, N., et al. (2020). Climate Change and Sovereign Risk. SOAS University of London and partners.",
+      "url": "",
+      "doi": ""
+    },
+    {
+      "text": "WHO and UNICEF (2023). Progress on Household Drinking Water, Sanitation and Hygiene 2000–2022: Special Focus on Gender. Joint Monitoring Programme.",
+      "url": "",
+      "doi": ""
+    },
+    {
+      "text": "World Bank, IEA, IRENA, UNSD and WHO (2025). Tracking SDG 7: The Energy Progress Report 2025. World Bank.",
+      "url": "",
+      "doi": ""
+    },
+    {
+      "text": "World Meteorological Organization (2025). State of the Global Climate 2024. WMO.",
+      "url": "",
+      "doi": ""
+    }
+  ]
+}
