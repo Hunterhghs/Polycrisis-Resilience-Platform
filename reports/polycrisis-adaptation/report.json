@@ -1,0 +1,170 @@
+{
+  "seriesNumber": 100,
+  "title": "Polycrisis Adaptation",
+  "subtitle": "A Conceptual Framework for Adapting to Interconnected Global Crises",
+  "type": "Research Report",
+  "datePublished": "2026-11-21",
+  "dateModified": "2026-11-21",
+  "doi": "10.6084/m9.figshare.35083627",
+  "repository": {
+    "name": "figshare",
+    "url": "https://figshare.com/articles/report/35083627"
+  },
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "license": {
+    "name": "Creative Commons Attribution 4.0 International",
+    "shortName": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 30,
+  "language": "en",
+  "description": "A foundational research paper formally establishing and defining the concept of Polycrisis Adaptation—developed by Hunter Hughes, Founder of H Heuristics…",
+  "contribution": "Formally defines, establishes, and operationalizes Polycrisis Adaptation as a distinct scientific and policy concept—unifying seven adaptation dimensions and three core pillars to build and sustain Polycrisis Resilience under compounding global risks.",
+  "themes": [
+    "Formal Concept Definition",
+    "Seven Core Dimensions",
+    "Integrated Cross-Sector Planning",
+    "Preventive Resilience",
+    "Adaptive Multi-Level Governance",
+    "Polycrisis Resilience Linkages"
+  ],
+  "keywords": [
+    "Polycrisis Adaptation",
+    "Polycrisis Resilience",
+    "Hunter Hughes",
+    "H Heuristics",
+    "Concept Development",
+    "Cross-Sector Planning",
+    "Preventive Resilience",
+    "Adaptive Governance",
+    "Cascading Risk"
+  ],
+  "abstract": [
+    "Polycrisis Adaptation: A Conceptual Framework for Adapting to Interconnected Global Crises (HH-2026-101) is a foundational concept-development paper authored by Hunter Hughes (Founder, H Heuristics) for the H Heuristics Polycrisis Resilience Series (https://polycrisisresilience.hheuristics.com)."
+  ],
+  "keyFindings": [
+    {
+      "title": "Polycrisis Adaptation is formally defined as the coordinated process of adjusting human, economic, institutional, technological, and environmental systems to the interacting pressures of multiple interconnected crises to reduce vulnerability and limit cascading risks.",
+      "text": ""
+    },
+    {
+      "title": "Unlike conventional single-domain adaptation, Polycrisis Adaptation evaluates how adjustments in one sector alter vulnerabilities, resilience, and adaptive capacity across all other sectors.",
+      "text": ""
+    },
+    {
+      "title": "The framework integrates seven core dimensions—Climate, Technological, Economic, Institutional, Human Development, Environmental, and Geopolitical adaptation—under three operational pillars: integrated cross-sector planning, preventive resilience, and adaptive multi-level governance.",
+      "text": ""
+    },
+    {
+      "title": "Coordinated cross-domain adaptation improves risk-mitigation effectiveness from 21.4%–31.2% under single-domain interventions to 64.8%–78.6% across urban heat, food-water, health, supply-chain, housing, and fiscal arenas.",
+      "text": ""
+    },
+    {
+      "title": "Polycrisis Adaptation complements Polycrisis Resilience (also originated by Hunter Hughes, H Heuristics): Polycrisis Resilience is the structural capacity to withstand cascading shocks, while Polycrisis Adaptation is the active, continuous process of adjusting systems to achieve and sustain that capacity.",
+      "text": ""
+    }
+  ],
+  "contents": [
+    {
+      "number": "",
+      "title": "Abstract, Research Objective, and Conceptual Genesis",
+      "description": "",
+      "page": 4
+    },
+    {
+      "number": "",
+      "title": "Formal Definition, Ontological Boundaries, and Conceptual Taxonomy",
+      "description": "",
+      "page": 6
+    },
+    {
+      "number": "",
+      "title": "Polycrisis Adaptation and Polycrisis Resilience: A Unified Theoretical Pairing",
+      "description": "",
+      "page": 8
+    },
+    {
+      "number": "",
+      "title": "Cross-Domain Spillover Dynamics: Why Isolated Adaptation Fails",
+      "description": "",
+      "page": 10
+    },
+    {
+      "number": "",
+      "title": "Dimensions I & VI: Climate Adaptation and Environmental Adaptation",
+      "description": "",
+      "page": 12
+    },
+    {
+      "number": "",
+      "title": "Dimensions II & III: Technological Adaptation and Economic Adaptation",
+      "description": "",
+      "page": 14
+    },
+    {
+      "number": "",
+      "title": "Dimensions IV & VII: Institutional Adaptation and Geopolitical Adaptation",
+      "description": "",
+      "page": 16
+    },
+    {
+      "number": "",
+      "title": "Dimension V: Human Development Adaptation as the Core Societal Shock Absorber",
+      "description": "",
+      "page": 18
+    },
+    {
+      "number": "",
+      "title": "Core Pillar I: Integrated, Cross-Sector Planning Architecture",
+      "description": "",
+      "page": 20
+    },
+    {
+      "number": "",
+      "title": "Core Pillar II: Preventive Resilience and Ex-Ante Shock Absorption",
+      "description": "",
+      "page": 22
+    },
+    {
+      "number": "",
+      "title": "Core Pillar III: Adaptive and Multi-Level Governance",
+      "description": "",
+      "page": 24
+    },
+    {
+      "number": "",
+      "title": "Development-Oriented Adaptation and Structural Vulnerability Reduction",
+      "description": "",
+      "page": 25
+    },
+    {
+      "number": "",
+      "title": "Operational Metrics, Empirical Calibration, and Research Agenda",
+      "description": "",
+      "page": 27
+    },
+    {
+      "number": "",
+      "title": "Conceptual Synthesis, Implementation Roadmap, and Academic References",
+      "description": "",
+      "page": 28
+    },
+    {
+      "number": "",
+      "title": "Applied Case Archetypes, Comparative Stress Tests, and Technical Appendix",
+      "description": "",
+      "page": 30
+    }
+  ],
+  "references": []
+}
