@@ -1,0 +1,274 @@
+{
+  "seriesNumber": 97,
+  "title": "The Clean Transition and Polycrisis Resilience",
+  "subtitle": "Energy Security, Decarbonization, Pollution Reduction and Industrial Transformation",
+  "type": "Research Report",
+  "datePublished": "2026-11-21",
+  "dateModified": "2026-11-21",
+  "doi": "10.6084/m9.figshare.35081788",
+  "repository": {
+    "name": "figshare",
+    "url": "https://figshare.com/articles/preprint/The_Clean_Transition_and_Polycrisis_Resilience_Energy_Security_Decarbonization_Pollution_Reduction_and_Industrial_Transformation/35081788"
+  },
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "license": {
+    "name": "Creative Commons Attribution 4.0 International",
+    "shortName": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 41,
+  "language": "en",
+  "description": "How energy transitions can simultaneously address climate exposure, air pollution, energy insecurity and economic vulnerability, and how to prioritize them.",
+  "contribution": "Treats the clean transition as a multi-dimensional resilience strategy, proposing a five-dimension evaluation framework and a screening measure, multi-dimensional resilience impact, that ranks ten interventions by how many vulnerabilities they reduce at once.",
+  "themes": [
+    "Polycrisis Resilience",
+    "Clean Energy Transition",
+    "Energy Security",
+    "Air Pollution",
+    "Industrial Decarbonization",
+    "Sustainable Convergence"
+  ],
+  "keywords": [
+    "clean energy transition",
+    "Polycrisis Resilience",
+    "energy security",
+    "air pollution",
+    "industrial decarbonization",
+    "sustainable convergence",
+    "human vulnerability",
+    "critical infrastructure"
+  ],
+  "subjects": [
+    "Energy policy",
+    "Climate change mitigation",
+    "Public health",
+    "Economic development"
+  ],
+  "abstract": [
+    "Energy systems sit at the centre of many of the pressures that make up the contemporary polycrisis. Fossil-fuel combustion drives climate change and most outdoor air pollution; dependence on imported fuels transmits price and supply shocks into food, debt and household budgets; and the absence of affordable, reliable energy holds back industry, health services and education in much of the developing world. This paper asks whether a single large shift in how energy is produced, stored, moved and used can reduce several of these risks at the same time, and under what conditions it does so.",
+    "The paper proposes that the clean transition be evaluated as a multi-dimensional resilience strategy rather than as an isolated environmental objective. It sets out six research objectives, a six-part research architecture (renewable energy expansion; storage and system reliability; transportation electrification; industrial decarbonization; the household energy transition; and energy infrastructure and security), and a five-dimension evaluation framework. It introduces a screening measure, multi-dimensional resilience impact, and applies it in an illustrative ranking of ten interventions.",
+    "Benefits are not automatic: poorly planned transitions can create new vulnerabilities in critical minerals, supply-chain concentration, grid reliability, affordability and industrial employment. The paper closes with three strategic priorities (accelerate deployment, improve accessibility, integrate resilience into transition planning) and three stylized scenarios to 2050. All frameworks are proposals open to testing, and all projections are scenarios, not forecasts."
+  ],
+  "coreProposition": "The clean transition can reduce interconnected environmental, health, security and economic vulnerabilities while strengthening the development and adaptive capacities on which long-term human survivability depends, provided it is planned to avoid creating new vulnerabilities.",
+  "keyFindings": [
+    {
+      "title": "Energy is a common driver of the polycrisis.",
+      "text": "Air pollution was linked to about 7.9 million deaths in 2023, and the same combustion drives climate change and fuel-price exposure, so one change reaches several risks."
+    },
+    {
+      "title": "The transition is advanced but uneven.",
+      "text": "Renewables supplied 33.8% of global electricity in 2025 against 33.0% for coal, yet about 655 million people still lack electricity and about 2 billion lack clean cooking."
+    },
+    {
+      "title": "Breadth of impact is a useful screening lens.",
+      "text": "In an illustrative matrix, solar and wind, grid modernization and clean industrial investment reach all six vulnerability categories, while clean cooking reaches the most vulnerable households."
+    },
+    {
+      "title": "The cost of capital is the key convergence variable.",
+      "text": "Financing clean projects in emerging and developing economies costs more than twice as much as in advanced economies."
+    },
+    {
+      "title": "Benefits depend on how the transition is managed.",
+      "text": "Minerals, supply chains, reliability, affordability and displacement must be addressed alongside decarbonization."
+    },
+    {
+      "title": "Pace and integration both matter.",
+      "text": "In stylized scenarios, accelerated deployment lowers a vulnerability index to 41 and integrated resilience planning to 20 by 2050, against 87 for a delayed transition (illustrative, grade D)."
+    }
+  ],
+  "bottomLine": "The objective is not simply to replace one energy technology with another, but to build energy systems that are cleaner, more reliable, more accessible, economically productive and less vulnerable to interconnected global disruptions.",
+  "contents": [
+    {
+      "number": "1",
+      "title": "Introduction",
+      "description": "Why a resilience lens, and where the transition stands today",
+      "page": 4
+    },
+    {
+      "number": "2",
+      "title": "Energy Systems and the Polycrisis",
+      "description": "Energy as common driver, cascade channel and compounding exposure",
+      "page": 6
+    },
+    {
+      "number": "3",
+      "title": "Research Objectives and Scope",
+      "description": "Six objectives and a six-area research architecture",
+      "page": 9
+    },
+    {
+      "number": "4",
+      "title": "Analytical Framework and Evaluation Method",
+      "description": "Five dimensions and multi-dimensional resilience impact",
+      "page": 11
+    },
+    {
+      "number": "5",
+      "title": "Core Area A: Renewable Energy Expansion",
+      "description": "",
+      "page": 14
+    },
+    {
+      "number": "6",
+      "title": "Core Area B: Energy Storage and System Reliability",
+      "description": "",
+      "page": 17
+    },
+    {
+      "number": "7",
+      "title": "Core Area C: Transportation Electrification",
+      "description": "",
+      "page": 19
+    },
+    {
+      "number": "8",
+      "title": "Core Area D: Industrial Decarbonization",
+      "description": "",
+      "page": 21
+    },
+    {
+      "number": "9",
+      "title": "Core Area E: The Household Energy Transition",
+      "description": "",
+      "page": 23
+    },
+    {
+      "number": "10",
+      "title": "Core Area F: Energy Infrastructure and Security",
+      "description": "",
+      "page": 25
+    },
+    {
+      "number": "11",
+      "title": "The Resilience Case: Central Proposition and Intervention Priorities",
+      "description": "Ten interventions ranked by multi-dimensional impact",
+      "page": 27
+    },
+    {
+      "number": "12",
+      "title": "Sustainable Convergence and Developing Economies",
+      "description": "",
+      "page": 30
+    },
+    {
+      "number": "13",
+      "title": "Risks, Trade-offs and Conditions for Success",
+      "description": "",
+      "page": 33
+    },
+    {
+      "number": "14",
+      "title": "Pathways to 2050: Scenarios and Strategic Priorities",
+      "description": "Three stylized scenarios and three strategic priorities",
+      "page": 35
+    },
+    {
+      "number": "15",
+      "title": "Conclusion",
+      "description": "",
+      "page": 38
+    }
+  ],
+  "references": [
+    {
+      "text": "Ember (2025). Global Electricity Review 2025. London: Ember.",
+      "url": "",
+      "doi": ""
+    },
+    {
+      "text": "Ember (2026). Global Electricity Review 2026. London: Ember.",
+      "url": "",
+      "doi": ""
+    },
+    {
+      "text": "Gerschenkron, A. (1962). Economic Backwardness in Historical Perspective. Cambridge, MA: Harvard University Press.",
+      "url": "",
+      "doi": ""
+    },
+    {
+      "text": "Health Effects Institute (2025). State of Global Air 2025. Boston, MA: HEI.",
+      "url": "",
+      "doi": ""
+    },
+    {
+      "text": "Intergovernmental Panel on Climate Change (2022). Climate Change 2022: Mitigation of Climate Change. Contribution of Working Group III to the Sixth Assessment Report. Cambridge: Cambridge University Press.",
+      "url": "",
+      "doi": ""
+    },
+    {
+      "text": "International Energy Agency (2019). The Future of Hydrogen. Paris: IEA.",
+      "url": "",
+      "doi": ""
+    },
+    {
+      "text": "International Energy Agency (2020). Iron and Steel Technology Roadmap. Paris: IEA.",
+      "url": "",
+      "doi": ""
+    },
+    {
+      "text": "International Energy Agency (2023). Electricity Grids and Secure Energy Transitions. Paris: IEA.",
+      "url": "",
+      "doi": ""
+    },
+    {
+      "text": "International Energy Agency (2024). Reducing the Cost of Capital: Strategies to Unlock Clean Energy Investment in Emerging and Developing Economies. Paris: IEA.",
+      "url": "",
+      "doi": ""
+    },
+    {
+      "text": "International Energy Agency (2025). World Energy Employment 2025. Paris: IEA.",
+      "url": "",
+      "doi": ""
+    },
+    {
+      "text": "International Energy Agency (2026a). World Energy Investment 2026. Paris: IEA.",
+      "url": "",
+      "doi": ""
+    },
+    {
+      "text": "International Energy Agency (2026b). Global EV Outlook 2026. Paris: IEA.",
+      "url": "",
+      "doi": ""
+    },
+    {
+      "text": "International Renewable Energy Agency (2026). Renewable Power Generation Costs in 2025. Abu Dhabi: IRENA.",
+      "url": "",
+      "doi": ""
+    },
+    {
+      "text": "Janzwood, S. and Homer-Dixon, T. (2022). What is a global polycrisis? And how is it different from a systemic risk? Cascade Institute Technical Paper 2022-4, v1.1.",
+      "url": "",
+      "doi": ""
+    },
+    {
+      "text": "Lawrence, M., Homer-Dixon, T., Janzwood, S., Rockström, J., Renn, O. and Donges, J.F. (2024). Global polycrisis: the causal mechanisms of crisis entanglement. Global Sustainability, 7, e6.",
+      "url": "",
+      "doi": ""
+    },
+    {
+      "text": "SEforALL, IEA, IRENA, UNSD, World Bank and WHO (2026). Tracking SDG 7: The Energy Progress Report 2026. Washington, DC: World Bank.",
+      "url": "",
+      "doi": ""
+    },
+    {
+      "text": "United Nations Conference on Trade and Development (2025). A World of Debt 2025. Geneva: UNCTAD.",
+      "url": "",
+      "doi": ""
+    },
+    {
+      "text": "World Meteorological Organization (2026). State of the Global Climate 2025. Geneva: WMO.",
+      "url": "",
+      "doi": ""
+    }
+  ]
+}
