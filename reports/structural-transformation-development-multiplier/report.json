@@ -1,0 +1,187 @@
+{
+  "seriesNumber": 101,
+  "title": "Structural Transformation and the Development Multiplier",
+  "subtitle": "How Productivity Gains Propagate Across Economies and Economic Sectors",
+  "type": "Research Report",
+  "datePublished": "2026-11-21",
+  "dateModified": "2026-11-21",
+  "doi": "10.6084/m9.figshare.35083651",
+  "repository": {
+    "name": "figshare",
+    "url": "https://figshare.com/articles/report/35083651"
+  },
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "license": {
+    "name": "Creative Commons Attribution 4.0 International",
+    "shortName": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 30,
+  "language": "en",
+  "description": "A hybrid academic paper and institutional research monograph investigating how productivity improvements in one sector generate secondary and tertiary…",
+  "contribution": "Formalizes the Development Multiplier as a real-economy propagation framework—distinguishing it from Keynesian expenditure multipliers and demonstrating how complementary investments across agriculture, energy, transport, digital infrastructure, and human capital generate cumulative structural transformation.",
+  "themes": [
+    "Structural Transformation",
+    "Development Multiplier",
+    "Backward & Forward Linkages",
+    "Labor Reallocation",
+    "Capital Accumulation & Trade",
+    "Polycrisis Resilience"
+  ],
+  "keywords": [
+    "Structural Transformation",
+    "Development Multiplier",
+    "Productivity Spillovers",
+    "Intersectoral Linkages",
+    "Backward and Forward Linkages",
+    "Economic Convergence",
+    "Polycrisis Resilience",
+    "H Heuristics"
+  ],
+  "abstract": [
+    "Structural Transformation and the Development Multiplier: How Productivity Gains Propagate Across Economies and Economic Sectors (HH-2026-102) is a hybrid academic paper and institutional research monograph authored by Hunter Hughes (Founder, H Heuristics) for the Global Outlook Optimization Series (https://globaloutlook.hheuristics.com)."
+  ],
+  "keyFindings": [
+    {
+      "title": "Economic development is not merely the accumulation of isolated sectoral gains; it is the propagation of productivity improvements across interconnected sectors through backward and forward linkages.",
+      "text": ""
+    },
+    {
+      "title": "Unlike the short-term Keynesian expenditure multiplier, the Development Multiplier captures real-economy productivity propagation, intersectoral capacity formation, and long-term structural transformation.",
+      "text": ""
+    },
+    {
+      "title": "Across six foundational catalysts—manufacturing, clean electricity, digital DPI, agriculture, transport, and education—economy-wide multiplier scores (85.9–93.1) are 2.5x to 3.1x larger than direct single-sector output gains.",
+      "text": ""
+    },
+    {
+      "title": "Productivity propagation unfolds across four reinforcing stages (Primary, Secondary, Tertiary, and Cumulative), lifting 15-year GDP gains from 2.4% direct impact to 16.9% under cumulative coordination.",
+      "text": ""
+    },
+    {
+      "title": "Development investments should be evaluated not only by what they produce directly, but by what they enable elsewhere in the economy—and by how strongly they build Polycrisis Resilience.",
+      "text": ""
+    }
+  ],
+  "contents": [
+    {
+      "number": "",
+      "title": "Executive Summary: Productivity Propagation and the Development Multiplier",
+      "description": "",
+      "page": 4
+    },
+    {
+      "number": "",
+      "title": "Conceptual Foundations: Structural Transformation and Within- vs. Between-Sector Growth",
+      "description": "",
+      "page": 6
+    },
+    {
+      "number": "",
+      "title": "The Development Multiplier: Seven Propagation Mechanisms Beyond Keynesian Stimulus",
+      "description": "",
+      "page": 8
+    },
+    {
+      "number": "",
+      "title": "Backward and Forward Production Linkages Across Interconnected Sectors",
+      "description": "",
+      "page": 10
+    },
+    {
+      "number": "",
+      "title": "Four-Stage Propagation Architecture: Primary, Secondary, Tertiary, and Cumulative Effects",
+      "description": "",
+      "page": 12
+    },
+    {
+      "number": "",
+      "title": "Transmission Channel I: Employment Creation and Structural Labor Reallocation",
+      "description": "",
+      "page": 14
+    },
+    {
+      "number": "",
+      "title": "Transmission Channel II: Income Growth, Consumption, and Domestic Market Expansion",
+      "description": "",
+      "page": 15
+    },
+    {
+      "number": "",
+      "title": "Transmission Channel III: Capital Accumulation, Savings, and Investment Crowding-In",
+      "description": "",
+      "page": 16
+    },
+    {
+      "number": "",
+      "title": "Transmission Channel IV: Technological Diffusion and Cross-Industry Knowledge Spillovers",
+      "description": "",
+      "page": 18
+    },
+    {
+      "number": "",
+      "title": "Transmission Channels V–VII: Trade Competitiveness, Fiscal Expansion, and Spatial Clustering",
+      "description": "",
+      "page": 19
+    },
+    {
+      "number": "",
+      "title": "Sectoral Catalysts: Clean Electricity, Agricultural Modernization, Transport, and Digital DPI",
+      "description": "",
+      "page": 20
+    },
+    {
+      "number": "",
+      "title": "Complementary Conditions and Binding Bottlenecks in Productivity Propagation",
+      "description": "",
+      "page": 21
+    },
+    {
+      "number": "",
+      "title": "Structural Transformation as an Engine of Polycrisis Resilience",
+      "description": "",
+      "page": 23
+    },
+    {
+      "number": "",
+      "title": "Empirical Methodology, Multiplier-Based Project Appraisal, and Quantitative Benchmarks",
+      "description": "",
+      "page": 25
+    },
+    {
+      "number": "",
+      "title": "Policy Implications, Implementation Playbook, and Academic References",
+      "description": "",
+      "page": 26
+    },
+    {
+      "number": "",
+      "title": "Applied Transformation Archetypes and Technical Modeling Appendix",
+      "description": "",
+      "page": 28
+    },
+    {
+      "number": "",
+      "title": "Regional Development Multipliers Across the Global South (2027–2036)",
+      "description": "",
+      "page": 29
+    },
+    {
+      "number": "",
+      "title": "Technical Appendix: Input-Output Equations, Elasticity Parameters, and Notation",
+      "description": "",
+      "page": 30
+    }
+  ],
+  "references": []
+}
