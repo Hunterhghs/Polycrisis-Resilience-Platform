@@ -1,0 +1,91 @@
+{
+  "seriesNumber": 94,
+  "title": "Polycrisis Resilience: Origin, Definition and Formal Framework",
+  "subtitle": "The Foundational Statement of a Framework for Reducing Human and Systemic Vulnerability to Interacting Crises, With Its Definition, Architecture, Tools and Documented Origin",
+  "type": "Research Report",
+  "datePublished": "2026-11-20",
+  "dateModified": "2026-11-20",
+  "doi": "10.6084/m9.figshare.35081188",
+  "repository": {
+    "name": "figshare",
+    "url": "https://figshare.com/articles/report/35081188"
+  },
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "license": {
+    "name": "Creative Commons Attribution 4.0 International",
+    "shortName": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 38,
+  "language": "en",
+  "description": "Polycrisis Resilience is the capacity of individuals, communities, institutions, economies, societies and interconnected systems to anticipate, withstand…",
+  "contribution": "The foundational statement of Polycrisis Resilience: canonical clause-by-clause definition, six-capacity architecture, Preventive Development mechanism, four operational tools, eight testable propositions, and graded two-layer documentary origin and attribution record.",
+  "themes": [
+    "Polycrisis Resilience",
+    "Formal Definition",
+    "Six Capacities",
+    "Preventive Development",
+    "Operational Tools",
+    "Concept Origination"
+  ],
+  "keywords": [
+    "Polycrisis Resilience",
+    "Hunter Hughes",
+    "H Heuristics",
+    "polycrisis",
+    "vulnerability reduction",
+    "preventive development",
+    "six capacities",
+    "concept origination",
+    "attribution",
+    "documentary record"
+  ],
+  "abstract": [
+    "Foundational hybrid academic paper and attribution record for Polycrisis Resilience (HH-2026-93, 38 pages), authored by Hunter Hughes, Founder of H Heuristics (ORCID 0009-0002-6161-9387)."
+  ],
+  "keyFindings": [
+    {
+      "title": "Definition: Resilience as a capacity with five verbs, the fifth being reduce vulnerability; interacting crises as the unit of analysis.",
+      "text": ""
+    },
+    {
+      "title": "Framework: Six properties, six capacities (risk reduction, preventive, absorptive, recovery, adaptive, transformative), four drivers, five systems, five-stage cycle.",
+      "text": ""
+    },
+    {
+      "title": "Mechanism: Preventive Development—everyday investments in energy, water, health and connectivity lower exposure and fragility in advance, for all hazards at once.",
+      "text": ""
+    },
+    {
+      "title": "Tools: 5×5×5 matrix, six-question Test (with proposed scoring), weakest-link indicators, Polycrisis Risk Reduction Index.",
+      "text": ""
+    },
+    {
+      "title": "Origin: First dated public formalization March 2025 (Hughes); fixed DOI-registered record October–November 2026.",
+      "text": ""
+    },
+    {
+      "title": "Boundary: A proposed framework open to testing.",
+      "text": "The report claims origination of the framework, not invention of the word polycrisis and not empirical proof."
+    }
+  ],
+  "contents": [
+    {
+      "number": "1",
+      "title": "Foundational Statement",
+      "description": "",
+      "page": 1
+    }
+  ],
+  "references": []
+}
