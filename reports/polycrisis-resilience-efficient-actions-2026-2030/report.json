@@ -1,0 +1,223 @@
+{
+  "seriesNumber": 96,
+  "title": "Polycrisis Resilience: Efficient Actions and Strategies for the Decade Ahead (2026–2030)",
+  "subtitle": "A screening framework, a ten-intervention portfolio and a sequenced delivery plan for reducing human and systemic vulnerability per unit of investment, time and institutional capacity",
+  "type": "Research Report",
+  "datePublished": "2026-11-21",
+  "dateModified": "2026-11-21",
+  "doi": "10.6084/m9.figshare.35081770",
+  "repository": {
+    "name": "figshare",
+    "url": "https://figshare.com/articles/preprint/Polycrisis_Resilience_Efficient_Actions_and_Strategies_for_the_Decade_Ahead_2026_2030_/35081770"
+  },
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "license": {
+    "name": "Creative Commons Attribution 4.0 International",
+    "shortName": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 41,
+  "language": "en",
+  "description": "A five-criterion screen, ten-intervention portfolio and 2026–2030 delivery sequence for reducing interconnected vulnerability per unit invested.",
+  "contribution": "Turns the concept into decade-one action: a five-criterion screen applied to ten interventions, a proposed Resilience Efficiency metric, a cost-of-delay model and a three-phase 2026–2030 sequence.",
+  "themes": [
+    "Polycrisis Resilience",
+    "Vulnerability Reduction",
+    "Resilience Efficiency",
+    "Preventive Development",
+    "Sequencing and Delivery",
+    "Sustainable Convergence"
+  ],
+  "keywords": [
+    "polycrisis",
+    "resilience",
+    "vulnerability reduction",
+    "preventive development",
+    "sustainable convergence",
+    "clean cooking",
+    "early warning",
+    "adaptive social protection",
+    "benefit-cost analysis",
+    "technology diffusion",
+    "Resilience Efficiency",
+    "H Heuristics"
+  ],
+  "subjects": [],
+  "abstract": [
+    "Global risks no longer arrive one at a time. Heat, air pollution, food and water stress, energy poverty, disease, conflict, technological disruption and institutional fragility interact through shared drivers and reinforcing feedback loops, yet most policy and finance remain organized by sector. This report asks a decision-oriented question: given limited money, time and administrative capacity, which actions in 2026–2030 reduce the most interconnected human and systemic vulnerability per unit invested?",
+    "It develops a five-criterion screen (multiplicative, preventative, scalable, economically efficient and acceleration-oriented) and applies it to ten candidate interventions. Reported benefit-cost ratios, from roughly 2:1 to more than 20:1 in the studies reviewed, are suggestive but not directly comparable. The report proposes Resilience Efficiency, a conceptual metric defined as non-double-counted vulnerability reduction divided by investment and implementation costs, and a three-phase sequence (2026–27, 2027–28, 2028–30) with a regional targeting logic. In a stylized model, a four-year delay forgoes roughly 29 per cent of the cumulative reduction achievable over 2026–2040. The frameworks, scores and metrics are proposed and open to testing; projections are scenarios, not forecasts."
+  ],
+  "coreProposition": "In this decade the binding constraint is no longer invention but financing, access, institutional capacity, coordination and diffusion, so the most efficient actions are those that reduce many vulnerabilities at once, act early in the causal chain and can reach scale quickly.",
+  "keyFindings": [
+    {
+      "title": "Integrated beats fragmented, when overlap is counted honestly.",
+      "text": "Packages can outperform single-sector programs only if shared benefits are not double-counted; Resilience Efficiency is proposed to enforce that discipline."
+    },
+    {
+      "title": "Seven of ten interventions reach the top tier.",
+      "text": "Composite scores of 4.0 or more out of 5, led by clean energy (4.6) and early warning (4.2), followed by clean cooking, heat adaptation, agriculture, technology diffusion and preventative health."
+    },
+    {
+      "title": "Prevention has a clock.",
+      "text": "In the stylized model, starting in 2030 rather than 2026 forgoes about 29 per cent of cumulative vulnerability reduction through 2040."
+    },
+    {
+      "title": "Existing technologies are largely sufficient for this decade.",
+      "text": "The binding constraints are finance, delivery systems, procurement, maintenance, coordination and public trust."
+    },
+    {
+      "title": "Sequence and geography matter.",
+      "text": "Low-regret reduction in 2026–27 builds the capacity that 2027–30 investments depend on; returns are highest where high vulnerability meets scalable opportunity, notably Sub-Saharan Africa and South Asia (hypotheses to validate)."
+    },
+    {
+      "title": "Link to the century frame.",
+      "text": "Closing 0.5, 1 or 2 per cent of the 143-billion person-year gap in Century Pathways (HH-2026-61) corresponds to roughly 0.7, 1.4 and 2.9 billion person-years, an illustrative scale."
+    }
+  ],
+  "bottomLine": "",
+  "contents": [
+    {
+      "number": "1",
+      "title": "Introduction",
+      "description": "",
+      "page": 5
+    },
+    {
+      "number": "2",
+      "title": "Conceptual framework",
+      "description": "",
+      "page": 7
+    },
+    {
+      "number": "3",
+      "title": "Methodology and evidence base",
+      "description": "",
+      "page": 10
+    },
+    {
+      "number": "4",
+      "title": "The 2026 baseline: unmet needs as the measure of exposure",
+      "description": "",
+      "page": 11
+    },
+    {
+      "number": "5",
+      "title": "Priority intervention portfolio",
+      "description": "",
+      "page": 12
+    },
+    {
+      "number": "6",
+      "title": "Multi-benefit analysis and screening",
+      "description": "",
+      "page": 20
+    },
+    {
+      "number": "7",
+      "title": "Interventions with unusually large benefits relative to costs",
+      "description": "",
+      "page": 22
+    },
+    {
+      "number": "8",
+      "title": "Cross-cutting mechanisms that multiply effectiveness",
+      "description": "",
+      "page": 24
+    },
+    {
+      "number": "9",
+      "title": "Measuring resilience efficiency",
+      "description": "",
+      "page": 26
+    },
+    {
+      "number": "10",
+      "title": "Sequencing: what to do when, 2026–2030",
+      "description": "",
+      "page": 30
+    },
+    {
+      "number": "11",
+      "title": "Geographic targeting",
+      "description": "",
+      "page": 31
+    },
+    {
+      "number": "12",
+      "title": "Financing and institutional delivery",
+      "description": "",
+      "page": 33
+    },
+    {
+      "number": "13",
+      "title": "Risks, trade-offs and failure modes",
+      "description": "",
+      "page": 34
+    },
+    {
+      "number": "14",
+      "title": "From analysis to adoption",
+      "description": "",
+      "page": 35
+    },
+    {
+      "number": "15",
+      "title": "Conclusion",
+      "description": "",
+      "page": 36
+    },
+    {
+      "number": "",
+      "title": "Appendix A. Scoring rubric and detailed scores",
+      "description": "",
+      "page": 37
+    },
+    {
+      "number": "",
+      "title": "Appendix B. Glossary",
+      "description": "",
+      "page": 38
+    },
+    {
+      "number": "",
+      "title": "Appendix C. Reproducibility and data notes",
+      "description": "",
+      "page": 38
+    },
+    {
+      "number": "",
+      "title": "Appendix D. Parameters of the illustrative models",
+      "description": "",
+      "page": 39
+    },
+    {
+      "number": "",
+      "title": "References",
+      "description": "",
+      "page": 40
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Term",
+      "definition": "Definition."
+    }
+  ],
+  "references": [
+    {
+      "text": "Author (Year). Title. Publisher.",
+      "url": "https://...",
+      "doi": ""
+    }
+  ]
+}
