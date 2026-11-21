@@ -1,0 +1,229 @@
+{
+  "seriesNumber": 95,
+  "title": "The H Heuristics Polycrisis Resilience Framework",
+  "subtitle": "A Research Report on Reducing Human and Systemic Vulnerability to Interconnected Global Crises",
+  "type": "Research Report",
+  "datePublished": "2026-11-20",
+  "dateModified": "2026-11-20",
+  "doi": "10.6084/m9.figshare.35081209",
+  "repository": {
+    "name": "figshare",
+    "url": "https://figshare.com/articles/report/35081209"
+  },
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "license": {
+    "name": "Creative Commons Attribution 4.0 International",
+    "shortName": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 41,
+  "language": "en",
+  "description": "A development-oriented framework for understanding, reducing and preventing vulnerability to interconnected global crises through coordinated, sustainable…",
+  "contribution": "Integrates interconnected systemic risk analysis with a coordinated six-layer, eight-pathway programme of structural vulnerability reduction, a five-step Development-to-Resilience Cycle, and a ten-dimension measurement architecture.",
+  "themes": [
+    "Polycrisis Resilience",
+    "Structural Vulnerability",
+    "Sustainable Convergence",
+    "Technology Diffusion",
+    "Development Pathways",
+    "Measurement Architecture"
+  ],
+  "keywords": [
+    "Polycrisis Resilience",
+    "H Heuristics",
+    "Hunter Hughes",
+    "Sustainable Convergence",
+    "Structural Vulnerability",
+    "Technology Diffusion",
+    "Development-to-Resilience Cycle",
+    "Polycrisis Resilience Index"
+  ],
+  "abstract": [
+    "The H Heuristics Polycrisis Resilience Framework (HH-2026-94, 41 pages), developed and formalized by Hunter Hughes, Founder of H Heuristics, as a proposed synthesis open to testing and correction."
+  ],
+  "keyFindings": [
+    {
+      "title": "Interconnected crises require interconnected solutions: interventions must be evaluated for their effects on other systems.",
+      "text": ""
+    },
+    {
+      "title": "Vulnerability reduction is a primary objective of resilience: improving underlying conditions reduces exposure, sensitivity and susceptibility to future crises.",
+      "text": ""
+    },
+    {
+      "title": "Development is a mechanism of prevention: infrastructure, healthcare, education, energy, income and institutions reduce the consequences of many threats at once.",
+      "text": ""
+    },
+    {
+      "title": "Sustainable convergence is essential: economic and technological advancement must proceed alongside environmental improvement and stronger human development.",
+      "text": ""
+    },
+    {
+      "title": "Resilience is cumulative and long-term: coordinated improvements create reinforcing cycles that progressively strengthen the capacity to withstand disruption.",
+      "text": ""
+    }
+  ],
+  "contents": [
+    {
+      "number": "",
+      "title": "The H Heuristics Polycrisis Resilience Framework",
+      "description": "",
+      "page": 1
+    },
+    {
+      "number": "",
+      "title": "Contents",
+      "description": "",
+      "page": 2
+    },
+    {
+      "number": "",
+      "title": "Executive summary",
+      "description": "",
+      "page": 4
+    },
+    {
+      "number": "1",
+      "title": "Introduction: why a development-oriented answer to the polycrisis",
+      "description": "",
+      "page": 6
+    },
+    {
+      "number": "2",
+      "title": "Conceptual definition and intellectual foundations",
+      "description": "",
+      "page": 8
+    },
+    {
+      "number": "3",
+      "title": "The logic of vulnerability: why development is prevention",
+      "description": "",
+      "page": 10
+    },
+    {
+      "number": "4",
+      "title": "The six-layer architecture",
+      "description": "",
+      "page": 13
+    },
+    {
+      "number": "5",
+      "title": "Sustainable convergence in depth",
+      "description": "",
+      "page": 16
+    },
+    {
+      "number": "6",
+      "title": "Technology diffusion and deployment",
+      "description": "",
+      "page": 17
+    },
+    {
+      "number": "7",
+      "title": "Eight strategic development pathways",
+      "description": "",
+      "page": 19
+    },
+    {
+      "number": "8",
+      "title": "The development-to-resilience cycle",
+      "description": "",
+      "page": 22
+    },
+    {
+      "number": "9",
+      "title": "Regional differentiation",
+      "description": "",
+      "page": 23
+    },
+    {
+      "number": "10",
+      "title": "Timescales and scenario horizons",
+      "description": "",
+      "page": 25
+    },
+    {
+      "number": "11",
+      "title": "Measurement architecture and the proposed Polycrisis Resilience Index",
+      "description": "",
+      "page": 26
+    },
+    {
+      "number": "12",
+      "title": "Prioritization, co-benefits and trade-offs",
+      "description": "",
+      "page": 28
+    },
+    {
+      "number": "13",
+      "title": "Implementation, governance and financing",
+      "description": "",
+      "page": 29
+    },
+    {
+      "number": "14",
+      "title": "Place in the H Heuristics concept family",
+      "description": "",
+      "page": 31
+    },
+    {
+      "number": "15",
+      "title": "Adoption pathway and research agenda",
+      "description": "",
+      "page": 33
+    },
+    {
+      "number": "16",
+      "title": "Limitations, risks and falsifiability",
+      "description": "",
+      "page": 35
+    },
+    {
+      "number": "17",
+      "title": "Conclusion",
+      "description": "",
+      "page": 36
+    },
+    {
+      "number": "",
+      "title": "Appendix A. Glossary",
+      "description": "",
+      "page": 37
+    },
+    {
+      "number": "",
+      "title": "Appendix B. Indicator long-list",
+      "description": "",
+      "page": 38
+    },
+    {
+      "number": "",
+      "title": "Appendix C. Worked illustration of PRI construction",
+      "description": "",
+      "page": 39
+    },
+    {
+      "number": "",
+      "title": "Appendix D. Evaluation checklist for interventions",
+      "description": "",
+      "page": 40
+    },
+    {
+      "number": "",
+      "title": "References",
+      "description": "",
+      "page": 41
+    }
+  ],
+  "references": []
+}
