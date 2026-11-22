@@ -1,0 +1,104 @@
+{
+  "seriesNumber": 103,
+  "title": "Polycrisis Adaptation in the Global South",
+  "subtitle": "Defining the concept and building adaptive development pathways through interconnected economic, environmental, technological and social crises",
+  "type": "Research Report",
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-22",
+  "doi": "10.6084/m9.figshare.35085415",
+  "repository": {
+    "name": "figshare",
+    "url": "https://figshare.com/articles/preprint/35085415"
+  },
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "license": {
+    "name": "Creative Commons Attribution 4.0 International",
+    "shortName": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 39,
+  "language": "en",
+  "description": "Defines Polycrisis Adaptation as a formal H Heuristics concept and research program—restructuring developing economies' development systems so human progress is sustained and accelerated when multiple crises interact.",
+  "contribution": "Establishes Polycrisis Adaptation as a distinct analytical and policy framework with seven design principles, seven adaptation pillars, five crisis transmission channels, cascade break points, the Adaptation Multiplier criterion, eight testable propositions, the Polycrisis Adaptation Index, and illustrative scenarios to 2100 anchored in the Century Pathways benchmark.",
+  "themes": [
+    "Defining Polycrisis Adaptation",
+    "Transmission Channels & Cascade Break Points",
+    "Seven Adaptation Pillars & Adaptation Multiplier",
+    "Productive Transformation & Fiscal Resilience",
+    "Adaptive Institutions & Local Epistemologies",
+    "Regional & South-South Cooperation",
+    "Measurement, Stress Testing & Scenarios to 2100"
+  ],
+  "keywords": [
+    "polycrisis",
+    "adaptation",
+    "Global South",
+    "development economics",
+    "resilience",
+    "vulnerability",
+    "sustainable convergence",
+    "adaptive governance",
+    "South-South cooperation",
+    "Development Multiplier"
+  ],
+  "subjects": [
+    "Systemic Risk & Polycrisis Resilience",
+    "Development Economics",
+    "Climate Adaptation",
+    "Global South Governance & Cooperation"
+  ],
+  "abstract": [
+    "The twenty-first century is being shaped by crises that no longer arrive one at a time. Climate extremes, sovereign debt distress, energy and food price shocks, health burdens, demographic change, technological disruption, geopolitical fragmentation and institutional strain interact, so that a shock in one domain propagates into others and leaves societies with less capacity to absorb the next. This pattern, widely described as a polycrisis, falls most heavily on the Global South, where exposure is highest, fiscal and institutional buffers are thinnest, and population growth through 2100 is concentrated.",
+    "This paper defines Polycrisis Adaptation, a concept developed by Hunter Hughes at H Heuristics, as the deliberate and continuous restructuring of developing economies' development systems so that human progress is sustained and accelerated when multiple crises interact. It treats adaptation as a development problem rather than a hazard-management problem, targets the structural conditions that allow shocks to cascade, centres local and plural knowledge, regional cooperation and state-capable, equity-oriented development models, and judges success by whether convergence and human-development gains continue under stress.",
+    "Across 39 pages, the report states seven design principles and eight testable propositions; sets out seven adaptation pillars, cascade break points, and the Adaptation Multiplier criterion; reviews evidence across Bangladesh, Pakistan, Kenya and small island developing states; proposes the Polycrisis Adaptation Index anchored in the Century Pathways benchmark; develops illustrative scenarios to 2100; and outlines a phased policy roadmap alongside limitations and a ten-point research agenda."
+  ],
+  "coreProposition": "Adaptation in the Global South cannot be treated as a sectoral add-on; it requires restructuring economic, fiscal, social, energy, institutional, knowledge and regional development systems around cascade break points so human convergence continues under compound stress.",
+  "keyFindings": [
+    {
+      "title": "Crisis entanglement in the Global South propagates through five transmission channels—fiscal, livelihood/household, infrastructure/service, institutional/political, and geographic/regional—with sovereign debt and fiscal stress acting as the strongest systemic amplifier.",
+      "text": ""
+    },
+    {
+      "title": "Seven adaptation pillars and modest-cost cascade break points (early warning, adaptive social protection, distributed clean energy for critical facilities, contingent debt clauses, and regional risk pools) shift systems from entrenchment loops into adaptive development loops.",
+      "text": ""
+    },
+    {
+      "title": "Cases from Bangladesh, Pakistan, Kenya and small island developing states show that break points are specific and inexpensive relative to losses prevented, while fiscal space and institutional capability define the scaling ceiling.",
+      "text": ""
+    },
+    {
+      "title": "Anchored in the Century Pathways benchmark (859B person-years without five basic services under frozen access, 255B on current trends, 112B at peer pace), closing even 1% of the ~143B trend-to-peer gap yields ~1.4 billion person-years of basic-service access.",
+      "text": ""
+    }
+  ],
+  "bottomLine": "Polycrisis Adaptation reframes adaptation as development under compound stress—if fiscal buffers, break points and adaptive capacities are built in the late 2020s and 2030s, societies can navigate the mid-century danger window without surrendering convergence.",
+  "contents": [
+    { "number": "1", "title": "Introduction: Adaptation in a Century of Entangled Crises", "description": "The polycrisis problem, the missing middle in adaptation research, and H Heuristics context.", "page": 3 },
+    { "number": "2", "title": "Intellectual Background", "description": "Polycrisis, resilience, vulnerability, adaptation, development economics, and plural knowledge.", "page": 5 },
+    { "number": "3", "title": "Defining Polycrisis Adaptation", "description": "Formal definition, comparisons with adjacent concepts, seven design principles, and scope conditions.", "page": 8 },
+    { "number": "4", "title": "Conceptual Architecture and Testable Propositions", "description": "Five transmission channels, cascade break points, seven pillars, Adaptation Multiplier, and H1–H8.", "page": 11 },
+    { "number": "5", "title": "The Polycrisis Landscape in the Global South", "description": "Nine crisis clusters, regional patterns, and compounding illustrations.", "page": 15 },
+    { "number": "6", "title": "Economic and Fiscal Adaptation: Pillars 1 and 2", "description": "Productive transformation, debt structure, contingent finance, and domestic resource mobilization.", "page": 17 },
+    { "number": "7", "title": "Human Development and Social Adaptation: Pillar 3", "description": "Adaptive social protection, health and heat plans, education, and early warning.", "page": 19 },
+    { "number": "8", "title": "Energy, Infrastructure and Environmental Adaptation: Pillars 4 and 6", "description": "Clean energy multiplier, resilient infrastructure, nature-based solutions, and technology diffusion.", "page": 21 },
+    { "number": "9", "title": "Institutions, Governance and Local Knowledge: Pillar 5", "description": "Adaptive institutions, cross-sector stress testing, local governance, and epistemic plurality.", "page": 23 },
+    { "number": "10", "title": "Regional and South-South Cooperation: Pillar 7", "description": "Regional risk pools, power pools, AfCFTA, and South-South knowledge networks.", "page": 25 },
+    { "number": "11", "title": "Case Studies: Polycrisis Adaptation in Practice", "description": "Comparative lessons from Bangladesh, Pakistan, Kenya, and small island developing states.", "page": 27 },
+    { "number": "12", "title": "Measurement: Indicators, Index and Evidence Agenda", "description": "The proposed Polycrisis Adaptation Index, Century Pathways anchor, and national stress-test protocol.", "page": 29 },
+    { "number": "13", "title": "Scenarios to 2100", "description": "Reactive, restorative, and adaptive-developmental stances across moderate and severe stress regimes.", "page": 31 },
+    { "number": "14", "title": "Policy Agenda and Implementation Roadmap", "description": "Actionable recommendations across governments, regional bodies, multilaterals, and phased milestones.", "page": 33 },
+    { "number": "15", "title": "Limitations, Critiques and Research Agenda", "description": "Conceptual limits, justice and feasibility critiques, maladaptation risks, and ten research priorities.", "page": 35 },
+    { "number": "16", "title": "Conclusion", "description": "Synthesis of break points, fiscal/institutional constraints, and the 2020s–2030s timing imperative.", "page": 37 },
+    { "number": "", "title": "References", "description": "Full scholarly and institutional bibliography.", "page": 38 }
+  ]
+}
