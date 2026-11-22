@@ -1,0 +1,103 @@
+{
+  "seriesNumber": 104,
+  "title": "High-Impact Research and Development Areas for Polycrisis Adaptation",
+  "subtitle": "Strategic R&D Priorities for Reducing Systemic Vulnerability and Accelerating Sustainable Development, 2027–2050",
+  "type": "Research Report",
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-22",
+  "doi": "10.6084/m9.figshare.35085553",
+  "repository": {
+    "name": "figshare",
+    "url": "https://figshare.com/articles/preprint/35085553"
+  },
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "license": {
+    "name": "Creative Commons Attribution 4.0 International",
+    "shortName": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 34,
+  "language": "en",
+  "description": "Scores and sequences ten high-impact R&D domains for Polycrisis Adaptation (2027–2050) using the Cross-System Spillover Coefficient, upfront maladaptation screening, and telemetry-backed blended finance.",
+  "contribution": "Establishes an operational R&D prioritization framework for Polycrisis Adaptation across 2027–2050—ranking ten high-impact R&D domains by their Cross-System Spillover Coefficient, formalizing 2nd-, 3rd-, and 4th-order benefit accounting, embedding upfront maladaptation screening, and mapping accelerated R&D diffusion onto the 143-billion person-year Century Pathways gap.",
+  "themes": [
+    "Cross-System R&D Prioritization & Spillover Accounting",
+    "Clean Cooking, e-Cooking & Circular Bio-Economies",
+    "Distributed Clean Power & Productive-Use Anchors",
+    "Water-Energy-Food (WEF) Meshes & Vernacular Passive Cooling",
+    "Coupled Risk Modeling, Parametric Triggers & Offline Edge AI",
+    "Maladaptation Screening & Blended R&D Financing"
+  ],
+  "keywords": [
+    "Polycrisis Adaptation",
+    "Polycrisis Resilience",
+    "Research and Development",
+    "Cross-System Spillover Coefficient",
+    "Clean Cooking",
+    "Distributed Microgrids",
+    "Water-Energy-Food Nexus",
+    "Maladaptation Screening",
+    "H Heuristics"
+  ],
+  "subjects": [
+    "Systemic Risk & Polycrisis Resilience",
+    "Development Economics",
+    "Clean Energy & Infrastructure",
+    "Climate Adaptation"
+  ],
+  "abstract": [
+    "This H Heuristics research paper (HH-2026-106) establishes an operational, cross-system research and development (R&D) agenda for Polycrisis Adaptation over 2027–2050. Rejecting siloed sectoral optimization, it scores ten high-impact R&D domains across five explicit criteria—scale of exposure, multiplier breadth, diffusion potential, acceleration feasibility, and compounding horizon.",
+    "Across 34 pages and 12 empirical data visuals, the report demonstrates that clean cooking & circular bio-economies (95.4 spillover score), distributed clean power & microgrids (93.8), and climate-resilient seed/food systems (91.2) rank as Tier 1 priorities because they break multiple crisis transmission channels simultaneously. Formalizing 1st- through 4th-order Intersectional Engineering accounting shows that conventional single-sector R&D misses 59%–68% of total systemic value.",
+    "The paper details decentralized Water-Energy-Food (WEF) meshes, vernacular passive cooling materials (cutting peak thermal/grid loads by 58%–65%), coupled multi-shock stress testing, composite parametric triggers (lifting 7-day liquidity readiness to 92%), frugal offline-first edge AI, antifragile dual-use regional manufacturing, a four-gate maladaptation screening protocol, and blended telemetry-backed finance compressing WACC from 13.4% to 3.2%–4.8% to close the 143-billion person-year Century Pathways gap."
+  ],
+  "coreProposition": "High-impact R&D for Polycrisis Adaptation must be engineered and financed around its Cross-System Spillover Coefficient—capturing 2nd-, 3rd-, and 4th-order cascades while screening out second-order maladaptation traps before capital is locked in.",
+  "keyFindings": [
+    {
+      "title": "Clean cooking & circular bio-economies (95.4 spillover score), distributed clean power & microgrids (93.8), and climate-resilient seed/food systems (91.2) rank as Tier 1 R&D priorities because they break multiple crisis transmission channels simultaneously.",
+      "text": ""
+    },
+    {
+      "title": "Conventional single-sector R&D misses 59%–68% of total systemic value by ignoring 2nd-, 3rd-, and 4th-order cascades across immunological baselines, gender time-poverty, peak-grid decoupling, informal labor productivity, and sovereign fiscal stability.",
+      "text": ""
+    },
+    {
+      "title": "Upfront maladaptation screening prevents second-order traps—including groundwater depletion from unpriced solar pumping, fossil-locked AC grid spikes, and cookstove fuel-stacking—before capital is locked in.",
+      "text": ""
+    },
+    {
+      "title": "Coupling PAYGO telemetry-backed carbon/health financing with MDB-blended Advance Market Commitments compresses adaptation R&D cost of capital from 13.4% to 4.8%–3.2%, accelerating diffusion against the 143-billion person-year Century Pathways gap.",
+      "text": ""
+    }
+  ],
+  "bottomLine": "Sequencing rapid break-point sprints (12-month Clean Cooking Sprint, offline edge AI, parametric triggers) in 2027–2029 ahead of structural WEF meshes and regional bio-manufacturing in 2030–2050 protects human convergence before mid-century peak stress.",
+  "contents": [
+    { "number": "1", "title": "Overview: Why Polycrisis Adaptation Requires a New R&D Paradigm", "description": "Five prioritization criteria and cross-system framing.", "page": 5 },
+    { "number": "2", "title": "Tier 1 Priority: Clean Cooking, e-Cooking, and Distributed Bio-Economy Transitions", "description": "DC microgrid e-cooking, biochar loops, and PAYGO telemetry.", "page": 7 },
+    { "number": "3", "title": "Tier 1 Priority: Distributed Clean Power, Microgrids, and Productive-Use Electrification", "description": "Mini-grid economics, anchor loads, and weak-grid integration.", "page": 9 },
+    { "number": "4", "title": "Tier 1 Priority: Climate-Resilient Agriculture, Seed Systems, and Post-Harvest Buffers", "description": "Multi-stress genetics, solar drip, and hermetic storage.", "page": 11 },
+    { "number": "5", "title": "Decentralized Water-Energy-Food (WEF) Meshes and Bio-System Resilience", "description": "Agrivoltaics, solar desalination, and aquifer-quota safeguards.", "page": 13 },
+    { "number": "6", "title": "Climate-Resilient Infrastructure, Passive Cooling, and Vernacular Materials", "description": "Radiative coatings, bio-PCMs, and sponge-city retrofits.", "page": 15 },
+    { "number": "7", "title": "Coupled Risk Modeling, Multi-Shock Stress Testing, and Non-Linear Cascades", "description": "Network contagion graphs and open-source sovereign toolkits.", "page": 17 },
+    { "number": "8", "title": "Parametric Polycrisis Financial Triggers and Anticipatory Early Warning", "description": "Composite triggers, basis-risk reduction, and CRDC clauses.", "page": 18 },
+    { "number": "9", "title": "Public Health Systems, Heat-Health Adaptation, and Immunological Baselines", "description": "Wet-bulb thresholds, SDD cold chains, and morbidity compression.", "page": 20 },
+    { "number": "10", "title": "Frugal Offline-First Edge AI and Digital Public Infrastructure (DPI)", "description": "Quantized offline triage, agronomic vision, and open DPI APIs.", "page": 22 },
+    { "number": "11", "title": "Antifragile Dual-Use Regional Manufacturing and Supply-Chain Localization", "description": "Modular LFP/power electronics, bio-pharma, and spare-parts pools.", "page": 24 },
+    { "number": "12", "title": "Intersectional Engineering: Measuring the Cross-System Spillover Coefficient", "description": "2nd-, 3rd-, and 4th-order benefit accounting formula.", "page": 25 },
+    { "number": "13", "title": "Maladaptation Screening Protocols and Avoiding Second-Order Traps", "description": "Four-gate screening against five recurring traps.", "page": 27 },
+    { "number": "14", "title": "R&D Financing Architectures: Blended Capital, Advance Market Commitments, and Telemetry", "description": "dMRV credits, FX-hedged pools, and South-South patent pools.", "page": 28 },
+    { "number": "15", "title": "Adaptive Governance, Institutional Co-Design, and Epistemic Plurality", "description": "Local knowledge as evidence, regulatory sandboxes, repair ecosystems.", "page": 29 },
+    { "number": "16", "title": "Benchmarking R&D Outcomes Against Century Pathways (2027–2050)", "description": "Closing the 143B person-year basic-service gap.", "page": 31 },
+    { "number": "17", "title": "Phased R&D Implementation Roadmap and Portfolio Sequencing, 2027–2050", "description": "Four-phase milestones from 2027 sprints to 2050 consolidation.", "page": 33 },
+    { "number": "18", "title": "Technical Appendix: R&D Prioritization Rubric, Hypotheses, and Action Matrix", "description": "Scoring table, R1–R6 hypotheses, and actor matrix.", "page": 34 }
+  ]
+}
