@@ -1,0 +1,102 @@
+{
+  "seriesNumber": 102,
+  "title": "Polycrisis Adaptation Over the Next Decade",
+  "subtitle": "Strategic Priorities for Reducing Systemic Vulnerability and Strengthening Development Resilience, 2027–2037",
+  "type": "Research Report",
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-22",
+  "doi": "10.6084/m9.figshare.35085412",
+  "repository": {
+    "name": "figshare",
+    "url": "https://figshare.com/articles/preprint/35085412"
+  },
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "license": {
+    "name": "Creative Commons Attribution 4.0 International",
+    "shortName": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 31,
+  "language": "en",
+  "description": "Defines operational priorities for Polycrisis Adaptation over 2027–2037—accelerating clean energy, clean cooking, DPI, resilient cities, and blended finance to cut systemic vulnerability by 44%.",
+  "contribution": "Translates Polycrisis Adaptation into an actionable 2027–2037 investment and governance playbook—showing how six Development Multiplier domains, multi-hazard stress testing, blended finance in Sub-Saharan Africa and South Asia, and supply-chain redundancy cut systemic vulnerability by 44% within a single decade.",
+  "themes": [
+    "The 2027–2037 Decisive Adaptation Window",
+    "Six Development Multiplier Domains",
+    "Preventive Development & Cross-Sector Coordination",
+    "Energy, Clean Cooking & Supply-Chain Redundancy",
+    "Blended Finance & Targeted Equity",
+    "Governance Guardrails & Practical Tensions"
+  ],
+  "keywords": [
+    "Polycrisis Adaptation",
+    "Polycrisis Resilience",
+    "2027-2037 Strategy",
+    "Development Multiplier",
+    "Blended Finance",
+    "Clean Energy & Cooking",
+    "Digital Public Infrastructure",
+    "H Heuristics"
+  ],
+  "subjects": [
+    "Systemic Risk & Polycrisis Resilience",
+    "Development Economics",
+    "Clean Energy & Infrastructure",
+    "Climate Adaptation"
+  ],
+  "abstract": [
+    "The next decade (2027–2037) will be a defining period for how societies adapt to an increasingly interconnected set of global challenges. Climate change, environmental degradation, demographic transitions, geopolitical instability, technological disruption, resource constraints, and economic inequality will interact in ways that amplify existing vulnerabilities and create new systemic risks.",
+    "Across 31 pages and 11 empirical data visuals, this monograph (HH-2026-105) translates Polycrisis Adaptation into an operational 2027–2037 strategy. Delaying adaptation allows systemic vulnerability to climb from 100.0 to 127.4 by 2037, whereas decisive Polycrisis Adaptation across six Development Multiplier domains—clean energy microgrids (94.6), digital infrastructure & DPI (92.8), climate-resilient urban infrastructure (91.2), clean cooking & circular bio-economy (89.5), technological diffusion (88.1), and human capital (86.7)—cuts vulnerability by 44% (to 56.0).",
+    "By pairing multi-hazard stress testing (83.4–87.5 continuity vs. 27.5–35.5 unbuffered), regional supply-chain diversification (-60% to -68% chokepoint risk), MDB-blended finance in Sub-Saharan Africa and South Asia (12.8% to 5.2% WACC), and pre-lock-in urban standards (47.5%–54.6% avoided losses), countries shift 82% of crisis outlays from reactive relief into preventive resilience."
+  ],
+  "coreProposition": "The 2027–2037 decade is the decisive construction window in which accelerating the diffusion of already-viable clean energy, clean cooking, digital DPI, and resilient urban systems cuts systemic vulnerability by 44% before mid-century pressures peak.",
+  "keyFindings": [
+    {
+      "title": "The 2027–2037 decade is a decisive infrastructure window: delaying adaptation pushes systemic vulnerability from 100.0 to 127.4 by 2037, whereas decisive Polycrisis Adaptation cuts vulnerability by 44% (100.0 to 56.0).",
+      "text": ""
+    },
+    {
+      "title": "Clean energy microgrids (94.6), digital infrastructure & DPI (92.8), climate-resilient infrastructure (91.2), and clean cooking (89.5) generate the highest 10-year multi-crisis Development Multipliers.",
+      "text": ""
+    },
+    {
+      "title": "Multi-hazard stress testing and regional supply-chain diversification lift compound shock continuity from 27.5–35.5 to 83.4–87.5 while slashing critical-input chokepoint exposure by 62%–68%.",
+      "text": ""
+    },
+    {
+      "title": "Blended multilateral finance cuts adaptation WACC in Sub-Saharan Africa and South Asia from 12.8% to 5.2% by 2037, enabling 82% of crisis outlays to shift from reactive relief into preventive resilience.",
+      "text": ""
+    }
+  ],
+  "bottomLine": "Many of the technologies and systems needed to cut future vulnerability already exist; executing six core shifts across 2027–2037 turns adaptation into a self-reinforcing engine of Polycrisis Resilience.",
+  "contents": [
+    { "number": "1", "title": "Overview: The 2027–2037 Decisive Adaptation Window", "description": "Why the next decade is a singular window for diffusion and integration.", "page": 4 },
+    { "number": "2", "title": "Core Thesis: Proactive Multidimensional Development as Adaptation", "description": "Six high-leverage Development Multiplier domains.", "page": 5 },
+    { "number": "3", "title": "Six Core Shifts Required Over the Next Decade", "description": "Systemic vulnerability trajectories (2027–2037).", "page": 7 },
+    { "number": "4", "title": "Clean Energy, Distributed Microgrids, and Clean Cooking Transitions", "description": "Coupling DC microgrids, e-cooking, and biochar loops.", "page": 9 },
+    { "number": "5", "title": "Digital Infrastructure, DPI, and Governance Guardrails", "description": "Parametric cash, early warning, and sovereign open-weight AI.", "page": 11 },
+    { "number": "6", "title": "Climate-Resilient Urban Infrastructure and Pre-Lock-In Standards", "description": "Sponge cities, passive cooling, and peri-urban housing.", "page": 13 },
+    { "number": "7", "title": "Accelerating Technological Diffusion and Global South Leapfrogging", "description": "Removing tariff, PAYGO, and utility barriers.", "page": 15 },
+    { "number": "8", "title": "Human Capital Development and Workforce Adaptive Readiness", "description": "Green-grid trades, DPI skill wallets, and primary health.", "page": 16 },
+    { "number": "9", "title": "Cross-Sector Coordination and Breaking Siloed Ministry Frictions", "description": "Cross-portfolio spillover units and joint WEF budgeting.", "page": 17 },
+    { "number": "10", "title": "Multi-Hazard Stress Testing Across Compound 2027–2037 Shocks", "description": "72-hour failover drills and joint-failure maps.", "page": 18 },
+    { "number": "11", "title": "Energy Sovereignty and Supply-Chain Redundancy Protocols", "description": "Multi-nodal regional corridors and spare-parts pooling.", "page": 20 },
+    { "number": "12", "title": "Blended Finance and Targeted Equity in High-Vulnerability Regions", "description": "Compressing WACC from 12.8% to 5.2% in SSA and South Asia.", "page": 22 },
+    { "number": "13", "title": "Practical Tensions: Short-Term Politics, Techno-Fixes, and Protectionism", "description": "Navigating electoral short-termism and trade friction.", "page": 24 },
+    { "number": "14", "title": "Reallocating Decade Budgets From Relief to Preventive Resilience", "description": "Inverting crisis outlays to 82% preventive allocation.", "page": 25 },
+    { "number": "15", "title": "Regional 2027–2037 Playbooks Across Emerging and Developing Economies", "description": "Five regional priority matrices.", "page": 27 },
+    { "number": "16", "title": "2027–2037 Capital Prioritization and Dynamic Portfolio Sequencing", "description": "Feasibility vs. spillover rubric and dynamic portfolio mix.", "page": 28 },
+    { "number": "17", "title": "Bridging the 2037 Decade to Mid-Century Humanity Outlook Optimization", "description": "Connecting 2037 foundations to 2050–2100 convergence.", "page": 30 },
+    { "number": "18", "title": "Technical Appendix, Counterfactual Regimes, and Action Matrix", "description": "Counterfactual bounds, figure index, and execution checklist.", "page": 31 }
+  ]
+}
