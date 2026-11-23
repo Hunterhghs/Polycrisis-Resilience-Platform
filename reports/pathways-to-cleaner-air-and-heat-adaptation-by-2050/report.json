@@ -1,0 +1,103 @@
+{
+  "seriesNumber": 105,
+  "title": "Pathways to Cleaner Air and Heat Adaptation by 2050",
+  "subtitle": "Reducing environmental exposure, strengthening climate resilience, and accelerating sustainable development",
+  "type": "Research Report",
+  "datePublished": "2026-11-22",
+  "dateModified": "2026-11-22",
+  "doi": "10.6084/m9.figshare.35088568",
+  "repository": {
+    "name": "figshare",
+    "url": "https://figshare.com/articles/preprint/35088568"
+  },
+  "authors": [
+    {
+      "name": "Hunter Hughes",
+      "givenName": "Hunter",
+      "familyName": "Hughes",
+      "affiliation": "H Heuristics",
+      "role": "Founder of H Heuristics"
+    }
+  ],
+  "license": {
+    "name": "Creative Commons Attribution 4.0 International",
+    "shortName": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "pdf": "report.pdf",
+  "cover": "cover.jpg",
+  "pages": 46,
+  "language": "en",
+  "description": "Develops an environmental exposure reduction framework uniting cleaner air and heat adaptation as interconnected development priorities—evaluating ten pathway clusters, co-benefit matrices, Development Multiplier effects, and a 2026–2050 roadmap.",
+  "contribution": "Unifies air-pollution abatement and extreme-heat adaptation under a single environmental exposure reduction framework (Expected Harm = Hazard × Exposure × Vulnerability), evaluating ten pathway clusters across six Development Multiplier dimensions, illustrative 2050 scenarios, financing architectures, and regional pathways.",
+  "themes": [
+    "Environmental Exposure Reduction Framework",
+    "Air Pollution & Extreme Heat Overlap",
+    "Ten Clean Air & Heat Adaptation Pathway Clusters",
+    "Integrated Synergies, Trade-Offs & The Cooling Paradox",
+    "Development Multiplier & Compounding Effects (10–75 Years)",
+    "Governance, Regional Pathways & 2026–2050 Roadmap"
+  ],
+  "keywords": [
+    "air pollution",
+    "PM2.5",
+    "heat adaptation",
+    "environmental exposure reduction",
+    "clean cooking",
+    "urban cooling",
+    "Polycrisis Resilience",
+    "Development Multiplier",
+    "H Heuristics"
+  ],
+  "subjects": [
+    "Public Health & Environmental Exposure",
+    "Climate Adaptation",
+    "Clean Energy & Urban Systems",
+    "Development Economics"
+  ],
+  "abstract": [
+    "Cleaner air and heat adaptation should be pursued as interconnected development priorities rather than as separate environmental policy objectives. The two problems share causes (fossil-fuel combustion, unplanned urbanisation, inadequate energy access), share victims (the poor, the old, outdoor workers, and residents of rapidly growing cities in South Asia and sub-Saharan Africa), and share solutions.",
+    "Across 46 pages, this report develops an environmental exposure reduction framework—decomposing expected harm into hazard, exposure, and vulnerability—and evaluates ten pathway clusters spanning clean power, zero-emission transport, clean cooking and building electrification, industrial and agricultural reform, waste and fire management, urban greening and blue infrastructure, reflective and passive building design, efficient and equitable cooling, heat-health early warning, and workplace protections.",
+    "Applying the Development Multiplier and the six H Heuristics concepts, it finds that four pathway clusters score medium or high on at least five of six outcomes, an accelerated pathway can plausibly cut population-weighted PM2.5 by ~60% by 2050 (from ~38 to ~15 µg/m³), and governance combining measurement, enforcement, finance, and community participation acts as the multiplier on the multiplier."
+  ],
+  "coreProposition": "Cleaner air and heat adaptation are two faces of a single environmental exposure reduction agenda; integrating them captures multi-order Development Multiplier returns while avoiding perverse trade-offs like fossil-powered air conditioning.",
+  "keyFindings": [
+    {
+      "title": "Co-benefit design is the main source of excess return: four of ten pathway clusters (clean power, electrified transport, heat pumps and efficient cooling, and industrial efficiency/electrification) score medium or high on at least five of six outcomes.",
+      "text": ""
+    },
+    {
+      "title": "An accelerated pathway can plausibly cut population-weighted PM2.5 by ~60% by 2050 (from ~38 to ~15 µg/m³), compared with ~20% under current trends and none under frozen progress.",
+      "text": ""
+    },
+    {
+      "title": "Warming already locked in will raise heat exposure through mid-century regardless of emissions; heat adaptation (cool roofs, urban trees, heat-health warning systems, efficient cooling, workplace protections) is a near-term necessity alongside decarbonisation.",
+      "text": ""
+    },
+    {
+      "title": "Clean cooking, heat-health warning systems, cool-roof and tree programmes, and efficient-cooling standards pay back within years, while governance (measurement, enforcement, finance, community participation) acts as the multiplier on the multiplier.",
+      "text": ""
+    }
+  ],
+  "bottomLine": "Protect people now with heat-health warnings, cool roofs, clean cooking, and workplace rules while transforming power, transport, and urban form over the next 15 years to avoid 50-year exposure lock-in.",
+  "contents": [
+    { "number": "1", "title": "Executive Summary", "description": "Central thesis, headline findings, and seven core recommendations.", "page": 4 },
+    { "number": "2", "title": "Introduction and Research Questions", "description": "Why 2050, six research questions, and evidence base.", "page": 6 },
+    { "number": "3", "title": "Conceptual Framework: Environmental Exposure Reduction", "description": "Hazard × Exposure × Vulnerability, four levers, and six design principles.", "page": 8 },
+    { "number": "4", "title": "The Exposure Baseline: Air Pollution and Heat Today", "description": "Global PM2.5 (~8M deaths/yr) and heat (~489k deaths/yr) baselines and overlap.", "page": 11 },
+    { "number": "5", "title": "Drivers of Exposure to 2050", "description": "Demography, urbanisation, committed warming, cooling paradox, and grid fragility.", "page": 14 },
+    { "number": "6", "title": "Pathways to Cleaner Air: Power, Transport and Buildings", "description": "Clean power, zero-emission transport, heat pumps, and clean cooking.", "page": 16 },
+    { "number": "7", "title": "Pathways to Cleaner Air: Industry, Agriculture, Waste and Fire", "description": "Industrial controls, ammonia, open burning, methane-ozone, and wildfires.", "page": 18 },
+    { "number": "8", "title": "Pathways to Heat Adaptation: Cities, Buildings and Nature", "description": "Urban greening, cool roofs, passive design, and urban ventilation.", "page": 20 },
+    { "number": "9", "title": "Pathways to Heat Adaptation: Cooling, Health Systems and Labour", "description": "MEPS & refrigerants, heat-health warning, labour rules, and social protection.", "page": 22 },
+    { "number": "10", "title": "Integrated Synergies and Trade-offs", "description": "Co-benefit matrix, dual-benefit strategies, conflicts, and portfolio rules.", "page": 24 },
+    { "number": "11", "title": "Multiplier Analysis: Cross-Dimension and Compounding Effects", "description": "2nd- and 3rd-order effects, feedback loops, and 10–75 year compounding.", "page": 27 },
+    { "number": "12", "title": "Scenarios to 2050", "description": "Frozen progress, current trend, and accelerated pathway trajectories.", "page": 30 },
+    { "number": "13", "title": "Economics and Financing", "description": "Investment case, VSL/HSD accounting, pathway costs, and blended finance.", "page": 33 },
+    { "number": "14", "title": "Governance, Equity and Regional Pathways", "description": "Eight governance conditions and tailored regional bundles.", "page": 35 },
+    { "number": "15", "title": "Implementation Roadmap and Metrics, 2026–2050", "description": "Four-phase roadmap, exposure scorecard, testable claims, and outreach.", "page": 38 },
+    { "number": "16", "title": "Limitations, Risks and Research Agenda", "description": "Methodological limits, eight pathway risks, and nine research priorities.", "page": 41 },
+    { "number": "17", "title": "Conclusion", "description": "Summary of the argument, priority actions table, and closing.", "page": 43 },
+    { "number": "", "title": "References", "description": "Full peer-reviewed and institutional bibliography.", "page": 45 }
+  ]
+}
